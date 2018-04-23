@@ -1,4 +1,23 @@
-name: Jordan Layton, profile
+# Site setup
+
+name: "Jordan's site"
+description: "Welcome to Jordan's digital space"
 markdown: kramdown
 
+
+# Jekyll configuration
+
 permalink: /blog/:title
+
+
+#author:
+#  name: 'Jordan Layton'
+#  url:
+
+
+#paginate: 5
+ 
+  
+  
+#exclude:
+#  - Gemfile
