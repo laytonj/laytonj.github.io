@@ -1,8 +1,8 @@
 ---
 layout: none
 ---
-item, h, w
-[{% for i in site.data.d3test %}
-  "{{ i.item }}", "{{ i.h }}", "{{ i.w }}",
+item,h,w
+{% for i in site.data.d3test %}
+  {{- i.item -}},{{- i.h -}},{{- i.w -}}
   {% if forloop.last == false %},{% endif %}
-{% endfor %}]
+{% endfor %}
