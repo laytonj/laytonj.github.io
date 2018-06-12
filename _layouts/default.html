@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 	<html>
 		<head>
-			<title>{{ page.title }}</title>
+			<title>{{ page.title }}</title>      
+      <link href="https://fonts.googleapis.com/css?family=Marck+Script" rel="stylesheet">
 			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
+			<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/main.css">
 		</head>
 		<body>
 			<nav>
@@ -12,19 +13,25 @@
 		        	<li><a href="/about">About</a></li>
 	        		<li><a href="/cv">CV</a></li>
               <li><a href="/portfolio">Portfolio</a></li>
-	        		<li><a href="/music">Creations</a></li>
+	        		<li><a href="/creations">Creations</a></li>
+              <li><a href="/photos">Photos</a></li>
 	        		<li><a href="/blog">Blog</a></li>
 	    		</ul>
 			</nav>
-			<div class="container">
-			
-			{{ content }}
-			
-			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:jordanlayton@gmail.com">email me</a></li>
-				</ul>
-			</footer>
+      <div id="main" role="main" class="container">
+        {{ content }}
+      </div>
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            <ul>
+              <li><a href="mailto:jordanlayton@gmail.com">email me</a></li>
+              <li>{% include simple_include_test.html %}</li>
+            </ul>
+          </footer>
+        </div>
+      </div>
+      
+    {% include analytics.html %}
 		</body>
 	</html>

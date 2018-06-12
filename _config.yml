@@ -1,23 +1,50 @@
-# Site setup
-
-name: "Jordan's site"
+# Site title and description
+title: "Jordan's site"
 description: "Welcome to Jordan's digital space"
-markdown: kramdown
 
 
-# Jekyll configuration
+#URL of avatar or profile pic
+avatar:
+
+
+# Google Analytics web tracking code
+google_analytics: UA-118038512-1
+
+
+# Website URL - used for Sitemap.xml and your RSS feed
+url: https://laytonj.github.io
+baseurl: ""
 
 permalink: /blog/:title
 
 
-#author:
-#  name: 'Jordan Layton'
-#  url:
+
+# Jekyll 3 now only supports Kramdown for Markdown
+kramdown:
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
+  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Use existing pygments syntax highlighting css
+    css_class: 'highlight'
+
+plugins:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
 
-#paginate: 5
+
+paginate: 5
  
   
   
-#exclude:
-#  - Gemfile
+# Exclude these files from the production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+
+
+# Collections

@@ -1,0 +1,10 @@
+---
+layout: none
+---
+[{% for i in site.data.d3test %}
+  {
+    "item": "{{ i.item }}",
+    "h": "{{ i.h }}",
+    "w": "{{ i.w }}"
+  }{% if forloop.last == false %},{% endif %}
+{% endfor %}]
