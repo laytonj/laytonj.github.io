@@ -1,23 +1,80 @@
-<!DOCTYPE html>
-	<html>
+<!doctype html>
+	<html lang="en">
 		<head>
-			<title>{{ page.title }}</title>      
+      <!-- meta tags -->
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+      <!-- Bootstrap -->
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+      <!-- Google fonts -->
       <link href="https://fonts.googleapis.com/css?family=Marck+Script" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css?family=Exo:900,900i" rel="stylesheet">
+
 			<!-- link to main stylesheet -->
 			<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/main.css">
+      <!-- the rest -->
+      <title>{{ page.title }}</title>    
 		</head>
 		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/about">About</a></li>
-	        		<li><a href="/cv">CV</a></li>
-              <li><a href="/portfolio">Portfolio</a></li>
-	        		<li><a href="/creations">Creations</a></li>
-              <li><a href="/photos">Photos</a></li>
-	        		<li><a href="/blog">Blog</a></li>
-	    		</ul>
-			</nav>
+      <div class="headerContainer">
+        <div class="row myNavMenu">
+          <div class="col-1"></div>
+          <div class="col-4">
+            <div class="row white navLeftSide">
+              <div class="col-md-4">
+                <a href="/about">About</a>
+              </div>
+              <div class="col-md-4">
+                <a href="/cv">CV</a>
+              </div>
+              <div class="col-md-4">
+                <a href="/portfolio">Portfolio</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-2"></div>
+          <div class="col-4">
+            <div class="row navRightSide">
+              <div class="col-md-4">
+                <a href="/music">Music</a>
+              </div>
+              <div class="col-md-4">
+                <a href="/photos">Photos</a>
+              </div>
+              <div class="col-md-4">
+                <a href="/blog">Blog</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-1"></div>
+        </div>
+        <div id="logo">
+          <img id="logoCircle" src="{{ site.baseurl }}/assets/images/website_logo_gimp_test_2.png" alt="">
+          <div id="logoInitials">
+            <a href="{{ site.baseurl }}/">
+              <span id="logoInitialsSpan">JL</span>
+            </a>
+          </div>
+         </div>
+      </div>
+
+<!--
+      <nav class="navbar navbar-expand-sm navbar-light bg-light" style="background-color: none;">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDiv" aria-controls="navbarNavDiv" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-nav navbar-center navbar-collapse" id="navbarNavDiv">
+          <div class="navbar-nav">
+            <a class="nav-item nav-link" href="/about">About</a>
+            <a class="nav-item nav-link" href="/cv">CV</a>
+            <a class="nav-item nav-link" href="/portfolio">Portfolio</a>
+            <a class="nav-item nav-link" href="/creations">Creations</a>
+            <a class="nav-item nav-link" href="/photos">Photos</a>
+            <a class="nav-item nav-link" href="/blog">Blog</a>
+          </div>
+        </div>
+      </nav>
+-->
       <div id="main" role="main" class="container">
         {{ content }}
       </div>
@@ -32,6 +89,13 @@
         </div>
       </div>
       
-    {% include analytics.html %}
+      {% include analytics.html %}
+      
+      <!-- other JS -->
+      
+      <!-- JS requirements for Bootstrap -->
+      <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+      <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
 		</body>
 	</html>

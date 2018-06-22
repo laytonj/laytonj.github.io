@@ -1,46 +1,95 @@
+---
+---
 body {
-    margin: 60px auto;
-    width: 70%;
+  /*padding-top: 65px;*/
+  background-image: url('{{ site.baseurl }}/assets/images/bkgrnd_v4_1200px.png');
+  background-repeat: no-repeat;
+  background-position: top center; 
 }
-nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
+.headerContainer {
+  display: block;
+  margin-top: 42px;
 }
-nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
+.myNavMenu {
+  position: relative;
+  width: 100%;
+  background-color: #fff;
+  margin: 0;
+  padding: 0;
+  top: 0px;
 }
-a {
-    text-decoration: none;
-    color: #999;
+.myNavMenu a {
+  color: #408BA4;
+  font-family: 'Helvetica', sans-serif;
+  font-size: 16px;
+  text-transform: uppercase;
 }
-a:hover {
-    text-decoration: underline;
+#logo {
+  display: inline;
+  position: relative;
+  left: 50%;
+  top: -65px;
 }
-h1 {
-    font-size: 3em;
-    font-family: 'Marck Script', cursive;
+#logoCircle {
+  width: 60px;
+  height: 60px;
+  margin-left: -30px; /*Half the width*/
 }
-p {
-    font-size: 1.5em;
-    line-height: 1.4em;
-    color: #333;
+#logoInitials {
+  width: 60px;
+  height: 60px;
+  top: -22px;
+  position: absolute;
+  text-align: center;
+  margin-left: -30px;
+  font-family: 'Impact', sans-serif;
+  font-weight: normal;
+  font-size: 47px;
+  color: #408BA4; /*#295969; #7FBFD4;*/
 }
-footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+#logoInitials a {
+  color: #408BA4; 
+  text-decoration: none;
+}
+.navLeftSide {
+  text-align: center;
+}
+.navRightSide {
+  text-align: center;
+}
+.mainTitle {
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  text-transform: uppercase;
+  font-family: 'Exo', sans-serif;
+  letter-spacing: 0.5em;
+  margin: 0 0 60px 0;
+}
+@media (min-width: 400px) {
+  .mainTitle {
+    font-size: 38px;
+  } 
+}
+@media (min-width: 576px) {
+  .mainTitle {
+    font-size: 50px;
+  } 
+}
+@media (min-width: 768px) {
+  .headerContainer {
+    margin-top: 67px;
+  }
+  #logo {
+    top: -42px;
+  }
+  .mainTitle {
+    font-size: 70px;
+  }
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
-}
 
-ul.posts li {
-    list-style: none;
-}
+
 
 
 /*----------------------------------------*/

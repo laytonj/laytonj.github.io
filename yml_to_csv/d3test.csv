@@ -2,7 +2,7 @@
 layout: none
 ---
 item,h,w
-{% for i in site.data.d3test %}
+{% for i in site.data.d3.d3test %}
   {{- i.item -}},{{- i.h -}},{{- i.w -}}
   {% if forloop.last == false %},{% endif %}
 {% endfor %}

@@ -1,7 +1,7 @@
 ---
 layout: none
 ---
-[{% for i in site.data.d3test %}
+[{% for i in site.data.d3.d3test %}
   {
     "item": "{{ i.item }}",
     "h": "{{ i.h }}",
