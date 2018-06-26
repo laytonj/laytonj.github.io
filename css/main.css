@@ -87,10 +87,28 @@ body {
     font-size: 70px;
   }
 }
-
-
-
-
+@media (min-width: 1200px) {
+  .navRightSide {
+    left: 50px;
+  }
+}
+#wrapper-footer {
+  background-image: url('{{ site.baseurl }}/assets/images/website_footer_test.png');
+  /*background-color: #A6D3E2;*/
+  background-position: bottom center; 
+  margin: 40px 0 0 0;
+  width: 100%;
+  height: 200px;
+}
+.footerContact {
+  background-color: #fff;
+  position: relative;
+  width: 205px;
+  top: 35px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 2px 0 5px 0;
+}
 
 /*----------------------------------------*/
 /*Temporary test of color changing include*/
