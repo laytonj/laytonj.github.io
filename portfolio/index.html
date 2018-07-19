@@ -3,10 +3,86 @@ layout: default
 title: Portfolio
 ---
 
-<h1 class="mainTitle">{{ page.title }}</h1>
-<div>Tableau</div>
-<a href="https://public.tableau.com/views/EndingVeteranHomelessnessprogress2010-2016/Dashboard1?:embed=y&:display_count=yes" target="_blank"><img src="{{ site.baseurl }}/assets/images/tableau_screenshot_vet.PNG" alt="Tableau viz on reducing veteran homelessness"/></a>
-<div>D3.js</div>
-<a href="{{ site.baseurl }}/portfolio/d3js/d3test">D3 TEST!!!!!!</a>
-<div>Documents</div>
-<div>Python</div>
+<h1 class="mainTitle">
+  <span class="letter1">P</span><span class="letter2">o</span><span class="letter3">r</span><span class="letter1">t</span><span class="letter2">f</span><span class="letter3">o</span><span class="letter1">l</span><span class="letter2">i</span><span class="letter3">o</span>
+</h1>
+<div class="portfolioNav">
+  <ul class="nav justify-content-center nav-pills" id="profileSelect" role="tablist">
+    <li class="nav-item option1">
+      <a href="#webDevD3" class="nav-link active" id="pills-webDevD3-tab" data-toggle="pill" role="tab" aria-controls="pills-webdev" aria-selected="true">D3.js/Web Dev</a>
+    </li>
+    <li class="nav-item option2">
+      <a href="#tableau" class="nav-link" id="pills-tableau-tab" data-toggle="pill" role="tab" aria-controls="pills-tableau" aria-selected="false">Tableau</a>
+    </li>
+    <li class="nav-item option3">
+      <a href="#python" class="nav-link" id="pills-python-tab" data-toggle="pill" role="tab" aria-controls="pills-python" aria-selected="false">Python</a>
+    </li>
+    <li class="nav-item option4">
+      <a href="#writing" class="nav-link" id="pills-writing-tab" data-toggle="pill" role="tab" aria-controls="pills-writing" aria-selected="false">Writing/Reports</a>
+    </li>
+  </ul>
+</div>
+<div class="tab-content" id="profileSelectContent">
+  <div class="tab-pane fade show active" id="webDevD3" role="tabpanel" aria-labelledby="webDevD3-tab">
+    <div class="d-flex flex-wrap justify-content-center">
+      <div class="portfolioCard">
+        <a href="{{ site.baseurl }}/portfolio/d3js/system-flow">
+          <img src="{{ site.baseurl }}/assets/images/portfolio_d3_sim.png"/>
+          <p class="portfolioTitle">A force graph simulation to model the effects of inputs on the flow of a homeless system</p>
+        </a>
+      </div>
+      <div class="portfolioCard">
+        <a href="{{ site.baseurl }}/portfolio/d3js/race-viz">
+          <img src="{{ site.baseurl }}/assets/images/portfolio_d3_race.png"/>
+          <p class="portfolioTitle">A project on racial inequality using diverse D3 techniques and chart types</p>
+        </a>
+      </div>
+      <div class="portfolioCard">
+        <a href="{{ site.baseurl }}/portfolio/d3js/msa-map">
+          <img src="{{ site.baseurl }}/assets/images/portfolio_d3_msa.png"/>
+          <p class="portfolioTitle">A simple D3: homelessness by metro area</p>
+        </a>
+      </div>
+    </div>
+    <div class="moreOnTheWay">More on the way!</div>
+  </div>
+  <div class="tab-pane fade" id="tableau" role="tabpanel" aria-labelledby="tableau-tab">
+    <div class="d-flex flex-wrap justify-content-center">
+      <div class="portfolioCard">
+        <a href="https://public.tableau.com/profile/jlayton#!/vizhome/WhatWeMightLearnfromthe2018ContinuumofCareGIWs/Story1" target="_blank"  rel="noopener">
+          <img src="{{ site.baseurl }}/assets/images/portfolio_tableau_giw.png"/>
+          <p class="portfolioTitle">A practical story board exploration of a data set on homeless services funding</p>
+        </a>
+      </div>
+      <div class="portfolioCard">
+        <a href="https://public.tableau.com/profile/jlayton#!/vizhome/EndingVeteranHomelessnessprogress2010-2016/Dashboard1" target="_blank" rel="noopener">
+          <img src="{{ site.baseurl }}/assets/images/portfolio_tableau_vets.png"/>
+          <p class="portfolioTitle">An infographic/dashboard highlighting the decrease in veteran homelessness</p>
+        </a>
+      </div>
+      <div class="portfolioCard">
+        <a href="https://public.tableau.com/profile/jlayton#!/vizhome/Chronic_Homeless_Dashboard_0/ChronicHomelessness" target="_blank" rel="noopener">
+          <img src="{{ site.baseurl }}/assets/images/portfolio_tableau_ch.png"/>
+          <p class="portfolioTitle">A dashboard on chronic homelessness created for meetings with federal partners</p>
+        </a>
+      </div>
+    </div>
+    <div class="moreOnTheWay">More on the way!</div>
+  </div>
+  <div class="tab-pane fade" id="python" role="tabpanel" aria-labelledby="python-tab">
+    <div class="d-flex flex-wrap justify-content-center">
+      <div class="portfolioCard">
+        <a href="{{ site.baseurl }}/portfolio/python/teen-pregnancy">
+          <img src="{{ site.baseurl }}/assets/images/portfolio_python_teen-pregnancy.png"/>
+          <p class="portfolioTitle">An analysis of teen pregnancy against education outcomes and country income [pandas, matplotlib]</p>
+        </a>
+      </div>    
+    </div>
+    <div class="moreOnTheWay">More on the way!</div>
+  </div>
+  <div class="tab-pane fade" id="writing" role="tabpanel" aria-labelledby="writing-tab">
+    <div class="d-flex flex-wrap justify-content-center">
+
+    </div>
+  </div>
+</div>

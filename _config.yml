@@ -38,7 +38,6 @@ plugins:
 paginate: 5
  
   
-  
 # Exclude these files from the production _site
 exclude:
   - Gemfile

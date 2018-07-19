@@ -1,0 +1,1412 @@
+[
+ {
+   "group": "asianNhpiNativeAm",
+   "scope": "all",
+   "groupLongName": "Asian, NHPI, Native American",
+   "year": 2008,
+   "differencePopShel": -0.081,
+   "pctPopulation": 0.115,
+   "pctSheltered": 0.034
+ },
+ {
+   "group": "black",
+   "scope": "all",
+   "groupLongName": "Black",
+   "year": 2008,
+   "differencePopShel": 0.293,
+   "pctPopulation": 0.124,
+   "pctSheltered": 0.417
+ },
+ {
+   "group": "hispanic",
+   "scope": "all",
+   "groupLongName": "Hispanic",
+   "year": 2008,
+   "differencePopShel": 0.045,
+   "pctPopulation": 0.15,
+   "pctSheltered": 0.195
+ },
+ {
+   "group": "multipleRaces",
+   "scope": "all",
+   "groupLongName": "Multiple races",
+   "year": 2008,
+   "differencePopShel": 0.032,
+   "pctPopulation": 0.022,
+   "pctSheltered": 0.054
+ },
+ {
+   "group": "nonHispanic",
+   "scope": "all",
+   "groupLongName": "Non-Hispanic",
+   "year": 2008,
+   "differencePopShel": -0.045,
+   "pctPopulation": 0.85,
+   "pctSheltered": 0.805
+ },
+ {
+   "group": "nonHispWhite",
+   "scope": "all",
+   "groupLongName": "Non-Hispanic White",
+   "year": 2008,
+   "differencePopShel": -0.279,
+   "pctPopulation": 0.658,
+   "pctSheltered": 0.379
+ },
+ {
+   "group": "asianNhpiNativeAm",
+   "scope": "indiv",
+   "groupLongName": "Asian, NHPI, Native American",
+   "year": 2008,
+   "pctSheltered": 0.028
+ },
+ {
+   "group": "black",
+   "scope": "indiv",
+   "groupLongName": "Black",
+   "year": 2008,
+   "pctSheltered": 0.370
+ },
+ {
+   "group": "hispanic",
+   "scope": "indiv",
+   "groupLongName": "Hispanic",
+   "year": 2008,
+   "pctSheltered": 0.170
+ },
+ {
+   "group": "multipleRaces",
+   "scope": "indiv",
+   "groupLongName": "Multiple races",
+   "year": 2008,
+   "pctSheltered": 0.046
+ },
+ {
+   "group": "nonHispanic",
+   "scope": "indiv",
+   "groupLongName": "Non-Hispanic",
+   "year": 2008,
+   "pctSheltered": 0.830
+ },
+ {
+   "group": "nonHispWhite",
+   "scope": "indiv",
+   "groupLongName": "Non-Hispanic White",
+   "year": 2008,
+   "pctSheltered": 0.445
+ },
+ {
+   "group": "asianNhpiNativeAm",
+   "scope": "inFam",
+   "groupLongName": "Asian, NHPI, Native American",
+   "year": 2008,
+   "pctSheltered": 0.048
+ },
+ {
+   "group": "black",
+   "scope": "inFam",
+   "groupLongName": "Black",
+   "year": 2008,
+   "pctSheltered": 0.509
+ },
+ {
+   "group": "hispanic",
+   "scope": "inFam",
+   "groupLongName": "Hispanic",
+   "year": 2008,
+   "pctSheltered": 0.254
+ },
+ {
+   "group": "multipleRaces",
+   "scope": "inFam",
+   "groupLongName": "Multiple races",
+   "year": 2008,
+   "pctSheltered": 0.068
+ },
+ {
+   "group": "nonHispanic",
+   "scope": "inFam",
+   "groupLongName": "Non-Hispanic",
+   "year": 2008,
+   "pctSheltered": 0.746
+ },
+ {
+   "group": "nonHispWhite",
+   "scope": "inFam",
+   "groupLongName": "Non-Hispanic White",
+   "year": 2008,
+   "pctSheltered": 0.244
+ },
+ {
+   "group": "asianNhpiNativeAm",
+   "scope": "all",
+   "groupLongName": "Asian, NHPI, Native American",
+   "year": 2009,
+   "differencePopShel": -0.057,
+   "pctPopulation": 0.103,
+   "pctSheltered": 0.046
+ },
+ {
+   "group": "black",
+   "scope": "all",
+   "groupLongName": "Black",
+   "year": 2009,
+   "differencePopShel": 0.263,
+   "pctPopulation": 0.124,
+   "pctSheltered": 0.387
+ },
+ {
+   "group": "hispanic",
+   "scope": "all",
+   "groupLongName": "Hispanic",
+   "year": 2009,
+   "differencePopShel": 0.041,
+   "pctPopulation": 0.154,
+   "pctSheltered": 0.195
+ },
+ {
+   "group": "multipleRaces",
+   "scope": "all",
+   "groupLongName": "Multiple races",
+   "year": 2009,
+   "differencePopShel": 0.047,
+   "pctPopulation": 0.023,
+   "pctSheltered": 0.07
+ },
+ {
+   "group": "nonHispanic",
+   "scope": "all",
+   "groupLongName": "Non-Hispanic",
+   "year": 2009,
+   "differencePopShel": -0.041,
+   "pctPopulation": 0.846,
+   "pctSheltered": 0.805
+ },
+ {
+   "group": "nonHispWhite",
+   "scope": "all",
+   "groupLongName": "Non-Hispanic White",
+   "year": 2009,
+   "differencePopShel": -0.273,
+   "pctPopulation": 0.654,
+   "pctSheltered": 0.381
+ },
+ {
+   "group": "asianNhpiNativeAm",
+   "scope": "indiv",
+   "groupLongName": "Asian, NHPI, Native American",
+   "year": 2009,
+   "pctSheltered": 0.038
+ },
+ {
+   "group": "black",
+   "scope": "indiv",
+   "groupLongName": "Black",
+   "year": 2009,
+   "pctSheltered": 0.341
+ },
+ {
+   "group": "hispanic",
+   "scope": "indiv",
+   "groupLongName": "Hispanic",
+   "year": 2009,
+   "pctSheltered": 0.161
+ },
+ {
+   "group": "multipleRaces",
+   "scope": "indiv",
+   "groupLongName": "Multiple races",
+   "year": 2009,
+   "pctSheltered": 0.064
+ },
+ {
+   "group": "nonHispanic",
+   "scope": "indiv",
+   "groupLongName": "Non-Hispanic",
+   "year": 2009,
+   "pctSheltered": 0.839
+ },
+ {
+   "group": "nonHispWhite",
+   "scope": "indiv",
+   "groupLongName": "Non-Hispanic White",
+   "year": 2009,
+   "pctSheltered": 0.454
+ },
+ {
+   "group": "asianNhpiNativeAm",
+   "scope": "inFam",
+   "groupLongName": "Asian, NHPI, Native American",
+   "year": 2009,
+   "pctSheltered": 0.062
+ },
+ {
+   "group": "black",
+   "scope": "inFam",
+   "groupLongName": "Black",
+   "year": 2009,
+   "pctSheltered": 0.478
+ },
+ {
+   "group": "hispanic",
+   "scope": "inFam",
+   "groupLongName": "Hispanic",
+   "year": 2009,
+   "pctSheltered": 0.258
+ },
+ {
+   "group": "multipleRaces",
+   "scope": "inFam",
+   "groupLongName": "Multiple races",
+   "year": 2009,
+   "pctSheltered": 0.085
+ },
+ {
+   "group": "nonHispanic",
+   "scope": "inFam",
+   "groupLongName": "Non-Hispanic",
+   "year": 2009,
+   "pctSheltered": 0.742
+ },
+ {
+   "group": "nonHispWhite",
+   "scope": "inFam",
+   "groupLongName": "Non-Hispanic White",
+   "year": 2009,
+   "pctSheltered": 0.236
+ },
+ {
+   "group": "asianNhpiNativeAm",
+   "scope": "all",
+   "groupLongName": "Asian, NHPI, Native American",
+   "year": 2010,
+   "differencePopShel": -0.058,
+   "pctPopulation": 0.103,
+   "pctSheltered": 0.045
+ },
+ {
+   "group": "black",
+   "scope": "all",
+   "groupLongName": "Black",
+   "year": 2010,
+   "differencePopShel": 0.246,
+   "pctPopulation": 0.124,
+   "pctSheltered": 0.37
+ },
+ {
+   "group": "hispanic",
+   "scope": "all",
+   "groupLongName": "Hispanic",
+   "year": 2010,
+   "differencePopShel": 0.007,
+   "pctPopulation": 0.157,
+   "pctSheltered": 0.164
+ },
+ {
+   "group": "multipleRaces",
+   "scope": "all",
+   "groupLongName": "Multiple races",
+   "year": 2010,
+   "differencePopShel": 0.048,
+   "pctPopulation": 0.024,
+   "pctSheltered": 0.072
+ },
+ {
+   "group": "nonHispanic",
+   "scope": "all",
+   "groupLongName": "Non-Hispanic",
+   "year": 2010,
+   "differencePopShel": -0.007,
+   "pctPopulation": 0.843,
+   "pctSheltered": 0.836
+ },
+ {
+   "group": "nonHispWhite",
+   "scope": "all",
+   "groupLongName": "Non-Hispanic White",
+   "year": 2010,
+   "differencePopShel": -0.233,
+   "pctPopulation": 0.649,
+   "pctSheltered": 0.416
+ },
+ {
+   "group": "asianNhpiNativeAm",
+   "scope": "indiv",
+   "groupLongName": "Asian, NHPI, Native American",
+   "year": 2010,
+   "differencePopShel": -0.041,
+   "pctPopulation": 0.076,
+   "pctSheltered": 0.035
+ },
+ {
+   "group": "black",
+   "scope": "indiv",
+   "groupLongName": "Black",
+   "year": 2010,
+   "differencePopShel": 0.234,
+   "pctPopulation": 0.111,
+   "pctSheltered": 0.345
+ },
+ {
+   "group": "hispanic",
+   "scope": "indiv",
+   "groupLongName": "Hispanic",
+   "year": 2010,
+   "differencePopShel": 0.039,
+   "pctPopulation": 0.095,
+   "pctSheltered": 0.134
+ },
+ {
+   "group": "multipleRaces",
+   "scope": "indiv",
+   "groupLongName": "Multiple races",
+   "year": 2010,
+   "differencePopShel": 0.049,
+   "pctPopulation": 0.015,
+   "pctSheltered": 0.064
+ },
+ {
+   "group": "nonHispanic",
+   "scope": "indiv",
+   "groupLongName": "Non-Hispanic",
+   "year": 2010,
+   "differencePopShel": -0.039,
+   "pctPopulation": 0.905,
+   "pctSheltered": 0.866
+ },
+ {
+   "group": "nonHispWhite",
+   "scope": "indiv",
+   "groupLongName": "Non-Hispanic White",
+   "year": 2010,
+   "differencePopShel": -0.263,
+   "pctPopulation": 0.735,
+   "pctSheltered": 0.472
+ },
+ {
+   "group": "asianNhpiNativeAm",
+   "scope": "inFam",
+   "groupLongName": "Asian, NHPI, Native American",
+   "year": 2010,
+   "differencePopShel": -0.064,
+   "pctPopulation": 0.128,
+   "pctSheltered": 0.064
+ },
+ {
+   "group": "black",
+   "scope": "inFam",
+   "groupLongName": "Black",
+   "year": 2010,
+   "differencePopShel": 0.284,
+   "pctPopulation": 0.136,
+   "pctSheltered": 0.42
+ },
+ {
+   "group": "hispanic",
+   "scope": "inFam",
+   "groupLongName": "Hispanic",
+   "year": 2010,
+   "differencePopShel": 0.002,
+   "pctPopulation": 0.216,
+   "pctSheltered": 0.218
+ },
+ {
+   "group": "multipleRaces",
+   "scope": "inFam",
+   "groupLongName": "Multiple races",
+   "year": 2010,
+   "differencePopShel": 0.052,
+   "pctPopulation": 0.033,
+   "pctSheltered": 0.085
+ },
+ {
+   "group": "nonHispanic",
+   "scope": "inFam",
+   "groupLongName": "Non-Hispanic",
+   "year": 2010,
+   "differencePopShel": -0.002,
+   "pctPopulation": 0.784,
+   "pctSheltered": 0.782
+ },
+ {
+   "group": "nonHispWhite",
+   "scope": "inFam",
+   "groupLongName": "Non-Hispanic White",
+   "year": 2010,
+   "differencePopShel": -0.259,
+   "pctPopulation": 0.569,
+   "pctSheltered": 0.31
+ },
+ {
+   "group": "asianNhpiNativeAm",
+   "scope": "all",
+   "groupLongName": "Asian, NHPI, Native American",
+   "year": 2011,
+   "differencePopShel": -0.05,
+   "pctPopulation": 0.105,
+   "pctSheltered": 0.055
+ },
+ {
+   "group": "black",
+   "scope": "all",
+   "groupLongName": "Black",
+   "year": 2011,
+   "differencePopShel": 0.255,
+   "pctPopulation": 0.126,
+   "pctSheltered": 0.381
+ },
+ {
+   "group": "hispanic",
+   "scope": "all",
+   "groupLongName": "Hispanic",
+   "year": 2011,
+   "differencePopShel": -0.008,
+   "pctPopulation": 0.164,
+   "pctSheltered": 0.156
+ },
+ {
+   "group": "multipleRaces",
+   "scope": "all",
+   "groupLongName": "Multiple races",
+   "year": 2011,
+   "differencePopShel": 0.052,
+   "pctPopulation": 0.027,
+   "pctSheltered": 0.079
+ },
+ {
+   "group": "nonHispanic",
+   "scope": "all",
+   "groupLongName": "Non-Hispanic",
+   "year": 2011,
+   "differencePopShel": 0.008,
+   "pctPopulation": 0.836,
+   "pctSheltered": 0.844
+ },
+ {
+   "group": "nonHispWhite",
+   "scope": "all",
+   "groupLongName": "Non-Hispanic White",
+   "year": 2011,
+   "differencePopShel": -0.242,
+   "pctPopulation": 0.637,
+   "pctSheltered": 0.395
+ },
+ {
+   "group": "asianNhpiNativeAm",
+   "scope": "indiv",
+   "groupLongName": "Asian, NHPI, Native American",
+   "year": 2011,
+   "differencePopShel": -0.025,
+   "pctPopulation": 0.078,
+   "pctSheltered": 0.053
+ },
+ {
+   "group": "black",
+   "scope": "indiv",
+   "groupLongName": "Black",
+   "year": 2011,
+   "differencePopShel": 0.238,
+   "pctPopulation": 0.113,
+   "pctSheltered": 0.351
+ },
+ {
+   "group": "hispanic",
+   "scope": "indiv",
+   "groupLongName": "Hispanic",
+   "year": 2011,
+   "differencePopShel": 0.031,
+   "pctPopulation": 0.098,
+   "pctSheltered": 0.129
+ },
+ {
+   "group": "multipleRaces",
+   "scope": "indiv",
+   "groupLongName": "Multiple races",
+   "year": 2011,
+   "differencePopShel": 0.043,
+   "pctPopulation": 0.017,
+   "pctSheltered": 0.06
+ },
+ {
+   "group": "nonHispanic",
+   "scope": "indiv",
+   "groupLongName": "Non-Hispanic",
+   "year": 2011,
+   "differencePopShel": -0.031,
+   "pctPopulation": 0.902,
+   "pctSheltered": 0.871
+ },
+ {
+   "group": "nonHispWhite",
+   "scope": "indiv",
+   "groupLongName": "Non-Hispanic White",
+   "year": 2011,
+   "differencePopShel": -0.271,
+   "pctPopulation": 0.728,
+   "pctSheltered": 0.457
+ },
+ {
+   "group": "asianNhpiNativeAm",
+   "scope": "inFam",
+   "groupLongName": "Asian, NHPI, Native American",
+   "year": 2011,
+   "differencePopShel": -0.072,
+   "pctPopulation": 0.132,
+   "pctSheltered": 0.06
+ },
+ {
+   "group": "black",
+   "scope": "inFam",
+   "groupLongName": "Black",
+   "year": 2011,
+   "differencePopShel": 0.298,
+   "pctPopulation": 0.138,
+   "pctSheltered": 0.436
+ },
+ {
+   "group": "hispanic",
+   "scope": "inFam",
+   "groupLongName": "Hispanic",
+   "year": 2011,
+   "differencePopShel": -0.021,
+   "pctPopulation": 0.227,
+   "pctSheltered": 0.206
+ },
+ {
+   "group": "multipleRaces",
+   "scope": "inFam",
+   "groupLongName": "Multiple races",
+   "year": 2011,
+   "differencePopShel": 0.08,
+   "pctPopulation": 0.037,
+   "pctSheltered": 0.117
+ },
+ {
+   "group": "nonHispanic",
+   "scope": "inFam",
+   "groupLongName": "Non-Hispanic",
+   "year": 2011,
+   "differencePopShel": 0.021,
+   "pctPopulation": 0.773,
+   "pctSheltered": 0.794
+ },
+ {
+   "group": "nonHispWhite",
+   "scope": "inFam",
+   "groupLongName": "Non-Hispanic White",
+   "year": 2011,
+   "differencePopShel": -0.27,
+   "pctPopulation": 0.551,
+   "pctSheltered": 0.281
+ },
+ {
+   "group": "asianNhpiNativeAm",
+   "scope": "all",
+   "groupLongName": "Asian, NHPI, Native American",
+   "year": 2012,
+   "differencePopShel": -0.055,
+   "pctPopulation": 0.105,
+   "pctSheltered": 0.05
+ },
+ {
+   "group": "black",
+   "scope": "all",
+   "groupLongName": "Black",
+   "year": 2012,
+   "differencePopShel": 0.267,
+   "pctPopulation": 0.126,
+   "pctSheltered": 0.393
+ },
+ {
+   "group": "hispanic",
+   "scope": "all",
+   "groupLongName": "Hispanic",
+   "year": 2012,
+   "differencePopShel": -0.004,
+   "pctPopulation": 0.167,
+   "pctSheltered": 0.163
+ },
+ {
+   "group": "multipleRaces",
+   "scope": "all",
+   "groupLongName": "Multiple races",
+   "year": 2012,
+   "differencePopShel": 0.044,
+   "pctPopulation": 0.028,
+   "pctSheltered": 0.072
+ },
+ {
+   "group": "nonHispanic",
+   "scope": "all",
+   "groupLongName": "Non-Hispanic",
+   "year": 2012,
+   "differencePopShel": 0.004,
+   "pctPopulation": 0.833,
+   "pctSheltered": 0.837
+ },
+ {
+   "group": "nonHispWhite",
+   "scope": "all",
+   "groupLongName": "Non-Hispanic White",
+   "year": 2012,
+   "differencePopShel": -0.244,
+   "pctPopulation": 0.633,
+   "pctSheltered": 0.389
+ },
+ {
+   "group": "asianNhpiNativeAm",
+   "scope": "indiv",
+   "groupLongName": "Asian, NHPI, Native American",
+   "year": 2012,
+   "differencePopShel": -0.028,
+   "pctPopulation": 0.079,
+   "pctSheltered": 0.051
+ },
+ {
+   "group": "black",
+   "scope": "indiv",
+   "groupLongName": "Black",
+   "year": 2012,
+   "differencePopShel": 0.246,
+   "pctPopulation": 0.115,
+   "pctSheltered": 0.361
+ },
+ {
+   "group": "hispanic",
+   "scope": "indiv",
+   "groupLongName": "Hispanic",
+   "year": 2012,
+   "differencePopShel": 0.034,
+   "pctPopulation": 0.102,
+   "pctSheltered": 0.136
+ },
+ {
+   "group": "multipleRaces",
+   "scope": "indiv",
+   "groupLongName": "Multiple races",
+   "year": 2012,
+   "differencePopShel": 0.032,
+   "pctPopulation": 0.018,
+   "pctSheltered": 0.05
+ },
+ {
+   "group": "nonHispanic",
+   "scope": "indiv",
+   "groupLongName": "Non-Hispanic",
+   "year": 2012,
+   "differencePopShel": -0.034,
+   "pctPopulation": 0.898,
+   "pctSheltered": 0.864
+ },
+ {
+   "group": "nonHispWhite",
+   "scope": "indiv",
+   "groupLongName": "Non-Hispanic White",
+   "year": 2012,
+   "differencePopShel": -0.269,
+   "pctPopulation": 0.721,
+   "pctSheltered": 0.452
+ },
+ {
+   "group": "asianNhpiNativeAm",
+   "scope": "inFam",
+   "groupLongName": "Asian, NHPI, Native American",
+   "year": 2012,
+   "differencePopShel": -0.083,
+   "pctPopulation": 0.131,
+   "pctSheltered": 0.048
+ },
+ {
+   "group": "black",
+   "scope": "inFam",
+   "groupLongName": "Black",
+   "year": 2012,
+   "differencePopShel": 0.314,
+   "pctPopulation": 0.136,
+   "pctSheltered": 0.45
+ },
+ {
+   "group": "hispanic",
+   "scope": "inFam",
+   "groupLongName": "Hispanic",
+   "year": 2012,
+   "differencePopShel": -0.017,
+   "pctPopulation": 0.229,
+   "pctSheltered": 0.212
+ },
+ {
+   "group": "multipleRaces",
+   "scope": "inFam",
+   "groupLongName": "Multiple races",
+   "year": 2012,
+   "differencePopShel": 0.075,
+   "pctPopulation": 0.038,
+   "pctSheltered": 0.113
+ },
+ {
+   "group": "nonHispanic",
+   "scope": "inFam",
+   "groupLongName": "Non-Hispanic",
+   "year": 2012,
+   "differencePopShel": 0.017,
+   "pctPopulation": 0.771,
+   "pctSheltered": 0.788
+ },
+ {
+   "group": "nonHispWhite",
+   "scope": "inFam",
+   "groupLongName": "Non-Hispanic White",
+   "year": 2012,
+   "differencePopShel": -0.271,
+   "pctPopulation": 0.548,
+   "pctSheltered": 0.277
+ },
+ {
+   "group": "asianNhpiNativeAm",
+   "scope": "all",
+   "groupLongName": "Asian, NHPI, Native American",
+   "year": 2013,
+   "differencePopShel": -0.066,
+   "pctPopulation": 0.106,
+   "pctSheltered": 0.04
+ },
+ {
+   "group": "black",
+   "scope": "all",
+   "groupLongName": "Black",
+   "year": 2013,
+   "differencePopShel": 0.292,
+   "pctPopulation": 0.126,
+   "pctSheltered": 0.418
+ },
+ {
+   "group": "hispanic",
+   "scope": "all",
+   "groupLongName": "Hispanic",
+   "year": 2013,
+   "differencePopShel": -0.005,
+   "pctPopulation": 0.169,
+   "pctSheltered": 0.164
+ },
+ {
+   "group": "multipleRaces",
+   "scope": "all",
+   "groupLongName": "Multiple races",
+   "year": 2013,
+   "differencePopShel": 0.036,
+   "pctPopulation": 0.029,
+   "pctSheltered": 0.065
+ },
+ {
+   "group": "nonHispanic",
+   "scope": "all",
+   "groupLongName": "Non-Hispanic",
+   "year": 2013,
+   "differencePopShel": 0.005,
+   "pctPopulation": 0.831,
+   "pctSheltered": 0.836
+ },
+ {
+   "group": "nonHispWhite",
+   "scope": "all",
+   "groupLongName": "Non-Hispanic White",
+   "year": 2013,
+   "differencePopShel": -0.252,
+   "pctPopulation": 0.628,
+   "pctSheltered": 0.376
+ },
+ {
+   "group": "asianNhpiNativeAm",
+   "scope": "indiv",
+   "groupLongName": "Asian, NHPI, Native American",
+   "year": 2013,
+   "differencePopShel": -0.045,
+   "pctPopulation": 0.08,
+   "pctSheltered": 0.035
+ },
+ {
+   "group": "black",
+   "scope": "indiv",
+   "groupLongName": "Black",
+   "year": 2013,
+   "differencePopShel": 0.267,
+   "pctPopulation": 0.116,
+   "pctSheltered": 0.383
+ },
+ {
+   "group": "hispanic",
+   "scope": "indiv",
+   "groupLongName": "Hispanic",
+   "year": 2013,
+   "differencePopShel": 0.033,
+   "pctPopulation": 0.104,
+   "pctSheltered": 0.137
+ },
+ {
+   "group": "multipleRaces",
+   "scope": "indiv",
+   "groupLongName": "Multiple races",
+   "year": 2013,
+   "differencePopShel": 0.027,
+   "pctPopulation": 0.018,
+   "pctSheltered": 0.045
+ },
+ {
+   "group": "nonHispanic",
+   "scope": "indiv",
+   "groupLongName": "Non-Hispanic",
+   "year": 2013,
+   "differencePopShel": -0.033,
+   "pctPopulation": 0.896,
+   "pctSheltered": 0.863
+ },
+ {
+   "group": "nonHispWhite",
+   "scope": "indiv",
+   "groupLongName": "Non-Hispanic White",
+   "year": 2013,
+   "differencePopShel": -0.269,
+   "pctPopulation": 0.716,
+   "pctSheltered": 0.447
+ },
+ {
+   "group": "asianNhpiNativeAm",
+   "scope": "inFam",
+   "groupLongName": "Asian, NHPI, Native American",
+   "year": 2013,
+   "differencePopShel": -0.08,
+   "pctPopulation": 0.13,
+   "pctSheltered": 0.05
+ },
+ {
+   "group": "black",
+   "scope": "inFam",
+   "groupLongName": "Black",
+   "year": 2013,
+   "differencePopShel": 0.348,
+   "pctPopulation": 0.137,
+   "pctSheltered": 0.485
+ },
+ {
+   "group": "hispanic",
+   "scope": "inFam",
+   "groupLongName": "Hispanic",
+   "year": 2013,
+   "differencePopShel": -0.013,
+   "pctPopulation": 0.232,
+   "pctSheltered": 0.219
+ },
+ {
+   "group": "multipleRaces",
+   "scope": "inFam",
+   "groupLongName": "Multiple races",
+   "year": 2013,
+   "differencePopShel": 0.066,
+   "pctPopulation": 0.039,
+   "pctSheltered": 0.105
+ },
+ {
+   "group": "nonHispanic",
+   "scope": "inFam",
+   "groupLongName": "Non-Hispanic",
+   "year": 2013,
+   "differencePopShel": 0.013,
+   "pctPopulation": 0.768,
+   "pctSheltered": 0.781
+ },
+ {
+   "group": "nonHispWhite",
+   "scope": "inFam",
+   "groupLongName": "Non-Hispanic White",
+   "year": 2013,
+   "differencePopShel": -0.303,
+   "pctPopulation": 0.543,
+   "pctSheltered": 0.24
+ },
+ {
+   "group": "asianNhpiNativeAm",
+   "scope": "all",
+   "groupLongName": "Asian, NHPI, Native American",
+   "year": 2014,
+   "differencePopShel": -0.063,
+   "pctPopulation": 0.107,
+   "pctSheltered": 0.044
+ },
+ {
+   "group": "black",
+   "scope": "all",
+   "groupLongName": "Black",
+   "year": 2014,
+   "differencePopShel": 0.28,
+   "pctPopulation": 0.126,
+   "pctSheltered": 0.406
+ },
+ {
+   "group": "hispanic",
+   "scope": "all",
+   "groupLongName": "Hispanic",
+   "year": 2014,
+   "differencePopShel": -0.013,
+   "pctPopulation": 0.171,
+   "pctSheltered": 0.158
+ },
+ {
+   "group": "multipleRaces",
+   "scope": "all",
+   "groupLongName": "Multiple races",
+   "year": 2014,
+   "differencePopShel": 0.018,
+   "pctPopulation": 0.03,
+   "pctSheltered": 0.048
+ },
+ {
+   "group": "nonHispanic",
+   "scope": "all",
+   "groupLongName": "Non-Hispanic",
+   "year": 2014,
+   "differencePopShel": 0.013,
+   "pctPopulation": 0.829,
+   "pctSheltered": 0.842
+ },
+ {
+   "group": "nonHispWhite",
+   "scope": "all",
+   "groupLongName": "Non-Hispanic White",
+   "year": 2014,
+   "differencePopShel": -0.223,
+   "pctPopulation": 0.624,
+   "pctSheltered": 0.401
+ },
+ {
+   "group": "asianNhpiNativeAm",
+   "scope": "indiv",
+   "groupLongName": "Asian, NHPI, Native American",
+   "year": 2014,
+   "differencePopShel": -0.037,
+   "pctPopulation": 0.082,
+   "pctSheltered": 0.045
+ },
+ {
+   "group": "black",
+   "scope": "indiv",
+   "groupLongName": "Black",
+   "year": 2014,
+   "differencePopShel": 0.249,
+   "pctPopulation": 0.117,
+   "pctSheltered": 0.366
+ },
+ {
+   "group": "hispanic",
+   "scope": "indiv",
+   "groupLongName": "Hispanic",
+   "year": 2014,
+   "differencePopShel": 0.011,
+   "pctPopulation": 0.107,
+   "pctSheltered": 0.118
+ },
+ {
+   "group": "multipleRaces",
+   "scope": "indiv",
+   "groupLongName": "Multiple races",
+   "year": 2014,
+   "differencePopShel": 0.017,
+   "pctPopulation": 0.019,
+   "pctSheltered": 0.036
+ },
+ {
+   "group": "nonHispanic",
+   "scope": "indiv",
+   "groupLongName": "Non-Hispanic",
+   "year": 2014,
+   "differencePopShel": -0.011,
+   "pctPopulation": 0.893,
+   "pctSheltered": 0.882
+ },
+ {
+   "group": "nonHispWhite",
+   "scope": "indiv",
+   "groupLongName": "Non-Hispanic White",
+   "year": 2014,
+   "differencePopShel": -0.232,
+   "pctPopulation": 0.71,
+   "pctSheltered": 0.478
+ },
+ {
+   "group": "asianNhpiNativeAm",
+   "scope": "inFam",
+   "groupLongName": "Asian, NHPI, Native American",
+   "year": 2014,
+   "differencePopShel": -0.091,
+   "pctPopulation": 0.132,
+   "pctSheltered": 0.041
+ },
+ {
+   "group": "black",
+   "scope": "inFam",
+   "groupLongName": "Black",
+   "year": 2014,
+   "differencePopShel": 0.346,
+   "pctPopulation": 0.136,
+   "pctSheltered": 0.482
+ },
+ {
+   "group": "hispanic",
+   "scope": "inFam",
+   "groupLongName": "Hispanic",
+   "year": 2014,
+   "differencePopShel": 0.001,
+   "pctPopulation": 0.234,
+   "pctSheltered": 0.235
+ },
+ {
+   "group": "multipleRaces",
+   "scope": "inFam",
+   "groupLongName": "Multiple races",
+   "year": 2014,
+   "differencePopShel": 0.033,
+   "pctPopulation": 0.04,
+   "pctSheltered": 0.073
+ },
+ {
+   "group": "nonHispanic",
+   "scope": "inFam",
+   "groupLongName": "Non-Hispanic",
+   "year": 2014,
+   "differencePopShel": -0.001,
+   "pctPopulation": 0.766,
+   "pctSheltered": 0.765
+ },
+ {
+   "group": "nonHispWhite",
+   "scope": "inFam",
+   "groupLongName": "Non-Hispanic White",
+   "year": 2014,
+   "differencePopShel": -0.288,
+   "pctPopulation": 0.54,
+   "pctSheltered": 0.252
+ },
+ {
+   "group": "asianNhpiNativeAm",
+   "scope": "all",
+   "groupLongName": "Asian, NHPI, Native American",
+   "year": 2015,
+   "differencePopShel": -0.063,
+   "pctPopulation": 0.109,
+   "pctSheltered": 0.046
+ },
+ {
+   "group": "black",
+   "scope": "all",
+   "groupLongName": "Black",
+   "year": 2015,
+   "differencePopShel": 0.287,
+   "pctPopulation": 0.127,
+   "pctSheltered": 0.414
+ },
+ {
+   "group": "hispanic",
+   "scope": "all",
+   "groupLongName": "Hispanic",
+   "year": 2015,
+   "differencePopShel": 0,
+   "pctPopulation": 0.173,
+   "pctSheltered": 0.173
+ },
+ {
+   "group": "multipleRaces",
+   "scope": "all",
+   "groupLongName": "Multiple races",
+   "year": 2015,
+   "differencePopShel": 0.015,
+   "pctPopulation": 0.03,
+   "pctSheltered": 0.045
+ },
+ {
+   "group": "nonHispanic",
+   "scope": "all",
+   "groupLongName": "Non-Hispanic",
+   "year": 2015,
+   "differencePopShel": 0,
+   "pctPopulation": 0.827,
+   "pctSheltered": 0.827
+ },
+ {
+   "group": "nonHispWhite",
+   "scope": "all",
+   "groupLongName": "Non-Hispanic White",
+   "year": 2015,
+   "differencePopShel": -0.239,
+   "pctPopulation": 0.619,
+   "pctSheltered": 0.38
+ },
+ {
+   "group": "asianNhpiNativeAm",
+   "scope": "indiv",
+   "groupLongName": "Asian, NHPI, Native American",
+   "year": 2015,
+   "differencePopShel": -0.04,
+   "pctPopulation": 0.085,
+   "pctSheltered": 0.045
+ },
+ {
+   "group": "black",
+   "scope": "indiv",
+   "groupLongName": "Black",
+   "year": 2015,
+   "differencePopShel": 0.254,
+   "pctPopulation": 0.118,
+   "pctSheltered": 0.372
+ },
+ {
+   "group": "hispanic",
+   "scope": "indiv",
+   "groupLongName": "Hispanic",
+   "year": 2015,
+   "differencePopShel": 0.018,
+   "pctPopulation": 0.11,
+   "pctSheltered": 0.128
+ },
+ {
+   "group": "multipleRaces",
+   "scope": "indiv",
+   "groupLongName": "Multiple races",
+   "year": 2015,
+   "differencePopShel": 0.016,
+   "pctPopulation": 0.019,
+   "pctSheltered": 0.035
+ },
+ {
+   "group": "nonHispanic",
+   "scope": "indiv",
+   "groupLongName": "Non-Hispanic",
+   "year": 2015,
+   "differencePopShel": -0.018,
+   "pctPopulation": 0.89,
+   "pctSheltered": 0.872
+ },
+ {
+   "group": "nonHispWhite",
+   "scope": "indiv",
+   "groupLongName": "Non-Hispanic White",
+   "year": 2015,
+   "differencePopShel": -0.24,
+   "pctPopulation": 0.703,
+   "pctSheltered": 0.463
+ },
+ {
+   "group": "asianNhpiNativeAm",
+   "scope": "inFam",
+   "groupLongName": "Asian, NHPI, Native American",
+   "year": 2015,
+   "differencePopShel": -0.083,
+   "pctPopulation": 0.133,
+   "pctSheltered": 0.05
+ },
+ {
+   "group": "black",
+   "scope": "inFam",
+   "groupLongName": "Black",
+   "year": 2015,
+   "differencePopShel": 0.365,
+   "pctPopulation": 0.136,
+   "pctSheltered": 0.501
+ },
+ {
+   "group": "hispanic",
+   "scope": "inFam",
+   "groupLongName": "Hispanic",
+   "year": 2015,
+   "differencePopShel": 0.012,
+   "pctPopulation": 0.237,
+   "pctSheltered": 0.249
+ },
+ {
+   "group": "multipleRaces",
+   "scope": "inFam",
+   "groupLongName": "Multiple races",
+   "year": 2015,
+   "differencePopShel": 0.026,
+   "pctPopulation": 0.041,
+   "pctSheltered": 0.067
+ },
+ {
+   "group": "nonHispanic",
+   "scope": "inFam",
+   "groupLongName": "Non-Hispanic",
+   "year": 2015,
+   "differencePopShel": -0.012,
+   "pctPopulation": 0.763,
+   "pctSheltered": 0.751
+ },
+ {
+   "group": "nonHispWhite",
+   "scope": "inFam",
+   "groupLongName": "Non-Hispanic White",
+   "year": 2015,
+   "differencePopShel": -0.31,
+   "pctPopulation": 0.534,
+   "pctSheltered": 0.224
+ },
+ {
+   "group": "asianNhpiNativeAm",
+   "scope": "all",
+   "groupLongName": "Asian, NHPI, Native American",
+   "year": 2016,
+   "differencePopShel": -0.068,
+   "pctPopulation": 0.111,
+   "pctSheltered": 0.043
+ },
+ {
+   "group": "black",
+   "scope": "all",
+   "groupLongName": "Black",
+   "year": 2016,
+   "differencePopShel": 0.299,
+   "pctPopulation": 0.127,
+   "pctSheltered": 0.426
+ },
+ {
+   "group": "hispanic",
+   "scope": "all",
+   "groupLongName": "Hispanic",
+   "year": 2016,
+   "differencePopShel": -0.007,
+   "pctPopulation": 0.176,
+   "pctSheltered": 0.169
+ },
+ {
+   "group": "multipleRaces",
+   "scope": "all",
+   "groupLongName": "Multiple races",
+   "year": 2016,
+   "differencePopShel": 0.015,
+   "pctPopulation": 0.031,
+   "pctSheltered": 0.046
+ },
+ {
+   "group": "nonHispanic",
+   "scope": "all",
+   "groupLongName": "Non-Hispanic",
+   "year": 2016,
+   "differencePopShel": 0.007,
+   "pctPopulation": 0.824,
+   "pctSheltered": 0.831
+ },
+ {
+   "group": "nonHispWhite",
+   "scope": "all",
+   "groupLongName": "Non-Hispanic White",
+   "year": 2016,
+   "differencePopShel": -0.24,
+   "pctPopulation": 0.615,
+   "pctSheltered": 0.375
+ },
+ {
+   "group": "asianNhpiNativeAm",
+   "scope": "indiv",
+   "groupLongName": "Asian, NHPI, Native American",
+   "year": 2016,
+   "differencePopShel": -0.044,
+   "pctPopulation": 0.088,
+   "pctSheltered": 0.044
+ },
+ {
+   "group": "black",
+   "scope": "indiv",
+   "groupLongName": "Black",
+   "year": 2016,
+   "differencePopShel": 0.262,
+   "pctPopulation": 0.118,
+   "pctSheltered": 0.38
+ },
+ {
+   "group": "hispanic",
+   "scope": "indiv",
+   "groupLongName": "Hispanic",
+   "year": 2016,
+   "differencePopShel": 0.011,
+   "pctPopulation": 0.114,
+   "pctSheltered": 0.125
+ },
+ {
+   "group": "multipleRaces",
+   "scope": "indiv",
+   "groupLongName": "Multiple races",
+   "year": 2016,
+   "differencePopShel": 0.018,
+   "pctPopulation": 0.02,
+   "pctSheltered": 0.038
+ },
+ {
+   "group": "nonHispanic",
+   "scope": "indiv",
+   "groupLongName": "Non-Hispanic",
+   "year": 2016,
+   "differencePopShel": -0.011,
+   "pctPopulation": 0.886,
+   "pctSheltered": 0.875
+ },
+ {
+   "group": "nonHispWhite",
+   "scope": "indiv",
+   "groupLongName": "Non-Hispanic White",
+   "year": 2016,
+   "differencePopShel": -0.242,
+   "pctPopulation": 0.697,
+   "pctSheltered": 0.455
+ },
+ {
+   "group": "asianNhpiNativeAm",
+   "scope": "inFam",
+   "groupLongName": "Asian, NHPI, Native American",
+   "year": 2016,
+   "differencePopShel": -0.089,
+   "pctPopulation": 0.135,
+   "pctSheltered": 0.046
+ },
+ {
+   "group": "black",
+   "scope": "inFam",
+   "groupLongName": "Black",
+   "year": 2016,
+   "differencePopShel": 0.381,
+   "pctPopulation": 0.136,
+   "pctSheltered": 0.517
+ },
+ {
+   "group": "hispanic",
+   "scope": "inFam",
+   "groupLongName": "Hispanic",
+   "year": 2016,
+   "differencePopShel": 0.014,
+   "pctPopulation": 0.239,
+   "pctSheltered": 0.253
+ },
+ {
+   "group": "multipleRaces",
+   "scope": "inFam",
+   "groupLongName": "Multiple races",
+   "year": 2016,
+   "differencePopShel": 0.019,
+   "pctPopulation": 0.042,
+   "pctSheltered": 0.061
+ },
+ {
+   "group": "nonHispanic",
+   "scope": "inFam",
+   "groupLongName": "Non-Hispanic",
+   "year": 2016,
+   "differencePopShel": -0.014,
+   "pctPopulation": 0.761,
+   "pctSheltered": 0.747
+ },
+ {
+   "group": "nonHispWhite",
+   "scope": "inFam",
+   "groupLongName": "Non-Hispanic White",
+   "year": 2016,
+   "differencePopShel": -0.313,
+   "pctPopulation": 0.53,
+   "pctSheltered": 0.217
+ }
+]

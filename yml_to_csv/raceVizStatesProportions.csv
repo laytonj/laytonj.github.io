@@ -1,0 +1,8 @@
+---
+layout: none
+---
+state,year,pitYear,acsYear,category,pctDiffPopHmls,pctHomeless,pctPopulation
+{% for i in site.data.d3.raceVizStatesProportions %}
+  {{- i.state -}},{{- i.year -}},{{- i.pitYear -}},{{- i.acsYear -}},{{- i.category -}},{{- i.pctDiffPopHmls -}},{{- i.pctHomeless -}},{{- i.pctPopulation -}}
+  {% if forloop.last == false %},{% endif %}
+{% endfor %}

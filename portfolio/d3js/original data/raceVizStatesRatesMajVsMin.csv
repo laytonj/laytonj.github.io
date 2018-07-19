@@ -1,0 +1,937 @@
+state,year,pitYear,acsYear,category,rateDiff,rateMin,rateMaj
+Alabama,2017,2017,2016,blackVsWhite,3.4,15.8,4.7
+Alaska,2017,2017,2016,blackVsWhite,4,52.7,13.1
+Arizona,2017,2017,2016,blackVsWhite,4.5,47.5,10.5
+Arkansas,2017,2017,2016,blackVsWhite,3.1,19,6.1
+California,2017,2017,2016,blackVsWhite,7,170.9,24.6
+Colorado,2017,2017,2016,blackVsWhite,4.5,71.9,16
+Connecticut,2017,2017,2016,blackVsWhite,5.2,31.9,6.1
+Delaware,2017,2017,2016,blackVsWhite,4.2,25.3,6
+District of Columbia,2017,2017,2016,blackVsWhite,13,206.4,15.8
+Florida,2017,2017,2016,blackVsWhite,3,34.4,11.6
+Georgia,2017,2017,2016,blackVsWhite,4.7,20.9,4.4
+Hawaii,2017,2017,2016,blackVsWhite,1.9,82.1,43.2
+Idaho,2017,2017,2016,blackVsWhite,4.6,52.9,11.4
+Illinois,2017,2017,2016,blackVsWhite,8.6,33.9,4
+Indiana,2017,2017,2016,blackVsWhite,5.1,29.3,5.8
+Iowa,2017,2017,2016,blackVsWhite,12,69.2,5.8
+Kansas,2017,2017,2016,blackVsWhite,4,22.6,5.7
+Kentucky,2017,2017,2016,blackVsWhite,3.8,27.4,7.2
+Louisiana,2017,2017,2016,blackVsWhite,2.9,12.6,4.3
+Maine,2017,2017,2016,blackVsWhite,9.7,141.8,14.7
+Maryland,2017,2017,2016,blackVsWhite,3.4,23.5,6.9
+Massachusetts,2017,2017,2016,blackVsWhite,5.5,99.2,18
+Michigan,2017,2017,2016,blackVsWhite,6.9,33.4,4.8
+Minnesota,2017,2017,2016,blackVsWhite,16.7,95.7,5.7
+Mississippi,2017,2017,2016,blackVsWhite,2.1,7.2,3.4
+Missouri,2017,2017,2016,blackVsWhite,5.9,36.7,6.2
+Montana,2017,2017,2016,blackVsWhite,5.1,54.7,10.7
+Nebraska,2017,2017,2016,blackVsWhite,6.2,61.2,9.8
+Nevada,2017,2017,2016,blackVsWhite,4,82.7,20.9
+New Hampshire,2017,2017,2016,blackVsWhite,3.8,38,10.1
+New Jersey,2017,2017,2016,blackVsWhite,6.3,34.5,5.4
+New Mexico,2017,2017,2016,blackVsWhite,3.1,27.2,8.8
+New York,2017,2017,2016,blackVsWhite,12.2,176.2,14.4
+North Carolina,2017,2017,2016,blackVsWhite,3.9,20.2,5.2
+North Dakota,2017,2017,2016,blackVsWhite,10.3,56.8,5.5
+Ohio,2017,2017,2016,blackVsWhite,6,30.7,5.2
+Oklahoma,2017,2017,2016,blackVsWhite,2.8,25.2,8.9
+Oregon,2017,2017,2016,blackVsWhite,3,96.1,31.7
+Pennsylvania,2017,2017,2016,blackVsWhite,8.9,49.5,5.6
+Rhode Island,2017,2017,2016,blackVsWhite,4.2,36.2,8.5
+South Carolina,2017,2017,2016,blackVsWhite,3.6,16.2,4.5
+South Dakota,2017,2017,2016,blackVsWhite,6,25.4,4.2
+Tennessee,2017,2017,2016,blackVsWhite,3.1,28.2,9.1
+Texas,2017,2017,2016,blackVsWhite,4.3,25.4,5.9
+Utah,2017,2017,2016,blackVsWhite,8.6,68.1,7.9
+Vermont,2017,2017,2016,blackVsWhite,5.2,97,18.5
+Virginia,2017,2017,2016,blackVsWhite,4.7,19.5,4.1
+Washington,2017,2017,2016,blackVsWhite,6.5,138,21.2
+West Virginia,2017,2017,2016,blackVsWhite,5.2,32.5,6.2
+Wisconsin,2017,2017,2016,blackVsWhite,7.9,43,5.4
+Wyoming,2017,2017,2016,blackVsWhite,4.6,55.5,12
+Puerto Rico,2017,2017,2016,blackVsWhite,2.3,16,7.1
+Alabama,2017,2017,2016,asianVsWhite,0.3,1.3,4.7
+Alaska,2017,2017,2016,asianVsWhite,0.3,4.3,13.1
+Arizona,2017,2017,2016,asianVsWhite,0.2,2.2,10.5
+Arkansas,2017,2017,2016,asianVsWhite,0.3,1.9,6.1
+California,2017,2017,2016,asianVsWhite,0.2,4.4,24.6
+Colorado,2017,2017,2016,asianVsWhite,0.2,2.8,16
+Connecticut,2017,2017,2016,asianVsWhite,0.3,2,6.1
+Delaware,2017,2017,2016,asianVsWhite,0.2,1.1,6
+District of Columbia,2017,2017,2016,asianVsWhite,0.9,14.2,15.8
+Florida,2017,2017,2016,asianVsWhite,0.2,2.1,11.6
+Georgia,2017,2017,2016,asianVsWhite,0.2,0.9,4.4
+Hawaii,2017,2017,2016,asianVsWhite,0.3,12.2,43.2
+Idaho,2017,2017,2016,asianVsWhite,0.6,6.9,11.4
+Illinois,2017,2017,2016,asianVsWhite,0.3,1.1,4
+Indiana,2017,2017,2016,asianVsWhite,0.3,2,5.8
+Iowa,2017,2017,2016,asianVsWhite,0.4,2.4,5.8
+Kansas,2017,2017,2016,asianVsWhite,0.2,1.2,5.7
+Kentucky,2017,2017,2016,asianVsWhite,0.4,2.7,7.2
+Louisiana,2017,2017,2016,asianVsWhite,0.3,1.4,4.3
+Maine,2017,2017,2016,asianVsWhite,0.5,6.7,14.7
+Maryland,2017,2017,2016,asianVsWhite,0.1,1,6.9
+Massachusetts,2017,2017,2016,asianVsWhite,0.2,3.8,18
+Michigan,2017,2017,2016,asianVsWhite,0.1,0.7,4.8
+Minnesota,2017,2017,2016,asianVsWhite,0.7,4,5.7
+Mississippi,2017,2017,2016,asianVsWhite,0.4,1.3,3.4
+Missouri,2017,2017,2016,asianVsWhite,0.3,1.9,6.2
+Montana,2017,2017,2016,asianVsWhite,0.4,4.7,10.7
+Nebraska,2017,2017,2016,asianVsWhite,0.4,4.2,9.8
+Nevada,2017,2017,2016,asianVsWhite,0.3,7.2,20.9
+New Hampshire,2017,2017,2016,asianVsWhite,0.3,3.1,10.1
+New Jersey,2017,2017,2016,asianVsWhite,0.2,0.9,5.4
+New Mexico,2017,2017,2016,asianVsWhite,0.3,2.8,8.8
+New York,2017,2017,2016,asianVsWhite,0.4,6,14.4
+North Carolina,2017,2017,2016,asianVsWhite,0.2,1.2,5.2
+North Dakota,2017,2017,2016,asianVsWhite,0.9,5.2,5.5
+Ohio,2017,2017,2016,asianVsWhite,0.2,1,5.2
+Oklahoma,2017,2017,2016,asianVsWhite,0.1,0.9,8.9
+Oregon,2017,2017,2016,asianVsWhite,0.1,4.3,31.7
+Pennsylvania,2017,2017,2016,asianVsWhite,0.3,1.7,5.6
+Rhode Island,2017,2017,2016,asianVsWhite,0.2,2.1,8.5
+South Carolina,2017,2017,2016,asianVsWhite,0.2,1,4.5
+South Dakota,2017,2017,2016,asianVsWhite,0.6,2.3,4.2
+Tennessee,2017,2017,2016,asianVsWhite,0.3,2.8,9.1
+Texas,2017,2017,2016,asianVsWhite,0.3,1.9,5.9
+Utah,2017,2017,2016,asianVsWhite,0.4,3.5,7.9
+Vermont,2017,2017,2016,asianVsWhite,0.3,6.3,18.5
+Virginia,2017,2017,2016,asianVsWhite,0.4,1.5,4.1
+Washington,2017,2017,2016,asianVsWhite,0.2,5.1,21.2
+West Virginia,2017,2017,2016,asianVsWhite,0.2,1.3,6.2
+Wisconsin,2017,2017,2016,asianVsWhite,0.8,4.2,5.4
+Wyoming,2017,2017,2016,asianVsWhite,0.3,3.4,12
+Puerto Rico,2017,2017,2016,asianVsWhite,0.5,3.5,7.1
+Alabama,2017,2017,2016,nativeAmericanVsWhite,1.3,6.2,4.7
+Alaska,2017,2017,2016,nativeAmericanVsWhite,5.2,68.5,13.1
+Arizona,2017,2017,2016,nativeAmericanVsWhite,1.8,18.9,10.5
+Arkansas,2017,2017,2016,nativeAmericanVsWhite,1.4,8.3,6.1
+California,2017,2017,2016,nativeAmericanVsWhite,3.6,88.2,24.6
+Colorado,2017,2017,2016,nativeAmericanVsWhite,3.9,61.9,16
+Connecticut,2017,2017,2016,nativeAmericanVsWhite,1.9,11.5,6.1
+Delaware,2017,2017,2016,nativeAmericanVsWhite,0.3,1.6,6
+District of Columbia,2017,2017,2016,nativeAmericanVsWhite,3.8,59.6,15.8
+Florida,2017,2017,2016,nativeAmericanVsWhite,2.3,27.1,11.6
+Georgia,2017,2017,2016,nativeAmericanVsWhite,3.1,13.9,4.4
+Hawaii,2017,2017,2016,nativeAmericanVsWhite,4.3,186.1,43.2
+Idaho,2017,2017,2016,nativeAmericanVsWhite,1.8,20.4,11.4
+Illinois,2017,2017,2016,nativeAmericanVsWhite,2.3,9,4
+Indiana,2017,2017,2016,nativeAmericanVsWhite,2.8,16.4,5.8
+Iowa,2017,2017,2016,nativeAmericanVsWhite,8,46.5,5.8
+Kansas,2017,2017,2016,nativeAmericanVsWhite,5,28.3,5.7
+Kentucky,2017,2017,2016,nativeAmericanVsWhite,1.9,13.5,7.2
+Louisiana,2017,2017,2016,nativeAmericanVsWhite,1.8,7.8,4.3
+Maine,2017,2017,2016,nativeAmericanVsWhite,2.8,40.7,14.7
+Maryland,2017,2017,2016,nativeAmericanVsWhite,2.3,15.7,6.9
+Massachusetts,2017,2017,2016,nativeAmericanVsWhite,1.4,24.9,18
+Michigan,2017,2017,2016,nativeAmericanVsWhite,3.2,15.5,4.8
+Minnesota,2017,2017,2016,nativeAmericanVsWhite,24,137.6,5.7
+Mississippi,2017,2017,2016,nativeAmericanVsWhite,4.7,16.1,3.4
+Missouri,2017,2017,2016,nativeAmericanVsWhite,3.8,23.6,6.2
+Montana,2017,2017,2016,nativeAmericanVsWhite,4.8,51.3,10.7
+Nebraska,2017,2017,2016,nativeAmericanVsWhite,4.5,44.7,9.8
+Nevada,2017,2017,2016,nativeAmericanVsWhite,2.2,46.6,20.9
+New Hampshire,2017,2017,2016,nativeAmericanVsWhite,1.3,12.7,10.1
+New Jersey,2017,2017,2016,nativeAmericanVsWhite,3.3,17.8,5.4
+New Mexico,2017,2017,2016,nativeAmericanVsWhite,3.4,29.6,8.8
+New York,2017,2017,2016,nativeAmericanVsWhite,2.6,38.1,14.4
+North Carolina,2017,2017,2016,nativeAmericanVsWhite,2.3,12,5.2
+North Dakota,2017,2017,2016,nativeAmericanVsWhite,9.9,54.3,5.5
+Ohio,2017,2017,2016,nativeAmericanVsWhite,2.9,15.1,5.2
+Oklahoma,2017,2017,2016,nativeAmericanVsWhite,1.8,16,8.9
+Oregon,2017,2017,2016,nativeAmericanVsWhite,2.5,80.2,31.7
+Pennsylvania,2017,2017,2016,nativeAmericanVsWhite,1.8,10,5.6
+Rhode Island,2017,2017,2016,nativeAmericanVsWhite,1.8,15.1,8.5
+South Carolina,2017,2017,2016,nativeAmericanVsWhite,2.6,11.9,4.5
+South Dakota,2017,2017,2016,nativeAmericanVsWhite,17.2,72.4,4.2
+Tennessee,2017,2017,2016,nativeAmericanVsWhite,2.2,20.4,9.1
+Texas,2017,2017,2016,nativeAmericanVsWhite,1.9,11.5,5.9
+Utah,2017,2017,2016,nativeAmericanVsWhite,4.2,33.5,7.9
+Vermont,2017,2017,2016,nativeAmericanVsWhite,1.3,24.7,18.5
+Virginia,2017,2017,2016,nativeAmericanVsWhite,1.7,7,4.1
+Washington,2017,2017,2016,nativeAmericanVsWhite,4.4,92.8,21.2
+West Virginia,2017,2017,2016,nativeAmericanVsWhite,1.8,11.1,6.2
+Wisconsin,2017,2017,2016,nativeAmericanVsWhite,5.5,29.7,5.4
+Wyoming,2017,2017,2016,nativeAmericanVsWhite,7.7,92,12
+Puerto Rico,2017,2017,2016,nativeAmericanVsWhite,3,21,7.1
+Alabama,2017,2017,2016,nhpiVsWhite,0.4,2,4.7
+Alaska,2017,2017,2016,nhpiVsWhite,5.3,69.9,13.1
+Arizona,2017,2017,2016,nhpiVsWhite,2.4,25,10.5
+Arkansas,2017,2017,2016,nhpiVsWhite,1.3,7.8,6.1
+California,2017,2017,2016,nhpiVsWhite,3,74.6,24.6
+Colorado,2017,2017,2016,nhpiVsWhite,2.6,42.4,16
+Connecticut,2017,2017,2016,nhpiVsWhite,18.5,112.7,6.1
+Delaware,2017,2017,2016,nhpiVsWhite,9.1,54.5,6
+District of Columbia,2017,2017,2016,nhpiVsWhite,12.7,201.7,15.8
+Florida,2017,2017,2016,nhpiVsWhite,4.1,47.2,11.6
+Georgia,2017,2017,2016,nhpiVsWhite,3.6,15.9,4.4
+Hawaii,2017,2017,2016,nhpiVsWhite,4.6,199.6,43.2
+Idaho,2017,2017,2016,nhpiVsWhite,3.7,42.7,11.4
+Illinois,2017,2017,2016,nhpiVsWhite,6.1,24.2,4
+Indiana,2017,2017,2016,nhpiVsWhite,8.2,47.5,5.8
+Iowa,2017,2017,2016,nhpiVsWhite,6.3,36.2,5.8
+Kansas,2017,2017,2016,nhpiVsWhite,6,34,5.7
+Kentucky,2017,2017,2016,nhpiVsWhite,0.8,5.4,7.2
+Louisiana,2017,2017,2016,nhpiVsWhite,8.3,35.7,4.3
+Maine,2017,2017,2016,nhpiVsWhite,13.6,200,14.7
+Maryland,2017,2017,2016,nhpiVsWhite,4.9,34.1,6.9
+Massachusetts,2017,2017,2016,nhpiVsWhite,6.4,114.7,18
+Michigan,2017,2017,2016,nhpiVsWhite,2.6,12.7,4.8
+Minnesota,2017,2017,2016,nhpiVsWhite,7.4,42.5,5.7
+Mississippi,2017,2017,2016,nhpiVsWhite,0,0,3.4
+Missouri,2017,2017,2016,nhpiVsWhite,1.9,12.1,6.2
+Montana,2017,2017,2016,nhpiVsWhite,9.1,96.7,10.7
+Nebraska,2017,2017,2016,nhpiVsWhite,1.7,16.5,9.8
+Nevada,2017,2017,2016,nhpiVsWhite,1.6,33.1,20.9
+New Hampshire,2017,2017,2016,nhpiVsWhite,0,0,10.1
+New Jersey,2017,2017,2016,nhpiVsWhite,7.5,40.9,5.4
+New Mexico,2017,2017,2016,nhpiVsWhite,3.1,27.3,8.8
+New York,2017,2017,2016,nhpiVsWhite,31.2,449.6,14.4
+North Carolina,2017,2017,2016,nhpiVsWhite,2.6,13.5,5.2
+North Dakota,2017,2017,2016,nhpiVsWhite,0,0,5.5
+Ohio,2017,2017,2016,nhpiVsWhite,6.7,34.6,5.2
+Oklahoma,2017,2017,2016,nhpiVsWhite,2.7,23.9,8.9
+Oregon,2017,2017,2016,nhpiVsWhite,3,95.9,31.7
+Pennsylvania,2017,2017,2016,nhpiVsWhite,7.6,42.1,5.6
+Rhode Island,2017,2017,2016,nhpiVsWhite,1.8,15.2,8.5
+South Carolina,2017,2017,2016,nhpiVsWhite,1.9,8.5,4.5
+South Dakota,2017,2017,2016,nhpiVsWhite,29,122,4.2
+Tennessee,2017,2017,2016,nhpiVsWhite,1,9.3,9.1
+Texas,2017,2017,2016,nhpiVsWhite,2.9,17.4,5.9
+Utah,2017,2017,2016,nhpiVsWhite,1.9,14.9,7.9
+Vermont,2017,2017,2016,nhpiVsWhite,4.2,76.9,18.5
+Virginia,2017,2017,2016,nhpiVsWhite,5.7,23.4,4.1
+Washington,2017,2017,2016,nhpiVsWhite,4.2,88.5,21.2
+West Virginia,2017,2017,2016,nhpiVsWhite,8.2,50.8,6.2
+Wisconsin,2017,2017,2016,nhpiVsWhite,7.8,42.6,5.4
+Wyoming,2017,2017,2016,nhpiVsWhite,9.9,118.9,12
+Puerto Rico,2017,2017,2016,nhpiVsWhite,80.6,569.9,7.1
+Alabama,2017,2017,2016,multipleRacesVsWhite,3,14,4.7
+Alaska,2017,2017,2016,multipleRacesVsWhite,2.8,36.4,13.1
+Arizona,2017,2017,2016,multipleRacesVsWhite,2.2,23.4,10.5
+Arkansas,2017,2017,2016,multipleRacesVsWhite,2.4,14.5,6.1
+California,2017,2017,2016,multipleRacesVsWhite,3,72.8,24.6
+Colorado,2017,2017,2016,multipleRacesVsWhite,2.7,44.1,16
+Connecticut,2017,2017,2016,multipleRacesVsWhite,3.9,23.5,6.1
+Delaware,2017,2017,2016,multipleRacesVsWhite,2.9,17.2,6
+District of Columbia,2017,2017,2016,multipleRacesVsWhite,6.6,103.9,15.8
+Florida,2017,2017,2016,multipleRacesVsWhite,2.3,26.3,11.6
+Georgia,2017,2017,2016,multipleRacesVsWhite,3.6,15.9,4.4
+Hawaii,2017,2017,2016,multipleRacesVsWhite,1.2,50.5,43.2
+Idaho,2017,2017,2016,multipleRacesVsWhite,1.6,18.7,11.4
+Illinois,2017,2017,2016,multipleRacesVsWhite,3.5,13.9,4
+Indiana,2017,2017,2016,multipleRacesVsWhite,2.4,13.9,5.8
+Iowa,2017,2017,2016,multipleRacesVsWhite,6.1,35.5,5.8
+Kansas,2017,2017,2016,multipleRacesVsWhite,2.9,16.3,5.7
+Kentucky,2017,2017,2016,multipleRacesVsWhite,2.5,18,7.2
+Louisiana,2017,2017,2016,multipleRacesVsWhite,2,8.6,4.3
+Maine,2017,2017,2016,multipleRacesVsWhite,2.5,36.6,14.7
+Maryland,2017,2017,2016,multipleRacesVsWhite,2.7,18.7,6.9
+Massachusetts,2017,2017,2016,multipleRacesVsWhite,4.9,87.6,18
+Michigan,2017,2017,2016,multipleRacesVsWhite,3.4,16.6,4.8
+Minnesota,2017,2017,2016,multipleRacesVsWhite,7.1,40.4,5.7
+Mississippi,2017,2017,2016,multipleRacesVsWhite,1.3,4.6,3.4
+Missouri,2017,2017,2016,multipleRacesVsWhite,3.9,24,6.2
+Montana,2017,2017,2016,multipleRacesVsWhite,4.6,48.6,10.7
+Nebraska,2017,2017,2016,multipleRacesVsWhite,2.8,27.7,9.8
+Nevada,2017,2017,2016,multipleRacesVsWhite,1.6,33.4,20.9
+New Hampshire,2017,2017,2016,multipleRacesVsWhite,4.3,43.6,10.1
+New Jersey,2017,2017,2016,multipleRacesVsWhite,1.7,9.4,5.4
+New Mexico,2017,2017,2016,multipleRacesVsWhite,3.4,30.2,8.8
+New York,2017,2017,2016,multipleRacesVsWhite,7.3,105.3,14.4
+North Carolina,2017,2017,2016,multipleRacesVsWhite,3.7,19,5.2
+North Dakota,2017,2017,2016,multipleRacesVsWhite,41.4,228.4,5.5
+Ohio,2017,2017,2016,multipleRacesVsWhite,3.8,19.6,5.2
+Oklahoma,2017,2017,2016,multipleRacesVsWhite,1.1,9.9,8.9
+Oregon,2017,2017,2016,multipleRacesVsWhite,2,61.9,31.7
+Pennsylvania,2017,2017,2016,multipleRacesVsWhite,4.8,26.5,5.6
+Rhode Island,2017,2017,2016,multipleRacesVsWhite,3.3,28.4,8.5
+South Carolina,2017,2017,2016,multipleRacesVsWhite,3.3,15,4.5
+South Dakota,2017,2017,2016,multipleRacesVsWhite,1.8,7.5,4.2
+Tennessee,2017,2017,2016,multipleRacesVsWhite,2,18.5,9.1
+Texas,2017,2017,2016,multipleRacesVsWhite,2.8,16.7,5.9
+Utah,2017,2017,2016,multipleRacesVsWhite,2.3,17.9,7.9
+Vermont,2017,2017,2016,multipleRacesVsWhite,1.7,32.2,18.5
+Virginia,2017,2017,2016,multipleRacesVsWhite,2.7,11,4.1
+Washington,2017,2017,2016,multipleRacesVsWhite,3.5,74.5,21.2
+West Virginia,2017,2017,2016,multipleRacesVsWhite,1.2,7.4,6.2
+Wisconsin,2017,2017,2016,multipleRacesVsWhite,6,32.9,5.4
+Wyoming,2017,2017,2016,multipleRacesVsWhite,1.7,19.9,12
+Puerto Rico,2017,2017,2016,multipleRacesVsWhite,12,84.5,7.1
+Alabama,2017,2017,2016,hispanicVsNonHispanic,0.4,3.5,8
+Alaska,2017,2017,2016,hispanicVsNonHispanic,0.8,19.8,25.3
+Arizona,2017,2017,2016,hispanicVsNonHispanic,0.7,9.7,14.4
+Arkansas,2017,2017,2016,hispanicVsNonHispanic,0.3,2.8,8.7
+California,2017,2017,2016,hispanicVsNonHispanic,0.7,27.8,38.3
+Colorado,2017,2017,2016,hispanicVsNonHispanic,1.3,23.7,18.7
+Connecticut,2017,2017,2016,hispanicVsNonHispanic,2.2,17.3,8
+Delaware,2017,2017,2016,hispanicVsNonHispanic,0.9,9.4,10.5
+District of Columbia,2017,2017,2016,hispanicVsNonHispanic,0.6,66.4,115
+Florida,2017,2017,2016,hispanicVsNonHispanic,0.5,9.3,17.7
+Georgia,2017,2017,2016,hispanicVsNonHispanic,0.4,4.3,10.4
+Hawaii,2017,2017,2016,hispanicVsNonHispanic,1.3,65.1,48.9
+Idaho,2017,2017,2016,hispanicVsNonHispanic,1.1,12.9,12
+Illinois,2017,2017,2016,hispanicVsNonHispanic,0.5,4.9,9.2
+Indiana,2017,2017,2016,hispanicVsNonHispanic,0.6,5.2,8.4
+Iowa,2017,2017,2016,hispanicVsNonHispanic,1.3,11.2,8.6
+Kansas,2017,2017,2016,hispanicVsNonHispanic,1.3,9.3,6.9
+Kentucky,2017,2017,2016,hispanicVsNonHispanic,0.8,6.9,9.1
+Louisiana,2017,2017,2016,hispanicVsNonHispanic,0.6,4.3,7.2
+Maine,2017,2017,2016,hispanicVsNonHispanic,2.5,41.8,16.7
+Maryland,2017,2017,2016,hispanicVsNonHispanic,0.5,6.9,12.6
+Massachusetts,2017,2017,2016,hispanicVsNonHispanic,4.6,83.7,18.3
+Michigan,2017,2017,2016,hispanicVsNonHispanic,1.1,10.1,9.1
+Minnesota,2017,2017,2016,hispanicVsNonHispanic,1.4,19.5,13.6
+Mississippi,2017,2017,2016,hispanicVsNonHispanic,0.2,1.2,5
+Missouri,2017,2017,2016,hispanicVsNonHispanic,1.2,12.4,10.1
+Montana,2017,2017,2016,hispanicVsNonHispanic,2.3,32,14
+Nebraska,2017,2017,2016,hispanicVsNonHispanic,1,13,13.1
+Nevada,2017,2017,2016,hispanicVsNonHispanic,0.4,12.7,32.2
+New Hampshire,2017,2017,2016,hispanicVsNonHispanic,2.8,28.9,10.3
+New Jersey,2017,2017,2016,hispanicVsNonHispanic,1.1,10,9.4
+New Mexico,2017,2017,2016,hispanicVsNonHispanic,0.8,10.3,13.5
+New York,2017,2017,2016,hispanicVsNonHispanic,2.1,78.5,37.6
+North Carolina,2017,2017,2016,hispanicVsNonHispanic,0.6,5.6,9.2
+North Dakota,2017,2017,2016,hispanicVsNonHispanic,1.1,15.6,14.3
+Ohio,2017,2017,2016,hispanicVsNonHispanic,1,8.8,8.7
+Oklahoma,2017,2017,2016,hispanicVsNonHispanic,0.7,7.6,11.1
+Oregon,2017,2017,2016,hispanicVsNonHispanic,0.8,28.9,34.8
+Pennsylvania,2017,2017,2016,hispanicVsNonHispanic,1.5,16,10.7
+Rhode Island,2017,2017,2016,hispanicVsNonHispanic,1.6,16.7,10.2
+South Carolina,2017,2017,2016,hispanicVsNonHispanic,0.4,3.2,8.2
+South Dakota,2017,2017,2016,hispanicVsNonHispanic,1.2,13.1,10.8
+Tennessee,2017,2017,2016,hispanicVsNonHispanic,0.5,6.2,12.8
+Texas,2017,2017,2016,hispanicVsNonHispanic,0.6,6.1,10
+Utah,2017,2017,2016,hispanicVsNonHispanic,1.8,15.3,8.4
+Vermont,2017,2017,2016,hispanicVsNonHispanic,2.7,51.5,19
+Virginia,2017,2017,2016,hispanicVsNonHispanic,1,7.2,7.2
+Washington,2017,2017,2016,hispanicVsNonHispanic,1.1,31.4,28.6
+West Virginia,2017,2017,2016,hispanicVsNonHispanic,1,7.4,7.1
+Wisconsin,2017,2017,2016,hispanicVsNonHispanic,1.2,10.1,8.6
+Wyoming,2017,2017,2016,hispanicVsNonHispanic,1.2,18.1,14.6
+Puerto Rico,2017,2017,2016,hispanicVsNonHispanic,0.6,10.2,16.9
+Alabama,2016,2016,2015,blackVsWhite,3.4,17.3,5.1
+Alaska,2016,2016,2015,blackVsWhite,3.6,53.7,15.1
+Arizona,2016,2016,2015,blackVsWhite,4.8,54.8,11.5
+Arkansas,2016,2016,2015,blackVsWhite,3.1,19.2,6.1
+California,2016,2016,2015,blackVsWhite,5.4,127.9,23.8
+Colorado,2016,2016,2015,blackVsWhite,5.1,77.4,15.2
+Connecticut,2016,2016,2015,blackVsWhite,5.1,36.9,7.2
+Delaware,2016,2016,2015,blackVsWhite,4.8,29.1,6.1
+District of Columbia,2016,2016,2015,blackVsWhite,16,236.8,14.8
+Florida,2016,2016,2015,blackVsWhite,3,37,12.3
+Georgia,2016,2016,2015,blackVsWhite,4.3,26.4,6.1
+Hawaii,2016,2016,2015,blackVsWhite,1.8,89.8,49.1
+Idaho,2016,2016,2015,blackVsWhite,4.5,56.1,12.5
+Illinois,2016,2016,2015,blackVsWhite,8.6,36.3,4.2
+Indiana,2016,2016,2015,blackVsWhite,4.8,30.1,6.3
+Iowa,2016,2016,2015,blackVsWhite,12.4,80.9,6.5
+Kansas,2016,2016,2015,blackVsWhite,4.8,28.5,6
+Kentucky,2016,2016,2015,blackVsWhite,4.1,30.3,7.4
+Louisiana,2016,2016,2015,blackVsWhite,3,15.3,5
+Maine,2016,2016,2015,blackVsWhite,8.2,121.6,14.8
+Maryland,2016,2016,2015,blackVsWhite,3.4,25.2,7.5
+Massachusetts,2016,2016,2015,blackVsWhite,5.4,106.9,19.8
+Michigan,2016,2016,2015,blackVsWhite,6.3,32.9,5.2
+Minnesota,2016,2016,2015,blackVsWhite,16.7,99.3,5.9
+Mississippi,2016,2016,2015,blackVsWhite,2.6,9.4,3.6
+Missouri,2016,2016,2015,blackVsWhite,4.7,32.2,6.8
+Montana,2016,2016,2015,blackVsWhite,4.5,43.1,9.5
+Nebraska,2016,2016,2015,blackVsWhite,5.5,61.1,11
+Nevada,2016,2016,2015,blackVsWhite,4.1,81.5,19.8
+New Hampshire,2016,2016,2015,blackVsWhite,5.1,48.2,9.5
+New Jersey,2016,2016,2015,blackVsWhite,6,35.2,5.9
+New Mexico,2016,2016,2015,blackVsWhite,4.7,35.1,7.4
+New York,2016,2016,2015,blackVsWhite,11.5,160.3,14
+North Carolina,2016,2016,2015,blackVsWhite,4.1,22.8,5.6
+North Dakota,2016,2016,2015,blackVsWhite,8.6,65.4,7.6
+Ohio,2016,2016,2015,blackVsWhite,5.8,31.3,5.4
+Oklahoma,2016,2016,2015,blackVsWhite,3.4,29.1,8.6
+Oregon,2016,2016,2015,blackVsWhite,3.3,100.3,30.4
+Pennsylvania,2016,2016,2015,blackVsWhite,8.4,52.7,6.3
+Rhode Island,2016,2016,2015,blackVsWhite,4.1,34.7,8.6
+South Carolina,2016,2016,2015,blackVsWhite,3,19.4,6.4
+South Dakota,2016,2016,2015,blackVsWhite,10.1,44.2,4.4
+Tennessee,2016,2016,2015,blackVsWhite,3,29.8,9.9
+Texas,2016,2016,2015,blackVsWhite,4.1,23.7,5.8
+Utah,2016,2016,2015,blackVsWhite,7.4,61.1,8.2
+Vermont,2016,2016,2015,blackVsWhite,6.8,111.1,16.3
+Virginia,2016,2016,2015,blackVsWhite,4.7,20.2,4.3
+Washington,2016,2016,2015,blackVsWhite,6.5,139.2,21.4
+West Virginia,2016,2016,2015,blackVsWhite,5.1,32.8,6.4
+Wisconsin,2016,2016,2015,blackVsWhite,8.9,53.6,6
+Wyoming,2016,2016,2015,blackVsWhite,4.1,50.2,12.1
+Puerto Rico,2016,2016,2015,blackVsWhite,2.7,21.6,8.1
+Alabama,2016,2016,2015,asianVsWhite,0.1,0.6,5.1
+Alaska,2016,2016,2015,asianVsWhite,0.6,9.6,15.1
+Arizona,2016,2016,2015,asianVsWhite,0.2,2.3,11.5
+Arkansas,2016,2016,2015,asianVsWhite,0.4,2.2,6.1
+California,2016,2016,2015,asianVsWhite,0.1,3.2,23.8
+Colorado,2016,2016,2015,asianVsWhite,0.3,4.5,15.2
+Connecticut,2016,2016,2015,asianVsWhite,0.3,1.9,7.2
+Delaware,2016,2016,2015,asianVsWhite,0,0.3,6.1
+District of Columbia,2016,2016,2015,asianVsWhite,0.9,13.1,14.8
+Florida,2016,2016,2015,asianVsWhite,0.2,2.1,12.3
+Georgia,2016,2016,2015,asianVsWhite,0.2,1.3,6.1
+Hawaii,2016,2016,2015,asianVsWhite,0.1,7.4,49.1
+Idaho,2016,2016,2015,asianVsWhite,0.3,3.8,12.5
+Illinois,2016,2016,2015,asianVsWhite,0.4,1.8,4.2
+Indiana,2016,2016,2015,asianVsWhite,0.3,1.7,6.3
+Iowa,2016,2016,2015,asianVsWhite,0.4,2.4,6.5
+Kansas,2016,2016,2015,asianVsWhite,0.4,2.1,6
+Kentucky,2016,2016,2015,asianVsWhite,0.1,0.5,7.4
+Louisiana,2016,2016,2015,asianVsWhite,0.3,1.4,5
+Maine,2016,2016,2015,asianVsWhite,0.4,5.6,14.8
+Maryland,2016,2016,2015,asianVsWhite,0.1,0.9,7.5
+Massachusetts,2016,2016,2015,asianVsWhite,0.1,2.9,19.8
+Michigan,2016,2016,2015,asianVsWhite,0.2,1.1,5.2
+Minnesota,2016,2016,2015,asianVsWhite,0.5,3.1,5.9
+Mississippi,2016,2016,2015,asianVsWhite,0.6,2.3,3.6
+Missouri,2016,2016,2015,asianVsWhite,0.3,1.9,6.8
+Montana,2016,2016,2015,asianVsWhite,0.1,1.2,9.5
+Nebraska,2016,2016,2015,asianVsWhite,0.2,2.5,11
+Nevada,2016,2016,2015,asianVsWhite,0.4,7.7,19.8
+New Hampshire,2016,2016,2015,asianVsWhite,0.1,0.6,9.5
+New Jersey,2016,2016,2015,asianVsWhite,0.1,0.7,5.9
+New Mexico,2016,2016,2015,asianVsWhite,0.7,5.2,7.4
+New York,2016,2016,2015,asianVsWhite,0.4,5.5,14
+North Carolina,2016,2016,2015,asianVsWhite,0.2,1.1,5.6
+North Dakota,2016,2016,2015,asianVsWhite,0.6,4.6,7.6
+Ohio,2016,2016,2015,asianVsWhite,0.3,1.6,5.4
+Oklahoma,2016,2016,2015,asianVsWhite,0.3,2.9,8.6
+Oregon,2016,2016,2015,asianVsWhite,0.2,4.9,30.4
+Pennsylvania,2016,2016,2015,asianVsWhite,0.2,1.5,6.3
+Rhode Island,2016,2016,2015,asianVsWhite,0.5,4.1,8.6
+South Carolina,2016,2016,2015,asianVsWhite,0.4,2.8,6.4
+South Dakota,2016,2016,2015,asianVsWhite,0.4,1.7,4.4
+Tennessee,2016,2016,2015,asianVsWhite,0.2,2,9.9
+Texas,2016,2016,2015,asianVsWhite,0.3,1.8,5.8
+Utah,2016,2016,2015,asianVsWhite,0.5,4,8.2
+Vermont,2016,2016,2015,asianVsWhite,0.4,5.7,16.3
+Virginia,2016,2016,2015,asianVsWhite,0.4,1.6,4.3
+Washington,2016,2016,2015,asianVsWhite,0.4,7.9,21.4
+West Virginia,2016,2016,2015,asianVsWhite,0.1,0.7,6.4
+Wisconsin,2016,2016,2015,asianVsWhite,0.5,2.8,6
+Wyoming,2016,2016,2015,asianVsWhite,0.3,3.5,12.1
+Puerto Rico,2016,2016,2015,asianVsWhite,0.7,5.5,8.1
+Alabama,2016,2016,2015,nativeAmericanVsWhite,2.9,14.6,5.1
+Alaska,2016,2016,2015,nativeAmericanVsWhite,4.7,70.3,15.1
+Arizona,2016,2016,2015,nativeAmericanVsWhite,1.9,22.2,11.5
+Arkansas,2016,2016,2015,nativeAmericanVsWhite,1.2,7.4,6.1
+California,2016,2016,2015,nativeAmericanVsWhite,2.7,65.1,23.8
+Colorado,2016,2016,2015,nativeAmericanVsWhite,4,61.3,15.2
+Connecticut,2016,2016,2015,nativeAmericanVsWhite,3.9,28.5,7.2
+Delaware,2016,2016,2015,nativeAmericanVsWhite,0.3,1.7,6.1
+District of Columbia,2016,2016,2015,nativeAmericanVsWhite,6.4,95,14.8
+Florida,2016,2016,2015,nativeAmericanVsWhite,2.4,29.5,12.3
+Georgia,2016,2016,2015,nativeAmericanVsWhite,2.1,12.5,6.1
+Hawaii,2016,2016,2015,nativeAmericanVsWhite,4.1,199.6,49.1
+Idaho,2016,2016,2015,nativeAmericanVsWhite,3.7,46.1,12.5
+Illinois,2016,2016,2015,nativeAmericanVsWhite,1.7,7.2,4.2
+Indiana,2016,2016,2015,nativeAmericanVsWhite,2.5,15.6,6.3
+Iowa,2016,2016,2015,nativeAmericanVsWhite,7.1,46.6,6.5
+Kansas,2016,2016,2015,nativeAmericanVsWhite,3.2,18.9,6
+Kentucky,2016,2016,2015,nativeAmericanVsWhite,3.1,23.1,7.4
+Louisiana,2016,2016,2015,nativeAmericanVsWhite,1.7,8.4,5
+Maine,2016,2016,2015,nativeAmericanVsWhite,3.1,45.7,14.8
+Maryland,2016,2016,2015,nativeAmericanVsWhite,2.2,16.2,7.5
+Massachusetts,2016,2016,2015,nativeAmericanVsWhite,1.2,24.6,19.8
+Michigan,2016,2016,2015,nativeAmericanVsWhite,2.4,12.5,5.2
+Minnesota,2016,2016,2015,nativeAmericanVsWhite,16.2,96.5,5.9
+Mississippi,2016,2016,2015,nativeAmericanVsWhite,3.4,12.3,3.6
+Missouri,2016,2016,2015,nativeAmericanVsWhite,4.7,32.4,6.8
+Montana,2016,2016,2015,nativeAmericanVsWhite,5.6,53.4,9.5
+Nebraska,2016,2016,2015,nativeAmericanVsWhite,2.3,24.9,11
+Nevada,2016,2016,2015,nativeAmericanVsWhite,1.8,35.4,19.8
+New Hampshire,2016,2016,2015,nativeAmericanVsWhite,0.8,7.9,9.5
+New Jersey,2016,2016,2015,nativeAmericanVsWhite,2.5,14.9,5.9
+New Mexico,2016,2016,2015,nativeAmericanVsWhite,3.5,26,7.4
+New York,2016,2016,2015,nativeAmericanVsWhite,2.5,34.6,14
+North Carolina,2016,2016,2015,nativeAmericanVsWhite,1.7,9.2,5.6
+North Dakota,2016,2016,2015,nativeAmericanVsWhite,6.9,52.6,7.6
+Ohio,2016,2016,2015,nativeAmericanVsWhite,2.9,15.7,5.4
+Oklahoma,2016,2016,2015,nativeAmericanVsWhite,1.8,15,8.6
+Oregon,2016,2016,2015,nativeAmericanVsWhite,2.6,77.7,30.4
+Pennsylvania,2016,2016,2015,nativeAmericanVsWhite,2.1,13.3,6.3
+Rhode Island,2016,2016,2015,nativeAmericanVsWhite,1.9,16.3,8.6
+South Carolina,2016,2016,2015,nativeAmericanVsWhite,1.6,10.6,6.4
+South Dakota,2016,2016,2015,nativeAmericanVsWhite,18.3,80.6,4.4
+Tennessee,2016,2016,2015,nativeAmericanVsWhite,1.6,16.1,9.9
+Texas,2016,2016,2015,nativeAmericanVsWhite,5.2,30.4,5.8
+Utah,2016,2016,2015,nativeAmericanVsWhite,3.9,32,8.2
+Vermont,2016,2016,2015,nativeAmericanVsWhite,3.1,50.3,16.3
+Virginia,2016,2016,2015,nativeAmericanVsWhite,1.9,8.3,4.3
+Washington,2016,2016,2015,nativeAmericanVsWhite,3.8,82.2,21.4
+West Virginia,2016,2016,2015,nativeAmericanVsWhite,2.1,13.5,6.4
+Wisconsin,2016,2016,2015,nativeAmericanVsWhite,5.2,31.4,6
+Wyoming,2016,2016,2015,nativeAmericanVsWhite,6.7,80.9,12.1
+Puerto Rico,2016,2016,2015,nativeAmericanVsWhite,5.7,46.4,8.1
+Alabama,2016,2016,2015,nhpiVsWhite,3.2,16.1,5.1
+Alaska,2016,2016,2015,nhpiVsWhite,3.7,55.8,15.1
+Arizona,2016,2016,2015,nhpiVsWhite,3.2,37.4,11.5
+Arkansas,2016,2016,2015,nhpiVsWhite,1.5,9.2,6.1
+California,2016,2016,2015,nhpiVsWhite,2.8,65.9,23.8
+Colorado,2016,2016,2015,nhpiVsWhite,3.9,59.5,15.2
+Connecticut,2016,2016,2015,nhpiVsWhite,26.5,191.8,7.2
+Delaware,2016,2016,2015,nhpiVsWhite,5.6,34.1,6.1
+District of Columbia,2016,2016,2015,nhpiVsWhite,10.4,154.7,14.8
+Florida,2016,2016,2015,nhpiVsWhite,2.7,32.7,12.3
+Georgia,2016,2016,2015,nhpiVsWhite,7.2,43.5,6.1
+Hawaii,2016,2016,2015,nhpiVsWhite,4.7,231.6,49.1
+Idaho,2016,2016,2015,nhpiVsWhite,5.5,68.6,12.5
+Illinois,2016,2016,2015,nhpiVsWhite,5.2,22,4.2
+Indiana,2016,2016,2015,nhpiVsWhite,6.6,42,6.3
+Iowa,2016,2016,2015,nhpiVsWhite,2.3,14.9,6.5
+Kansas,2016,2016,2015,nhpiVsWhite,1.1,6.3,6
+Kentucky,2016,2016,2015,nhpiVsWhite,6.7,49.5,7.4
+Louisiana,2016,2016,2015,nhpiVsWhite,6.5,32.7,5
+Maine,2016,2016,2015,nhpiVsWhite,7,104.4,14.8
+Maryland,2016,2016,2015,nhpiVsWhite,4,29.9,7.5
+Massachusetts,2016,2016,2015,nhpiVsWhite,6.1,121.1,19.8
+Michigan,2016,2016,2015,nhpiVsWhite,16.5,86,5.2
+Minnesota,2016,2016,2015,nhpiVsWhite,33.6,199.9,5.9
+Mississippi,2016,2016,2015,nhpiVsWhite,4.6,16.9,3.6
+Missouri,2016,2016,2015,nhpiVsWhite,3,20.6,6.8
+Montana,2016,2016,2015,nhpiVsWhite,7.1,67.6,9.5
+Nebraska,2016,2016,2015,nhpiVsWhite,2.3,25.9,11
+Nevada,2016,2016,2015,nhpiVsWhite,3.1,60.9,19.8
+New Hampshire,2016,2016,2015,nhpiVsWhite,3.3,31.5,9.5
+New Jersey,2016,2016,2015,nhpiVsWhite,10,58.9,5.9
+New Mexico,2016,2016,2015,nhpiVsWhite,6.6,49,7.4
+New York,2016,2016,2015,nhpiVsWhite,33,460.4,14
+North Carolina,2016,2016,2015,nhpiVsWhite,2.2,12.3,5.6
+North Dakota,2016,2016,2015,nhpiVsWhite,2.4,18.7,7.6
+Ohio,2016,2016,2015,nhpiVsWhite,2.6,14.1,5.4
+Oklahoma,2016,2016,2015,nhpiVsWhite,1.2,10,8.6
+Oregon,2016,2016,2015,nhpiVsWhite,2.7,83.5,30.4
+Pennsylvania,2016,2016,2015,nhpiVsWhite,4.7,29.9,6.3
+Rhode Island,2016,2016,2015,nhpiVsWhite,1.8,15.6,8.6
+South Carolina,2016,2016,2015,nhpiVsWhite,5.8,37.3,6.4
+South Dakota,2016,2016,2015,nhpiVsWhite,18.7,82.2,4.4
+Tennessee,2016,2016,2015,nhpiVsWhite,2.4,24.1,9.9
+Texas,2016,2016,2015,nhpiVsWhite,3.6,21,5.8
+Utah,2016,2016,2015,nhpiVsWhite,1.3,10.6,8.2
+Vermont,2016,2016,2015,nhpiVsWhite,0,0,16.3
+Virginia,2016,2016,2015,nhpiVsWhite,2.8,11.9,4.3
+Washington,2016,2016,2015,nhpiVsWhite,4.3,92.7,21.4
+West Virginia,2016,2016,2015,nhpiVsWhite,2.8,17.7,6.4
+Wisconsin,2016,2016,2015,nhpiVsWhite,7.3,43.7,6
+Wyoming,2016,2016,2015,nhpiVsWhite,0,0,12.1
+Puerto Rico,2016,2016,2015,nhpiVsWhite,0,0,8.1
+Alabama,2016,2016,2015,multipleRacesVsWhite,2.2,11,5.1
+Alaska,2016,2016,2015,multipleRacesVsWhite,2.1,32.3,15.1
+Arizona,2016,2016,2015,multipleRacesVsWhite,2,23,11.5
+Arkansas,2016,2016,2015,multipleRacesVsWhite,2.2,13.4,6.1
+California,2016,2016,2015,multipleRacesVsWhite,3.1,73.2,23.8
+Colorado,2016,2016,2015,multipleRacesVsWhite,3.2,47.8,15.2
+Connecticut,2016,2016,2015,multipleRacesVsWhite,1.9,14,7.2
+Delaware,2016,2016,2015,multipleRacesVsWhite,2.9,17.6,6.1
+District of Columbia,2016,2016,2015,multipleRacesVsWhite,5,73.7,14.8
+Florida,2016,2016,2015,multipleRacesVsWhite,2.2,26.9,12.3
+Georgia,2016,2016,2015,multipleRacesVsWhite,2.8,16.9,6.1
+Hawaii,2016,2016,2015,multipleRacesVsWhite,1.2,58.1,49.1
+Idaho,2016,2016,2015,multipleRacesVsWhite,1.6,20.5,12.5
+Illinois,2016,2016,2015,multipleRacesVsWhite,3.2,13.4,4.2
+Indiana,2016,2016,2015,multipleRacesVsWhite,2.7,17,6.3
+Iowa,2016,2016,2015,multipleRacesVsWhite,5.6,36.5,6.5
+Kansas,2016,2016,2015,multipleRacesVsWhite,3.1,18.4,6
+Kentucky,2016,2016,2015,multipleRacesVsWhite,3.2,23.4,7.4
+Louisiana,2016,2016,2015,multipleRacesVsWhite,3.8,18.9,5
+Maine,2016,2016,2015,multipleRacesVsWhite,2.3,34.1,14.8
+Maryland,2016,2016,2015,multipleRacesVsWhite,2.2,16.8,7.5
+Massachusetts,2016,2016,2015,multipleRacesVsWhite,7,138.3,19.8
+Michigan,2016,2016,2015,multipleRacesVsWhite,3.5,18,5.2
+Minnesota,2016,2016,2015,multipleRacesVsWhite,5.1,30.1,5.9
+Mississippi,2016,2016,2015,multipleRacesVsWhite,0.4,1.4,3.6
+Missouri,2016,2016,2015,multipleRacesVsWhite,3.1,20.9,6.8
+Montana,2016,2016,2015,multipleRacesVsWhite,5.6,52.9,9.5
+Nebraska,2016,2016,2015,multipleRacesVsWhite,5.6,61.9,11
+Nevada,2016,2016,2015,multipleRacesVsWhite,1.6,32.5,19.8
+New Hampshire,2016,2016,2015,multipleRacesVsWhite,4,38.1,9.5
+New Jersey,2016,2016,2015,multipleRacesVsWhite,1.7,10.1,5.9
+New Mexico,2016,2016,2015,multipleRacesVsWhite,5.3,39,7.4
+New York,2016,2016,2015,multipleRacesVsWhite,12.5,174.9,14
+North Carolina,2016,2016,2015,multipleRacesVsWhite,2.7,15.1,5.6
+North Dakota,2016,2016,2015,multipleRacesVsWhite,5.2,39.3,7.6
+Ohio,2016,2016,2015,multipleRacesVsWhite,3.7,20,5.4
+Oklahoma,2016,2016,2015,multipleRacesVsWhite,0.8,6.6,8.6
+Oregon,2016,2016,2015,multipleRacesVsWhite,2,59.4,30.4
+Pennsylvania,2016,2016,2015,multipleRacesVsWhite,4.2,26.5,6.3
+Rhode Island,2016,2016,2015,multipleRacesVsWhite,2.8,23.9,8.6
+South Carolina,2016,2016,2015,multipleRacesVsWhite,3.6,23,6.4
+South Dakota,2016,2016,2015,multipleRacesVsWhite,5.6,24.6,4.4
+Tennessee,2016,2016,2015,multipleRacesVsWhite,1.6,16,9.9
+Texas,2016,2016,2015,multipleRacesVsWhite,3.4,19.9,5.8
+Utah,2016,2016,2015,multipleRacesVsWhite,2,16.5,8.2
+Vermont,2016,2016,2015,multipleRacesVsWhite,2.3,37.4,16.3
+Virginia,2016,2016,2015,multipleRacesVsWhite,2.5,10.7,4.3
+Washington,2016,2016,2015,multipleRacesVsWhite,3.4,73.4,21.4
+West Virginia,2016,2016,2015,multipleRacesVsWhite,2.6,16.9,6.4
+Wisconsin,2016,2016,2015,multipleRacesVsWhite,5.6,33.6,6
+Wyoming,2016,2016,2015,multipleRacesVsWhite,2,23.7,12.1
+Puerto Rico,2016,2016,2015,multipleRacesVsWhite,12.6,101.9,8.1
+Alabama,2016,2016,2015,hispanicVsNonHispanic,0.5,4.2,8.7
+Alaska,2016,2016,2015,hispanicVsNonHispanic,1.1,28.3,26.2
+Arizona,2016,2016,2015,hispanicVsNonHispanic,0.7,11.3,15.6
+Arkansas,2016,2016,2015,hispanicVsNonHispanic,0.5,4,8.6
+California,2016,2016,2015,hispanicVsNonHispanic,0.6,21.7,35.8
+Colorado,2016,2016,2015,hispanicVsNonHispanic,1.4,25.5,17.7
+Connecticut,2016,2016,2015,hispanicVsNonHispanic,2.2,20.1,9.2
+Delaware,2016,2016,2015,hispanicVsNonHispanic,0.6,7,11.8
+District of Columbia,2016,2016,2015,hispanicVsNonHispanic,0.5,60.3,132.3
+Florida,2016,2016,2015,hispanicVsNonHispanic,0.5,9.5,18.9
+Georgia,2016,2016,2015,hispanicVsNonHispanic,0.5,6.8,13.3
+Hawaii,2016,2016,2015,hispanicVsNonHispanic,1.2,63.8,54.6
+Idaho,2016,2016,2015,hispanicVsNonHispanic,1,13.5,13.6
+Illinois,2016,2016,2015,hispanicVsNonHispanic,0.6,5.8,9.7
+Indiana,2016,2016,2015,hispanicVsNonHispanic,0.6,5,9
+Iowa,2016,2016,2015,hispanicVsNonHispanic,1.8,16.8,9.4
+Kansas,2016,2016,2015,hispanicVsNonHispanic,0.9,7.1,7.8
+Kentucky,2016,2016,2015,hispanicVsNonHispanic,1.2,11.2,9.5
+Louisiana,2016,2016,2015,hispanicVsNonHispanic,0.9,7.9,8.6
+Maine,2016,2016,2015,hispanicVsNonHispanic,2.1,34.3,16.6
+Maryland,2016,2016,2015,hispanicVsNonHispanic,1,12.6,12.8
+Massachusetts,2016,2016,2015,hispanicVsNonHispanic,4.4,91.8,21
+Michigan,2016,2016,2015,hispanicVsNonHispanic,1.2,10.8,9.3
+Minnesota,2016,2016,2015,hispanicVsNonHispanic,1.9,24,12.8
+Mississippi,2016,2016,2015,hispanicVsNonHispanic,0.4,2.2,5.9
+Missouri,2016,2016,2015,hispanicVsNonHispanic,1.1,10.8,10.2
+Montana,2016,2016,2015,hispanicVsNonHispanic,2.3,30.6,13.1
+Nebraska,2016,2016,2015,hispanicVsNonHispanic,1.3,18.3,14.1
+Nevada,2016,2016,2015,hispanicVsNonHispanic,0.4,11.7,31.1
+New Hampshire,2016,2016,2015,hispanicVsNonHispanic,2.7,26.4,9.7
+New Jersey,2016,2016,2015,hispanicVsNonHispanic,1,10.2,9.9
+New Mexico,2016,2016,2015,hispanicVsNonHispanic,0.7,8.8,12.9
+New York,2016,2016,2015,hispanicVsNonHispanic,3.6,105.4,29.5
+North Carolina,2016,2016,2015,hispanicVsNonHispanic,0.5,4.8,10
+North Dakota,2016,2016,2015,hispanicVsNonHispanic,2.6,29.6,11.6
+Ohio,2016,2016,2015,hispanicVsNonHispanic,0.9,8.1,9
+Oklahoma,2016,2016,2015,hispanicVsNonHispanic,0.5,5.4,11.1
+Oregon,2016,2016,2015,hispanicVsNonHispanic,0.8,28,33.6
+Pennsylvania,2016,2016,2015,hispanicVsNonHispanic,1.7,19.2,11.5
+Rhode Island,2016,2016,2015,hispanicVsNonHispanic,1.5,15.4,10.2
+South Carolina,2016,2016,2015,hispanicVsNonHispanic,0.4,4.8,10.6
+South Dakota,2016,2016,2015,hispanicVsNonHispanic,1.2,14.8,12.4
+Tennessee,2016,2016,2015,hispanicVsNonHispanic,0.5,7.1,13.6
+Texas,2016,2016,2015,hispanicVsNonHispanic,0.5,5.6,10.2
+Utah,2016,2016,2015,hispanicVsNonHispanic,1.7,14.3,8.6
+Vermont,2016,2016,2015,hispanicVsNonHispanic,4,68.3,16.9
+Virginia,2016,2016,2015,hispanicVsNonHispanic,1,7.5,7.5
+Washington,2016,2016,2015,hispanicVsNonHispanic,1.2,33.8,28.4
+West Virginia,2016,2016,2015,hispanicVsNonHispanic,0.9,6.6,7.5
+Wisconsin,2016,2016,2015,hispanicVsNonHispanic,1.3,12.5,9.7
+Wyoming,2016,2016,2015,hispanicVsNonHispanic,1.5,20.9,13.9
+Puerto Rico,2016,2016,2015,hispanicVsNonHispanic,0.4,12.5,32.1
+Alabama,2015,2015,2014,blackVsWhite,3,16.2,5.4
+Alaska,2015,2015,2014,blackVsWhite,3.5,52.7,15.1
+Arizona,2015,2015,2014,blackVsWhite,4.7,55.9,11.9
+Arkansas,2015,2015,2014,blackVsWhite,3,19.5,6.5
+California,2015,2015,2014,blackVsWhite,5.6,127.7,22.7
+Colorado,2015,2015,2014,blackVsWhite,5.8,82.3,14.1
+Connecticut,2015,2015,2014,blackVsWhite,5.1,38.1,7.4
+Delaware,2015,2015,2014,blackVsWhite,4.4,24.6,5.6
+District of Columbia,2015,2015,2014,blackVsWhite,13.3,204,15.4
+Florida,2015,2015,2014,blackVsWhite,2.9,39.4,13.5
+Georgia,2015,2015,2014,blackVsWhite,4.1,28.1,6.9
+Hawaii,2015,2015,2014,blackVsWhite,1.8,91.5,50.3
+Idaho,2015,2015,2014,blackVsWhite,4.7,52.8,11.3
+Illinois,2015,2015,2014,blackVsWhite,8.8,41.2,4.7
+Indiana,2015,2015,2014,blackVsWhite,5.4,33.1,6.2
+Iowa,2015,2015,2014,blackVsWhite,10.9,75.2,6.9
+Kansas,2015,2015,2014,blackVsWhite,5.4,35.7,6.6
+Kentucky,2015,2015,2014,blackVsWhite,4.2,33,7.9
+Louisiana,2015,2015,2014,blackVsWhite,3,15.8,5.2
+Maine,2015,2015,2014,blackVsWhite,7,112.2,16.1
+Maryland,2015,2015,2014,blackVsWhite,3.2,27.1,8.4
+Massachusetts,2015,2015,2014,blackVsWhite,6,127.4,21.4
+Michigan,2015,2015,2014,blackVsWhite,6.5,37.9,5.8
+Minnesota,2015,2015,2014,blackVsWhite,19,107.4,5.7
+Mississippi,2015,2015,2014,blackVsWhite,3.8,12.2,3.2
+Missouri,2015,2015,2014,blackVsWhite,5.1,35.9,7
+Montana,2015,2015,2014,blackVsWhite,4.9,68.1,14
+Nebraska,2015,2015,2014,blackVsWhite,5.8,63.6,10.9
+Nevada,2015,2015,2014,blackVsWhite,5.8,124.1,21.3
+New Hampshire,2015,2015,2014,blackVsWhite,3.2,33.6,10.5
+New Jersey,2015,2015,2014,blackVsWhite,6.3,42,6.7
+New Mexico,2015,2015,2014,blackVsWhite,4.2,41.7,10
+New York,2015,2015,2014,blackVsWhite,11.1,173.4,15.6
+North Carolina,2015,2015,2014,blackVsWhite,4.1,25.9,6.3
+North Dakota,2015,2015,2014,blackVsWhite,12.4,145.7,11.8
+Ohio,2015,2015,2014,blackVsWhite,6,34.7,5.8
+Oklahoma,2015,2015,2014,blackVsWhite,2.9,24.5,8.4
+Oregon,2015,2015,2014,blackVsWhite,3.4,104.4,30.7
+Pennsylvania,2015,2015,2014,blackVsWhite,9,55.1,6.1
+Rhode Island,2015,2015,2014,blackVsWhite,4.1,35,8.5
+South Carolina,2015,2015,2014,blackVsWhite,3.2,21.8,6.8
+South Dakota,2015,2015,2014,blackVsWhite,9.9,54.9,5.5
+Tennessee,2015,2015,2014,blackVsWhite,3,31.2,10.4
+Texas,2015,2015,2014,blackVsWhite,4,25.7,6.4
+Utah,2015,2015,2014,blackVsWhite,9.2,80.8,8.8
+Vermont,2015,2015,2014,blackVsWhite,7.6,174.9,22.9
+Virginia,2015,2015,2014,blackVsWhite,5,23,4.6
+Washington,2015,2015,2014,blackVsWhite,6.9,144,20.8
+West Virginia,2015,2015,2014,blackVsWhite,5.1,44,8.6
+Wisconsin,2015,2015,2014,blackVsWhite,8.8,56.8,6.5
+Wyoming,2015,2015,2014,blackVsWhite,3.1,35.9,11.6
+Puerto Rico,2015,2015,2014,blackVsWhite,3.2,23.9,7.5
+Alabama,2015,2015,2014,asianVsWhite,0.1,0.8,5.4
+Alaska,2015,2015,2014,asianVsWhite,0.3,4,15.1
+Arizona,2015,2015,2014,asianVsWhite,0.2,2.6,11.9
+Arkansas,2015,2015,2014,asianVsWhite,0.2,1.6,6.5
+California,2015,2015,2014,asianVsWhite,0.2,3.9,22.7
+Colorado,2015,2015,2014,asianVsWhite,0.4,5.4,14.1
+Connecticut,2015,2015,2014,asianVsWhite,0.3,2.4,7.4
+Delaware,2015,2015,2014,asianVsWhite,0.2,0.8,5.6
+District of Columbia,2015,2015,2014,asianVsWhite,1.6,24.2,15.4
+Florida,2015,2015,2014,asianVsWhite,0.2,2.2,13.5
+Georgia,2015,2015,2014,asianVsWhite,0.2,1,6.9
+Hawaii,2015,2015,2014,asianVsWhite,0.2,8.9,50.3
+Idaho,2015,2015,2014,asianVsWhite,0.4,4.9,11.3
+Illinois,2015,2015,2014,asianVsWhite,0.3,1.5,4.7
+Indiana,2015,2015,2014,asianVsWhite,0.2,1.3,6.2
+Iowa,2015,2015,2014,asianVsWhite,0.3,2.2,6.9
+Kansas,2015,2015,2014,asianVsWhite,0.2,1.5,6.6
+Kentucky,2015,2015,2014,asianVsWhite,0.1,1.2,7.9
+Louisiana,2015,2015,2014,asianVsWhite,0.5,2.6,5.2
+Maine,2015,2015,2014,asianVsWhite,0.2,3.9,16.1
+Maryland,2015,2015,2014,asianVsWhite,0.2,1.5,8.4
+Massachusetts,2015,2015,2014,asianVsWhite,0.2,4.9,21.4
+Michigan,2015,2015,2014,asianVsWhite,0.2,1,5.8
+Minnesota,2015,2015,2014,asianVsWhite,0.8,4.6,5.7
+Mississippi,2015,2015,2014,asianVsWhite,0.2,0.7,3.2
+Missouri,2015,2015,2014,asianVsWhite,0.3,1.8,7
+Montana,2015,2015,2014,asianVsWhite,0,0,14
+Nebraska,2015,2015,2014,asianVsWhite,0.5,5.9,10.9
+Nevada,2015,2015,2014,asianVsWhite,0.5,10,21.3
+New Hampshire,2015,2015,2014,asianVsWhite,0.2,1.8,10.5
+New Jersey,2015,2015,2014,asianVsWhite,0.2,1.2,6.7
+New Mexico,2015,2015,2014,asianVsWhite,0.4,3.5,10
+New York,2015,2015,2014,asianVsWhite,0.3,5.3,15.6
+North Carolina,2015,2015,2014,asianVsWhite,0.3,2.1,6.3
+North Dakota,2015,2015,2014,asianVsWhite,1.4,16.1,11.8
+Ohio,2015,2015,2014,asianVsWhite,0.3,1.5,5.8
+Oklahoma,2015,2015,2014,asianVsWhite,0.1,0.9,8.4
+Oregon,2015,2015,2014,asianVsWhite,0.3,7.9,30.7
+Pennsylvania,2015,2015,2014,asianVsWhite,0.3,1.8,6.1
+Rhode Island,2015,2015,2014,asianVsWhite,0.1,1.1,8.5
+South Carolina,2015,2015,2014,asianVsWhite,0.2,1.5,6.8
+South Dakota,2015,2015,2014,asianVsWhite,0.5,2.7,5.5
+Tennessee,2015,2015,2014,asianVsWhite,0.2,2,10.4
+Texas,2015,2015,2014,asianVsWhite,0.2,1.2,6.4
+Utah,2015,2015,2014,asianVsWhite,0.6,5.1,8.8
+Vermont,2015,2015,2014,asianVsWhite,0.1,3,22.9
+Virginia,2015,2015,2014,asianVsWhite,0.5,2.1,4.6
+Washington,2015,2015,2014,asianVsWhite,0.3,6.4,20.8
+West Virginia,2015,2015,2014,asianVsWhite,0.1,0.7,8.6
+Wisconsin,2015,2015,2014,asianVsWhite,0.6,3.6,6.5
+Wyoming,2015,2015,2014,asianVsWhite,0,0,11.6
+Puerto Rico,2015,2015,2014,asianVsWhite,0.2,1.1,7.5
+Alabama,2015,2015,2014,nativeAmericanVsWhite,1.1,5.7,5.4
+Alaska,2015,2015,2014,nativeAmericanVsWhite,5.2,79.4,15.1
+Arizona,2015,2015,2014,nativeAmericanVsWhite,2,23.6,11.9
+Arkansas,2015,2015,2014,nativeAmericanVsWhite,1.8,11.4,6.5
+California,2015,2015,2014,nativeAmericanVsWhite,3.3,74.8,22.7
+Colorado,2015,2015,2014,nativeAmericanVsWhite,4,56.8,14.1
+Connecticut,2015,2015,2014,nativeAmericanVsWhite,3.6,26.9,7.4
+Delaware,2015,2015,2014,nativeAmericanVsWhite,3.3,18.4,5.6
+District of Columbia,2015,2015,2014,nativeAmericanVsWhite,4.6,71,15.4
+Florida,2015,2015,2014,nativeAmericanVsWhite,2.9,38.8,13.5
+Georgia,2015,2015,2014,nativeAmericanVsWhite,0.9,5.9,6.9
+Hawaii,2015,2015,2014,nativeAmericanVsWhite,3.4,168.9,50.3
+Idaho,2015,2015,2014,nativeAmericanVsWhite,3.4,38.7,11.3
+Illinois,2015,2015,2014,nativeAmericanVsWhite,1.5,7.1,4.7
+Indiana,2015,2015,2014,nativeAmericanVsWhite,2.8,16.9,6.2
+Iowa,2015,2015,2014,nativeAmericanVsWhite,6.4,44.1,6.9
+Kansas,2015,2015,2014,nativeAmericanVsWhite,4.8,31.6,6.6
+Kentucky,2015,2015,2014,nativeAmericanVsWhite,3.7,29.5,7.9
+Louisiana,2015,2015,2014,nativeAmericanVsWhite,2.7,14.1,5.2
+Maine,2015,2015,2014,nativeAmericanVsWhite,1.7,27.4,16.1
+Maryland,2015,2015,2014,nativeAmericanVsWhite,1.9,16,8.4
+Massachusetts,2015,2015,2014,nativeAmericanVsWhite,1.5,31.4,21.4
+Michigan,2015,2015,2014,nativeAmericanVsWhite,1.9,11.1,5.8
+Minnesota,2015,2015,2014,nativeAmericanVsWhite,16.1,91.2,5.7
+Mississippi,2015,2015,2014,nativeAmericanVsWhite,1.7,5.7,3.2
+Missouri,2015,2015,2014,nativeAmericanVsWhite,1.8,12.5,7
+Montana,2015,2015,2014,nativeAmericanVsWhite,3.4,47.3,14
+Nebraska,2015,2015,2014,nativeAmericanVsWhite,4.1,45.1,10.9
+Nevada,2015,2015,2014,nativeAmericanVsWhite,1.9,40.5,21.3
+New Hampshire,2015,2015,2014,nativeAmericanVsWhite,0.5,5.3,10.5
+New Jersey,2015,2015,2014,nativeAmericanVsWhite,0.7,4.4,6.7
+New Mexico,2015,2015,2014,nativeAmericanVsWhite,2.7,26.6,10
+New York,2015,2015,2014,nativeAmericanVsWhite,2.8,43.5,15.6
+North Carolina,2015,2015,2014,nativeAmericanVsWhite,1.8,11.1,6.3
+North Dakota,2015,2015,2014,nativeAmericanVsWhite,3.8,45.1,11.8
+Ohio,2015,2015,2014,nativeAmericanVsWhite,3.2,18.7,5.8
+Oklahoma,2015,2015,2014,nativeAmericanVsWhite,1.4,11.6,8.4
+Oregon,2015,2015,2014,nativeAmericanVsWhite,2.8,84.7,30.7
+Pennsylvania,2015,2015,2014,nativeAmericanVsWhite,2.8,17.2,6.1
+Rhode Island,2015,2015,2014,nativeAmericanVsWhite,0.8,6.8,8.5
+South Carolina,2015,2015,2014,nativeAmericanVsWhite,2.4,16.6,6.8
+South Dakota,2015,2015,2014,nativeAmericanVsWhite,12.3,68,5.5
+Tennessee,2015,2015,2014,nativeAmericanVsWhite,2.2,23,10.4
+Texas,2015,2015,2014,nativeAmericanVsWhite,2.5,15.7,6.4
+Utah,2015,2015,2014,nativeAmericanVsWhite,3.3,28.6,8.8
+Vermont,2015,2015,2014,nativeAmericanVsWhite,0.9,21.1,22.9
+Virginia,2015,2015,2014,nativeAmericanVsWhite,3.1,14.2,4.6
+Washington,2015,2015,2014,nativeAmericanVsWhite,3.1,64.6,20.8
+West Virginia,2015,2015,2014,nativeAmericanVsWhite,2.4,20.6,8.6
+Wisconsin,2015,2015,2014,nativeAmericanVsWhite,5.4,34.9,6.5
+Wyoming,2015,2015,2014,nativeAmericanVsWhite,5.3,61.5,11.6
+Puerto Rico,2015,2015,2014,nativeAmericanVsWhite,6.2,46.7,7.5
+Alabama,2015,2015,2014,nhpiVsWhite,0.4,2,5.4
+Alaska,2015,2015,2014,nhpiVsWhite,4.4,67.2,15.1
+Arizona,2015,2015,2014,nhpiVsWhite,2.7,32.5,11.9
+Arkansas,2015,2015,2014,nhpiVsWhite,5.3,34.6,6.5
+California,2015,2015,2014,nhpiVsWhite,2.8,63.7,22.7
+Colorado,2015,2015,2014,nhpiVsWhite,2.4,34.5,14.1
+Connecticut,2015,2015,2014,nhpiVsWhite,44.8,332.3,7.4
+Delaware,2015,2015,2014,nhpiVsWhite,6.3,35.2,5.6
+District of Columbia,2015,2015,2014,nhpiVsWhite,7.7,119,15.4
+Florida,2015,2015,2014,nhpiVsWhite,3.8,52,13.5
+Georgia,2015,2015,2014,nhpiVsWhite,6.5,44.5,6.9
+Hawaii,2015,2015,2014,nhpiVsWhite,4.1,205.2,50.3
+Idaho,2015,2015,2014,nhpiVsWhite,4.3,48.9,11.3
+Illinois,2015,2015,2014,nhpiVsWhite,5.3,24.7,4.7
+Indiana,2015,2015,2014,nhpiVsWhite,6.6,40.4,6.2
+Iowa,2015,2015,2014,nhpiVsWhite,7.9,54.3,6.9
+Kansas,2015,2015,2014,nhpiVsWhite,3.9,25.7,6.6
+Kentucky,2015,2015,2014,nhpiVsWhite,5.3,41.8,7.9
+Louisiana,2015,2015,2014,nhpiVsWhite,9.3,48.4,5.2
+Maine,2015,2015,2014,nhpiVsWhite,11,177,16.1
+Maryland,2015,2015,2014,nhpiVsWhite,6.9,58,8.4
+Massachusetts,2015,2015,2014,nhpiVsWhite,10.1,215.3,21.4
+Michigan,2015,2015,2014,nhpiVsWhite,10,58.3,5.8
+Minnesota,2015,2015,2014,nhpiVsWhite,15,84.6,5.7
+Mississippi,2015,2015,2014,nhpiVsWhite,24.7,80,3.2
+Missouri,2015,2015,2014,nhpiVsWhite,4.4,30.6,7
+Montana,2015,2015,2014,nhpiVsWhite,4.2,58.5,14
+Nebraska,2015,2015,2014,nhpiVsWhite,6.4,69.9,10.9
+Nevada,2015,2015,2014,nhpiVsWhite,1.6,34.7,21.3
+New Hampshire,2015,2015,2014,nhpiVsWhite,1.6,16.5,10.5
+New Jersey,2015,2015,2014,nhpiVsWhite,5.8,38.6,6.7
+New Mexico,2015,2015,2014,nhpiVsWhite,5.2,52.3,10
+New York,2015,2015,2014,nhpiVsWhite,33.7,526.9,15.6
+North Carolina,2015,2015,2014,nhpiVsWhite,2.2,14.2,6.3
+North Dakota,2015,2015,2014,nhpiVsWhite,9.1,106.8,11.8
+Ohio,2015,2015,2014,nhpiVsWhite,5.2,29.7,5.8
+Oklahoma,2015,2015,2014,nhpiVsWhite,2,16.6,8.4
+Oregon,2015,2015,2014,nhpiVsWhite,3.2,98.4,30.7
+Pennsylvania,2015,2015,2014,nhpiVsWhite,6,36.9,6.1
+Rhode Island,2015,2015,2014,nhpiVsWhite,1.2,10.5,8.5
+South Carolina,2015,2015,2014,nhpiVsWhite,6.3,43.2,6.8
+South Dakota,2015,2015,2014,nhpiVsWhite,9.2,50.7,5.5
+Tennessee,2015,2015,2014,nhpiVsWhite,3.8,39.4,10.4
+Texas,2015,2015,2014,nhpiVsWhite,4.5,28.9,6.4
+Utah,2015,2015,2014,nhpiVsWhite,2.9,25.4,8.8
+Vermont,2015,2015,2014,nhpiVsWhite,5.7,130.4,22.9
+Virginia,2015,2015,2014,nhpiVsWhite,4.1,18.8,4.6
+Washington,2015,2015,2014,nhpiVsWhite,4.7,97.9,20.8
+West Virginia,2015,2015,2014,nhpiVsWhite,6.2,53.8,8.6
+Wisconsin,2015,2015,2014,nhpiVsWhite,23.4,151.4,6.5
+Wyoming,2015,2015,2014,nhpiVsWhite,1.4,16.2,11.6
+Puerto Rico,2015,2015,2014,nhpiVsWhite,45.7,343.4,7.5
+Alabama,2015,2015,2014,multipleRacesVsWhite,1,5.6,5.4
+Alaska,2015,2015,2014,multipleRacesVsWhite,1.3,19.9,15.1
+Arizona,2015,2015,2014,multipleRacesVsWhite,2.2,26.7,11.9
+Arkansas,2015,2015,2014,multipleRacesVsWhite,1.2,8.1,6.5
+California,2015,2015,2014,multipleRacesVsWhite,3.4,76.8,22.7
+Colorado,2015,2015,2014,multipleRacesVsWhite,3.5,50,14.1
+Connecticut,2015,2015,2014,multipleRacesVsWhite,1.7,12.8,7.4
+Delaware,2015,2015,2014,multipleRacesVsWhite,4.2,23.3,5.6
+District of Columbia,2015,2015,2014,multipleRacesVsWhite,5.9,90.5,15.4
+Florida,2015,2015,2014,multipleRacesVsWhite,2.3,30.4,13.5
+Georgia,2015,2015,2014,multipleRacesVsWhite,3,20.6,6.9
+Hawaii,2015,2015,2014,multipleRacesVsWhite,1.2,58.9,50.3
+Idaho,2015,2015,2014,multipleRacesVsWhite,0.7,7.6,11.3
+Illinois,2015,2015,2014,multipleRacesVsWhite,4.7,21.9,4.7
+Indiana,2015,2015,2014,multipleRacesVsWhite,2.7,16.4,6.2
+Iowa,2015,2015,2014,multipleRacesVsWhite,5.6,38.5,6.9
+Kansas,2015,2015,2014,multipleRacesVsWhite,2.9,19.4,6.6
+Kentucky,2015,2015,2014,multipleRacesVsWhite,3.2,25.3,7.9
+Louisiana,2015,2015,2014,multipleRacesVsWhite,1.7,9,5.2
+Maine,2015,2015,2014,multipleRacesVsWhite,2.4,38.7,16.1
+Maryland,2015,2015,2014,multipleRacesVsWhite,2.3,19.4,8.4
+Massachusetts,2015,2015,2014,multipleRacesVsWhite,5,106.8,21.4
+Michigan,2015,2015,2014,multipleRacesVsWhite,3.3,19.2,5.8
+Minnesota,2015,2015,2014,multipleRacesVsWhite,8.8,49.7,5.7
+Mississippi,2015,2015,2014,multipleRacesVsWhite,0.7,2.3,3.2
+Missouri,2015,2015,2014,multipleRacesVsWhite,3.1,21.8,7
+Montana,2015,2015,2014,multipleRacesVsWhite,1.7,24.4,14
+Nebraska,2015,2015,2014,multipleRacesVsWhite,4.1,44.2,10.9
+Nevada,2015,2015,2014,multipleRacesVsWhite,1.8,38,21.3
+New Hampshire,2015,2015,2014,multipleRacesVsWhite,2.7,28.6,10.5
+New Jersey,2015,2015,2014,multipleRacesVsWhite,0.4,2.5,6.7
+New Mexico,2015,2015,2014,multipleRacesVsWhite,1.4,14.3,10
+New York,2015,2015,2014,multipleRacesVsWhite,4.6,72,15.6
+North Carolina,2015,2015,2014,multipleRacesVsWhite,1.8,11.4,6.3
+North Dakota,2015,2015,2014,multipleRacesVsWhite,5.6,65.7,11.8
+Ohio,2015,2015,2014,multipleRacesVsWhite,3.3,18.8,5.8
+Oklahoma,2015,2015,2014,multipleRacesVsWhite,0.8,7,8.4
+Oregon,2015,2015,2014,multipleRacesVsWhite,1.8,54.9,30.7
+Pennsylvania,2015,2015,2014,multipleRacesVsWhite,3.8,23.3,6.1
+Rhode Island,2015,2015,2014,multipleRacesVsWhite,2,16.8,8.5
+South Carolina,2015,2015,2014,multipleRacesVsWhite,1.8,12.3,6.8
+South Dakota,2015,2015,2014,multipleRacesVsWhite,1.6,8.7,5.5
+Tennessee,2015,2015,2014,multipleRacesVsWhite,1.3,13.3,10.4
+Texas,2015,2015,2014,multipleRacesVsWhite,2.2,14,6.4
+Utah,2015,2015,2014,multipleRacesVsWhite,2,17.2,8.8
+Vermont,2015,2015,2014,multipleRacesVsWhite,0.6,13.2,22.9
+Virginia,2015,2015,2014,multipleRacesVsWhite,3.3,15.1,4.6
+Washington,2015,2015,2014,multipleRacesVsWhite,2.7,55.2,20.8
+West Virginia,2015,2015,2014,multipleRacesVsWhite,1.5,12.9,8.6
+Wisconsin,2015,2015,2014,multipleRacesVsWhite,4.6,30,6.5
+Wyoming,2015,2015,2014,multipleRacesVsWhite,3.2,37.2,11.6
+Puerto Rico,2015,2015,2014,multipleRacesVsWhite,10.8,81.1,7.5
+Alabama,2015,2015,2014,hispanicVsNonHispanic,0.4,3.5,8.4
+Alaska,2015,2015,2014,hispanicVsNonHispanic,0.7,19,27.1
+Arizona,2015,2015,2014,hispanicVsNonHispanic,0.7,11.6,16.1
+Arkansas,2015,2015,2014,hispanicVsNonHispanic,2.6,20.1,7.8
+California,2015,2015,2014,hispanicVsNonHispanic,0.6,21.2,35.4
+Colorado,2015,2015,2014,hispanicVsNonHispanic,1.6,26.1,16.6
+Connecticut,2015,2015,2014,hispanicVsNonHispanic,2.2,20.9,9.6
+Delaware,2015,2015,2014,hispanicVsNonHispanic,0.6,6.5,10.5
+District of Columbia,2015,2015,2014,hispanicVsNonHispanic,0.5,55.5,117.2
+Florida,2015,2015,2014,hispanicVsNonHispanic,0.5,10.4,20.5
+Georgia,2015,2015,2014,hispanicVsNonHispanic,0.5,7.6,14.3
+Hawaii,2015,2015,2014,hispanicVsNonHispanic,1.3,65.8,52.4
+Idaho,2015,2015,2014,hispanicVsNonHispanic,1,12.1,12
+Illinois,2015,2015,2014,hispanicVsNonHispanic,0.8,8.4,10.6
+Indiana,2015,2015,2014,hispanicVsNonHispanic,0.5,5,9.2
+Iowa,2015,2015,2014,hispanicVsNonHispanic,1.5,14.4,9.7
+Kansas,2015,2015,2014,hispanicVsNonHispanic,0.9,8.2,9
+Kentucky,2015,2015,2014,hispanicVsNonHispanic,0.9,9.1,10.3
+Louisiana,2015,2015,2014,hispanicVsNonHispanic,0.5,4.4,9
+Maine,2015,2015,2014,hispanicVsNonHispanic,2.2,37.8,17.5
+Maryland,2015,2015,2014,hispanicVsNonHispanic,0.6,9.1,14.6
+Massachusetts,2015,2015,2014,hispanicVsNonHispanic,4.4,101.3,22.8
+Michigan,2015,2015,2014,hispanicVsNonHispanic,1.1,11.2,10.6
+Minnesota,2015,2015,2014,hispanicVsNonHispanic,1.6,22.1,13.4
+Mississippi,2015,2015,2014,hispanicVsNonHispanic,0.4,2.4,6.8
+Missouri,2015,2015,2014,hispanicVsNonHispanic,1,10.7,10.7
+Montana,2015,2015,2014,hispanicVsNonHispanic,2.3,36.8,16
+Nebraska,2015,2015,2014,hispanicVsNonHispanic,1.5,20.7,13.9
+Nevada,2015,2015,2014,hispanicVsNonHispanic,0.5,17.9,35.8
+New Hampshire,2015,2015,2014,hispanicVsNonHispanic,2.7,27.7,10.3
+New Jersey,2015,2015,2014,hispanicVsNonHispanic,0.9,10.6,11.5
+New Mexico,2015,2015,2014,hispanicVsNonHispanic,0.8,11.2,14
+New York,2015,2015,2014,hispanicVsNonHispanic,2,76.4,37.5
+North Carolina,2015,2015,2014,hispanicVsNonHispanic,0.5,6.1,11.2
+North Dakota,2015,2015,2014,hispanicVsNonHispanic,2.2,38,17
+Ohio,2015,2015,2014,hispanicVsNonHispanic,1,9.5,9.6
+Oklahoma,2015,2015,2014,hispanicVsNonHispanic,0.6,6.5,10.1
+Oregon,2015,2015,2014,hispanicVsNonHispanic,0.9,31.4,33.6
+Pennsylvania,2015,2015,2014,hispanicVsNonHispanic,2.3,25.2,11.1
+Rhode Island,2015,2015,2014,hispanicVsNonHispanic,2.1,18.9,9.2
+South Carolina,2015,2015,2014,hispanicVsNonHispanic,0.5,5.4,11.4
+South Dakota,2015,2015,2014,hispanicVsNonHispanic,0.4,5.3,12.4
+Tennessee,2015,2015,2014,hispanicVsNonHispanic,0.4,5.9,14.4
+Texas,2015,2015,2014,hispanicVsNonHispanic,0.7,6.7,10.1
+Utah,2015,2015,2014,hispanicVsNonHispanic,1.8,16.7,9.3
+Vermont,2015,2015,2014,hispanicVsNonHispanic,1.8,43,24
+Virginia,2015,2015,2014,hispanicVsNonHispanic,0.8,6.7,8.6
+Washington,2015,2015,2014,hispanicVsNonHispanic,1.2,32.1,26.9
+West Virginia,2015,2015,2014,hispanicVsNonHispanic,1.5,14.7,9.9
+Wisconsin,2015,2015,2014,hispanicVsNonHispanic,1.3,13.8,10.3
+Wyoming,2015,2015,2014,hispanicVsNonHispanic,1.8,22.7,12.7
+Puerto Rico,2015,2015,2014,hispanicVsNonHispanic,0.3,12.4,44.3

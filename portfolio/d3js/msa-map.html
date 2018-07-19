@@ -1,0 +1,82 @@
+---
+layout: portfolio_item
+category: D3.js
+title: Homelessness by MSA
+---
+<script type="text/javascript" src="../../../js/d3.v3.min.js" charset="utf-8"></script>
+<link rel="stylesheet" type="text/css" href="../../../css/MSA_map_style.css">
+<div class="row">
+  <div class="col-lg-1"></div>
+  <div class="col-lg-5">
+    This <a href="https://endhomelessness.org/resource/homelessness-populous-u-s-metro-areas-2016-interactive-map/" target="_blank">published</a> D3 graphic was created to replace, but generally reflect, an older (and I think uglier) version created by a designer. Design decisions were made collaboratively and to better reflect agency styling. I added additional data as well as the sortable row of circles for easier comparison between MSAs. Responsive design was not a priority for this graphic, but you can see others in my portfolio that are responsive.
+  </div>
+  <div class="col-lg-5">
+    <figure class="figure">
+      <img src="{{ site.baseurl }}/assets/images/MSA_map_old.jpg" class="figure-img img-fluid rounded" width="400" style="float:right"/>
+      <figcaption class="figure-caption text-right">What I was tasked with replacing</figcaption>
+    </figure>
+  </div>
+  <div class="col-lg-1"></div>
+</div>
+<br/><br/>
+<div class = "chartcontainer"></div>
+<br/>
+<br/>
+<br/>
+<div class="row">
+  <div class="col-lg-1"></div>
+  <div class="col-lg-10">
+    <div class="sectionSubheader">Some thoughts</div>
+  </div>
+  <div class="col-lg-1"></div>
+</div>
+<div class="row">
+  <div class="col-lg-1"></div>
+  <div class="col-lg-10">
+  The trickiest piece involved maintaining equal distance between the variably-sized circles at the bottom after sorting (typically the center of the circles would be equidistant, resulting in overlaps and gaps). Here is how that gets worked out:<br/><br/>
+    <div>
+      {% highlight javascript %}
+      // We are working with the range and domain of the x axis along which the circles are placed
+      xScale
+        .range(rangeCalculation(d, toggleSelection)) //toggleSelection is the selected sort (rate, population, etc.)
+        .domain(domainCalculation(d, toggleSelection));
+      
+      // For the range of the x axis, create a custom range list based on the cumulative radii of indices + padding leading up to each item
+      function rangeCalculation(data, toggleSelection){
+        var numberOfCases = 25; //number is known, but could've used: d.map(function(d){return d.total}).length;
+        var padding = 4; //space between dots. Keeping dots the same size as map above, this value results in the ideal length for the row of dots
+        var rangeList = [];
+        
+        // This is the default starting range calculation: data sorted by total homeless.
+        var sortedCases = data.sort(function(a,b){return b.total - a.total;});
+        
+        // Map the radius of each item to an array in the sorted order
+        var sortedRadii = sortedCases.map(function(d) {return Math.sqrt(parseInt(d.total) * cityCircleProportion)});
+
+        // Create the custom range list
+        var sumSoFar = 0;
+        for (i=0; i < numberOfCases; i++){
+          if (i===0){
+            rangeList.push(sortedRadii[0]);  //first item --> radii added to the range values list
+            sumSoFar = (sortedRadii[0]*2 + padding); //width + padding added to cumulative space used so far
+          }else{
+            rangeList.push(sumSoFar + sortedRadii[i]); //otherwise, the range spot will be the cumulative space used so far + the current radius
+            sumSoFar += (sortedRadii[i]*2 + padding);
+          }
+        }
+        
+        return(rangeList)
+      }
+
+      // The domain is simply the cities sorted by the selection (rate, population, etc.)
+      function domainCalculation(data, toggleSelection){
+        var sortedCases = data.sort(function(a,b){return d3.descending(a.total, b.total);});
+
+        return sortedCases.map(function(d){return d.city;});
+      }
+      {% endhighlight %}
+    </div>
+  </div>
+  <div class="col-lg-1"></div>
+</div>
+<script src="../../../js/MSA_map_script.js"></script>

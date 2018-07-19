@@ -1,0 +1,1249 @@
+state,year,category,rate,populationCount,homelessCount
+Alabama,2017,black,15.8,1303516,2064
+Alaska,2017,black,52.7,27898,147
+Arizona,2017,black,47.5,339472,1611
+Arkansas,2017,black,19.0,468502,892
+California,2017,black,170.9,2547480,43529
+Colorado,2017,black,71.9,248833,1788
+Connecticut,2017,black,31.9,421023,1343
+Delaware,2017,black,25.3,214914,544
+District of Columbia,2017,black,206.4,325190,6712
+Florida,2017,black,34.4,3471950,11954
+Georgia,2017,black,20.9,3301809,6902
+Hawaii,2017,black,82.1,31073,255
+Idaho,2017,black,52.9,14183,75
+Illinois,2017,black,33.9,1877776,6375
+Indiana,2017,black,29.3,641409,1877
+Iowa,2017,black,69.2,114874,795
+Kansas,2017,black,22.6,179599,405
+Kentucky,2017,black,27.4,367591,1009
+Louisiana,2017,black,12.6,1524638,1921
+Maine,2017,black,141.8,20025,284
+Maryland,2017,black,23.5,1845613,4341
+Massachusetts,2017,black,99.2,587417,5830
+Michigan,2017,black,33.4,1406212,4693
+Minnesota,2017,black,95.7,344322,3296
+Mississippi,2017,black,7.2,1127116,811
+Missouri,2017,black,36.7,720905,2645
+Montana,2017,black,54.7,6034,33
+Nebraska,2017,black,61.2,94620,579
+Nevada,2017,black,82.7,281224,2326
+New Hampshire,2017,black,38.0,20266,77
+New Jersey,2017,black,34.5,1337890,4621
+New Mexico,2017,black,27.2,52133,142
+New York,2017,black,176.2,3488119,61463
+North Carolina,2017,black,20.2,2252403,4553
+North Dakota,2017,black,56.8,22356,127
+Ohio,2017,black,30.7,1487040,4562
+Oklahoma,2017,black,25.2,304465,767
+Oregon,2017,black,96.1,86539,832
+Pennsylvania,2017,black,49.5,1505204,7450
+Rhode Island,2017,black,36.2,85355,309
+South Carolina,2017,black,16.2,1362579,2205
+South Dakota,2017,black,25.4,17302,44
+Tennessee,2017,black,28.2,1137075,3205
+Texas,2017,black,25.4,3515215,8928
+Utah,2017,black,68.1,41418,282
+Vermont,2017,black,97.0,8147,79
+Virginia,2017,black,19.5,1664523,3241
+Washington,2017,black,138.0,301955,4167
+West Virginia,2017,black,32.5,65929,214
+Wisconsin,2017,black,43.0,381807,1643
+Wyoming,2017,black,55.5,7753,43
+Puerto Rico,2017,black,16.0,395069,633
+Alabama,2017,white,4.7,3372524,1587
+Alaska,2017,white,13.1,490389,641
+Arizona,2017,white,10.5,5772667,6086
+Arkansas,2017,white,6.1,2373726,1447
+California,2017,white,24.6,28539253,70088
+Colorado,2017,white,16.0,4846441,7778
+Connecticut,2017,white,6.1,2882093,1752
+Delaware,2017,white,6.0,667809,398
+District of Columbia,2017,white,15.8,303813,481
+Florida,2017,white,11.6,15996473,18593
+Georgia,2017,white,4.4,6311001,2805
+Hawaii,2017,white,43.2,369064,1594
+Idaho,2017,white,11.4,1571098,1795
+Illinois,2017,white,4.0,9885382,3916
+Indiana,2017,white,5.8,5678630,3283
+Iowa,2017,white,5.8,2864884,1654
+Kansas,2017,white,5.7,2518720,1436
+Kentucky,2017,white,7.2,3903419,2829
+Louisiana,2017,white,4.3,2956505,1267
+Maine,2017,white,14.7,1262168,1853
+Maryland,2017,white,6.9,3567397,2479
+Massachusetts,2017,white,18.0,5570872,10006
+Michigan,2017,white,4.8,7902903,3826
+Minnesota,2017,white,5.7,4691265,2685
+Mississippi,2017,white,3.4,1772995,611
+Missouri,2017,white,6.2,5071682,3141
+Montana,2017,white,10.7,929802,992
+Nebraska,2017,white,9.8,1694976,1664
+Nevada,2017,white,20.9,2209037,4610
+New Hampshire,2017,white,10.1,1251893,1266
+New Jersey,2017,white,5.4,6473721,3526
+New Mexico,2017,white,8.8,1718307,1513
+New York,2017,white,14.4,13797556,19894
+North Carolina,2017,white,5.2,7206071,3745
+North Dakota,2017,white,5.5,665977,367
+Ohio,2017,white,5.2,9576321,4933
+Oklahoma,2017,white,8.9,2925602,2594
+Oregon,2017,white,31.7,3578285,11326
+Pennsylvania,2017,white,5.6,10531113,5864
+Rhode Island,2017,white,8.5,892045,762
+South Carolina,2017,white,4.5,3396931,1532
+South Dakota,2017,white,4.2,737070,310
+Tennessee,2017,white,9.1,5234030,4775
+Texas,2017,white,5.9,22135668,13076
+Utah,2017,white,7.9,2778175,2202
+Vermont,2017,white,18.5,590869,1093
+Virginia,2017,white,4.1,5891553,2417
+Washington,2017,white,21.2,5830144,12340
+West Virginia,2017,white,6.2,1713756,1062
+Wisconsin,2017,white,5.4,5057070,2753
+Wyoming,2017,white,12.0,543387,651
+Puerto Rico,2017,white,7.1,2278731,1612
+Alabama,2017,asian,1.3,68864,9
+Alaska,2017,asian,4.3,46912,20
+Arizona,2017,asian,2.2,236628,51
+Arkansas,2017,asian,1.9,47326,9
+California,2017,asian,4.4,5817509,2550
+Colorado,2017,asian,2.8,180510,51
+Connecticut,2017,asian,2.0,167870,34
+Delaware,2017,asian,1.1,37846,4
+District of Columbia,2017,asian,14.2,28251,40
+Florida,2017,asian,2.1,587722,122
+Georgia,2017,asian,0.9,420391,37
+Hawaii,2017,asian,12.2,539050,656
+Idaho,2017,asian,6.9,24815,17
+Illinois,2017,asian,1.1,708794,78
+Indiana,2017,asian,2.0,149209,30
+Iowa,2017,asian,2.4,78735,19
+Kansas,2017,asian,1.2,86448,10
+Kentucky,2017,asian,2.7,66230,18
+Louisiana,2017,asian,1.4,85006,12
+Maine,2017,asian,6.7,16517,11
+Maryland,2017,asian,1.0,395887,40
+Massachusetts,2017,asian,3.8,454371,173
+Michigan,2017,asian,0.7,306396,22
+Minnesota,2017,asian,4.0,272170,110
+Mississippi,2017,asian,1.3,31969,4
+Missouri,2017,asian,1.9,121812,23
+Montana,2017,asian,4.7,8486,4
+Nebraska,2017,asian,4.2,47282,20
+Nevada,2017,asian,7.2,254432,182
+New Hampshire,2017,asian,3.1,35776,11
+New Jersey,2017,asian,0.9,877077,75
+New Mexico,2017,asian,2.8,35287,10
+New York,2017,asian,6.0,1750857,1056
+North Carolina,2017,asian,1.2,296542,37
+North Dakota,2017,asian,5.2,11561,6
+Ohio,2017,asian,1.0,255464,26
+Oklahoma,2017,asian,0.9,88156,8
+Oregon,2017,asian,4.3,183054,79
+Pennsylvania,2017,asian,1.7,442652,77
+Rhode Island,2017,asian,2.1,37629,8
+South Carolina,2017,asian,1.0,79941,8
+South Dakota,2017,asian,2.3,12767,3
+Tennessee,2017,asian,2.8,120219,34
+Texas,2017,asian,1.9,1350474,253
+Utah,2017,asian,3.5,77033,27
+Vermont,2017,asian,6.3,11079,7
+Virginia,2017,asian,1.5,555515,84
+Washington,2017,asian,5.1,625138,321
+West Virginia,2017,asian,1.3,15385,2
+Wisconsin,2017,asian,4.2,163622,69
+Wyoming,2017,asian,3.4,5856,2
+Puerto Rico,2017,asian,3.5,5691,2
+Alabama,2017,nativeAmerican,6.2,33932,21
+Alaska,2017,nativeAmerican,68.5,112404,770
+Arizona,2017,nativeAmerican,18.9,371605,704
+Arkansas,2017,nativeAmerican,8.3,29049,24
+California,2017,nativeAmerican,88.2,648055,5718
+Colorado,2017,nativeAmerican,61.9,88197,546
+Connecticut,2017,nativeAmerican,11.5,19140,22
+Delaware,2017,nativeAmerican,1.6,6174,1
+District of Columbia,2017,nativeAmerican,59.6,4196,25
+Florida,2017,nativeAmerican,27.1,102439,278
+Georgia,2017,nativeAmerican,13.9,52365,73
+Hawaii,2017,nativeAmerican,186.1,5695,106
+Idaho,2017,nativeAmerican,20.4,29457,60
+Illinois,2017,nativeAmerican,9.0,75564,68
+Indiana,2017,nativeAmerican,16.4,26875,44
+Iowa,2017,nativeAmerican,46.5,15924,74
+Kansas,2017,nativeAmerican,28.3,34616,98
+Kentucky,2017,nativeAmerican,13.5,13297,18
+Louisiana,2017,nativeAmerican,7.8,35976,28
+Maine,2017,nativeAmerican,40.7,9329,38
+Maryland,2017,nativeAmerican,15.7,34380,54
+Massachusetts,2017,nativeAmerican,24.9,32988,82
+Michigan,2017,nativeAmerican,15.5,72252,112
+Minnesota,2017,nativeAmerican,137.6,73970,1018
+Mississippi,2017,nativeAmerican,16.1,17985,29
+Missouri,2017,nativeAmerican,23.6,33877,80
+Montana,2017,nativeAmerican,51.3,69073,354
+Nebraska,2017,nativeAmerican,44.7,27318,122
+Nevada,2017,nativeAmerican,46.6,48305,225
+New Hampshire,2017,nativeAmerican,12.7,3926,5
+New Jersey,2017,nativeAmerican,17.8,53976,96
+New Mexico,2017,nativeAmerican,29.6,219953,651
+New York,2017,nativeAmerican,38.1,191449,729
+North Carolina,2017,nativeAmerican,12.0,158476,190
+North Dakota,2017,nativeAmerican,54.3,41596,226
+Ohio,2017,nativeAmerican,15.1,32364,49
+Oklahoma,2017,nativeAmerican,16.0,360158,577
+Oregon,2017,nativeAmerican,80.2,73274,588
+Pennsylvania,2017,nativeAmerican,10.0,46770,47
+Rhode Island,2017,nativeAmerican,15.1,10576,16
+South Carolina,2017,nativeAmerican,11.9,26923,32
+South Dakota,2017,nativeAmerican,72.4,77711,563
+Tennessee,2017,nativeAmerican,20.4,29866,61
+Texas,2017,nativeAmerican,11.5,283393,325
+Utah,2017,nativeAmerican,33.5,47514,159
+Vermont,2017,nativeAmerican,24.7,2426,6
+Virginia,2017,nativeAmerican,7.0,45510,32
+Washington,2017,nativeAmerican,92.8,138489,1285
+West Virginia,2017,nativeAmerican,11.1,4503,5
+Wisconsin,2017,nativeAmerican,29.7,65597,195
+Wyoming,2017,nativeAmerican,92.0,15762,145
+Puerto Rico,2017,nativeAmerican,21.0,8082,17
+Alabama,2017,nhpi,2.0,5068,1
+Alaska,2017,nhpi,69.9,9870,69
+Arizona,2017,nhpi,25.0,18423,46
+Arkansas,2017,nhpi,7.8,9000,7
+California,2017,nhpi,74.6,196944,1469
+Colorado,2017,nhpi,42.4,10602,45
+Connecticut,2017,nhpi,112.7,3815,43
+Delaware,2017,nhpi,54.5,918,5
+District of Columbia,2017,nhpi,201.7,1041,21
+Florida,2017,nhpi,47.2,23107,109
+Georgia,2017,nhpi,15.9,11942,19
+Hawaii,2017,nhpi,199.6,145368,2901
+Idaho,2017,nhpi,42.7,3514,15
+Illinois,2017,nhpi,24.2,8276,20
+Indiana,2017,nhpi,47.5,4214,20
+Iowa,2017,nhpi,36.2,3592,13
+Kansas,2017,nhpi,34.0,3235,11
+Kentucky,2017,nhpi,5.4,3675,2
+Louisiana,2017,nhpi,35.7,3079,11
+Maine,2017,nhpi,200.0,500,10
+Maryland,2017,nhpi,34.1,6460,22
+Massachusetts,2017,nhpi,114.7,6975,80
+Michigan,2017,nhpi,12.7,3948,5
+Minnesota,2017,nhpi,42.5,3761,16
+Mississippi,2017,nhpi,0.0,1810,0
+Missouri,2017,nhpi,12.1,9117,11
+Montana,2017,nhpi,96.7,931,9
+Nebraska,2017,nhpi,16.5,2425,4
+Nevada,2017,nhpi,33.1,22654,75
+New Hampshire,2017,nhpi,0.0,670,0
+New Jersey,2017,nhpi,40.9,9295,38
+New Mexico,2017,nhpi,27.3,3293,9
+New York,2017,nhpi,449.6,26489,1191
+North Carolina,2017,nhpi,13.5,12623,17
+North Dakota,2017,nhpi,0.0,566,0
+Ohio,2017,nhpi,34.6,6639,23
+Oklahoma,2017,nhpi,23.9,7102,17
+Oregon,2017,nhpi,95.9,18249,175
+Pennsylvania,2017,nhpi,42.1,9265,39
+Rhode Island,2017,nhpi,15.2,1970,3
+South Carolina,2017,nhpi,8.5,4698,4
+South Dakota,2017,nhpi,122.0,656,8
+Tennessee,2017,nhpi,9.3,6432,6
+Texas,2017,nhpi,17.4,39079,68
+Utah,2017,nhpi,14.9,31502,47
+Vermont,2017,nhpi,76.9,260,2
+Virginia,2017,nhpi,23.4,9407,22
+Washington,2017,nhpi,88.5,54702,484
+West Virginia,2017,nhpi,50.8,591,3
+Wisconsin,2017,nhpi,42.6,3050,13
+Wyoming,2017,nhpi,118.9,673,8
+Puerto Rico,2017,nhpi,569.9,193,11
+Alabama,2017,multipleRaces,14.0,79396,111
+Alaska,2017,multipleRaces,36.4,54421,198
+Arizona,2017,multipleRaces,23.4,192276,449
+Arkansas,2017,multipleRaces,14.5,60645,88
+California,2017,multipleRaces,72.8,1500776,10924
+Colorado,2017,multipleRaces,44.1,165962,732
+Connecticut,2017,multipleRaces,23.5,82511,194
+Delaware,2017,multipleRaces,17.2,24404,42
+District of Columbia,2017,multipleRaces,103.9,18679,194
+Florida,2017,multipleRaces,26.3,430748,1134
+Georgia,2017,multipleRaces,15.9,212863,338
+Hawaii,2017,multipleRaces,50.5,338307,1708
+Idaho,2017,multipleRaces,18.7,40073,75
+Illinois,2017,multipleRaces,13.9,245747,341
+Indiana,2017,multipleRaces,13.9,132716,184
+Iowa,2017,multipleRaces,35.5,56684,201
+Kansas,2017,multipleRaces,16.3,84671,138
+Kentucky,2017,multipleRaces,18.0,82762,149
+Louisiana,2017,multipleRaces,8.6,76462,66
+Maine,2017,multipleRaces,36.6,22940,84
+Maryland,2017,multipleRaces,18.7,166710,311
+Massachusetts,2017,multipleRaces,87.6,159156,1394
+Michigan,2017,multipleRaces,16.6,236589,393
+Minnesota,2017,multipleRaces,40.4,134464,543
+Mississippi,2017,multipleRaces,4.6,36851,17
+Missouri,2017,multipleRaces,24.0,135607,326
+Montana,2017,multipleRaces,48.6,28194,137
+Nebraska,2017,multipleRaces,27.7,40495,112
+Nevada,2017,multipleRaces,33.4,124406,415
+New Hampshire,2017,multipleRaces,43.6,22264,97
+New Jersey,2017,multipleRaces,9.4,192510,180
+New Mexico,2017,multipleRaces,30.2,52042,157
+New York,2017,multipleRaces,105.3,490819,5170
+North Carolina,2017,multipleRaces,19.0,220673,420
+North Dakota,2017,multipleRaces,228.4,15896,363
+Ohio,2017,multipleRaces,19.6,256545,502
+Oklahoma,2017,multipleRaces,9.9,238078,236
+Oregon,2017,multipleRaces,61.9,154064,953
+Pennsylvania,2017,multipleRaces,26.5,249223,661
+Rhode Island,2017,multipleRaces,28.4,28851,82
+South Carolina,2017,multipleRaces,15.0,90047,135
+South Dakota,2017,multipleRaces,7.5,19948,15
+Tennessee,2017,multipleRaces,18.5,123572,228
+Texas,2017,multipleRaces,16.7,538767,898
+Utah,2017,multipleRaces,17.9,75575,135
+Vermont,2017,multipleRaces,32.2,11813,38
+Virginia,2017,multipleRaces,11.0,245300,271
+Washington,2017,multipleRaces,74.5,337572,2515
+West Virginia,2017,multipleRaces,7.4,30938,23
+Wisconsin,2017,multipleRaces,32.9,107562,354
+Wyoming,2017,multipleRaces,19.9,12070,24
+Puerto Rico,2017,multipleRaces,84.5,147855,1250
+Alabama,2017,hispanic,3.5,203845,72
+Alaska,2017,hispanic,19.8,51599,102
+Arizona,2017,hispanic,9.7,2144775,2071
+Arkansas,2017,hispanic,2.8,218561,62
+California,2017,hispanic,27.8,15280773,42549
+Colorado,2017,hispanic,23.7,1181219,2798
+Connecticut,2017,hispanic,17.3,562348,973
+Delaware,2017,hispanic,9.4,87152,82
+District of Columbia,2017,hispanic,66.4,74422,494
+Florida,2017,hispanic,9.3,5126975,4748
+Georgia,2017,hispanic,4.3,972698,422
+Hawaii,2017,hispanic,65.1,148148,965
+Idaho,2017,hispanic,12.9,207743,268
+Illinois,2017,hispanic,4.9,2181439,1059
+Indiana,2017,hispanic,5.2,449871,233
+Iowa,2017,hispanic,11.2,182606,205
+Kansas,2017,hispanic,9.3,338481,315
+Kentucky,2017,hispanic,6.9,155520,108
+Louisiana,2017,hispanic,4.3,236152,102
+Maine,2017,hispanic,41.8,21058,88
+Maryland,2017,hispanic,6.9,586801,405
+Massachusetts,2017,hispanic,83.7,780661,6531
+Michigan,2017,hispanic,10.1,492382,497
+Minnesota,2017,hispanic,19.5,289422,564
+Mississippi,2017,hispanic,1.2,91448,11
+Missouri,2017,hispanic,12.4,250476,310
+Montana,2017,hispanic,32.0,37840,121
+Nebraska,2017,hispanic,13.0,203320,264
+Nevada,2017,hispanic,12.7,836626,1063
+New Hampshire,2017,hispanic,28.9,47118,136
+New Jersey,2017,hispanic,10.0,1786668,1786
+New Mexico,2017,hispanic,10.3,1009873,1036
+New York,2017,hispanic,78.5,3747125,29408
+North Carolina,2017,hispanic,5.6,932221,518
+North Dakota,2017,hispanic,15.6,27538,43
+Ohio,2017,hispanic,8.8,424625,375
+Oklahoma,2017,hispanic,7.6,403938,307
+Oregon,2017,hispanic,28.9,522571,1509
+Pennsylvania,2017,hispanic,16.0,900814,1442
+Rhode Island,2017,hispanic,16.7,157352,263
+South Carolina,2017,hispanic,3.2,274596,88
+South Dakota,2017,hispanic,13.1,32169,42
+Tennessee,2017,hispanic,6.2,348725,217
+Texas,2017,hispanic,6.1,10881124,6606
+Utah,2017,hispanic,15.3,420440,642
+Vermont,2017,hispanic,51.5,11651,60
+Virginia,2017,hispanic,7.2,766004,551
+Washington,2017,hispanic,31.4,907000,2852
+West Virginia,2017,hispanic,7.4,28295,21
+Wisconsin,2017,hispanic,10.1,387666,392
+Wyoming,2017,hispanic,18.1,58413,106
+Puerto Rico,2017,hispanic,10.2,3365841,3448
+Alabama,2017,nonHispanic,8.0,4659455,3721
+Alaska,2017,nonHispanic,25.3,690295,1743
+Arizona,2017,nonHispanic,14.4,4786296,6876
+Arkansas,2017,nonHispanic,8.7,2769687,2405
+California,2017,nonHispanic,38.3,23969244,91729
+Colorado,2017,nonHispanic,18.7,4359326,8142
+Connecticut,2017,nonHispanic,8.0,3014104,2415
+Delaware,2017,nonHispanic,10.5,864913,912
+District of Columbia,2017,nonHispanic,115.0,606748,6979
+Florida,2017,nonHispanic,17.7,15485464,27442
+Georgia,2017,nonHispanic,10.4,9337673,9752
+Hawaii,2017,nonHispanic,48.9,1280409,6255
+Idaho,2017,nonHispanic,12.0,1475397,1769
+Illinois,2017,nonHispanic,9.2,10620100,9739
+Indiana,2017,nonHispanic,8.4,6183182,5205
+Iowa,2017,nonHispanic,8.6,2952087,2551
+Kansas,2017,nonHispanic,6.9,2568808,1783
+Kentucky,2017,nonHispanic,9.1,4281454,3917
+Louisiana,2017,nonHispanic,7.2,4445514,3203
+Maine,2017,nonHispanic,16.7,1310421,2192
+Maryland,2017,nonHispanic,12.6,5429646,6842
+Massachusetts,2017,nonHispanic,18.3,6031118,11034
+Michigan,2017,nonHispanic,9.1,9435918,8554
+Minnesota,2017,nonHispanic,13.6,5230530,7104
+Mississippi,2017,nonHispanic,5.0,2897278,1461
+Missouri,2017,nonHispanic,10.1,5842524,5916
+Montana,2017,nonHispanic,14.0,1004680,1408
+Nebraska,2017,nonHispanic,13.1,1703796,2237
+Nevada,2017,nonHispanic,32.2,2103432,6770
+New Hampshire,2017,nonHispanic,10.3,1287677,1320
+New Jersey,2017,nonHispanic,9.4,7157801,6750
+New Mexico,2017,nonHispanic,13.5,1071142,1446
+New York,2017,nonHispanic,37.6,15998164,60095
+North Carolina,2017,nonHispanic,9.2,9214567,8444
+North Dakota,2017,nonHispanic,14.3,730414,1046
+Ohio,2017,nonHispanic,8.7,11189748,9720
+Oklahoma,2017,nonHispanic,11.1,3519623,3892
+Oregon,2017,nonHispanic,34.8,3570894,12444
+Pennsylvania,2017,nonHispanic,10.7,11883413,12696
+Rhode Island,2017,nonHispanic,10.2,899074,917
+South Carolina,2017,nonHispanic,8.2,4686523,3828
+South Dakota,2017,nonHispanic,10.8,833285,901
+Tennessee,2017,nonHispanic,12.8,6302469,8092
+Texas,2017,nonHispanic,10.0,16981472,16942
+Utah,2017,nonHispanic,8.4,2630777,2210
+Vermont,2017,nonHispanic,19.0,612943,1165
+Virginia,2017,nonHispanic,7.2,7645804,5516
+Washington,2017,nonHispanic,28.6,6381000,18260
+West Virginia,2017,nonHispanic,7.1,1802807,1288
+Wisconsin,2017,nonHispanic,8.6,5391042,4635
+Wyoming,2017,nonHispanic,14.6,527088,767
+Puerto Rico,2017,nonHispanic,16.9,45466,77
+Alabama,2016,black,17.3,1297960,2251
+Alaska,2016,black,53.7,27378,147
+Arizona,2016,black,54.8,327049,1792
+Arkansas,2016,black,19.2,466308,894
+California,2016,black,127.9,2536627,32434
+Colorado,2016,black,77.4,243144,1882
+Connecticut,2016,black,36.9,416435,1535
+Delaware,2016,black,29.1,211874,617
+District of Columbia,2016,black,236.8,324723,7689
+Florida,2016,black,37.0,3408339,12594
+Georgia,2016,black,26.4,3246878,8571
+Hawaii,2016,black,89.8,29955,269
+Idaho,2016,black,56.1,13556,76
+Illinois,2016,black,36.3,1887129,6858
+Indiana,2016,black,30.1,635297,1911
+Iowa,2016,black,80.9,110953,898
+Kansas,2016,black,28.5,179855,513
+Kentucky,2016,black,30.3,364089,1103
+Louisiana,2016,black,15.3,1518572,2319
+Maine,2016,black,121.6,19495,237
+Maryland,2016,black,25.2,1831566,4620
+Massachusetts,2016,black,106.9,575674,6154
+Michigan,2016,black,32.9,1407923,4637
+Minnesota,2016,black,99.3,332961,3306
+Mississippi,2016,black,9.4,1124960,1054
+Missouri,2016,black,32.2,717964,2312
+Montana,2016,black,43.1,5800,25
+Nebraska,2016,black,61.1,93330,570
+Nevada,2016,black,81.5,269367,2196
+New Hampshire,2016,black,48.2,19487,94
+New Jersey,2016,black,35.2,1330577,4682
+New Mexico,2016,black,35.1,51594,181
+New York,2016,black,160.3,3479153,55779
+North Carolina,2016,black,22.8,2226479,5072
+North Dakota,2016,black,65.4,19720,129
+Ohio,2016,black,31.3,1478056,4632
+Oklahoma,2016,black,29.1,302318,880
+Oregon,2016,black,100.3,83664,839
+Pennsylvania,2016,black,52.7,1497611,7899
+Rhode Island,2016,black,34.7,83766,291
+South Carolina,2016,black,19.4,1352122,2626
+South Dakota,2016,black,44.2,16287,72
+Tennessee,2016,black,29.8,1127667,3363
+Texas,2016,black,23.7,3434609,8143
+Utah,2016,black,61.1,39625,242
+Vermont,2016,black,111.1,7923,88
+Virginia,2016,black,20.2,1652096,3337
+Washington,2016,black,139.2,292283,4069
+West Virginia,2016,black,32.8,65798,216
+Wisconsin,2016,black,53.6,380706,2041
+Wyoming,2016,black,50.2,7776,39
+Puerto Rico,2016,black,21.6,341710,738
+Alabama,2016,white,5.1,3373302,1714
+Alaska,2016,white,15.1,490380,739
+Arizona,2016,white,11.5,5696106,6562
+Arkansas,2016,white,6.1,2369986,1451
+California,2016,white,23.8,28467494,67669
+Colorado,2016,white,15.2,4776140,7239
+Connecticut,2016,white,7.2,2900643,2095
+Delaware,2016,white,6.1,664555,406
+District of Columbia,2016,white,14.8,295756,439
+Florida,2016,white,12.3,15735811,19369
+Georgia,2016,white,6.1,6280677,3822
+Hawaii,2016,white,49.1,370398,1820
+Idaho,2016,white,12.5,1545433,1928
+Illinois,2016,white,4.2,9933221,4214
+Indiana,2016,white,6.3,5677021,3587
+Iowa,2016,white,6.5,2861917,1869
+Kansas,2016,white,6.0,2522857,1505
+Kentucky,2016,white,7.4,3900103,2895
+Louisiana,2016,white,5.0,2953830,1482
+Maine,2016,white,14.8,1262043,1872
+Maryland,2016,white,7.5,3574645,2688
+Massachusetts,2016,white,19.8,5575530,11029
+Michigan,2016,white,5.2,7909528,4112
+Minnesota,2016,white,5.9,4678791,2780
+Mississippi,2016,white,3.6,1777735,647
+Missouri,2016,white,6.8,5065735,3457
+Montana,2016,white,9.5,921719,877
+Nebraska,2016,white,11.0,1687415,1858
+Nevada,2016,white,19.8,2183208,4329
+New Hampshire,2016,white,9.5,1249796,1183
+New Jersey,2016,white,5.9,6496420,3835
+New Mexico,2016,white,7.4,1717860,1273
+New York,2016,white,14.0,13860222,19365
+North Carolina,2016,white,5.6,7144627,3974
+North Dakota,2016,white,7.6,669125,510
+Ohio,2016,white,5.4,9594996,5176
+Oklahoma,2016,white,8.6,2922871,2504
+Oregon,2016,white,30.4,3529292,10733
+Pennsylvania,2016,white,6.3,10567168,6647
+Rhode Island,2016,white,8.6,894570,767
+South Carolina,2016,white,6.4,3348754,2159
+South Dakota,2016,white,4.4,732532,322
+Tennessee,2016,white,9.9,5196817,5140
+Texas,2016,white,5.8,21874482,12795
+Utah,2016,white,8.2,2730389,2239
+Vermont,2016,white,16.3,593577,968
+Virginia,2016,white,4.3,5884689,2545
+Washington,2016,white,21.4,5756563,12298
+West Virginia,2016,white,6.4,1725045,1112
+Wisconsin,2016,white,6.0,5056456,3030
+Wyoming,2016,white,12.1,544777,660
+Puerto Rico,2016,white,8.1,2355164,1909
+Alabama,2016,asian,0.6,66635,4
+Alaska,2016,asian,9.6,45616,44
+Arizona,2016,asian,2.3,227461,53
+Arkansas,2016,asian,2.2,45580,10
+California,2016,asian,3.2,5684767,1836
+Colorado,2016,asian,4.5,173668,78
+Connecticut,2016,asian,1.9,164113,32
+Delaware,2016,asian,0.3,36902,1
+District of Columbia,2016,asian,13.1,26819,35
+Florida,2016,asian,2.1,565361,116
+Georgia,2016,asian,1.3,403734,54
+Hawaii,2016,asian,7.4,538322,396
+Idaho,2016,asian,3.8,23561,9
+Illinois,2016,asian,1.8,694348,123
+Indiana,2016,asian,1.7,141605,24
+Iowa,2016,asian,2.4,75026,18
+Kansas,2016,asian,2.1,83858,18
+Kentucky,2016,asian,0.5,63619,3
+Louisiana,2016,asian,1.4,83157,12
+Maine,2016,asian,5.6,15979,9
+Maryland,2016,asian,0.9,385661,34
+Massachusetts,2016,asian,2.9,439473,129
+Michigan,2016,asian,1.1,295031,31
+Minnesota,2016,asian,3.1,263234,82
+Mississippi,2016,asian,2.3,31090,7
+Missouri,2016,asian,1.9,118607,23
+Montana,2016,asian,1.2,8123,1
+Nebraska,2016,asian,2.5,44684,11
+Nevada,2016,asian,7.7,243878,189
+New Hampshire,2016,asian,0.6,34856,2
+New Jersey,2016,asian,0.7,857707,56
+New Mexico,2016,asian,5.2,34794,18
+New York,2016,asian,5.5,1711163,945
+North Carolina,2016,asian,1.1,282098,31
+North Dakota,2016,asian,4.6,10791,5
+Ohio,2016,asian,1.6,244551,38
+Oklahoma,2016,asian,2.9,85227,25
+Oregon,2016,asian,4.9,174840,85
+Pennsylvania,2016,asian,1.5,429932,63
+Rhode Island,2016,asian,4.1,36862,15
+South Carolina,2016,asian,2.8,76222,21
+South Dakota,2016,asian,1.7,11995,2
+Tennessee,2016,asian,2.0,115966,23
+Texas,2016,asian,1.8,1288856,233
+Utah,2016,asian,4.0,72956,29
+Vermont,2016,asian,5.7,10458,6
+Virginia,2016,asian,1.6,538752,84
+Washington,2016,asian,7.9,597875,470
+West Virginia,2016,asian,0.7,14948,1
+Wisconsin,2016,asian,2.8,158092,45
+Wyoming,2016,asian,3.5,5694,2
+Puerto Rico,2016,asian,5.5,7264,4
+Alabama,2016,nativeAmerican,14.6,33573,49
+Alaska,2016,nativeAmerican,70.3,111819,786
+Arizona,2016,nativeAmerican,22.2,364388,809
+Arkansas,2016,nativeAmerican,7.4,28410,21
+California,2016,nativeAmerican,65.1,642335,4179
+Colorado,2016,nativeAmerican,61.3,85927,527
+Connecticut,2016,nativeAmerican,28.5,18952,54
+Delaware,2016,nativeAmerican,1.7,6057,1
+District of Columbia,2016,nativeAmerican,95.0,4002,38
+Florida,2016,nativeAmerican,29.5,99648,294
+Georgia,2016,nativeAmerican,12.5,51228,64
+Hawaii,2016,nativeAmerican,199.6,5711,114
+Idaho,2016,nativeAmerican,46.1,28867,133
+Illinois,2016,nativeAmerican,7.2,74861,54
+Indiana,2016,nativeAmerican,15.6,26354,41
+Iowa,2016,nativeAmerican,46.6,15675,73
+Kansas,2016,nativeAmerican,18.9,34358,65
+Kentucky,2016,nativeAmerican,23.1,12961,30
+Louisiana,2016,nativeAmerican,8.4,35715,30
+Maine,2016,nativeAmerican,45.7,9190,42
+Maryland,2016,nativeAmerican,16.2,33921,55
+Massachusetts,2016,nativeAmerican,24.6,32458,80
+Michigan,2016,nativeAmerican,12.5,71403,89
+Minnesota,2016,nativeAmerican,96.5,73473,709
+Mississippi,2016,nativeAmerican,12.3,17847,22
+Missouri,2016,nativeAmerican,32.4,33339,108
+Montana,2016,nativeAmerican,53.4,68488,366
+Nebraska,2016,nativeAmerican,24.9,26907,67
+Nevada,2016,nativeAmerican,35.4,47202,167
+New Hampshire,2016,nativeAmerican,7.9,3814,3
+New Jersey,2016,nativeAmerican,14.9,53136,79
+New Mexico,2016,nativeAmerican,26.0,221783,576
+New York,2016,nativeAmerican,34.6,190228,659
+North Carolina,2016,nativeAmerican,9.2,156966,145
+North Dakota,2016,nativeAmerican,52.6,41409,218
+Ohio,2016,nativeAmerican,15.7,31942,50
+Oklahoma,2016,nativeAmerican,15.0,358606,539
+Oregon,2016,nativeAmerican,77.7,71949,559
+Pennsylvania,2016,nativeAmerican,13.3,45735,61
+Rhode Island,2016,nativeAmerican,16.3,10460,17
+South Carolina,2016,nativeAmerican,10.6,26409,28
+South Dakota,2016,nativeAmerican,80.6,77390,624
+Tennessee,2016,nativeAmerican,16.1,29206,47
+Texas,2016,nativeAmerican,30.4,277049,843
+Utah,2016,nativeAmerican,32.0,45881,147
+Vermont,2016,nativeAmerican,50.3,2387,12
+Virginia,2016,nativeAmerican,8.3,44413,37
+Washington,2016,nativeAmerican,82.2,136629,1123
+West Virginia,2016,nativeAmerican,13.5,4453,6
+Wisconsin,2016,nativeAmerican,31.4,64904,204
+Wyoming,2016,nativeAmerican,80.9,15827,128
+Puerto Rico,2016,nativeAmerican,46.4,10984,51
+Alabama,2016,nhpi,16.1,4978,8
+Alaska,2016,nhpi,55.8,9500,53
+Arizona,2016,nhpi,37.4,17914,67
+Arkansas,2016,nhpi,9.2,8724,8
+California,2016,nhpi,65.9,194806,1284
+Colorado,2016,nhpi,59.5,10250,61
+Connecticut,2016,nhpi,191.8,3807,73
+Delaware,2016,nhpi,34.1,881,3
+District of Columbia,2016,nhpi,154.7,1034,16
+Florida,2016,nhpi,32.7,22337,73
+Georgia,2016,nhpi,43.5,11720,51
+Hawaii,2016,nhpi,231.6,145664,3374
+Idaho,2016,nhpi,68.6,3353,23
+Illinois,2016,nhpi,22.0,8171,18
+Indiana,2016,nhpi,42.0,4048,17
+Iowa,2016,nhpi,14.9,3349,5
+Kansas,2016,nhpi,6.3,3167,2
+Kentucky,2016,nhpi,49.5,3636,18
+Louisiana,2016,nhpi,32.7,3058,10
+Maine,2016,nhpi,104.4,479,5
+Maryland,2016,nhpi,29.9,6360,19
+Massachusetts,2016,nhpi,121.1,6854,83
+Michigan,2016,nhpi,86.0,3838,33
+Minnesota,2016,nhpi,199.9,3602,72
+Mississippi,2016,nhpi,16.9,1773,3
+Missouri,2016,nhpi,20.6,8728,18
+Montana,2016,nhpi,67.6,888,6
+Nebraska,2016,nhpi,25.9,2320,6
+Nevada,2016,nhpi,60.9,21668,132
+New Hampshire,2016,nhpi,31.5,635,2
+New Jersey,2016,nhpi,58.9,8995,53
+New Mexico,2016,nhpi,49.0,3267,16
+New York,2016,nhpi,460.4,26236,1208
+North Carolina,2016,nhpi,12.3,12240,15
+North Dakota,2016,nhpi,18.7,536,1
+Ohio,2016,nhpi,14.1,6373,9
+Oklahoma,2016,nhpi,10.0,6981,7
+Oregon,2016,nhpi,83.5,17483,146
+Pennsylvania,2016,nhpi,29.9,9038,27
+Rhode Island,2016,nhpi,15.6,1929,3
+South Carolina,2016,nhpi,37.3,4555,17
+South Dakota,2016,nhpi,82.2,608,5
+Tennessee,2016,nhpi,24.1,6220,15
+Texas,2016,nhpi,21.0,37588,79
+Utah,2016,nhpi,10.6,30265,32
+Vermont,2016,nhpi,0.0,242,0
+Virginia,2016,nhpi,11.9,9209,11
+Washington,2016,nhpi,92.7,52307,485
+West Virginia,2016,nhpi,17.7,564,1
+Wisconsin,2016,nhpi,43.7,2972,13
+Wyoming,2016,nhpi,0.0,663,0
+Puerto Rico,2016,nhpi,0.0,0,14
+Alabama,2016,multipleRaces,11.0,77427,85
+Alaska,2016,multipleRaces,32.3,53016,171
+Arizona,2016,multipleRaces,23.0,184647,424
+Arkansas,2016,multipleRaces,13.4,58845,79
+California,2016,multipleRaces,73.2,1467911,10740
+Colorado,2016,multipleRaces,47.8,159690,763
+Connecticut,2016,multipleRaces,14.0,80780,113
+Delaware,2016,multipleRaces,17.6,23807,42
+District of Columbia,2016,multipleRaces,73.7,18043,133
+Florida,2016,multipleRaces,26.9,413418,1113
+Georgia,2016,multipleRaces,16.9,205161,347
+Hawaii,2016,multipleRaces,58.1,335107,1948
+Idaho,2016,multipleRaces,20.5,38058,78
+Illinois,2016,multipleRaces,13.4,241317,323
+Indiana,2016,multipleRaces,17.0,128443,218
+Iowa,2016,multipleRaces,36.5,55077,201
+Kansas,2016,multipleRaces,18.4,82626,152
+Kentucky,2016,multipleRaces,23.4,80203,188
+Louisiana,2016,multipleRaces,18.9,74628,141
+Maine,2016,multipleRaces,34.1,22267,76
+Maryland,2016,multipleRaces,16.8,162830,273
+Massachusetts,2016,multipleRaces,138.3,154251,2133
+Michigan,2016,multipleRaces,18.0,229992,414
+Minnesota,2016,multipleRaces,30.1,130374,392
+Mississippi,2016,multipleRaces,1.4,35985,5
+Missouri,2016,multipleRaces,20.9,131831,276
+Montana,2016,multipleRaces,52.9,27055,143
+Nebraska,2016,multipleRaces,61.9,39109,242
+Nevada,2016,multipleRaces,32.5,118435,385
+New Hampshire,2016,multipleRaces,38.1,21523,82
+New Jersey,2016,multipleRaces,10.1,188586,190
+New Mexico,2016,multipleRaces,39.0,51030,199
+New York,2016,multipleRaces,174.9,480181,8396
+North Carolina,2016,multipleRaces,15.1,212776,322
+North Dakota,2016,multipleRaces,39.3,15254,60
+Ohio,2016,multipleRaces,20.0,249172,499
+Oklahoma,2016,multipleRaces,6.6,231411,152
+Oregon,2016,multipleRaces,59.4,147406,876
+Pennsylvania,2016,multipleRaces,26.5,242420,642
+Rhode Island,2016,multipleRaces,23.9,28020,67
+South Carolina,2016,multipleRaces,23.0,86772,200
+South Dakota,2016,multipleRaces,24.6,19107,47
+Tennessee,2016,multipleRaces,16.0,119180,191
+Texas,2016,multipleRaces,19.9,517055,1029
+Utah,2016,multipleRaces,16.5,71516,118
+Vermont,2016,multipleRaces,37.4,11501,43
+Virginia,2016,multipleRaces,10.7,238428,254
+Washington,2016,multipleRaces,73.4,324633,2382
+West Virginia,2016,multipleRaces,16.9,30245,51
+Wisconsin,2016,multipleRaces,33.6,104761,352
+Wyoming,2016,multipleRaces,23.7,11818,28
+Puerto Rico,2016,multipleRaces,101.9,166946,1702
+Alabama,2016,hispanic,4.2,199446,84
+Alaska,2016,hispanic,28.3,50554,143
+Arizona,2016,hispanic,11.3,2096301,2365
+Arkansas,2016,hispanic,4.0,212869,86
+California,2016,hispanic,21.7,15104575,32705
+Colorado,2016,hispanic,25.5,1156239,2947
+Connecticut,2016,hispanic,20.1,549936,1106
+Delaware,2016,hispanic,7.0,84825,59
+District of Columbia,2016,hispanic,60.3,71967,434
+Florida,2016,hispanic,9.5,4959837,4704
+Georgia,2016,hispanic,6.8,947043,643
+Hawaii,2016,hispanic,63.8,146036,932
+Idaho,2016,hispanic,13.5,201143,271
+Illinois,2016,hispanic,5.8,2159445,1249
+Indiana,2016,hispanic,5.0,439087,221
+Iowa,2016,hispanic,16.8,177754,298
+Kansas,2016,hispanic,7.1,334017,236
+Kentucky,2016,hispanic,11.2,151413,169
+Louisiana,2016,hispanic,7.9,230524,181
+Maine,2016,hispanic,34.3,20434,70
+Maryland,2016,hispanic,12.6,569192,719
+Massachusetts,2016,hispanic,91.8,757074,6948
+Michigan,2016,hispanic,10.8,483062,524
+Minnesota,2016,hispanic,24.0,282279,678
+Mississippi,2016,hispanic,2.2,89644,20
+Missouri,2016,hispanic,10.8,243661,262
+Montana,2016,hispanic,30.6,36626,112
+Nebraska,2016,hispanic,18.3,197284,362
+Nevada,2016,hispanic,11.7,811810,950
+New Hampshire,2016,hispanic,26.4,45143,119
+New Jersey,2016,hispanic,10.2,1754657,1796
+New Mexico,2016,hispanic,8.8,1002067,877
+New York,2016,hispanic,105.4,3712408,39128
+North Carolina,2016,hispanic,4.8,905785,432
+North Dakota,2016,hispanic,29.6,26705,79
+Ohio,2016,hispanic,8.1,412992,333
+Oklahoma,2016,hispanic,5.4,394149,214
+Oregon,2016,hispanic,28.0,506735,1418
+Pennsylvania,2016,hispanic,19.2,871380,1677
+Rhode Island,2016,hispanic,15.4,152757,236
+South Carolina,2016,hispanic,4.8,265949,127
+South Dakota,2016,hispanic,14.8,31136,46
+Tennessee,2016,hispanic,7.1,337256,238
+Texas,2016,hispanic,5.6,10648068,5942
+Utah,2016,hispanic,14.3,407498,584
+Vermont,2016,hispanic,68.3,11266,77
+Virginia,2016,hispanic,7.5,747000,561
+Washington,2016,hispanic,33.8,877095,2963
+West Virginia,2016,hispanic,6.6,27417,18
+Wisconsin,2016,hispanic,12.5,379199,474
+Wyoming,2016,hispanic,20.9,57782,121
+Puerto Rico,2016,hispanic,12.5,3437388,4300
+Alabama,2016,nonHispanic,8.7,4654429,4027
+Alaska,2016,nonHispanic,26.2,687155,1797
+Arizona,2016,nonHispanic,15.6,4721264,7342
+Arkansas,2016,nonHispanic,8.6,2764984,2377
+California,2016,nonHispanic,35.8,23889365,85437
+Colorado,2016,nonHispanic,17.7,4292580,7603
+Connecticut,2016,nonHispanic,9.2,3034794,2796
+Delaware,2016,nonHispanic,11.8,859251,1011
+District of Columbia,2016,nonHispanic,132.3,598410,7916
+Florida,2016,nonHispanic,18.9,15285077,28855
+Georgia,2016,nonHispanic,13.3,9252355,12266
+Hawaii,2016,nonHispanic,54.6,1279121,6989
+Idaho,2016,nonHispanic,13.6,1451685,1976
+Illinois,2016,nonHispanic,9.7,10679602,10341
+Indiana,2016,nonHispanic,9.0,6173681,5577
+Iowa,2016,nonHispanic,9.4,2944243,2766
+Kansas,2016,nonHispanic,7.8,2572704,2019
+Kentucky,2016,nonHispanic,9.5,4273198,4068
+Louisiana,2016,nonHispanic,8.6,4438436,3813
+Maine,2016,nonHispanic,16.6,1309019,2171
+Maryland,2016,nonHispanic,12.8,5425791,6970
+Massachusetts,2016,nonHispanic,21.0,6027166,12660
+Michigan,2016,nonHispanic,9.3,9434653,8792
+Minnesota,2016,nonHispanic,12.8,5200156,6663
+Mississippi,2016,nonHispanic,5.9,2899746,1718
+Missouri,2016,nonHispanic,10.2,5832543,5932
+Montana,2016,nonHispanic,13.1,995447,1306
+Nebraska,2016,nonHispanic,14.1,1696481,2392
+Nevada,2016,nonHispanic,31.1,2071948,6448
+New Hampshire,2016,nonHispanic,9.7,1284968,1247
+New Jersey,2016,nonHispanic,9.9,7180764,7099
+New Mexico,2016,nonHispanic,12.9,1078261,1386
+New York,2016,nonHispanic,29.5,16034775,47224
+North Carolina,2016,nonHispanic,10.0,9129401,9127
+North Dakota,2016,nonHispanic,11.6,730130,844
+Ohio,2016,nonHispanic,9.0,11192098,10071
+Oklahoma,2016,nonHispanic,11.1,3513265,3893
+Oregon,2016,nonHispanic,33.6,3517899,11820
+Pennsylvania,2016,nonHispanic,11.5,11920524,13662
+Rhode Island,2016,nonHispanic,10.2,902850,924
+South Carolina,2016,nonHispanic,10.6,4628885,4924
+South Dakota,2016,nonHispanic,12.4,826783,1026
+Tennessee,2016,nonHispanic,13.6,6257800,8541
+Texas,2016,nonHispanic,10.2,16781571,17180
+Utah,2016,nonHispanic,8.6,2583134,2223
+Vermont,2016,nonHispanic,16.9,614822,1040
+Virginia,2016,nonHispanic,7.5,7620587,5707
+Washington,2016,nonHispanic,28.4,6283195,17864
+West Virginia,2016,nonHispanic,7.5,1813636,1369
+Wisconsin,2016,nonHispanic,9.7,5388692,5211
+Wyoming,2016,nonHispanic,13.9,528773,736
+Puerto Rico,2016,nonHispanic,32.1,36794,118
+Alabama,2015,black,16.2,1290614,2090
+Alaska,2015,black,52.7,27334,144
+Arizona,2015,black,55.9,315107,1761
+Arkansas,2015,black,19.5,463661,903
+California,2015,black,127.7,2525890,32262
+Colorado,2015,black,82.3,236754,1948
+Connecticut,2015,black,38.1,411681,1570
+Delaware,2015,black,24.6,208526,513
+District of Columbia,2015,black,204.0,323219,6595
+Florida,2015,black,39.4,3344995,13165
+Georgia,2015,black,28.1,3191681,8955
+Hawaii,2015,black,91.5,28753,263
+Idaho,2015,black,52.8,13077,69
+Illinois,2015,black,41.2,1893054,7798
+Indiana,2015,black,33.1,630097,2085
+Iowa,2015,black,75.2,106717,803
+Kansas,2015,black,35.7,179053,639
+Kentucky,2015,black,33.0,361093,1193
+Louisiana,2015,black,15.8,1511270,2395
+Maine,2015,black,112.2,18981,213
+Maryland,2015,black,27.1,1813640,4920
+Massachusetts,2015,black,127.4,563016,7175
+Michigan,2015,black,37.9,1410512,5343
+Minnesota,2015,black,107.4,322572,3466
+Mississippi,2015,black,12.2,1123391,1372
+Missouri,2015,black,35.9,714773,2565
+Montana,2015,black,68.1,5579,38
+Nebraska,2015,black,63.6,92110,586
+Nevada,2015,black,124.1,258863,3213
+New Hampshire,2015,black,33.6,19067,64
+New Jersey,2015,black,42.0,1322989,5562
+New Mexico,2015,black,41.7,51119,213
+New York,2015,black,173.4,3466637,60103
+North Carolina,2015,black,25.9,2201679,5711
+North Dakota,2015,black,145.7,15918,232
+Ohio,2015,black,34.7,1467063,5084
+Oklahoma,2015,black,24.5,298403,732
+Oregon,2015,black,104.4,81160,847
+Pennsylvania,2015,black,55.1,1489327,8202
+Rhode Island,2015,black,35.0,81897,287
+South Carolina,2015,black,21.8,1341379,2926
+South Dakota,2015,black,54.9,15861,87
+Tennessee,2015,black,31.2,1117920,3488
+Texas,2015,black,25.7,3353921,8603
+Utah,2015,black,80.8,38499,311
+Vermont,2015,black,174.9,7661,134
+Virginia,2015,black,23.0,1637361,3761
+Washington,2015,black,144.0,284319,4095
+West Virginia,2015,black,44.0,65658,289
+Wisconsin,2015,black,56.8,379201,2153
+Wyoming,2015,black,35.9,8355,30
+Puerto Rico,2015,black,23.9,299398,717
+Alabama,2015,white,5.4,3375305,1813
+Alaska,2015,white,15.1,492034,745
+Arizona,2015,white,11.9,5630927,6697
+Arkansas,2015,white,6.5,2365898,1543
+California,2015,white,22.7,28346864,64340
+Colorado,2015,white,14.1,4699129,6638
+Connecticut,2015,white,7.4,2918747,2164
+Delaware,2015,white,5.6,661084,369
+District of Columbia,2015,white,15.4,287733,443
+Florida,2015,white,13.5,15484330,20921
+Georgia,2015,white,6.9,6250234,4307
+Hawaii,2015,white,50.3,368078,1852
+Idaho,2015,white,11.3,1529697,1733
+Illinois,2015,white,4.7,9977250,4690
+Indiana,2015,white,6.2,5676302,3496
+Iowa,2015,white,6.9,2858442,1972
+Kansas,2015,white,6.6,2521279,1664
+Kentucky,2015,white,7.9,3897068,3088
+Louisiana,2015,white,5.2,2945272,1536
+Maine,2015,white,16.1,1264881,2036
+Maryland,2015,white,8.4,3581336,3016
+Massachusetts,2015,white,21.4,5575350,11922
+Michigan,2015,white,5.8,7921921,4612
+Minnesota,2015,white,5.7,4672894,2641
+Mississippi,2015,white,3.2,1784199,577
+Missouri,2015,white,7.0,5061702,3550
+Montana,2015,white,14.0,914552,1281
+Nebraska,2015,white,10.9,1680545,1831
+Nevada,2015,white,21.3,2159656,4605
+New Hampshire,2015,white,10.5,1250596,1312
+New Jersey,2015,white,6.7,6518671,4336
+New Mexico,2015,white,10.0,1723524,1728
+New York,2015,white,15.6,13902880,21705
+North Carolina,2015,white,6.3,7091469,4494
+North Dakota,2015,white,11.8,658522,774
+Ohio,2015,white,5.8,9613358,5532
+Oklahoma,2015,white,8.4,2910190,2458
+Oregon,2015,white,30.7,3489969,10704
+Pennsylvania,2015,white,6.1,10596100,6486
+Rhode Island,2015,white,8.5,897217,765
+South Carolina,2015,white,6.8,3300848,2253
+South Dakota,2015,white,5.5,729472,403
+Tennessee,2015,white,10.4,5165295,5370
+Texas,2015,white,6.4,21568637,13713
+Utah,2015,white,8.8,2691543,2359
+Vermont,2015,white,22.9,595436,1363
+Virginia,2015,white,4.6,5874507,2703
+Washington,2015,white,20.8,5697815,11860
+West Virginia,2015,white,8.6,1733819,1495
+Wisconsin,2015,white,6.5,5057386,3276
+Wyoming,2015,white,11.6,541960,628
+Puerto Rico,2015,white,7.5,2520447,1894
+Alabama,2015,asian,0.8,64146,5
+Alaska,2015,asian,4.0,44568,18
+Arizona,2015,asian,2.6,218585,57
+Arkansas,2015,asian,1.6,44037,7
+California,2015,asian,3.9,5545712,2146
+Colorado,2015,asian,5.4,166732,90
+Connecticut,2015,asian,2.4,159989,38
+Delaware,2015,asian,0.8,35340,3
+District of Columbia,2015,asian,24.2,25638,62
+Florida,2015,asian,2.2,545271,122
+Georgia,2015,asian,1.0,385905,40
+Hawaii,2015,asian,8.9,536759,477
+Idaho,2015,asian,4.9,22613,11
+Illinois,2015,asian,1.5,678811,100
+Indiana,2015,asian,1.3,134226,17
+Iowa,2015,asian,2.2,71126,16
+Kansas,2015,asian,1.5,80931,12
+Kentucky,2015,asian,1.2,60554,7
+Louisiana,2015,asian,2.6,81025,21
+Maine,2015,asian,3.9,15567,6
+Maryland,2015,asian,1.5,374394,58
+Massachusetts,2015,asian,4.9,424232,206
+Michigan,2015,asian,1.0,284191,29
+Minnesota,2015,asian,4.6,254774,117
+Mississippi,2015,asian,0.7,30293,2
+Missouri,2015,asian,1.8,115095,21
+Montana,2015,asian,0.0,7771,0
+Nebraska,2015,asian,5.9,42035,25
+Nevada,2015,asian,10.0,234086,235
+New Hampshire,2015,asian,1.8,33688,6
+New Jersey,2015,asian,1.2,838539,97
+New Mexico,2015,asian,3.5,34176,12
+New York,2015,asian,5.3,1665714,879
+North Carolina,2015,asian,2.1,268813,57
+North Dakota,2015,asian,16.1,9926,16
+Ohio,2015,asian,1.5,234306,35
+Oklahoma,2015,asian,0.9,81284,7
+Oregon,2015,asian,7.9,167841,133
+Pennsylvania,2015,asian,1.8,416734,77
+Rhode Island,2015,asian,1.1,35888,4
+South Carolina,2015,asian,1.5,73037,11
+South Dakota,2015,asian,2.7,11238,3
+Tennessee,2015,asian,2.0,111699,22
+Texas,2015,asian,1.2,1222646,145
+Utah,2015,asian,5.1,69271,35
+Vermont,2015,asian,3.0,9950,3
+Virginia,2015,asian,2.1,521695,110
+Washington,2015,asian,6.4,573294,369
+West Virginia,2015,asian,0.7,14737,1
+Wisconsin,2015,asian,3.6,152984,55
+Wyoming,2015,asian,0.0,5642,0
+Puerto Rico,2015,asian,1.1,8810,1
+Alabama,2015,nativeAmerican,5.7,33122,19
+Alaska,2015,nativeAmerican,79.4,111203,883
+Arizona,2015,nativeAmerican,23.6,359612,849
+Arkansas,2015,nativeAmerican,11.4,27963,32
+California,2015,nativeAmerican,74.8,636519,4762
+Colorado,2015,nativeAmerican,56.8,83949,477
+Connecticut,2015,nativeAmerican,26.9,18618,50
+Delaware,2015,nativeAmerican,18.4,5994,11
+District of Columbia,2015,nativeAmerican,71.0,3946,28
+Florida,2015,nativeAmerican,38.8,96816,376
+Georgia,2015,nativeAmerican,5.9,50630,30
+Hawaii,2015,nativeAmerican,168.9,5626,95
+Idaho,2015,nativeAmerican,38.7,28172,109
+Illinois,2015,nativeAmerican,7.1,74312,53
+Indiana,2015,nativeAmerican,16.9,25972,44
+Iowa,2015,nativeAmerican,44.1,15411,68
+Kansas,2015,nativeAmerican,31.6,34178,108
+Kentucky,2015,nativeAmerican,29.5,12882,38
+Louisiana,2015,nativeAmerican,14.1,35380,50
+Maine,2015,nativeAmerican,27.4,9112,25
+Maryland,2015,nativeAmerican,16.0,33088,53
+Massachusetts,2015,nativeAmerican,31.4,31872,100
+Michigan,2015,nativeAmerican,11.1,70885,79
+Minnesota,2015,nativeAmerican,91.2,72718,663
+Mississippi,2015,nativeAmerican,5.7,17673,10
+Missouri,2015,nativeAmerican,12.5,32922,41
+Montana,2015,nativeAmerican,47.3,67915,321
+Nebraska,2015,nativeAmerican,45.1,26407,119
+Nevada,2015,nativeAmerican,40.5,46203,187
+New Hampshire,2015,nativeAmerican,5.3,3792,2
+New Jersey,2015,nativeAmerican,4.4,52282,23
+New Mexico,2015,nativeAmerican,26.6,220661,587
+New York,2015,nativeAmerican,43.5,189075,822
+North Carolina,2015,nativeAmerican,11.1,155296,173
+North Dakota,2015,nativeAmerican,45.1,40754,184
+Ohio,2015,nativeAmerican,18.7,31574,59
+Oklahoma,2015,nativeAmerican,11.6,355434,411
+Oregon,2015,nativeAmerican,84.7,70737,599
+Pennsylvania,2015,nativeAmerican,17.2,44676,77
+Rhode Island,2015,nativeAmerican,6.8,10223,7
+South Carolina,2015,nativeAmerican,16.6,25846,43
+South Dakota,2015,nativeAmerican,68.0,77042,524
+Tennessee,2015,nativeAmerican,23.0,28719,66
+Texas,2015,nativeAmerican,15.7,270236,424
+Utah,2015,nativeAmerican,28.6,44793,128
+Vermont,2015,nativeAmerican,21.1,2366,5
+Virginia,2015,nativeAmerican,14.2,43632,62
+Washington,2015,nativeAmerican,64.6,134841,871
+West Virginia,2015,nativeAmerican,20.6,4376,9
+Wisconsin,2015,nativeAmerican,34.9,64210,224
+Wyoming,2015,nativeAmerican,61.5,15766,97
+Puerto Rico,2015,nativeAmerican,46.7,10710,50
+Alabama,2015,nhpi,2.0,4898,1
+Alaska,2015,nhpi,67.2,9227,62
+Arizona,2015,nhpi,32.5,17526,57
+Arkansas,2015,nhpi,34.6,8380,29
+California,2015,nhpi,63.7,192339,1225
+Colorado,2015,nhpi,34.5,9844,34
+Connecticut,2015,nhpi,332.3,3732,124
+Delaware,2015,nhpi,35.2,853,3
+District of Columbia,2015,nhpi,119.0,1008,12
+Florida,2015,nhpi,52.0,21539,112
+Georgia,2015,nhpi,44.5,11452,51
+Hawaii,2015,nhpi,205.2,145124,2978
+Idaho,2015,nhpi,48.9,3270,16
+Illinois,2015,nhpi,24.7,8086,20
+Indiana,2015,nhpi,40.4,3963,16
+Iowa,2015,nhpi,54.3,3130,17
+Kansas,2015,nhpi,25.7,3113,8
+Kentucky,2015,nhpi,41.8,3591,15
+Louisiana,2015,nhpi,48.4,2892,14
+Maine,2015,nhpi,177.0,452,8
+Maryland,2015,nhpi,58.0,6211,36
+Massachusetts,2015,nhpi,215.3,6689,144
+Michigan,2015,nhpi,58.3,3775,22
+Minnesota,2015,nhpi,84.6,3428,29
+Mississippi,2015,nhpi,80.0,1751,14
+Missouri,2015,nhpi,30.6,8483,26
+Montana,2015,nhpi,58.5,854,5
+Nebraska,2015,nhpi,69.9,2288,16
+Nevada,2015,nhpi,34.7,21016,73
+New Hampshire,2015,nhpi,16.5,607,1
+New Jersey,2015,nhpi,38.6,8804,34
+New Mexico,2015,nhpi,52.3,3251,17
+New York,2015,nhpi,526.9,25964,1368
+North Carolina,2015,nhpi,14.2,11935,17
+North Dakota,2015,nhpi,106.8,468,5
+Ohio,2015,nhpi,29.7,6052,18
+Oklahoma,2015,nhpi,16.6,6620,11
+Oregon,2015,nhpi,98.4,16669,164
+Pennsylvania,2015,nhpi,36.9,8680,32
+Rhode Island,2015,nhpi,10.5,1897,2
+South Carolina,2015,nhpi,43.2,4396,19
+South Dakota,2015,nhpi,50.7,592,3
+Tennessee,2015,nhpi,39.4,6091,24
+Texas,2015,nhpi,28.9,36010,104
+Utah,2015,nhpi,25.4,29099,74
+Vermont,2015,nhpi,130.4,230,3
+Virginia,2015,nhpi,18.8,9057,17
+Washington,2015,nhpi,97.9,50157,491
+West Virginia,2015,nhpi,53.8,558,3
+Wisconsin,2015,nhpi,151.4,2907,44
+Wyoming,2015,nhpi,16.2,618,1
+Puerto Rico,2015,nhpi,343.4,495,17
+Alabama,2015,multipleRaces,5.6,75129,42
+Alaska,2015,multipleRaces,19.9,52339,104
+Arizona,2015,multipleRaces,26.7,178236,475
+Arkansas,2015,multipleRaces,8.1,56973,46
+California,2015,multipleRaces,76.8,1433486,11003
+Colorado,2015,multipleRaces,50.0,153240,766
+Connecticut,2015,multipleRaces,12.8,79106,101
+Delaware,2015,multipleRaces,23.3,23151,54
+District of Columbia,2015,multipleRaces,90.5,17461,158
+Florida,2015,multipleRaces,30.4,395790,1204
+Georgia,2015,multipleRaces,20.6,197329,407
+Hawaii,2015,multipleRaces,58.9,332009,1955
+Idaho,2015,multipleRaces,7.6,36703,28
+Illinois,2015,multipleRaces,21.9,236031,516
+Indiana,2015,multipleRaces,16.4,124673,205
+Iowa,2015,multipleRaces,38.5,53204,205
+Kansas,2015,multipleRaces,19.4,80806,157
+Kentucky,2015,multipleRaces,25.3,77869,197
+Louisiana,2015,multipleRaces,9.0,72041,65
+Maine,2015,multipleRaces,38.7,21726,84
+Maryland,2015,multipleRaces,19.4,158626,307
+Massachusetts,2015,multipleRaces,106.8,148752,1588
+Michigan,2015,multipleRaces,19.2,224483,431
+Minnesota,2015,multipleRaces,49.7,126723,630
+Mississippi,2015,multipleRaces,2.3,35093,8
+Missouri,2015,multipleRaces,21.8,127955,279
+Montana,2015,multipleRaces,24.4,26196,64
+Nebraska,2015,multipleRaces,44.2,37760,167
+Nevada,2015,multipleRaces,38.0,113189,430
+New Hampshire,2015,multipleRaces,28.6,20993,60
+New Jersey,2015,multipleRaces,2.5,183716,46
+New Mexico,2015,multipleRaces,14.3,50293,72
+New York,2015,multipleRaces,72.0,468245,3373
+North Carolina,2015,multipleRaces,11.4,205207,233
+North Dakota,2015,multipleRaces,65.7,14316,94
+Ohio,2015,multipleRaces,18.8,242055,454
+Oklahoma,2015,multipleRaces,7.0,225568,158
+Oregon,2015,multipleRaces,54.9,141995,779
+Pennsylvania,2015,multipleRaces,23.3,235048,547
+Rhode Island,2015,multipleRaces,16.8,27358,46
+South Carolina,2015,multipleRaces,12.3,82924,102
+South Dakota,2015,multipleRaces,8.7,18356,16
+Tennessee,2015,multipleRaces,13.3,114939,153
+Texas,2015,multipleRaces,14.0,493301,689
+Utah,2015,multipleRaces,17.2,68631,118
+Vermont,2015,multipleRaces,13.2,11341,15
+Virginia,2015,multipleRaces,15.1,231120,348
+Washington,2015,multipleRaces,55.2,313770,1733
+West Virginia,2015,multipleRaces,12.9,29366,38
+Wisconsin,2015,multipleRaces,30.0,101689,305
+Wyoming,2015,multipleRaces,37.2,11301,42
+Puerto Rico,2015,multipleRaces,81.1,226813,1839
+Alabama,2015,hispanic,3.5,195385,69
+Alaska,2015,hispanic,19.0,49487,94
+Arizona,2015,hispanic,11.6,2052925,2380
+Arkansas,2015,hispanic,20.1,207682,417
+California,2015,hispanic,21.2,14912338,31555
+Colorado,2015,hispanic,26.1,1129712,2947
+Connecticut,2015,hispanic,20.9,538170,1124
+Delaware,2015,hispanic,6.5,82556,54
+District of Columbia,2015,hispanic,55.5,69189,384
+Florida,2015,hispanic,10.4,4796160,4988
+Georgia,2015,hispanic,7.6,923999,701
+Hawaii,2015,hispanic,65.8,142932,941
+Idaho,2015,hispanic,12.1,195474,237
+Illinois,2015,hispanic,8.4,2137624,1799
+Indiana,2015,hispanic,5.0,429228,216
+Iowa,2015,hispanic,14.4,172759,248
+Kansas,2015,hispanic,8.2,328069,268
+Kentucky,2015,hispanic,9.1,148210,135
+Louisiana,2015,hispanic,4.4,223121,99
+Maine,2015,hispanic,37.8,19864,75
+Maryland,2015,hispanic,9.1,552046,503
+Massachusetts,2015,hispanic,101.3,732154,7415
+Michigan,2015,hispanic,11.2,474471,530
+Minnesota,2015,hispanic,22.1,276046,609
+Mississippi,2015,hispanic,2.4,88158,21
+Missouri,2015,hispanic,10.7,237469,253
+Montana,2015,hispanic,36.8,35293,130
+Nebraska,2015,hispanic,20.7,191795,397
+Nevada,2015,hispanic,17.9,787897,1414
+New Hampshire,2015,hispanic,27.7,43304,120
+New Jersey,2015,hispanic,10.6,1722688,1819
+New Mexico,2015,hispanic,11.2,996117,1112
+New York,2015,hispanic,76.4,3666421,28023
+North Carolina,2015,hispanic,6.1,882051,538
+North Dakota,2015,hispanic,38.0,23712,90
+Ohio,2015,hispanic,9.5,401590,383
+Oklahoma,2015,hispanic,6.5,382177,249
+Oregon,2015,hispanic,31.4,492633,1545
+Pennsylvania,2015,hispanic,25.2,842176,2120
+Rhode Island,2015,hispanic,18.9,148222,280
+South Carolina,2015,hispanic,5.4,257380,138
+South Dakota,2015,hispanic,5.3,30465,16
+Tennessee,2015,hispanic,5.9,326753,192
+Texas,2015,hispanic,6.7,10403134,6928
+Utah,2015,hispanic,16.7,396041,660
+Vermont,2015,hispanic,43.0,10941,47
+Virginia,2015,hispanic,6.7,727316,484
+Washington,2015,hispanic,32.1,852124,2738
+West Virginia,2015,hispanic,14.7,26555,39
+Wisconsin,2015,hispanic,13.8,371114,513
+Wyoming,2015,hispanic,22.7,56835,129
+Puerto Rico,2015,hispanic,12.4,3514279,4367
+Alabama,2015,nonHispanic,8.4,4647829,3901
+Alaska,2015,nonHispanic,27.1,687218,1862
+Arizona,2015,nonHispanic,16.1,4667068,7516
+Arkansas,2015,nonHispanic,7.8,2759230,2143
+California,2015,nonHispanic,35.4,23768472,84183
+Colorado,2015,nonHispanic,16.6,4219936,7006
+Connecticut,2015,nonHispanic,9.6,3053703,2923
+Delaware,2015,nonHispanic,10.5,852392,899
+District of Columbia,2015,nonHispanic,117.2,589816,6914
+Florida,2015,nonHispanic,20.5,15092581,30912
+Georgia,2015,nonHispanic,14.3,9163232,13089
+Hawaii,2015,nonHispanic,52.4,1273417,6679
+Idaho,2015,nonHispanic,12.0,1438058,1729
+Illinois,2015,nonHispanic,10.6,10729920,11378
+Indiana,2015,nonHispanic,9.2,6166005,5647
+Iowa,2015,nonHispanic,9.7,2935271,2833
+Kansas,2015,nonHispanic,9.0,2571291,2320
+Kentucky,2015,nonHispanic,10.3,4264847,4403
+Louisiana,2015,nonHispanic,9.0,4424759,3982
+Maine,2015,nonHispanic,17.5,1310855,2297
+Maryland,2015,nonHispanic,14.6,5415249,7887
+Massachusetts,2015,nonHispanic,22.8,6017757,13720
+Michigan,2015,nonHispanic,10.6,9441296,9986
+Minnesota,2015,nonHispanic,13.4,5177063,6937
+Mississippi,2015,nonHispanic,6.8,2904242,1962
+Missouri,2015,nonHispanic,10.7,5823461,6229
+Montana,2015,nonHispanic,16.0,987574,1579
+Nebraska,2015,nonHispanic,13.9,1689350,2347
+Nevada,2015,nonHispanic,35.8,2045116,7329
+New Hampshire,2015,nonHispanic,10.3,1285439,1325
+New Jersey,2015,nonHispanic,11.5,7202313,8279
+New Mexico,2015,nonHispanic,14.0,1086907,1517
+New York,2015,nonHispanic,37.5,16052094,60227
+North Carolina,2015,nonHispanic,11.2,9052348,10147
+North Dakota,2015,nonHispanic,17.0,716192,1215
+Ohio,2015,nonHispanic,9.6,11192818,10799
+Oklahoma,2015,nonHispanic,10.1,3495322,3528
+Oregon,2015,nonHispanic,33.6,3475738,11681
+Pennsylvania,2015,nonHispanic,11.1,11948389,13301
+Rhode Island,2015,nonHispanic,9.2,906258,831
+South Carolina,2015,nonHispanic,11.4,4571050,5216
+South Dakota,2015,nonHispanic,12.4,822096,1020
+Tennessee,2015,nonHispanic,14.4,6217910,8931
+Texas,2015,nonHispanic,10.1,16541617,16750
+Utah,2015,nonHispanic,9.3,2545795,2365
+Vermont,2015,nonHispanic,24.0,616043,1476
+Virginia,2015,nonHispanic,8.6,7590056,6517
+Washington,2015,nonHispanic,26.9,6202072,16681
+West Virginia,2015,nonHispanic,9.9,1821959,1796
+Wisconsin,2015,nonHispanic,10.3,5387263,5544
+Wyoming,2015,nonHispanic,12.7,526807,669
+Puerto Rico,2015,nonHispanic,44.3,34118,151

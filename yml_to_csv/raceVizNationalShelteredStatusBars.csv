@@ -1,0 +1,8 @@
+---
+layout: none
+---
+year,category,situation,black,asian,nativeAmerican,multipleRaces,nhpi,white,hispanic,nonHispanic
+{% for i in site.data.d3.raceVizNationalShelteredStatusBars %}
+  {{- i.year -}},{{- i.category -}},{{- i.situation -}},{{- i.black -}},{{- i.asian -}},{{- i.nativeAmerican -}},{{- i.multipleRaces -}},{{- i.nhpi -}},{{- i.white -}},{{- i.hispanic -}},{{- i.nonHispanic -}}
+  {% if forloop.last == false %},{% endif %}
+{% endfor %}

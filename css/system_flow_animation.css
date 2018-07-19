@@ -1,0 +1,254 @@
+.chartAndControls {
+  padding: 0;
+  font-family: "Helvetica", sans-serif;
+}
+/* ---------- CONTROL PANEL/OPTIONS ---------- */
+#missionControl {
+  max-width: 800px;
+  margin: auto;
+}
+.controlPanel {
+}
+.controlPanelTitle {
+  color: rgb(94, 133, 164);
+  text-transform: uppercase;
+  font-family: "Impact", "Helvetica", sans-serif;
+  letter-spacing: 1.5px;
+  font-size: 20px;
+  padding: 10px 0 0 0;
+  text-align: center;
+}
+.controlPanelSubtitle {
+  text-align: center;
+  padding: 0 0 10px 0;
+  font-style: normal;
+  font-size: 14px;
+  color: #acacac;
+}
+.card {
+  border: 0;
+}
+.card-header {
+  background-color: #fefbf8;
+  border: 2px solid #fff;
+  border-left: 5px solid;
+  border-right: 5px solid;
+  border-radius: 0;
+}
+#controlPanel1 {
+  border-left-color: rgb(136, 100, 136);
+  border-right-color: rgb(136, 100, 136);
+}
+#controlPanel2 {
+  border-left-color: rgb(206, 126, 129);
+  border-right-color: rgb(206, 126, 129);
+}
+#controlPanel3 {
+  border-left-color: rgb(243, 165, 126);
+  border-right-color: rgb(243, 165, 126);  
+}
+#controlPanel4 {
+  border-left-color: rgb(211, 202, 147);
+  border-right-color: rgb(211, 202, 147);
+}
+#controlPanel1:hover, #controlPanel1:not(.collapsed) {
+  background-color: #e6dde6;
+}
+#controlPanel2:hover, #controlPanel2:not(.collapsed)  {
+  background-color: #f4e2e2;
+}
+#controlPanel3:hover, #controlPanel3:not(.collapsed)  {
+  background-color: #fbe4d8;
+}
+#controlPanel4:hover, #controlPanel4:not(.collapsed)  {
+  background-color: #efecd9;
+}
+.sliderDiv {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.sliderValue {
+  margin-top: 30px;
+  text-align: center;
+  font-size: 14px;
+}
+.sliderValueWithPips {
+  margin-top: 45px;
+  text-align: center;
+  font-size: 14px;  
+}
+.sliderValueVal {
+  text-align: center;
+  font-size: 14px;   
+}
+.noUi-handle:before, .noUi-handle:after {
+  content: none;
+}
+.controlHeader {
+  font-size: 14px;
+  margin-bottom: 10px;
+  position: relative;
+}
+.backgroundHighlight {
+  border-left: 2px solid #eaeeff;
+  border-right: 2px solid #eaeeff;
+  border-top: 8px solid #eaeeff;
+  padding: 13px 10px 0 10px;
+}
+.controlHeaderSpan {
+  font-size: 14px;
+}
+.controlCircle {
+  margin-right: 5px;
+}
+.circleP {
+  color: rgb(136, 100, 136);
+}
+.circleR {
+  color: rgb(206, 126, 129);
+}
+.circleO {
+  color: rgb(243, 165, 126);
+}
+.circleG {
+  color: rgb(211, 202, 147);
+}
+.circleB {
+  color: rgb(94, 133, 164);
+}
+.circleGrey {
+  color: #999;
+}
+.controlHeader input {
+  position: absolute;
+  left: 60px;
+  top: -4px;
+  width: 100px;
+}
+.controlItemNarrow select {
+  width: 65px;
+}
+.controlItemWide {
+  width: 270px;
+}
+.controlItemMedium {
+  width: 80px;
+}
+.controlItemNarrow {
+  width: 70px;
+}
+.flex-row {
+  align-items: center
+}
+#chartcontainer {
+  position: relative;
+}
+.svg {
+  background-color:#f3f3f3;
+}
+#leftRectangle{
+  fill: #f1d3b7;/*#e0e0e0;*/
+  fill: url(#leftRectGradient);
+}
+#rightRectangle{
+  fill: #fefbf8;/*#f5f5f5;*/
+}
+.homelessLabels{
+  font-size: 2em;
+/*   font-family: sans-serif;*/
+  font-weight:bold;
+  letter-spacing: .1em;
+}
+#homelessLabel{
+  fill:#fefbf8;/*#f6f6f6;*/
+  text-anchor:start;
+}
+#housedLabel{
+  fill: #f1d3b7; /*#e0e0e0;*/
+  text-anchor:start;
+}
+.groupLabels{
+  text-anchor: middle;
+  font-size: 15px;
+  /*font-family: sans-serif;*/
+  letter-spacing: .2em;
+  fill: #999999;
+}
+#unshLabel, #esLabel, #esLabel2, #thLabel, #thLabel2 {
+  fill: #fefbf8;
+}
+.groupLabelNums{
+  text-anchor: middle;
+  font-size: 18px;
+  font-weight:bold;
+  /*font-family: sans-serif;*/
+  letter-spacing: .2em;
+}
+#legendNum {
+  font-weight: bold;
+}
+#homelessCountNum {
+  text-anchor: end;
+  fill: #f3f3f3;
+  font-size: 26px;
+  /*font-family: sans-serif;*/
+  font-weight: bold;
+}
+#homelessCountLabel {
+  text-anchor:middle;
+  fill: #f3f3f3;
+  font-size: 20px;
+  text-transform: uppercase;
+  /*font-family: sans-serif;*/
+  letter-spacing: .1em;
+}
+#monthsElapsedNum {
+  text-anchor:middle;
+  fill: #fefbf8;
+  font-size: 30px;
+  /*font-family: sans-serif;*/
+  font-weight: bold;
+}
+#monthsElapsedLabel {
+  text-anchor:middle;
+  fill: #fefbf8;
+  font-size: 16px;
+  /*font-family: sans-serif;*/
+  letter-spacing: .1em;
+  font-weight: bold;
+}
+#playButton {
+/*mostly being set in JS*/
+}
+.startLineLabels{
+  text-anchor: start;
+  font-size: 15px;
+  /*font-family: sans-serif;*/
+  letter-spacing: .2em;
+  fill: #fefbf8;
+}
+.elapsedLabel {
+  text-anchor: start;
+  font-size: 15px;
+  /*font-family: sans-serif;*/
+  letter-spacing: .2em;
+  fill: #fefbf8;
+}
+.legendText {
+  text-anchor: start;
+  font-size: 15px;
+  /*font-family: sans-serif;*/
+  letter-spacing: .2em;
+  fill: #fefbf8; /*#f9f9f9;  */
+}
+.personIcon {
+  position: absolute;
+  color: #5E85A4;
+  font-size: 25px;
+}
+.circleIcon {
+  position: absolute;
+  color: #5E85A4;
+  font-size: 15px;
+}
+

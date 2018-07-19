@@ -1,0 +1,8 @@
+---
+layout: none
+---
+state,year,pitYear,acsYear,category,rateDiff,rateMin,rateMaj
+{% for i in site.data.d3.raceVizStatesRatesMajVsMin %}
+  {{- i.state -}},{{- i.year -}},{{- i.pitYear -}},{{- i.acsYear -}},{{- i.category -}},{{- i.rateDiff -}},{{- i.rateMin -}},{{- i.rateMaj -}}
+  {% if forloop.last == false %},{% endif %}
+{% endfor %}

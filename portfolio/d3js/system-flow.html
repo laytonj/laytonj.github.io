@@ -1,0 +1,615 @@
+---
+layout: portfolio_item
+category: D3.js
+title: System flow simulation
+---
+<script src="../../../js/d3.v4.min.js"></script>
+<script src="../../../js/d3-timer.v1.min.js"></script>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+<link href="../../../css/nouislider.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="../../../css/system_flow_animation.css">
+
+<div class="row">
+  <div class="col-lg-1"></div>
+  <div class="col-lg-10">
+    People leading homeless services systems that span dozens of agencies and programs (I've been there) can find it difficult to conceptualize the many factors that influence increases and decreases in homelessness. This simulation was designed to help communities think about the impact of factors like turnover, successful outcomes, and inflow. As with any interactive visualization, seeking a balance between usability and complexity required tradeoffs in the number of variables and visual elements at play.
+    <br/>
+    <br/>
+    There’s a lot of D3, CSS, and HTML going on here. After the visualization I’ll describe it more.
+    <br/><br/>
+  </div>
+  <div class="col-lg-1"></div>
+</div>
+<div class="row">
+  <div class="col-xl-9 chartAndControls">
+    <div id = "chartcontainer" class = "chartcontainer order-first">
+    </div>
+  </div>
+  <div class="col-xl-3 chartAndControls">
+    <div id="missionControl">
+      <div class="controlPanelTitle">Change the setup</div>
+      <div class="controlPanelSubtitle">
+        Then click "start" or "restart"
+      </div>
+      <div class="accordion" id="controlPanelAccordion">
+        <div class="card">
+          <div class="card-header btn collapsed" id="controlPanel1" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">
+             Simulation speed
+          </div>
+          <div id="collapse1" class="collapse" aria-labelledby="controlPanel1" data-parent="#controlPanelAccordion">
+            <div class="card-body">
+              <div class="d-flex flex-row justify-content-center">
+                <div id="sliderSpeed" class="sliderDiv controlItemWide"></div>
+              </div>
+              <div class="d-flex flex-row justify-content-center">
+                <div id="sliderSpeedSelection" class="sliderValue"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-header btn collapsed" id="controlPanel2" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
+             Number of people per group
+          </div>
+          <div id="collapse2" class="collapse" aria-labelledby="controlPanel2" data-parent="#controlPanelAccordion">
+            <div class="card-body">
+              <div class="d-flex flex-row flex-wrap justify-content-center">
+                <div class="controlHeader controlItemWide"><i class="fas fa-circle controlCircle circleP"></i>Unsh.<input id="numUnsh" type="number"></div>
+                <div class="controlHeader controlItemWide"><i class="fas fa-circle controlCircle circleR"></i>ES<input id="numEs" type="number"></div>
+                <div class="controlHeader controlItemWide"><i class="fas fa-circle controlCircle circleO"></i>TH<input id="numTh" type="number"></div>
+                <div class="controlHeader controlItemWide"><i class="fas fa-circle controlCircle circleG"></i>RRH<input id="numRrh" type="number"></div>
+                <div class="controlHeader controlItemWide"><i class="fas fa-circle controlCircle circleB"></i>PSH<input id="numPsh" type="number"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-header btn collapsed" id="controlPanel3" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+             People leaving
+          </div>
+          <div id="collapse3" class="collapse" aria-labelledby="controlPanel3" data-parent="#controlPanelAccordion">
+            <div class="card-body">
+              <div class="d-flex flex-row flex-wrap justify-content-around">
+                <div class="controlItemWide align-self-start">
+                  <div class="row">
+                    <div class="col">
+                      <div class="controlHeader"> 
+                        <div class="backgroundHighlight">
+                          Average stay in months (for exits to <i class="fas fa-circle controlCircle circleP"></i>homelessness or <i class="fas fa-circle controlCircle circleGrey"></i>housing outside the homeless system)
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="d-flex flex-row flex-wrap justify-content-around">
+                    <div class="controlItemNarrow">
+                      <i class="fas fa-circle controlCircle circleR"></i><span class="controlHeaderSpan">ES</span></br>
+                      <select name="esAvgStay" id="esAvgStay">
+                        <option value="0.25">0.25</option>
+                        <option value="0.5">0.5</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                        <option value="9">9</option>
+                        <option value="10">10</option>
+                        <option value="11">11</option>
+                        <option value="12">12</option>
+                        <option value="13">13</option>
+                        <option value="14">14</option>
+                        <option value="15">15</option>
+                        <option value="16">16</option>
+                        <option value="17">17</option>
+                        <option value="18">18</option>
+                        <option value="19">19</option>
+                        <option value="20">20</option>
+                        <option value="21">21</option>
+                        <option value="22">22</option>
+                        <option value="23">23</option>
+                        <option value="24">24</option>
+                      </select>
+                    </div>
+                    <div class="controlItemNarrow">
+                      <i class="fas fa-circle controlCircle circleO"></i>
+                      <span class="controlHeaderSpan">TH</span></br>
+                      <select name="thAvgStay" id="thAvgStay">
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                        <option value="9">9</option>
+                        <option value="10">10</option>
+                        <option value="11">11</option>
+                        <option value="12">12</option>
+                        <option value="13">13</option>
+                        <option value="14">14</option>
+                        <option value="15">15</option>
+                        <option value="16">16</option>
+                        <option value="17">17</option>
+                        <option value="18">18</option>
+                        <option value="19">19</option>
+                        <option value="20">20</option>
+                        <option value="21">21</option>
+                        <option value="22">22</option>
+                        <option value="23">23</option>
+                        <option value="24">24</option>
+                      </select>
+                    </div>
+                    <div class="controlItemNarrow">
+                      <i class="fas fa-circle controlCircle circleG"></i>
+                      <span class="controlHeaderSpan">RRH</span></br>
+                      <select name="rrhAvgStay" id="rrhAvgStay">
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                        <option value="9">9</option>
+                        <option value="10">10</option>
+                        <option value="11">11</option>
+                        <option value="12">12</option>
+                        <option value="13">13</option>
+                        <option value="14">14</option>
+                        <option value="15">15</option>
+                        <option value="16">16</option>
+                        <option value="17">17</option>
+                        <option value="18">18</option>
+                        <option value="19">19</option>
+                        <option value="20">20</option>
+                        <option value="21">21</option>
+                        <option value="22">22</option>
+                        <option value="23">23</option>
+                        <option value="24">24</option>
+                      </select>
+                    </div>
+                  </div>
+                  <br/>
+                </div>
+                <div class="controlItemWide align-self-start">
+                  <div class="row">
+                    <div class="col">
+                      <div class="controlHeader"> 
+                        <div class="backgroundHighlight">
+                          Of those, the % going to <i class="fas fa-circle controlCircle circleGrey"></i>housing outside the homeless system (self resolve from ES or success from TH/RRH)
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="d-flex flex-row flex-wrap justify-content-around">
+                    <div class="controlItemNarrow">
+                      <i class="fas fa-circle controlCircle circleR"></i>
+                      <span class="controlHeaderSpan">ES</span></br>
+                      <select name="esSelfResolve" id="esSelfResolve">
+                        <option value="1.0">100%</option>
+                        <option value="0.95">95%</option>
+                        <option value="0.9">90%</option>
+                        <option value="0.85">85%</option>
+                        <option value="0.8">80%</option>
+                        <option value="0.75">75%</option>
+                        <option value="0.7">70%</option>
+                        <option value="0.65">65%</option>
+                        <option value="0.6">60%</option>
+                        <option value="0.55">55%</option>
+                        <option value="0.5">50%</option>
+                        <option value="0.45">45%</option>
+                        <option value="0.4">40%</option>
+                        <option value="0.35">35%</option>
+                        <option value="0.3">30%</option>
+                        <option value="0.25">25%</option>
+                        <option value="0.2">20%</option>
+                        <option value="0.15">15%</option>
+                        <option value="0.1">10%</option>
+                        <option value="0.05">5%</option>
+                        <option value="0.0">0%</option>
+                      </select>
+                    </div>
+                    <div class="controlItemNarrow">
+                      <i class="fas fa-circle controlCircle circleO"></i>
+                      <span class="controlHeaderSpan">TH</span></br>
+                      <select name="thSuccess" id="thSuccess">
+                        <option value="1.0">100%</option>
+                        <option value="0.95">95%</option>
+                        <option value="0.9">90%</option>
+                        <option value="0.85">85%</option>
+                        <option value="0.8">80%</option>
+                        <option value="0.75">75%</option>
+                        <option value="0.7">70%</option>
+                        <option value="0.65">65%</option>
+                        <option value="0.6">60%</option>
+                        <option value="0.55">55%</option>
+                        <option value="0.5">50%</option>
+                        <option value="0.45">45%</option>
+                        <option value="0.4">40%</option>
+                        <option value="0.35">35%</option>
+                        <option value="0.3">30%</option>
+                        <option value="0.25">25%</option>
+                        <option value="0.2">20%</option>
+                        <option value="0.15">15%</option>
+                        <option value="0.1">10%</option>
+                        <option value="0.05">5%</option>
+                        <option value="0.0">0%</option>
+                      </select>
+                    </div>
+                    <div class="controlItemNarrow">
+                      <i class="fas fa-circle controlCircle circleG"></i>
+                      <span class="controlHeaderSpan">RRH</span></br>
+                      <select name="rrhSuccess" id="rrhSuccess">
+                        <option value="1.0">100%</option>
+                        <option value="0.95">95%</option>
+                        <option value="0.9">90%</option>
+                        <option value="0.85">85%</option>
+                        <option value="0.8">80%</option>
+                        <option value="0.75">75%</option>
+                        <option value="0.7">70%</option>
+                        <option value="0.65">65%</option>
+                        <option value="0.6">60%</option>
+                        <option value="0.55">55%</option>
+                        <option value="0.5">50%</option>
+                        <option value="0.45">45%</option>
+                        <option value="0.4">40%</option>
+                        <option value="0.35">35%</option>
+                        <option value="0.3">30%</option>
+                        <option value="0.25">25%</option>
+                        <option value="0.2">20%</option>
+                        <option value="0.15">15%</option>
+                        <option value="0.1">10%</option>
+                        <option value="0.05">5%</option>
+                        <option value="0.0">0%</option>
+                      </select>
+                    </div>
+                  </div>
+                  <br/>
+                </div>
+                <div class="controlItemWide align-self-start">
+                  <div class="row">
+                    <div class="col">
+                      <div class="controlHeader"> 
+                        <div class="backgroundHighlight">
+                          The % in <i class="fas fa-circle controlCircle circleB"></i>PSH each year who...
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="d-flex flex-row flex-wrap justify-content-around">
+                    <div class="controlItemMedium">
+                      <span class="controlHeaderSpan"><i class="fas fa-circle controlCircle circleGrey"></i>move on</span><br/>
+                      <select name="pshMovingOn" id="pshMovingOn">
+                        <option value="1.0">100%</option>
+                        <option value="0.95">95%</option>
+                        <option value="0.9">90%</option>
+                        <option value="0.85">85%</option>
+                        <option value="0.8">80%</option>
+                        <option value="0.75">75%</option>
+                        <option value="0.7">70%</option>
+                        <option value="0.65">65%</option>
+                        <option value="0.6">60%</option>
+                        <option value="0.55">55%</option>
+                        <option value="0.5">50%</option>
+                        <option value="0.45">45%</option>
+                        <option value="0.4">40%</option>
+                        <option value="0.35">35%</option>
+                        <option value="0.3">30%</option>
+                        <option value="0.25">25%</option>
+                        <option value="0.2">20%</option>
+                        <option value="0.15">15%</option>
+                        <option value="0.1">10%</option>
+                        <option value="0.05">5%</option>
+                        <option value="0.0">0%</option>
+                      </select>
+                    </div>
+                    <div class="controlItemMedium">
+                      <span class="controlHeaderSpan"><i class="fas fa-circle controlCircle circleP"></i>recidivate</span><br/>
+                      <select name="pshNegTurnover" id="pshNegTurnover">
+                        <option value="1.0">100%</option>
+                        <option value="0.95">95%</option>
+                        <option value="0.9">90%</option>
+                        <option value="0.85">85%</option>
+                        <option value="0.8">80%</option>
+                        <option value="0.75">75%</option>
+                        <option value="0.7">70%</option>
+                        <option value="0.65">65%</option>
+                        <option value="0.6">60%</option>
+                        <option value="0.55">55%</option>
+                        <option value="0.5">50%</option>
+                        <option value="0.45">45%</option>
+                        <option value="0.4">40%</option>
+                        <option value="0.35">35%</option>
+                        <option value="0.3">30%</option>
+                        <option value="0.25">25%</option>
+                        <option value="0.2">20%</option>
+                        <option value="0.15">15%</option>
+                        <option value="0.1">10%</option>
+                        <option value="0.05">5%</option>
+                        <option value="0.0">0%</option>
+                      </select>
+                    </div>
+                  </div>
+                  <br/>
+                </div>
+                <div class="controlItemWide align-self-start">
+                  <div class="row">
+                    <div class="col">
+                      <div class="controlHeader"> 
+                        <div class="backgroundHighlight">
+                          The % of <i class="fas fa-circle controlCircle circleP"></i>unsheltered people each year who <i class="fas fa-circle controlCircle circleGrey"></i>self resolve
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="d-flex flex-row flex-wrap justify-content-around">
+                    <div class="controlItemNarrow">
+                      <select name="unshSelfResolve" id="unshSelfResolve">
+                        <option value="1.0">100%</option>
+                        <option value="0.95">95%</option>
+                        <option value="0.9">90%</option>
+                        <option value="0.85">85%</option>
+                        <option value="0.8">80%</option>
+                        <option value="0.75">75%</option>
+                        <option value="0.7">70%</option>
+                        <option value="0.65">65%</option>
+                        <option value="0.6">60%</option>
+                        <option value="0.55">55%</option>
+                        <option value="0.5">50%</option>
+                        <option value="0.45">45%</option>
+                        <option value="0.4">40%</option>
+                        <option value="0.35">35%</option>
+                        <option value="0.3">30%</option>
+                        <option value="0.25">25%</option>
+                        <option value="0.2">20%</option>
+                        <option value="0.15">15%</option>
+                        <option value="0.1">10%</option>
+                        <option value="0.05">5%</option>
+                        <option value="0.0">0%</option>
+                      </select>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-header btn collapsed" id="controlPanel4" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+             People coming in
+          </div>
+          <div id="collapse4" class="collapse" aria-labelledby="controlPanel4" data-parent="#controlPanelAccordion">
+            <div class="card-body">
+              <div class="d-flex flex-row flex-wrap justify-content-around ">
+                <div class="controlItemWide align-self-start">
+                  <div class="row">
+                    <div class="col">
+                      <div class="controlHeader"> 
+                        <div class="backgroundHighlight">
+                          % of <i class="fas fa-circle controlCircle circleR"></i>ES vacancies filled from...
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col">
+                      <div id="sliderIntoEs" class="sliderDiv"></div>
+                    </div>
+                  </div>
+                  <div class="d-flex flex-row flex-wrap justify-content-around align-top">
+                    <div class="controlItemMedium">
+                      <div class="sliderValueWithPips">
+                        <i class="fas fa-circle controlCircle circleP"></i>Unsh: 
+                      </div>
+                      <div id="sliderIntoEsFromUnsh" class="sliderValueVal">
+                      </div>
+                    </div>
+                    <div class="controlItemMedium">
+                      <div class="sliderValueWithPips">
+                        <i class="fas fa-circle controlCircle circleGrey"></i>Community: 
+                      </div>
+                      <div id="sliderIntoEsFromIndH" class="sliderValueVal">
+                      </div>
+                    </div>                
+                  </div>
+                  <br/>
+                </div>
+                <div class="controlItemWide align-self-start">
+                  <div class="row">
+                    <div class="col">
+                      <div class="controlHeader">
+                        <div class="backgroundHighlight">
+                          % of <i class="fas fa-circle controlCircle circleO"></i>TH vacancies filled from...
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col">
+                      <div id="sliderIntoTh" class="sliderDiv"></div>
+                    </div>
+                  </div>
+                  <div class="d-flex flex-row flex-wrap justify-content-around align-top">
+                    <div class="controlItemNarrow"> 
+                      <div class="sliderValueWithPips">
+                        <i class="fas fa-circle controlCircle circleP"></i>Unsh: 
+                      </div>
+                      <div id="sliderIntoThFromUnsh" class="sliderValueVal">
+                      </div>
+                    </div>
+                    <div class="controlItemNarrow"> 
+                      <div class="sliderValueWithPips">
+                        <i class="fas fa-circle controlCircle circleR"></i>ES: 
+                      </div>
+                      <div id="sliderIntoThFromEs" class="sliderValueVal">
+                      </div>
+                    </div>                
+                  </div>
+                  <br/>
+                </div>
+                <div class="controlItemWide align-self-start">
+                  <div class="row">
+                    <div class="col">
+                      <div class="controlHeader">
+                        <div class="backgroundHighlight">
+                          % of <i class="fas fa-circle controlCircle circleG"></i>RRH vacancies filled from...
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col">
+                      <div id="sliderIntoRrh" class="sliderDiv"></div>
+                    </div>
+                  </div>
+                  <div class="d-flex flex-row flex-wrap justify-content-around align-top">
+                    <div class="controlItemNarrow"> 
+                      <div class="sliderValueWithPips">
+                        <i class="fas fa-circle controlCircle circleP"></i>Unsh: 
+                      </div>
+                      <div id="sliderIntoRrhFromUnsh" class="sliderValueVal">
+                      </div>
+                    </div>
+                    <div class="controlItemNarrow"> 
+                      <div class="sliderValueWithPips">
+                        <i class="fas fa-circle controlCircle circleR"></i>ES: 
+                      </div>
+                      <div id="sliderIntoRrhFromEs" class="sliderValueVal">
+                      </div>
+                    </div> 
+                    <div class="controlItemNarrow"> 
+                      <div class="sliderValueWithPips">
+                        <i class="fas fa-circle controlCircle circleO"></i>TH: 
+                      </div>
+                      <div id="sliderIntoRrhFromTh" class="sliderValueVal">
+                      </div>
+                    </div>                    
+                  </div>
+                  <br/>
+                </div>
+                <div class="controlItemWide align-self-start">
+                  <div class="row">
+                    <div class="col">
+                      <div class="controlHeader">
+                        <div class="backgroundHighlight">
+                          % of <i class="fas fa-circle controlCircle circleB"></i>PSH vacancies filled from...
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col">
+                      <div id="sliderIntoPsh" class="sliderDiv"></div>
+                    </div>
+                  </div>
+                  <div class="d-flex flex-row flex-wrap justify-content-around align-top">
+                    <div class="controlItemNarrow"> 
+                      <div class="sliderValueWithPips">
+                        <i class="fas fa-circle controlCircle circleP"></i>Unsh: 
+                      </div>
+                      <div id="sliderIntoPshFromUnsh" class="sliderValueVal">
+                      </div>
+                    </div>
+                    <div class="controlItemNarrow"> 
+                      <div class="sliderValueWithPips">
+                        <i class="fas fa-circle controlCircle circleR"></i>ES: 
+                      </div>
+                      <div id="sliderIntoPshFromEs" class="sliderValueVal">
+                      </div>
+                    </div> 
+                    <div class="controlItemNarrow"> 
+                      <div class="sliderValueWithPips">
+                        <i class="fas fa-circle controlCircle circleO"></i>TH: 
+                      </div>
+                      <div id="sliderIntoPshFromTh" class="sliderValueVal">
+                      </div>
+                    </div>                
+                  </div>
+                  <br/>
+                </div>                
+                <div class="controlItemWide align-self-start">
+                  <div class="row">
+                    <div class="col">
+                      <div class="controlHeader">
+                        <div class="backgroundHighlight">
+                          Inflow of new people becoming homeless each year, as a % increase of total homeless (unsh., ES, TH)
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="d-flex flex-row flex-wrap justify-content-around align-top">
+                    <div class="controlItemNarrow">                    
+                      <select name="indHToUnsh" id="indHToUnsh">
+                        <option value="1.0">100%</option>
+                        <option value="0.95">95%</option>
+                        <option value="0.9">90%</option>
+                        <option value="0.85">85%</option>
+                        <option value="0.8">80%</option>
+                        <option value="0.75">75%</option>
+                        <option value="0.7">70%</option>
+                        <option value="0.65">65%</option>
+                        <option value="0.6">60%</option>
+                        <option value="0.55">55%</option>
+                        <option value="0.5">50%</option>
+                        <option value="0.45">45%</option>
+                        <option value="0.4">40%</option>
+                        <option value="0.35">35%</option>
+                        <option value="0.3">30%</option>
+                        <option value="0.25">25%</option>
+                        <option value="0.2">20%</option>
+                        <option value="0.15">15%</option>
+                        <option value="0.1">10%</option>
+                        <option value="0.05">5%</option>
+                        <option value="0.0">0%</option>
+                      </select> 
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<br/>
+<br/>
+<div class="row">
+  <div class="col-lg-1"></div>
+  <div class="col-lg-10">
+    The idea for this chart originated when I saw <a href="https://flowingdata.com/2016/08/23/make-a-moving-bubbles-chart-to-show-clustering-and-distributions/" target="_blank">this little gif</a> posted on Flowing Data. I never paid for a membership for the tutorial, but I was confident I could figure it out (and add controls to boot). I’ll skip describing how I created the visual elements, visual transitions, click functions, and the stacked bar on the left; these are all standard D3 fare. At the core is the physics based simulator that is <span class="font-weight-bold">D3’s force layout</span> combined with time-based functions triggered by <span class="font-weight-bold">D3’s timer module</span>. In summary: 
+    <br/><br/>
+    <ul>
+      <li>
+        Dots are assigned (classed) to groups that each have a center of gravity (for the sake of speed, the number of dots has a max and groups are sized proportional to the inputs provided). As a dot is re-classed, it gets pulled to its new center of gravity. I had to find a balance for the strength of this pull: not too strong so as to explosively jostle other dots, and not too weak so as to be unable to push past other dots.
+      </li><br/>
+      <li>
+        I calculate the rate at which a dot should leave a group per the speed of the simulation and the inputs of average length of time people are in a given housing type (turnover rates).
+      </li><br/>     
+      <li>
+        Keeping track of time with the D3 timer module, if enough cumulative time has passed for any particular turnover rate then a random dot is told to leave (it gets re-classed). After generating a random number, the dot is re-classed and sent to one of several potential locations based on the proportion of people (per the input options) who exit to that location.
+      </li><br/>   
+      <li>
+        In turn, each vacancy triggers a function that pulls a dot from another location. Again, this is based on random number generation as compared to the proportions set in the input options.
+      </li><br/>
+      <li>
+        And so on down the line…
+      </li>
+    </ul>
+    As far as the HTML and CSS, I took advantage of <span class="font-weight-bold">Bootstrap</span> and <span class="font-weight-bold">Flexbox</span> for laying out the control panel and making it responsive (even if scaling didn’t make sense for the main visualization).
+  </div>
+  <div class="col-lg-1"></div>
+</div>
+  
+
+  
+
+
+
+<script type="text/javascript" charset="utf-8" src="../../../js/nouislider.min.js"></script>  
+<script type="text/javascript" charset="utf-8" src="../../../js/system_flow_animation.js"></script>

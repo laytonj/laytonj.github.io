@@ -1,0 +1,8737 @@
+---
+-
+    state: Alabama
+    year: 2017
+    category: black
+    rate: 15.8
+    populationCount: 1303516
+    homelessCount: 2064
+-
+    state: Alaska
+    year: 2017
+    category: black
+    rate: 52.7
+    populationCount: 27898
+    homelessCount: 147
+-
+    state: Arizona
+    year: 2017
+    category: black
+    rate: 47.5
+    populationCount: 339472
+    homelessCount: 1611
+-
+    state: Arkansas
+    year: 2017
+    category: black
+    rate: 19.0
+    populationCount: 468502
+    homelessCount: 892
+-
+    state: California
+    year: 2017
+    category: black
+    rate: 170.9
+    populationCount: 2547480
+    homelessCount: 43529
+-
+    state: Colorado
+    year: 2017
+    category: black
+    rate: 71.9
+    populationCount: 248833
+    homelessCount: 1788
+-
+    state: Connecticut
+    year: 2017
+    category: black
+    rate: 31.9
+    populationCount: 421023
+    homelessCount: 1343
+-
+    state: Delaware
+    year: 2017
+    category: black
+    rate: 25.3
+    populationCount: 214914
+    homelessCount: 544
+-
+    state: District of Columbia
+    year: 2017
+    category: black
+    rate: 206.4
+    populationCount: 325190
+    homelessCount: 6712
+-
+    state: Florida
+    year: 2017
+    category: black
+    rate: 34.4
+    populationCount: 3471950
+    homelessCount: 11954
+-
+    state: Georgia
+    year: 2017
+    category: black
+    rate: 20.9
+    populationCount: 3301809
+    homelessCount: 6902
+-
+    state: Hawaii
+    year: 2017
+    category: black
+    rate: 82.1
+    populationCount: 31073
+    homelessCount: 255
+-
+    state: Idaho
+    year: 2017
+    category: black
+    rate: 52.9
+    populationCount: 14183
+    homelessCount: 75
+-
+    state: Illinois
+    year: 2017
+    category: black
+    rate: 33.9
+    populationCount: 1877776
+    homelessCount: 6375
+-
+    state: Indiana
+    year: 2017
+    category: black
+    rate: 29.3
+    populationCount: 641409
+    homelessCount: 1877
+-
+    state: Iowa
+    year: 2017
+    category: black
+    rate: 69.2
+    populationCount: 114874
+    homelessCount: 795
+-
+    state: Kansas
+    year: 2017
+    category: black
+    rate: 22.6
+    populationCount: 179599
+    homelessCount: 405
+-
+    state: Kentucky
+    year: 2017
+    category: black
+    rate: 27.4
+    populationCount: 367591
+    homelessCount: 1009
+-
+    state: Louisiana
+    year: 2017
+    category: black
+    rate: 12.6
+    populationCount: 1524638
+    homelessCount: 1921
+-
+    state: Maine
+    year: 2017
+    category: black
+    rate: 141.8
+    populationCount: 20025
+    homelessCount: 284
+-
+    state: Maryland
+    year: 2017
+    category: black
+    rate: 23.5
+    populationCount: 1845613
+    homelessCount: 4341
+-
+    state: Massachusetts
+    year: 2017
+    category: black
+    rate: 99.2
+    populationCount: 587417
+    homelessCount: 5830
+-
+    state: Michigan
+    year: 2017
+    category: black
+    rate: 33.4
+    populationCount: 1406212
+    homelessCount: 4693
+-
+    state: Minnesota
+    year: 2017
+    category: black
+    rate: 95.7
+    populationCount: 344322
+    homelessCount: 3296
+-
+    state: Mississippi
+    year: 2017
+    category: black
+    rate: 7.2
+    populationCount: 1127116
+    homelessCount: 811
+-
+    state: Missouri
+    year: 2017
+    category: black
+    rate: 36.7
+    populationCount: 720905
+    homelessCount: 2645
+-
+    state: Montana
+    year: 2017
+    category: black
+    rate: 54.7
+    populationCount: 6034
+    homelessCount: 33
+-
+    state: Nebraska
+    year: 2017
+    category: black
+    rate: 61.2
+    populationCount: 94620
+    homelessCount: 579
+-
+    state: Nevada
+    year: 2017
+    category: black
+    rate: 82.7
+    populationCount: 281224
+    homelessCount: 2326
+-
+    state: New Hampshire
+    year: 2017
+    category: black
+    rate: 38.0
+    populationCount: 20266
+    homelessCount: 77
+-
+    state: New Jersey
+    year: 2017
+    category: black
+    rate: 34.5
+    populationCount: 1337890
+    homelessCount: 4621
+-
+    state: New Mexico
+    year: 2017
+    category: black
+    rate: 27.2
+    populationCount: 52133
+    homelessCount: 142
+-
+    state: New York
+    year: 2017
+    category: black
+    rate: 176.2
+    populationCount: 3488119
+    homelessCount: 61463
+-
+    state: North Carolina
+    year: 2017
+    category: black
+    rate: 20.2
+    populationCount: 2252403
+    homelessCount: 4553
+-
+    state: North Dakota
+    year: 2017
+    category: black
+    rate: 56.8
+    populationCount: 22356
+    homelessCount: 127
+-
+    state: Ohio
+    year: 2017
+    category: black
+    rate: 30.7
+    populationCount: 1487040
+    homelessCount: 4562
+-
+    state: Oklahoma
+    year: 2017
+    category: black
+    rate: 25.2
+    populationCount: 304465
+    homelessCount: 767
+-
+    state: Oregon
+    year: 2017
+    category: black
+    rate: 96.1
+    populationCount: 86539
+    homelessCount: 832
+-
+    state: Pennsylvania
+    year: 2017
+    category: black
+    rate: 49.5
+    populationCount: 1505204
+    homelessCount: 7450
+-
+    state: Rhode Island
+    year: 2017
+    category: black
+    rate: 36.2
+    populationCount: 85355
+    homelessCount: 309
+-
+    state: South Carolina
+    year: 2017
+    category: black
+    rate: 16.2
+    populationCount: 1362579
+    homelessCount: 2205
+-
+    state: South Dakota
+    year: 2017
+    category: black
+    rate: 25.4
+    populationCount: 17302
+    homelessCount: 44
+-
+    state: Tennessee
+    year: 2017
+    category: black
+    rate: 28.2
+    populationCount: 1137075
+    homelessCount: 3205
+-
+    state: Texas
+    year: 2017
+    category: black
+    rate: 25.4
+    populationCount: 3515215
+    homelessCount: 8928
+-
+    state: Utah
+    year: 2017
+    category: black
+    rate: 68.1
+    populationCount: 41418
+    homelessCount: 282
+-
+    state: Vermont
+    year: 2017
+    category: black
+    rate: 97.0
+    populationCount: 8147
+    homelessCount: 79
+-
+    state: Virginia
+    year: 2017
+    category: black
+    rate: 19.5
+    populationCount: 1664523
+    homelessCount: 3241
+-
+    state: Washington
+    year: 2017
+    category: black
+    rate: 138.0
+    populationCount: 301955
+    homelessCount: 4167
+-
+    state: West Virginia
+    year: 2017
+    category: black
+    rate: 32.5
+    populationCount: 65929
+    homelessCount: 214
+-
+    state: Wisconsin
+    year: 2017
+    category: black
+    rate: 43.0
+    populationCount: 381807
+    homelessCount: 1643
+-
+    state: Wyoming
+    year: 2017
+    category: black
+    rate: 55.5
+    populationCount: 7753
+    homelessCount: 43
+-
+    state: Puerto Rico
+    year: 2017
+    category: black
+    rate: 16.0
+    populationCount: 395069
+    homelessCount: 633
+-
+    state: Alabama
+    year: 2017
+    category: white
+    rate: 4.7
+    populationCount: 3372524
+    homelessCount: 1587
+-
+    state: Alaska
+    year: 2017
+    category: white
+    rate: 13.1
+    populationCount: 490389
+    homelessCount: 641
+-
+    state: Arizona
+    year: 2017
+    category: white
+    rate: 10.5
+    populationCount: 5772667
+    homelessCount: 6086
+-
+    state: Arkansas
+    year: 2017
+    category: white
+    rate: 6.1
+    populationCount: 2373726
+    homelessCount: 1447
+-
+    state: California
+    year: 2017
+    category: white
+    rate: 24.6
+    populationCount: 28539253
+    homelessCount: 70088
+-
+    state: Colorado
+    year: 2017
+    category: white
+    rate: 16.0
+    populationCount: 4846441
+    homelessCount: 7778
+-
+    state: Connecticut
+    year: 2017
+    category: white
+    rate: 6.1
+    populationCount: 2882093
+    homelessCount: 1752
+-
+    state: Delaware
+    year: 2017
+    category: white
+    rate: 6.0
+    populationCount: 667809
+    homelessCount: 398
+-
+    state: District of Columbia
+    year: 2017
+    category: white
+    rate: 15.8
+    populationCount: 303813
+    homelessCount: 481
+-
+    state: Florida
+    year: 2017
+    category: white
+    rate: 11.6
+    populationCount: 15996473
+    homelessCount: 18593
+-
+    state: Georgia
+    year: 2017
+    category: white
+    rate: 4.4
+    populationCount: 6311001
+    homelessCount: 2805
+-
+    state: Hawaii
+    year: 2017
+    category: white
+    rate: 43.2
+    populationCount: 369064
+    homelessCount: 1594
+-
+    state: Idaho
+    year: 2017
+    category: white
+    rate: 11.4
+    populationCount: 1571098
+    homelessCount: 1795
+-
+    state: Illinois
+    year: 2017
+    category: white
+    rate: 4.0
+    populationCount: 9885382
+    homelessCount: 3916
+-
+    state: Indiana
+    year: 2017
+    category: white
+    rate: 5.8
+    populationCount: 5678630
+    homelessCount: 3283
+-
+    state: Iowa
+    year: 2017
+    category: white
+    rate: 5.8
+    populationCount: 2864884
+    homelessCount: 1654
+-
+    state: Kansas
+    year: 2017
+    category: white
+    rate: 5.7
+    populationCount: 2518720
+    homelessCount: 1436
+-
+    state: Kentucky
+    year: 2017
+    category: white
+    rate: 7.2
+    populationCount: 3903419
+    homelessCount: 2829
+-
+    state: Louisiana
+    year: 2017
+    category: white
+    rate: 4.3
+    populationCount: 2956505
+    homelessCount: 1267
+-
+    state: Maine
+    year: 2017
+    category: white
+    rate: 14.7
+    populationCount: 1262168
+    homelessCount: 1853
+-
+    state: Maryland
+    year: 2017
+    category: white
+    rate: 6.9
+    populationCount: 3567397
+    homelessCount: 2479
+-
+    state: Massachusetts
+    year: 2017
+    category: white
+    rate: 18.0
+    populationCount: 5570872
+    homelessCount: 10006
+-
+    state: Michigan
+    year: 2017
+    category: white
+    rate: 4.8
+    populationCount: 7902903
+    homelessCount: 3826
+-
+    state: Minnesota
+    year: 2017
+    category: white
+    rate: 5.7
+    populationCount: 4691265
+    homelessCount: 2685
+-
+    state: Mississippi
+    year: 2017
+    category: white
+    rate: 3.4
+    populationCount: 1772995
+    homelessCount: 611
+-
+    state: Missouri
+    year: 2017
+    category: white
+    rate: 6.2
+    populationCount: 5071682
+    homelessCount: 3141
+-
+    state: Montana
+    year: 2017
+    category: white
+    rate: 10.7
+    populationCount: 929802
+    homelessCount: 992
+-
+    state: Nebraska
+    year: 2017
+    category: white
+    rate: 9.8
+    populationCount: 1694976
+    homelessCount: 1664
+-
+    state: Nevada
+    year: 2017
+    category: white
+    rate: 20.9
+    populationCount: 2209037
+    homelessCount: 4610
+-
+    state: New Hampshire
+    year: 2017
+    category: white
+    rate: 10.1
+    populationCount: 1251893
+    homelessCount: 1266
+-
+    state: New Jersey
+    year: 2017
+    category: white
+    rate: 5.4
+    populationCount: 6473721
+    homelessCount: 3526
+-
+    state: New Mexico
+    year: 2017
+    category: white
+    rate: 8.8
+    populationCount: 1718307
+    homelessCount: 1513
+-
+    state: New York
+    year: 2017
+    category: white
+    rate: 14.4
+    populationCount: 13797556
+    homelessCount: 19894
+-
+    state: North Carolina
+    year: 2017
+    category: white
+    rate: 5.2
+    populationCount: 7206071
+    homelessCount: 3745
+-
+    state: North Dakota
+    year: 2017
+    category: white
+    rate: 5.5
+    populationCount: 665977
+    homelessCount: 367
+-
+    state: Ohio
+    year: 2017
+    category: white
+    rate: 5.2
+    populationCount: 9576321
+    homelessCount: 4933
+-
+    state: Oklahoma
+    year: 2017
+    category: white
+    rate: 8.9
+    populationCount: 2925602
+    homelessCount: 2594
+-
+    state: Oregon
+    year: 2017
+    category: white
+    rate: 31.7
+    populationCount: 3578285
+    homelessCount: 11326
+-
+    state: Pennsylvania
+    year: 2017
+    category: white
+    rate: 5.6
+    populationCount: 10531113
+    homelessCount: 5864
+-
+    state: Rhode Island
+    year: 2017
+    category: white
+    rate: 8.5
+    populationCount: 892045
+    homelessCount: 762
+-
+    state: South Carolina
+    year: 2017
+    category: white
+    rate: 4.5
+    populationCount: 3396931
+    homelessCount: 1532
+-
+    state: South Dakota
+    year: 2017
+    category: white
+    rate: 4.2
+    populationCount: 737070
+    homelessCount: 310
+-
+    state: Tennessee
+    year: 2017
+    category: white
+    rate: 9.1
+    populationCount: 5234030
+    homelessCount: 4775
+-
+    state: Texas
+    year: 2017
+    category: white
+    rate: 5.9
+    populationCount: 22135668
+    homelessCount: 13076
+-
+    state: Utah
+    year: 2017
+    category: white
+    rate: 7.9
+    populationCount: 2778175
+    homelessCount: 2202
+-
+    state: Vermont
+    year: 2017
+    category: white
+    rate: 18.5
+    populationCount: 590869
+    homelessCount: 1093
+-
+    state: Virginia
+    year: 2017
+    category: white
+    rate: 4.1
+    populationCount: 5891553
+    homelessCount: 2417
+-
+    state: Washington
+    year: 2017
+    category: white
+    rate: 21.2
+    populationCount: 5830144
+    homelessCount: 12340
+-
+    state: West Virginia
+    year: 2017
+    category: white
+    rate: 6.2
+    populationCount: 1713756
+    homelessCount: 1062
+-
+    state: Wisconsin
+    year: 2017
+    category: white
+    rate: 5.4
+    populationCount: 5057070
+    homelessCount: 2753
+-
+    state: Wyoming
+    year: 2017
+    category: white
+    rate: 12.0
+    populationCount: 543387
+    homelessCount: 651
+-
+    state: Puerto Rico
+    year: 2017
+    category: white
+    rate: 7.1
+    populationCount: 2278731
+    homelessCount: 1612
+-
+    state: Alabama
+    year: 2017
+    category: asian
+    rate: 1.3
+    populationCount: 68864
+    homelessCount: 9
+-
+    state: Alaska
+    year: 2017
+    category: asian
+    rate: 4.3
+    populationCount: 46912
+    homelessCount: 20
+-
+    state: Arizona
+    year: 2017
+    category: asian
+    rate: 2.2
+    populationCount: 236628
+    homelessCount: 51
+-
+    state: Arkansas
+    year: 2017
+    category: asian
+    rate: 1.9
+    populationCount: 47326
+    homelessCount: 9
+-
+    state: California
+    year: 2017
+    category: asian
+    rate: 4.4
+    populationCount: 5817509
+    homelessCount: 2550
+-
+    state: Colorado
+    year: 2017
+    category: asian
+    rate: 2.8
+    populationCount: 180510
+    homelessCount: 51
+-
+    state: Connecticut
+    year: 2017
+    category: asian
+    rate: 2.0
+    populationCount: 167870
+    homelessCount: 34
+-
+    state: Delaware
+    year: 2017
+    category: asian
+    rate: 1.1
+    populationCount: 37846
+    homelessCount: 4
+-
+    state: District of Columbia
+    year: 2017
+    category: asian
+    rate: 14.2
+    populationCount: 28251
+    homelessCount: 40
+-
+    state: Florida
+    year: 2017
+    category: asian
+    rate: 2.1
+    populationCount: 587722
+    homelessCount: 122
+-
+    state: Georgia
+    year: 2017
+    category: asian
+    rate: 0.9
+    populationCount: 420391
+    homelessCount: 37
+-
+    state: Hawaii
+    year: 2017
+    category: asian
+    rate: 12.2
+    populationCount: 539050
+    homelessCount: 656
+-
+    state: Idaho
+    year: 2017
+    category: asian
+    rate: 6.9
+    populationCount: 24815
+    homelessCount: 17
+-
+    state: Illinois
+    year: 2017
+    category: asian
+    rate: 1.1
+    populationCount: 708794
+    homelessCount: 78
+-
+    state: Indiana
+    year: 2017
+    category: asian
+    rate: 2.0
+    populationCount: 149209
+    homelessCount: 30
+-
+    state: Iowa
+    year: 2017
+    category: asian
+    rate: 2.4
+    populationCount: 78735
+    homelessCount: 19
+-
+    state: Kansas
+    year: 2017
+    category: asian
+    rate: 1.2
+    populationCount: 86448
+    homelessCount: 10
+-
+    state: Kentucky
+    year: 2017
+    category: asian
+    rate: 2.7
+    populationCount: 66230
+    homelessCount: 18
+-
+    state: Louisiana
+    year: 2017
+    category: asian
+    rate: 1.4
+    populationCount: 85006
+    homelessCount: 12
+-
+    state: Maine
+    year: 2017
+    category: asian
+    rate: 6.7
+    populationCount: 16517
+    homelessCount: 11
+-
+    state: Maryland
+    year: 2017
+    category: asian
+    rate: 1.0
+    populationCount: 395887
+    homelessCount: 40
+-
+    state: Massachusetts
+    year: 2017
+    category: asian
+    rate: 3.8
+    populationCount: 454371
+    homelessCount: 173
+-
+    state: Michigan
+    year: 2017
+    category: asian
+    rate: 0.7
+    populationCount: 306396
+    homelessCount: 22
+-
+    state: Minnesota
+    year: 2017
+    category: asian
+    rate: 4.0
+    populationCount: 272170
+    homelessCount: 110
+-
+    state: Mississippi
+    year: 2017
+    category: asian
+    rate: 1.3
+    populationCount: 31969
+    homelessCount: 4
+-
+    state: Missouri
+    year: 2017
+    category: asian
+    rate: 1.9
+    populationCount: 121812
+    homelessCount: 23
+-
+    state: Montana
+    year: 2017
+    category: asian
+    rate: 4.7
+    populationCount: 8486
+    homelessCount: 4
+-
+    state: Nebraska
+    year: 2017
+    category: asian
+    rate: 4.2
+    populationCount: 47282
+    homelessCount: 20
+-
+    state: Nevada
+    year: 2017
+    category: asian
+    rate: 7.2
+    populationCount: 254432
+    homelessCount: 182
+-
+    state: New Hampshire
+    year: 2017
+    category: asian
+    rate: 3.1
+    populationCount: 35776
+    homelessCount: 11
+-
+    state: New Jersey
+    year: 2017
+    category: asian
+    rate: 0.9
+    populationCount: 877077
+    homelessCount: 75
+-
+    state: New Mexico
+    year: 2017
+    category: asian
+    rate: 2.8
+    populationCount: 35287
+    homelessCount: 10
+-
+    state: New York
+    year: 2017
+    category: asian
+    rate: 6.0
+    populationCount: 1750857
+    homelessCount: 1056
+-
+    state: North Carolina
+    year: 2017
+    category: asian
+    rate: 1.2
+    populationCount: 296542
+    homelessCount: 37
+-
+    state: North Dakota
+    year: 2017
+    category: asian
+    rate: 5.2
+    populationCount: 11561
+    homelessCount: 6
+-
+    state: Ohio
+    year: 2017
+    category: asian
+    rate: 1.0
+    populationCount: 255464
+    homelessCount: 26
+-
+    state: Oklahoma
+    year: 2017
+    category: asian
+    rate: 0.9
+    populationCount: 88156
+    homelessCount: 8
+-
+    state: Oregon
+    year: 2017
+    category: asian
+    rate: 4.3
+    populationCount: 183054
+    homelessCount: 79
+-
+    state: Pennsylvania
+    year: 2017
+    category: asian
+    rate: 1.7
+    populationCount: 442652
+    homelessCount: 77
+-
+    state: Rhode Island
+    year: 2017
+    category: asian
+    rate: 2.1
+    populationCount: 37629
+    homelessCount: 8
+-
+    state: South Carolina
+    year: 2017
+    category: asian
+    rate: 1.0
+    populationCount: 79941
+    homelessCount: 8
+-
+    state: South Dakota
+    year: 2017
+    category: asian
+    rate: 2.3
+    populationCount: 12767
+    homelessCount: 3
+-
+    state: Tennessee
+    year: 2017
+    category: asian
+    rate: 2.8
+    populationCount: 120219
+    homelessCount: 34
+-
+    state: Texas
+    year: 2017
+    category: asian
+    rate: 1.9
+    populationCount: 1350474
+    homelessCount: 253
+-
+    state: Utah
+    year: 2017
+    category: asian
+    rate: 3.5
+    populationCount: 77033
+    homelessCount: 27
+-
+    state: Vermont
+    year: 2017
+    category: asian
+    rate: 6.3
+    populationCount: 11079
+    homelessCount: 7
+-
+    state: Virginia
+    year: 2017
+    category: asian
+    rate: 1.5
+    populationCount: 555515
+    homelessCount: 84
+-
+    state: Washington
+    year: 2017
+    category: asian
+    rate: 5.1
+    populationCount: 625138
+    homelessCount: 321
+-
+    state: West Virginia
+    year: 2017
+    category: asian
+    rate: 1.3
+    populationCount: 15385
+    homelessCount: 2
+-
+    state: Wisconsin
+    year: 2017
+    category: asian
+    rate: 4.2
+    populationCount: 163622
+    homelessCount: 69
+-
+    state: Wyoming
+    year: 2017
+    category: asian
+    rate: 3.4
+    populationCount: 5856
+    homelessCount: 2
+-
+    state: Puerto Rico
+    year: 2017
+    category: asian
+    rate: 3.5
+    populationCount: 5691
+    homelessCount: 2
+-
+    state: Alabama
+    year: 2017
+    category: nativeAmerican
+    rate: 6.2
+    populationCount: 33932
+    homelessCount: 21
+-
+    state: Alaska
+    year: 2017
+    category: nativeAmerican
+    rate: 68.5
+    populationCount: 112404
+    homelessCount: 770
+-
+    state: Arizona
+    year: 2017
+    category: nativeAmerican
+    rate: 18.9
+    populationCount: 371605
+    homelessCount: 704
+-
+    state: Arkansas
+    year: 2017
+    category: nativeAmerican
+    rate: 8.3
+    populationCount: 29049
+    homelessCount: 24
+-
+    state: California
+    year: 2017
+    category: nativeAmerican
+    rate: 88.2
+    populationCount: 648055
+    homelessCount: 5718
+-
+    state: Colorado
+    year: 2017
+    category: nativeAmerican
+    rate: 61.9
+    populationCount: 88197
+    homelessCount: 546
+-
+    state: Connecticut
+    year: 2017
+    category: nativeAmerican
+    rate: 11.5
+    populationCount: 19140
+    homelessCount: 22
+-
+    state: Delaware
+    year: 2017
+    category: nativeAmerican
+    rate: 1.6
+    populationCount: 6174
+    homelessCount: 1
+-
+    state: District of Columbia
+    year: 2017
+    category: nativeAmerican
+    rate: 59.6
+    populationCount: 4196
+    homelessCount: 25
+-
+    state: Florida
+    year: 2017
+    category: nativeAmerican
+    rate: 27.1
+    populationCount: 102439
+    homelessCount: 278
+-
+    state: Georgia
+    year: 2017
+    category: nativeAmerican
+    rate: 13.9
+    populationCount: 52365
+    homelessCount: 73
+-
+    state: Hawaii
+    year: 2017
+    category: nativeAmerican
+    rate: 186.1
+    populationCount: 5695
+    homelessCount: 106
+-
+    state: Idaho
+    year: 2017
+    category: nativeAmerican
+    rate: 20.4
+    populationCount: 29457
+    homelessCount: 60
+-
+    state: Illinois
+    year: 2017
+    category: nativeAmerican
+    rate: 9.0
+    populationCount: 75564
+    homelessCount: 68
+-
+    state: Indiana
+    year: 2017
+    category: nativeAmerican
+    rate: 16.4
+    populationCount: 26875
+    homelessCount: 44
+-
+    state: Iowa
+    year: 2017
+    category: nativeAmerican
+    rate: 46.5
+    populationCount: 15924
+    homelessCount: 74
+-
+    state: Kansas
+    year: 2017
+    category: nativeAmerican
+    rate: 28.3
+    populationCount: 34616
+    homelessCount: 98
+-
+    state: Kentucky
+    year: 2017
+    category: nativeAmerican
+    rate: 13.5
+    populationCount: 13297
+    homelessCount: 18
+-
+    state: Louisiana
+    year: 2017
+    category: nativeAmerican
+    rate: 7.8
+    populationCount: 35976
+    homelessCount: 28
+-
+    state: Maine
+    year: 2017
+    category: nativeAmerican
+    rate: 40.7
+    populationCount: 9329
+    homelessCount: 38
+-
+    state: Maryland
+    year: 2017
+    category: nativeAmerican
+    rate: 15.7
+    populationCount: 34380
+    homelessCount: 54
+-
+    state: Massachusetts
+    year: 2017
+    category: nativeAmerican
+    rate: 24.9
+    populationCount: 32988
+    homelessCount: 82
+-
+    state: Michigan
+    year: 2017
+    category: nativeAmerican
+    rate: 15.5
+    populationCount: 72252
+    homelessCount: 112
+-
+    state: Minnesota
+    year: 2017
+    category: nativeAmerican
+    rate: 137.6
+    populationCount: 73970
+    homelessCount: 1018
+-
+    state: Mississippi
+    year: 2017
+    category: nativeAmerican
+    rate: 16.1
+    populationCount: 17985
+    homelessCount: 29
+-
+    state: Missouri
+    year: 2017
+    category: nativeAmerican
+    rate: 23.6
+    populationCount: 33877
+    homelessCount: 80
+-
+    state: Montana
+    year: 2017
+    category: nativeAmerican
+    rate: 51.3
+    populationCount: 69073
+    homelessCount: 354
+-
+    state: Nebraska
+    year: 2017
+    category: nativeAmerican
+    rate: 44.7
+    populationCount: 27318
+    homelessCount: 122
+-
+    state: Nevada
+    year: 2017
+    category: nativeAmerican
+    rate: 46.6
+    populationCount: 48305
+    homelessCount: 225
+-
+    state: New Hampshire
+    year: 2017
+    category: nativeAmerican
+    rate: 12.7
+    populationCount: 3926
+    homelessCount: 5
+-
+    state: New Jersey
+    year: 2017
+    category: nativeAmerican
+    rate: 17.8
+    populationCount: 53976
+    homelessCount: 96
+-
+    state: New Mexico
+    year: 2017
+    category: nativeAmerican
+    rate: 29.6
+    populationCount: 219953
+    homelessCount: 651
+-
+    state: New York
+    year: 2017
+    category: nativeAmerican
+    rate: 38.1
+    populationCount: 191449
+    homelessCount: 729
+-
+    state: North Carolina
+    year: 2017
+    category: nativeAmerican
+    rate: 12.0
+    populationCount: 158476
+    homelessCount: 190
+-
+    state: North Dakota
+    year: 2017
+    category: nativeAmerican
+    rate: 54.3
+    populationCount: 41596
+    homelessCount: 226
+-
+    state: Ohio
+    year: 2017
+    category: nativeAmerican
+    rate: 15.1
+    populationCount: 32364
+    homelessCount: 49
+-
+    state: Oklahoma
+    year: 2017
+    category: nativeAmerican
+    rate: 16.0
+    populationCount: 360158
+    homelessCount: 577
+-
+    state: Oregon
+    year: 2017
+    category: nativeAmerican
+    rate: 80.2
+    populationCount: 73274
+    homelessCount: 588
+-
+    state: Pennsylvania
+    year: 2017
+    category: nativeAmerican
+    rate: 10.0
+    populationCount: 46770
+    homelessCount: 47
+-
+    state: Rhode Island
+    year: 2017
+    category: nativeAmerican
+    rate: 15.1
+    populationCount: 10576
+    homelessCount: 16
+-
+    state: South Carolina
+    year: 2017
+    category: nativeAmerican
+    rate: 11.9
+    populationCount: 26923
+    homelessCount: 32
+-
+    state: South Dakota
+    year: 2017
+    category: nativeAmerican
+    rate: 72.4
+    populationCount: 77711
+    homelessCount: 563
+-
+    state: Tennessee
+    year: 2017
+    category: nativeAmerican
+    rate: 20.4
+    populationCount: 29866
+    homelessCount: 61
+-
+    state: Texas
+    year: 2017
+    category: nativeAmerican
+    rate: 11.5
+    populationCount: 283393
+    homelessCount: 325
+-
+    state: Utah
+    year: 2017
+    category: nativeAmerican
+    rate: 33.5
+    populationCount: 47514
+    homelessCount: 159
+-
+    state: Vermont
+    year: 2017
+    category: nativeAmerican
+    rate: 24.7
+    populationCount: 2426
+    homelessCount: 6
+-
+    state: Virginia
+    year: 2017
+    category: nativeAmerican
+    rate: 7.0
+    populationCount: 45510
+    homelessCount: 32
+-
+    state: Washington
+    year: 2017
+    category: nativeAmerican
+    rate: 92.8
+    populationCount: 138489
+    homelessCount: 1285
+-
+    state: West Virginia
+    year: 2017
+    category: nativeAmerican
+    rate: 11.1
+    populationCount: 4503
+    homelessCount: 5
+-
+    state: Wisconsin
+    year: 2017
+    category: nativeAmerican
+    rate: 29.7
+    populationCount: 65597
+    homelessCount: 195
+-
+    state: Wyoming
+    year: 2017
+    category: nativeAmerican
+    rate: 92.0
+    populationCount: 15762
+    homelessCount: 145
+-
+    state: Puerto Rico
+    year: 2017
+    category: nativeAmerican
+    rate: 21.0
+    populationCount: 8082
+    homelessCount: 17
+-
+    state: Alabama
+    year: 2017
+    category: nhpi
+    rate: 2.0
+    populationCount: 5068
+    homelessCount: 1
+-
+    state: Alaska
+    year: 2017
+    category: nhpi
+    rate: 69.9
+    populationCount: 9870
+    homelessCount: 69
+-
+    state: Arizona
+    year: 2017
+    category: nhpi
+    rate: 25.0
+    populationCount: 18423
+    homelessCount: 46
+-
+    state: Arkansas
+    year: 2017
+    category: nhpi
+    rate: 7.8
+    populationCount: 9000
+    homelessCount: 7
+-
+    state: California
+    year: 2017
+    category: nhpi
+    rate: 74.6
+    populationCount: 196944
+    homelessCount: 1469
+-
+    state: Colorado
+    year: 2017
+    category: nhpi
+    rate: 42.4
+    populationCount: 10602
+    homelessCount: 45
+-
+    state: Connecticut
+    year: 2017
+    category: nhpi
+    rate: 112.7
+    populationCount: 3815
+    homelessCount: 43
+-
+    state: Delaware
+    year: 2017
+    category: nhpi
+    rate: 54.5
+    populationCount: 918
+    homelessCount: 5
+-
+    state: District of Columbia
+    year: 2017
+    category: nhpi
+    rate: 201.7
+    populationCount: 1041
+    homelessCount: 21
+-
+    state: Florida
+    year: 2017
+    category: nhpi
+    rate: 47.2
+    populationCount: 23107
+    homelessCount: 109
+-
+    state: Georgia
+    year: 2017
+    category: nhpi
+    rate: 15.9
+    populationCount: 11942
+    homelessCount: 19
+-
+    state: Hawaii
+    year: 2017
+    category: nhpi
+    rate: 199.6
+    populationCount: 145368
+    homelessCount: 2901
+-
+    state: Idaho
+    year: 2017
+    category: nhpi
+    rate: 42.7
+    populationCount: 3514
+    homelessCount: 15
+-
+    state: Illinois
+    year: 2017
+    category: nhpi
+    rate: 24.2
+    populationCount: 8276
+    homelessCount: 20
+-
+    state: Indiana
+    year: 2017
+    category: nhpi
+    rate: 47.5
+    populationCount: 4214
+    homelessCount: 20
+-
+    state: Iowa
+    year: 2017
+    category: nhpi
+    rate: 36.2
+    populationCount: 3592
+    homelessCount: 13
+-
+    state: Kansas
+    year: 2017
+    category: nhpi
+    rate: 34.0
+    populationCount: 3235
+    homelessCount: 11
+-
+    state: Kentucky
+    year: 2017
+    category: nhpi
+    rate: 5.4
+    populationCount: 3675
+    homelessCount: 2
+-
+    state: Louisiana
+    year: 2017
+    category: nhpi
+    rate: 35.7
+    populationCount: 3079
+    homelessCount: 11
+-
+    state: Maine
+    year: 2017
+    category: nhpi
+    rate: 200.0
+    populationCount: 500
+    homelessCount: 10
+-
+    state: Maryland
+    year: 2017
+    category: nhpi
+    rate: 34.1
+    populationCount: 6460
+    homelessCount: 22
+-
+    state: Massachusetts
+    year: 2017
+    category: nhpi
+    rate: 114.7
+    populationCount: 6975
+    homelessCount: 80
+-
+    state: Michigan
+    year: 2017
+    category: nhpi
+    rate: 12.7
+    populationCount: 3948
+    homelessCount: 5
+-
+    state: Minnesota
+    year: 2017
+    category: nhpi
+    rate: 42.5
+    populationCount: 3761
+    homelessCount: 16
+-
+    state: Mississippi
+    year: 2017
+    category: nhpi
+    rate: 0.0
+    populationCount: 1810
+    homelessCount: 0
+-
+    state: Missouri
+    year: 2017
+    category: nhpi
+    rate: 12.1
+    populationCount: 9117
+    homelessCount: 11
+-
+    state: Montana
+    year: 2017
+    category: nhpi
+    rate: 96.7
+    populationCount: 931
+    homelessCount: 9
+-
+    state: Nebraska
+    year: 2017
+    category: nhpi
+    rate: 16.5
+    populationCount: 2425
+    homelessCount: 4
+-
+    state: Nevada
+    year: 2017
+    category: nhpi
+    rate: 33.1
+    populationCount: 22654
+    homelessCount: 75
+-
+    state: New Hampshire
+    year: 2017
+    category: nhpi
+    rate: 0.0
+    populationCount: 670
+    homelessCount: 0
+-
+    state: New Jersey
+    year: 2017
+    category: nhpi
+    rate: 40.9
+    populationCount: 9295
+    homelessCount: 38
+-
+    state: New Mexico
+    year: 2017
+    category: nhpi
+    rate: 27.3
+    populationCount: 3293
+    homelessCount: 9
+-
+    state: New York
+    year: 2017
+    category: nhpi
+    rate: 449.6
+    populationCount: 26489
+    homelessCount: 1191
+-
+    state: North Carolina
+    year: 2017
+    category: nhpi
+    rate: 13.5
+    populationCount: 12623
+    homelessCount: 17
+-
+    state: North Dakota
+    year: 2017
+    category: nhpi
+    rate: 0.0
+    populationCount: 566
+    homelessCount: 0
+-
+    state: Ohio
+    year: 2017
+    category: nhpi
+    rate: 34.6
+    populationCount: 6639
+    homelessCount: 23
+-
+    state: Oklahoma
+    year: 2017
+    category: nhpi
+    rate: 23.9
+    populationCount: 7102
+    homelessCount: 17
+-
+    state: Oregon
+    year: 2017
+    category: nhpi
+    rate: 95.9
+    populationCount: 18249
+    homelessCount: 175
+-
+    state: Pennsylvania
+    year: 2017
+    category: nhpi
+    rate: 42.1
+    populationCount: 9265
+    homelessCount: 39
+-
+    state: Rhode Island
+    year: 2017
+    category: nhpi
+    rate: 15.2
+    populationCount: 1970
+    homelessCount: 3
+-
+    state: South Carolina
+    year: 2017
+    category: nhpi
+    rate: 8.5
+    populationCount: 4698
+    homelessCount: 4
+-
+    state: South Dakota
+    year: 2017
+    category: nhpi
+    rate: 122.0
+    populationCount: 656
+    homelessCount: 8
+-
+    state: Tennessee
+    year: 2017
+    category: nhpi
+    rate: 9.3
+    populationCount: 6432
+    homelessCount: 6
+-
+    state: Texas
+    year: 2017
+    category: nhpi
+    rate: 17.4
+    populationCount: 39079
+    homelessCount: 68
+-
+    state: Utah
+    year: 2017
+    category: nhpi
+    rate: 14.9
+    populationCount: 31502
+    homelessCount: 47
+-
+    state: Vermont
+    year: 2017
+    category: nhpi
+    rate: 76.9
+    populationCount: 260
+    homelessCount: 2
+-
+    state: Virginia
+    year: 2017
+    category: nhpi
+    rate: 23.4
+    populationCount: 9407
+    homelessCount: 22
+-
+    state: Washington
+    year: 2017
+    category: nhpi
+    rate: 88.5
+    populationCount: 54702
+    homelessCount: 484
+-
+    state: West Virginia
+    year: 2017
+    category: nhpi
+    rate: 50.8
+    populationCount: 591
+    homelessCount: 3
+-
+    state: Wisconsin
+    year: 2017
+    category: nhpi
+    rate: 42.6
+    populationCount: 3050
+    homelessCount: 13
+-
+    state: Wyoming
+    year: 2017
+    category: nhpi
+    rate: 118.9
+    populationCount: 673
+    homelessCount: 8
+-
+    state: Puerto Rico
+    year: 2017
+    category: nhpi
+    rate: 569.9
+    populationCount: 193
+    homelessCount: 11
+-
+    state: Alabama
+    year: 2017
+    category: multipleRaces
+    rate: 14.0
+    populationCount: 79396
+    homelessCount: 111
+-
+    state: Alaska
+    year: 2017
+    category: multipleRaces
+    rate: 36.4
+    populationCount: 54421
+    homelessCount: 198
+-
+    state: Arizona
+    year: 2017
+    category: multipleRaces
+    rate: 23.4
+    populationCount: 192276
+    homelessCount: 449
+-
+    state: Arkansas
+    year: 2017
+    category: multipleRaces
+    rate: 14.5
+    populationCount: 60645
+    homelessCount: 88
+-
+    state: California
+    year: 2017
+    category: multipleRaces
+    rate: 72.8
+    populationCount: 1500776
+    homelessCount: 10924
+-
+    state: Colorado
+    year: 2017
+    category: multipleRaces
+    rate: 44.1
+    populationCount: 165962
+    homelessCount: 732
+-
+    state: Connecticut
+    year: 2017
+    category: multipleRaces
+    rate: 23.5
+    populationCount: 82511
+    homelessCount: 194
+-
+    state: Delaware
+    year: 2017
+    category: multipleRaces
+    rate: 17.2
+    populationCount: 24404
+    homelessCount: 42
+-
+    state: District of Columbia
+    year: 2017
+    category: multipleRaces
+    rate: 103.9
+    populationCount: 18679
+    homelessCount: 194
+-
+    state: Florida
+    year: 2017
+    category: multipleRaces
+    rate: 26.3
+    populationCount: 430748
+    homelessCount: 1134
+-
+    state: Georgia
+    year: 2017
+    category: multipleRaces
+    rate: 15.9
+    populationCount: 212863
+    homelessCount: 338
+-
+    state: Hawaii
+    year: 2017
+    category: multipleRaces
+    rate: 50.5
+    populationCount: 338307
+    homelessCount: 1708
+-
+    state: Idaho
+    year: 2017
+    category: multipleRaces
+    rate: 18.7
+    populationCount: 40073
+    homelessCount: 75
+-
+    state: Illinois
+    year: 2017
+    category: multipleRaces
+    rate: 13.9
+    populationCount: 245747
+    homelessCount: 341
+-
+    state: Indiana
+    year: 2017
+    category: multipleRaces
+    rate: 13.9
+    populationCount: 132716
+    homelessCount: 184
+-
+    state: Iowa
+    year: 2017
+    category: multipleRaces
+    rate: 35.5
+    populationCount: 56684
+    homelessCount: 201
+-
+    state: Kansas
+    year: 2017
+    category: multipleRaces
+    rate: 16.3
+    populationCount: 84671
+    homelessCount: 138
+-
+    state: Kentucky
+    year: 2017
+    category: multipleRaces
+    rate: 18.0
+    populationCount: 82762
+    homelessCount: 149
+-
+    state: Louisiana
+    year: 2017
+    category: multipleRaces
+    rate: 8.6
+    populationCount: 76462
+    homelessCount: 66
+-
+    state: Maine
+    year: 2017
+    category: multipleRaces
+    rate: 36.6
+    populationCount: 22940
+    homelessCount: 84
+-
+    state: Maryland
+    year: 2017
+    category: multipleRaces
+    rate: 18.7
+    populationCount: 166710
+    homelessCount: 311
+-
+    state: Massachusetts
+    year: 2017
+    category: multipleRaces
+    rate: 87.6
+    populationCount: 159156
+    homelessCount: 1394
+-
+    state: Michigan
+    year: 2017
+    category: multipleRaces
+    rate: 16.6
+    populationCount: 236589
+    homelessCount: 393
+-
+    state: Minnesota
+    year: 2017
+    category: multipleRaces
+    rate: 40.4
+    populationCount: 134464
+    homelessCount: 543
+-
+    state: Mississippi
+    year: 2017
+    category: multipleRaces
+    rate: 4.6
+    populationCount: 36851
+    homelessCount: 17
+-
+    state: Missouri
+    year: 2017
+    category: multipleRaces
+    rate: 24.0
+    populationCount: 135607
+    homelessCount: 326
+-
+    state: Montana
+    year: 2017
+    category: multipleRaces
+    rate: 48.6
+    populationCount: 28194
+    homelessCount: 137
+-
+    state: Nebraska
+    year: 2017
+    category: multipleRaces
+    rate: 27.7
+    populationCount: 40495
+    homelessCount: 112
+-
+    state: Nevada
+    year: 2017
+    category: multipleRaces
+    rate: 33.4
+    populationCount: 124406
+    homelessCount: 415
+-
+    state: New Hampshire
+    year: 2017
+    category: multipleRaces
+    rate: 43.6
+    populationCount: 22264
+    homelessCount: 97
+-
+    state: New Jersey
+    year: 2017
+    category: multipleRaces
+    rate: 9.4
+    populationCount: 192510
+    homelessCount: 180
+-
+    state: New Mexico
+    year: 2017
+    category: multipleRaces
+    rate: 30.2
+    populationCount: 52042
+    homelessCount: 157
+-
+    state: New York
+    year: 2017
+    category: multipleRaces
+    rate: 105.3
+    populationCount: 490819
+    homelessCount: 5170
+-
+    state: North Carolina
+    year: 2017
+    category: multipleRaces
+    rate: 19.0
+    populationCount: 220673
+    homelessCount: 420
+-
+    state: North Dakota
+    year: 2017
+    category: multipleRaces
+    rate: 228.4
+    populationCount: 15896
+    homelessCount: 363
+-
+    state: Ohio
+    year: 2017
+    category: multipleRaces
+    rate: 19.6
+    populationCount: 256545
+    homelessCount: 502
+-
+    state: Oklahoma
+    year: 2017
+    category: multipleRaces
+    rate: 9.9
+    populationCount: 238078
+    homelessCount: 236
+-
+    state: Oregon
+    year: 2017
+    category: multipleRaces
+    rate: 61.9
+    populationCount: 154064
+    homelessCount: 953
+-
+    state: Pennsylvania
+    year: 2017
+    category: multipleRaces
+    rate: 26.5
+    populationCount: 249223
+    homelessCount: 661
+-
+    state: Rhode Island
+    year: 2017
+    category: multipleRaces
+    rate: 28.4
+    populationCount: 28851
+    homelessCount: 82
+-
+    state: South Carolina
+    year: 2017
+    category: multipleRaces
+    rate: 15.0
+    populationCount: 90047
+    homelessCount: 135
+-
+    state: South Dakota
+    year: 2017
+    category: multipleRaces
+    rate: 7.5
+    populationCount: 19948
+    homelessCount: 15
+-
+    state: Tennessee
+    year: 2017
+    category: multipleRaces
+    rate: 18.5
+    populationCount: 123572
+    homelessCount: 228
+-
+    state: Texas
+    year: 2017
+    category: multipleRaces
+    rate: 16.7
+    populationCount: 538767
+    homelessCount: 898
+-
+    state: Utah
+    year: 2017
+    category: multipleRaces
+    rate: 17.9
+    populationCount: 75575
+    homelessCount: 135
+-
+    state: Vermont
+    year: 2017
+    category: multipleRaces
+    rate: 32.2
+    populationCount: 11813
+    homelessCount: 38
+-
+    state: Virginia
+    year: 2017
+    category: multipleRaces
+    rate: 11.0
+    populationCount: 245300
+    homelessCount: 271
+-
+    state: Washington
+    year: 2017
+    category: multipleRaces
+    rate: 74.5
+    populationCount: 337572
+    homelessCount: 2515
+-
+    state: West Virginia
+    year: 2017
+    category: multipleRaces
+    rate: 7.4
+    populationCount: 30938
+    homelessCount: 23
+-
+    state: Wisconsin
+    year: 2017
+    category: multipleRaces
+    rate: 32.9
+    populationCount: 107562
+    homelessCount: 354
+-
+    state: Wyoming
+    year: 2017
+    category: multipleRaces
+    rate: 19.9
+    populationCount: 12070
+    homelessCount: 24
+-
+    state: Puerto Rico
+    year: 2017
+    category: multipleRaces
+    rate: 84.5
+    populationCount: 147855
+    homelessCount: 1250
+-
+    state: Alabama
+    year: 2017
+    category: hispanic
+    rate: 3.5
+    populationCount: 203845
+    homelessCount: 72
+-
+    state: Alaska
+    year: 2017
+    category: hispanic
+    rate: 19.8
+    populationCount: 51599
+    homelessCount: 102
+-
+    state: Arizona
+    year: 2017
+    category: hispanic
+    rate: 9.7
+    populationCount: 2144775
+    homelessCount: 2071
+-
+    state: Arkansas
+    year: 2017
+    category: hispanic
+    rate: 2.8
+    populationCount: 218561
+    homelessCount: 62
+-
+    state: California
+    year: 2017
+    category: hispanic
+    rate: 27.8
+    populationCount: 15280773
+    homelessCount: 42549
+-
+    state: Colorado
+    year: 2017
+    category: hispanic
+    rate: 23.7
+    populationCount: 1181219
+    homelessCount: 2798
+-
+    state: Connecticut
+    year: 2017
+    category: hispanic
+    rate: 17.3
+    populationCount: 562348
+    homelessCount: 973
+-
+    state: Delaware
+    year: 2017
+    category: hispanic
+    rate: 9.4
+    populationCount: 87152
+    homelessCount: 82
+-
+    state: District of Columbia
+    year: 2017
+    category: hispanic
+    rate: 66.4
+    populationCount: 74422
+    homelessCount: 494
+-
+    state: Florida
+    year: 2017
+    category: hispanic
+    rate: 9.3
+    populationCount: 5126975
+    homelessCount: 4748
+-
+    state: Georgia
+    year: 2017
+    category: hispanic
+    rate: 4.3
+    populationCount: 972698
+    homelessCount: 422
+-
+    state: Hawaii
+    year: 2017
+    category: hispanic
+    rate: 65.1
+    populationCount: 148148
+    homelessCount: 965
+-
+    state: Idaho
+    year: 2017
+    category: hispanic
+    rate: 12.9
+    populationCount: 207743
+    homelessCount: 268
+-
+    state: Illinois
+    year: 2017
+    category: hispanic
+    rate: 4.9
+    populationCount: 2181439
+    homelessCount: 1059
+-
+    state: Indiana
+    year: 2017
+    category: hispanic
+    rate: 5.2
+    populationCount: 449871
+    homelessCount: 233
+-
+    state: Iowa
+    year: 2017
+    category: hispanic
+    rate: 11.2
+    populationCount: 182606
+    homelessCount: 205
+-
+    state: Kansas
+    year: 2017
+    category: hispanic
+    rate: 9.3
+    populationCount: 338481
+    homelessCount: 315
+-
+    state: Kentucky
+    year: 2017
+    category: hispanic
+    rate: 6.9
+    populationCount: 155520
+    homelessCount: 108
+-
+    state: Louisiana
+    year: 2017
+    category: hispanic
+    rate: 4.3
+    populationCount: 236152
+    homelessCount: 102
+-
+    state: Maine
+    year: 2017
+    category: hispanic
+    rate: 41.8
+    populationCount: 21058
+    homelessCount: 88
+-
+    state: Maryland
+    year: 2017
+    category: hispanic
+    rate: 6.9
+    populationCount: 586801
+    homelessCount: 405
+-
+    state: Massachusetts
+    year: 2017
+    category: hispanic
+    rate: 83.7
+    populationCount: 780661
+    homelessCount: 6531
+-
+    state: Michigan
+    year: 2017
+    category: hispanic
+    rate: 10.1
+    populationCount: 492382
+    homelessCount: 497
+-
+    state: Minnesota
+    year: 2017
+    category: hispanic
+    rate: 19.5
+    populationCount: 289422
+    homelessCount: 564
+-
+    state: Mississippi
+    year: 2017
+    category: hispanic
+    rate: 1.2
+    populationCount: 91448
+    homelessCount: 11
+-
+    state: Missouri
+    year: 2017
+    category: hispanic
+    rate: 12.4
+    populationCount: 250476
+    homelessCount: 310
+-
+    state: Montana
+    year: 2017
+    category: hispanic
+    rate: 32.0
+    populationCount: 37840
+    homelessCount: 121
+-
+    state: Nebraska
+    year: 2017
+    category: hispanic
+    rate: 13.0
+    populationCount: 203320
+    homelessCount: 264
+-
+    state: Nevada
+    year: 2017
+    category: hispanic
+    rate: 12.7
+    populationCount: 836626
+    homelessCount: 1063
+-
+    state: New Hampshire
+    year: 2017
+    category: hispanic
+    rate: 28.9
+    populationCount: 47118
+    homelessCount: 136
+-
+    state: New Jersey
+    year: 2017
+    category: hispanic
+    rate: 10.0
+    populationCount: 1786668
+    homelessCount: 1786
+-
+    state: New Mexico
+    year: 2017
+    category: hispanic
+    rate: 10.3
+    populationCount: 1009873
+    homelessCount: 1036
+-
+    state: New York
+    year: 2017
+    category: hispanic
+    rate: 78.5
+    populationCount: 3747125
+    homelessCount: 29408
+-
+    state: North Carolina
+    year: 2017
+    category: hispanic
+    rate: 5.6
+    populationCount: 932221
+    homelessCount: 518
+-
+    state: North Dakota
+    year: 2017
+    category: hispanic
+    rate: 15.6
+    populationCount: 27538
+    homelessCount: 43
+-
+    state: Ohio
+    year: 2017
+    category: hispanic
+    rate: 8.8
+    populationCount: 424625
+    homelessCount: 375
+-
+    state: Oklahoma
+    year: 2017
+    category: hispanic
+    rate: 7.6
+    populationCount: 403938
+    homelessCount: 307
+-
+    state: Oregon
+    year: 2017
+    category: hispanic
+    rate: 28.9
+    populationCount: 522571
+    homelessCount: 1509
+-
+    state: Pennsylvania
+    year: 2017
+    category: hispanic
+    rate: 16.0
+    populationCount: 900814
+    homelessCount: 1442
+-
+    state: Rhode Island
+    year: 2017
+    category: hispanic
+    rate: 16.7
+    populationCount: 157352
+    homelessCount: 263
+-
+    state: South Carolina
+    year: 2017
+    category: hispanic
+    rate: 3.2
+    populationCount: 274596
+    homelessCount: 88
+-
+    state: South Dakota
+    year: 2017
+    category: hispanic
+    rate: 13.1
+    populationCount: 32169
+    homelessCount: 42
+-
+    state: Tennessee
+    year: 2017
+    category: hispanic
+    rate: 6.2
+    populationCount: 348725
+    homelessCount: 217
+-
+    state: Texas
+    year: 2017
+    category: hispanic
+    rate: 6.1
+    populationCount: 10881124
+    homelessCount: 6606
+-
+    state: Utah
+    year: 2017
+    category: hispanic
+    rate: 15.3
+    populationCount: 420440
+    homelessCount: 642
+-
+    state: Vermont
+    year: 2017
+    category: hispanic
+    rate: 51.5
+    populationCount: 11651
+    homelessCount: 60
+-
+    state: Virginia
+    year: 2017
+    category: hispanic
+    rate: 7.2
+    populationCount: 766004
+    homelessCount: 551
+-
+    state: Washington
+    year: 2017
+    category: hispanic
+    rate: 31.4
+    populationCount: 907000
+    homelessCount: 2852
+-
+    state: West Virginia
+    year: 2017
+    category: hispanic
+    rate: 7.4
+    populationCount: 28295
+    homelessCount: 21
+-
+    state: Wisconsin
+    year: 2017
+    category: hispanic
+    rate: 10.1
+    populationCount: 387666
+    homelessCount: 392
+-
+    state: Wyoming
+    year: 2017
+    category: hispanic
+    rate: 18.1
+    populationCount: 58413
+    homelessCount: 106
+-
+    state: Puerto Rico
+    year: 2017
+    category: hispanic
+    rate: 10.2
+    populationCount: 3365841
+    homelessCount: 3448
+-
+    state: Alabama
+    year: 2017
+    category: nonHispanic
+    rate: 8.0
+    populationCount: 4659455
+    homelessCount: 3721
+-
+    state: Alaska
+    year: 2017
+    category: nonHispanic
+    rate: 25.3
+    populationCount: 690295
+    homelessCount: 1743
+-
+    state: Arizona
+    year: 2017
+    category: nonHispanic
+    rate: 14.4
+    populationCount: 4786296
+    homelessCount: 6876
+-
+    state: Arkansas
+    year: 2017
+    category: nonHispanic
+    rate: 8.7
+    populationCount: 2769687
+    homelessCount: 2405
+-
+    state: California
+    year: 2017
+    category: nonHispanic
+    rate: 38.3
+    populationCount: 23969244
+    homelessCount: 91729
+-
+    state: Colorado
+    year: 2017
+    category: nonHispanic
+    rate: 18.7
+    populationCount: 4359326
+    homelessCount: 8142
+-
+    state: Connecticut
+    year: 2017
+    category: nonHispanic
+    rate: 8.0
+    populationCount: 3014104
+    homelessCount: 2415
+-
+    state: Delaware
+    year: 2017
+    category: nonHispanic
+    rate: 10.5
+    populationCount: 864913
+    homelessCount: 912
+-
+    state: District of Columbia
+    year: 2017
+    category: nonHispanic
+    rate: 115.0
+    populationCount: 606748
+    homelessCount: 6979
+-
+    state: Florida
+    year: 2017
+    category: nonHispanic
+    rate: 17.7
+    populationCount: 15485464
+    homelessCount: 27442
+-
+    state: Georgia
+    year: 2017
+    category: nonHispanic
+    rate: 10.4
+    populationCount: 9337673
+    homelessCount: 9752
+-
+    state: Hawaii
+    year: 2017
+    category: nonHispanic
+    rate: 48.9
+    populationCount: 1280409
+    homelessCount: 6255
+-
+    state: Idaho
+    year: 2017
+    category: nonHispanic
+    rate: 12.0
+    populationCount: 1475397
+    homelessCount: 1769
+-
+    state: Illinois
+    year: 2017
+    category: nonHispanic
+    rate: 9.2
+    populationCount: 10620100
+    homelessCount: 9739
+-
+    state: Indiana
+    year: 2017
+    category: nonHispanic
+    rate: 8.4
+    populationCount: 6183182
+    homelessCount: 5205
+-
+    state: Iowa
+    year: 2017
+    category: nonHispanic
+    rate: 8.6
+    populationCount: 2952087
+    homelessCount: 2551
+-
+    state: Kansas
+    year: 2017
+    category: nonHispanic
+    rate: 6.9
+    populationCount: 2568808
+    homelessCount: 1783
+-
+    state: Kentucky
+    year: 2017
+    category: nonHispanic
+    rate: 9.1
+    populationCount: 4281454
+    homelessCount: 3917
+-
+    state: Louisiana
+    year: 2017
+    category: nonHispanic
+    rate: 7.2
+    populationCount: 4445514
+    homelessCount: 3203
+-
+    state: Maine
+    year: 2017
+    category: nonHispanic
+    rate: 16.7
+    populationCount: 1310421
+    homelessCount: 2192
+-
+    state: Maryland
+    year: 2017
+    category: nonHispanic
+    rate: 12.6
+    populationCount: 5429646
+    homelessCount: 6842
+-
+    state: Massachusetts
+    year: 2017
+    category: nonHispanic
+    rate: 18.3
+    populationCount: 6031118
+    homelessCount: 11034
+-
+    state: Michigan
+    year: 2017
+    category: nonHispanic
+    rate: 9.1
+    populationCount: 9435918
+    homelessCount: 8554
+-
+    state: Minnesota
+    year: 2017
+    category: nonHispanic
+    rate: 13.6
+    populationCount: 5230530
+    homelessCount: 7104
+-
+    state: Mississippi
+    year: 2017
+    category: nonHispanic
+    rate: 5.0
+    populationCount: 2897278
+    homelessCount: 1461
+-
+    state: Missouri
+    year: 2017
+    category: nonHispanic
+    rate: 10.1
+    populationCount: 5842524
+    homelessCount: 5916
+-
+    state: Montana
+    year: 2017
+    category: nonHispanic
+    rate: 14.0
+    populationCount: 1004680
+    homelessCount: 1408
+-
+    state: Nebraska
+    year: 2017
+    category: nonHispanic
+    rate: 13.1
+    populationCount: 1703796
+    homelessCount: 2237
+-
+    state: Nevada
+    year: 2017
+    category: nonHispanic
+    rate: 32.2
+    populationCount: 2103432
+    homelessCount: 6770
+-
+    state: New Hampshire
+    year: 2017
+    category: nonHispanic
+    rate: 10.3
+    populationCount: 1287677
+    homelessCount: 1320
+-
+    state: New Jersey
+    year: 2017
+    category: nonHispanic
+    rate: 9.4
+    populationCount: 7157801
+    homelessCount: 6750
+-
+    state: New Mexico
+    year: 2017
+    category: nonHispanic
+    rate: 13.5
+    populationCount: 1071142
+    homelessCount: 1446
+-
+    state: New York
+    year: 2017
+    category: nonHispanic
+    rate: 37.6
+    populationCount: 15998164
+    homelessCount: 60095
+-
+    state: North Carolina
+    year: 2017
+    category: nonHispanic
+    rate: 9.2
+    populationCount: 9214567
+    homelessCount: 8444
+-
+    state: North Dakota
+    year: 2017
+    category: nonHispanic
+    rate: 14.3
+    populationCount: 730414
+    homelessCount: 1046
+-
+    state: Ohio
+    year: 2017
+    category: nonHispanic
+    rate: 8.7
+    populationCount: 11189748
+    homelessCount: 9720
+-
+    state: Oklahoma
+    year: 2017
+    category: nonHispanic
+    rate: 11.1
+    populationCount: 3519623
+    homelessCount: 3892
+-
+    state: Oregon
+    year: 2017
+    category: nonHispanic
+    rate: 34.8
+    populationCount: 3570894
+    homelessCount: 12444
+-
+    state: Pennsylvania
+    year: 2017
+    category: nonHispanic
+    rate: 10.7
+    populationCount: 11883413
+    homelessCount: 12696
+-
+    state: Rhode Island
+    year: 2017
+    category: nonHispanic
+    rate: 10.2
+    populationCount: 899074
+    homelessCount: 917
+-
+    state: South Carolina
+    year: 2017
+    category: nonHispanic
+    rate: 8.2
+    populationCount: 4686523
+    homelessCount: 3828
+-
+    state: South Dakota
+    year: 2017
+    category: nonHispanic
+    rate: 10.8
+    populationCount: 833285
+    homelessCount: 901
+-
+    state: Tennessee
+    year: 2017
+    category: nonHispanic
+    rate: 12.8
+    populationCount: 6302469
+    homelessCount: 8092
+-
+    state: Texas
+    year: 2017
+    category: nonHispanic
+    rate: 10.0
+    populationCount: 16981472
+    homelessCount: 16942
+-
+    state: Utah
+    year: 2017
+    category: nonHispanic
+    rate: 8.4
+    populationCount: 2630777
+    homelessCount: 2210
+-
+    state: Vermont
+    year: 2017
+    category: nonHispanic
+    rate: 19.0
+    populationCount: 612943
+    homelessCount: 1165
+-
+    state: Virginia
+    year: 2017
+    category: nonHispanic
+    rate: 7.2
+    populationCount: 7645804
+    homelessCount: 5516
+-
+    state: Washington
+    year: 2017
+    category: nonHispanic
+    rate: 28.6
+    populationCount: 6381000
+    homelessCount: 18260
+-
+    state: West Virginia
+    year: 2017
+    category: nonHispanic
+    rate: 7.1
+    populationCount: 1802807
+    homelessCount: 1288
+-
+    state: Wisconsin
+    year: 2017
+    category: nonHispanic
+    rate: 8.6
+    populationCount: 5391042
+    homelessCount: 4635
+-
+    state: Wyoming
+    year: 2017
+    category: nonHispanic
+    rate: 14.6
+    populationCount: 527088
+    homelessCount: 767
+-
+    state: Puerto Rico
+    year: 2017
+    category: nonHispanic
+    rate: 16.9
+    populationCount: 45466
+    homelessCount: 77
+-
+    state: Alabama
+    year: 2016
+    category: black
+    rate: 17.3
+    populationCount: 1297960
+    homelessCount: 2251
+-
+    state: Alaska
+    year: 2016
+    category: black
+    rate: 53.7
+    populationCount: 27378
+    homelessCount: 147
+-
+    state: Arizona
+    year: 2016
+    category: black
+    rate: 54.8
+    populationCount: 327049
+    homelessCount: 1792
+-
+    state: Arkansas
+    year: 2016
+    category: black
+    rate: 19.2
+    populationCount: 466308
+    homelessCount: 894
+-
+    state: California
+    year: 2016
+    category: black
+    rate: 127.9
+    populationCount: 2536627
+    homelessCount: 32434
+-
+    state: Colorado
+    year: 2016
+    category: black
+    rate: 77.4
+    populationCount: 243144
+    homelessCount: 1882
+-
+    state: Connecticut
+    year: 2016
+    category: black
+    rate: 36.9
+    populationCount: 416435
+    homelessCount: 1535
+-
+    state: Delaware
+    year: 2016
+    category: black
+    rate: 29.1
+    populationCount: 211874
+    homelessCount: 617
+-
+    state: District of Columbia
+    year: 2016
+    category: black
+    rate: 236.8
+    populationCount: 324723
+    homelessCount: 7689
+-
+    state: Florida
+    year: 2016
+    category: black
+    rate: 37.0
+    populationCount: 3408339
+    homelessCount: 12594
+-
+    state: Georgia
+    year: 2016
+    category: black
+    rate: 26.4
+    populationCount: 3246878
+    homelessCount: 8571
+-
+    state: Hawaii
+    year: 2016
+    category: black
+    rate: 89.8
+    populationCount: 29955
+    homelessCount: 269
+-
+    state: Idaho
+    year: 2016
+    category: black
+    rate: 56.1
+    populationCount: 13556
+    homelessCount: 76
+-
+    state: Illinois
+    year: 2016
+    category: black
+    rate: 36.3
+    populationCount: 1887129
+    homelessCount: 6858
+-
+    state: Indiana
+    year: 2016
+    category: black
+    rate: 30.1
+    populationCount: 635297
+    homelessCount: 1911
+-
+    state: Iowa
+    year: 2016
+    category: black
+    rate: 80.9
+    populationCount: 110953
+    homelessCount: 898
+-
+    state: Kansas
+    year: 2016
+    category: black
+    rate: 28.5
+    populationCount: 179855
+    homelessCount: 513
+-
+    state: Kentucky
+    year: 2016
+    category: black
+    rate: 30.3
+    populationCount: 364089
+    homelessCount: 1103
+-
+    state: Louisiana
+    year: 2016
+    category: black
+    rate: 15.3
+    populationCount: 1518572
+    homelessCount: 2319
+-
+    state: Maine
+    year: 2016
+    category: black
+    rate: 121.6
+    populationCount: 19495
+    homelessCount: 237
+-
+    state: Maryland
+    year: 2016
+    category: black
+    rate: 25.2
+    populationCount: 1831566
+    homelessCount: 4620
+-
+    state: Massachusetts
+    year: 2016
+    category: black
+    rate: 106.9
+    populationCount: 575674
+    homelessCount: 6154
+-
+    state: Michigan
+    year: 2016
+    category: black
+    rate: 32.9
+    populationCount: 1407923
+    homelessCount: 4637
+-
+    state: Minnesota
+    year: 2016
+    category: black
+    rate: 99.3
+    populationCount: 332961
+    homelessCount: 3306
+-
+    state: Mississippi
+    year: 2016
+    category: black
+    rate: 9.4
+    populationCount: 1124960
+    homelessCount: 1054
+-
+    state: Missouri
+    year: 2016
+    category: black
+    rate: 32.2
+    populationCount: 717964
+    homelessCount: 2312
+-
+    state: Montana
+    year: 2016
+    category: black
+    rate: 43.1
+    populationCount: 5800
+    homelessCount: 25
+-
+    state: Nebraska
+    year: 2016
+    category: black
+    rate: 61.1
+    populationCount: 93330
+    homelessCount: 570
+-
+    state: Nevada
+    year: 2016
+    category: black
+    rate: 81.5
+    populationCount: 269367
+    homelessCount: 2196
+-
+    state: New Hampshire
+    year: 2016
+    category: black
+    rate: 48.2
+    populationCount: 19487
+    homelessCount: 94
+-
+    state: New Jersey
+    year: 2016
+    category: black
+    rate: 35.2
+    populationCount: 1330577
+    homelessCount: 4682
+-
+    state: New Mexico
+    year: 2016
+    category: black
+    rate: 35.1
+    populationCount: 51594
+    homelessCount: 181
+-
+    state: New York
+    year: 2016
+    category: black
+    rate: 160.3
+    populationCount: 3479153
+    homelessCount: 55779
+-
+    state: North Carolina
+    year: 2016
+    category: black
+    rate: 22.8
+    populationCount: 2226479
+    homelessCount: 5072
+-
+    state: North Dakota
+    year: 2016
+    category: black
+    rate: 65.4
+    populationCount: 19720
+    homelessCount: 129
+-
+    state: Ohio
+    year: 2016
+    category: black
+    rate: 31.3
+    populationCount: 1478056
+    homelessCount: 4632
+-
+    state: Oklahoma
+    year: 2016
+    category: black
+    rate: 29.1
+    populationCount: 302318
+    homelessCount: 880
+-
+    state: Oregon
+    year: 2016
+    category: black
+    rate: 100.3
+    populationCount: 83664
+    homelessCount: 839
+-
+    state: Pennsylvania
+    year: 2016
+    category: black
+    rate: 52.7
+    populationCount: 1497611
+    homelessCount: 7899
+-
+    state: Rhode Island
+    year: 2016
+    category: black
+    rate: 34.7
+    populationCount: 83766
+    homelessCount: 291
+-
+    state: South Carolina
+    year: 2016
+    category: black
+    rate: 19.4
+    populationCount: 1352122
+    homelessCount: 2626
+-
+    state: South Dakota
+    year: 2016
+    category: black
+    rate: 44.2
+    populationCount: 16287
+    homelessCount: 72
+-
+    state: Tennessee
+    year: 2016
+    category: black
+    rate: 29.8
+    populationCount: 1127667
+    homelessCount: 3363
+-
+    state: Texas
+    year: 2016
+    category: black
+    rate: 23.7
+    populationCount: 3434609
+    homelessCount: 8143
+-
+    state: Utah
+    year: 2016
+    category: black
+    rate: 61.1
+    populationCount: 39625
+    homelessCount: 242
+-
+    state: Vermont
+    year: 2016
+    category: black
+    rate: 111.1
+    populationCount: 7923
+    homelessCount: 88
+-
+    state: Virginia
+    year: 2016
+    category: black
+    rate: 20.2
+    populationCount: 1652096
+    homelessCount: 3337
+-
+    state: Washington
+    year: 2016
+    category: black
+    rate: 139.2
+    populationCount: 292283
+    homelessCount: 4069
+-
+    state: West Virginia
+    year: 2016
+    category: black
+    rate: 32.8
+    populationCount: 65798
+    homelessCount: 216
+-
+    state: Wisconsin
+    year: 2016
+    category: black
+    rate: 53.6
+    populationCount: 380706
+    homelessCount: 2041
+-
+    state: Wyoming
+    year: 2016
+    category: black
+    rate: 50.2
+    populationCount: 7776
+    homelessCount: 39
+-
+    state: Puerto Rico
+    year: 2016
+    category: black
+    rate: 21.6
+    populationCount: 341710
+    homelessCount: 738
+-
+    state: Alabama
+    year: 2016
+    category: white
+    rate: 5.1
+    populationCount: 3373302
+    homelessCount: 1714
+-
+    state: Alaska
+    year: 2016
+    category: white
+    rate: 15.1
+    populationCount: 490380
+    homelessCount: 739
+-
+    state: Arizona
+    year: 2016
+    category: white
+    rate: 11.5
+    populationCount: 5696106
+    homelessCount: 6562
+-
+    state: Arkansas
+    year: 2016
+    category: white
+    rate: 6.1
+    populationCount: 2369986
+    homelessCount: 1451
+-
+    state: California
+    year: 2016
+    category: white
+    rate: 23.8
+    populationCount: 28467494
+    homelessCount: 67669
+-
+    state: Colorado
+    year: 2016
+    category: white
+    rate: 15.2
+    populationCount: 4776140
+    homelessCount: 7239
+-
+    state: Connecticut
+    year: 2016
+    category: white
+    rate: 7.2
+    populationCount: 2900643
+    homelessCount: 2095
+-
+    state: Delaware
+    year: 2016
+    category: white
+    rate: 6.1
+    populationCount: 664555
+    homelessCount: 406
+-
+    state: District of Columbia
+    year: 2016
+    category: white
+    rate: 14.8
+    populationCount: 295756
+    homelessCount: 439
+-
+    state: Florida
+    year: 2016
+    category: white
+    rate: 12.3
+    populationCount: 15735811
+    homelessCount: 19369
+-
+    state: Georgia
+    year: 2016
+    category: white
+    rate: 6.1
+    populationCount: 6280677
+    homelessCount: 3822
+-
+    state: Hawaii
+    year: 2016
+    category: white
+    rate: 49.1
+    populationCount: 370398
+    homelessCount: 1820
+-
+    state: Idaho
+    year: 2016
+    category: white
+    rate: 12.5
+    populationCount: 1545433
+    homelessCount: 1928
+-
+    state: Illinois
+    year: 2016
+    category: white
+    rate: 4.2
+    populationCount: 9933221
+    homelessCount: 4214
+-
+    state: Indiana
+    year: 2016
+    category: white
+    rate: 6.3
+    populationCount: 5677021
+    homelessCount: 3587
+-
+    state: Iowa
+    year: 2016
+    category: white
+    rate: 6.5
+    populationCount: 2861917
+    homelessCount: 1869
+-
+    state: Kansas
+    year: 2016
+    category: white
+    rate: 6.0
+    populationCount: 2522857
+    homelessCount: 1505
+-
+    state: Kentucky
+    year: 2016
+    category: white
+    rate: 7.4
+    populationCount: 3900103
+    homelessCount: 2895
+-
+    state: Louisiana
+    year: 2016
+    category: white
+    rate: 5.0
+    populationCount: 2953830
+    homelessCount: 1482
+-
+    state: Maine
+    year: 2016
+    category: white
+    rate: 14.8
+    populationCount: 1262043
+    homelessCount: 1872
+-
+    state: Maryland
+    year: 2016
+    category: white
+    rate: 7.5
+    populationCount: 3574645
+    homelessCount: 2688
+-
+    state: Massachusetts
+    year: 2016
+    category: white
+    rate: 19.8
+    populationCount: 5575530
+    homelessCount: 11029
+-
+    state: Michigan
+    year: 2016
+    category: white
+    rate: 5.2
+    populationCount: 7909528
+    homelessCount: 4112
+-
+    state: Minnesota
+    year: 2016
+    category: white
+    rate: 5.9
+    populationCount: 4678791
+    homelessCount: 2780
+-
+    state: Mississippi
+    year: 2016
+    category: white
+    rate: 3.6
+    populationCount: 1777735
+    homelessCount: 647
+-
+    state: Missouri
+    year: 2016
+    category: white
+    rate: 6.8
+    populationCount: 5065735
+    homelessCount: 3457
+-
+    state: Montana
+    year: 2016
+    category: white
+    rate: 9.5
+    populationCount: 921719
+    homelessCount: 877
+-
+    state: Nebraska
+    year: 2016
+    category: white
+    rate: 11.0
+    populationCount: 1687415
+    homelessCount: 1858
+-
+    state: Nevada
+    year: 2016
+    category: white
+    rate: 19.8
+    populationCount: 2183208
+    homelessCount: 4329
+-
+    state: New Hampshire
+    year: 2016
+    category: white
+    rate: 9.5
+    populationCount: 1249796
+    homelessCount: 1183
+-
+    state: New Jersey
+    year: 2016
+    category: white
+    rate: 5.9
+    populationCount: 6496420
+    homelessCount: 3835
+-
+    state: New Mexico
+    year: 2016
+    category: white
+    rate: 7.4
+    populationCount: 1717860
+    homelessCount: 1273
+-
+    state: New York
+    year: 2016
+    category: white
+    rate: 14.0
+    populationCount: 13860222
+    homelessCount: 19365
+-
+    state: North Carolina
+    year: 2016
+    category: white
+    rate: 5.6
+    populationCount: 7144627
+    homelessCount: 3974
+-
+    state: North Dakota
+    year: 2016
+    category: white
+    rate: 7.6
+    populationCount: 669125
+    homelessCount: 510
+-
+    state: Ohio
+    year: 2016
+    category: white
+    rate: 5.4
+    populationCount: 9594996
+    homelessCount: 5176
+-
+    state: Oklahoma
+    year: 2016
+    category: white
+    rate: 8.6
+    populationCount: 2922871
+    homelessCount: 2504
+-
+    state: Oregon
+    year: 2016
+    category: white
+    rate: 30.4
+    populationCount: 3529292
+    homelessCount: 10733
+-
+    state: Pennsylvania
+    year: 2016
+    category: white
+    rate: 6.3
+    populationCount: 10567168
+    homelessCount: 6647
+-
+    state: Rhode Island
+    year: 2016
+    category: white
+    rate: 8.6
+    populationCount: 894570
+    homelessCount: 767
+-
+    state: South Carolina
+    year: 2016
+    category: white
+    rate: 6.4
+    populationCount: 3348754
+    homelessCount: 2159
+-
+    state: South Dakota
+    year: 2016
+    category: white
+    rate: 4.4
+    populationCount: 732532
+    homelessCount: 322
+-
+    state: Tennessee
+    year: 2016
+    category: white
+    rate: 9.9
+    populationCount: 5196817
+    homelessCount: 5140
+-
+    state: Texas
+    year: 2016
+    category: white
+    rate: 5.8
+    populationCount: 21874482
+    homelessCount: 12795
+-
+    state: Utah
+    year: 2016
+    category: white
+    rate: 8.2
+    populationCount: 2730389
+    homelessCount: 2239
+-
+    state: Vermont
+    year: 2016
+    category: white
+    rate: 16.3
+    populationCount: 593577
+    homelessCount: 968
+-
+    state: Virginia
+    year: 2016
+    category: white
+    rate: 4.3
+    populationCount: 5884689
+    homelessCount: 2545
+-
+    state: Washington
+    year: 2016
+    category: white
+    rate: 21.4
+    populationCount: 5756563
+    homelessCount: 12298
+-
+    state: West Virginia
+    year: 2016
+    category: white
+    rate: 6.4
+    populationCount: 1725045
+    homelessCount: 1112
+-
+    state: Wisconsin
+    year: 2016
+    category: white
+    rate: 6.0
+    populationCount: 5056456
+    homelessCount: 3030
+-
+    state: Wyoming
+    year: 2016
+    category: white
+    rate: 12.1
+    populationCount: 544777
+    homelessCount: 660
+-
+    state: Puerto Rico
+    year: 2016
+    category: white
+    rate: 8.1
+    populationCount: 2355164
+    homelessCount: 1909
+-
+    state: Alabama
+    year: 2016
+    category: asian
+    rate: 0.6
+    populationCount: 66635
+    homelessCount: 4
+-
+    state: Alaska
+    year: 2016
+    category: asian
+    rate: 9.6
+    populationCount: 45616
+    homelessCount: 44
+-
+    state: Arizona
+    year: 2016
+    category: asian
+    rate: 2.3
+    populationCount: 227461
+    homelessCount: 53
+-
+    state: Arkansas
+    year: 2016
+    category: asian
+    rate: 2.2
+    populationCount: 45580
+    homelessCount: 10
+-
+    state: California
+    year: 2016
+    category: asian
+    rate: 3.2
+    populationCount: 5684767
+    homelessCount: 1836
+-
+    state: Colorado
+    year: 2016
+    category: asian
+    rate: 4.5
+    populationCount: 173668
+    homelessCount: 78
+-
+    state: Connecticut
+    year: 2016
+    category: asian
+    rate: 1.9
+    populationCount: 164113
+    homelessCount: 32
+-
+    state: Delaware
+    year: 2016
+    category: asian
+    rate: 0.3
+    populationCount: 36902
+    homelessCount: 1
+-
+    state: District of Columbia
+    year: 2016
+    category: asian
+    rate: 13.1
+    populationCount: 26819
+    homelessCount: 35
+-
+    state: Florida
+    year: 2016
+    category: asian
+    rate: 2.1
+    populationCount: 565361
+    homelessCount: 116
+-
+    state: Georgia
+    year: 2016
+    category: asian
+    rate: 1.3
+    populationCount: 403734
+    homelessCount: 54
+-
+    state: Hawaii
+    year: 2016
+    category: asian
+    rate: 7.4
+    populationCount: 538322
+    homelessCount: 396
+-
+    state: Idaho
+    year: 2016
+    category: asian
+    rate: 3.8
+    populationCount: 23561
+    homelessCount: 9
+-
+    state: Illinois
+    year: 2016
+    category: asian
+    rate: 1.8
+    populationCount: 694348
+    homelessCount: 123
+-
+    state: Indiana
+    year: 2016
+    category: asian
+    rate: 1.7
+    populationCount: 141605
+    homelessCount: 24
+-
+    state: Iowa
+    year: 2016
+    category: asian
+    rate: 2.4
+    populationCount: 75026
+    homelessCount: 18
+-
+    state: Kansas
+    year: 2016
+    category: asian
+    rate: 2.1
+    populationCount: 83858
+    homelessCount: 18
+-
+    state: Kentucky
+    year: 2016
+    category: asian
+    rate: 0.5
+    populationCount: 63619
+    homelessCount: 3
+-
+    state: Louisiana
+    year: 2016
+    category: asian
+    rate: 1.4
+    populationCount: 83157
+    homelessCount: 12
+-
+    state: Maine
+    year: 2016
+    category: asian
+    rate: 5.6
+    populationCount: 15979
+    homelessCount: 9
+-
+    state: Maryland
+    year: 2016
+    category: asian
+    rate: 0.9
+    populationCount: 385661
+    homelessCount: 34
+-
+    state: Massachusetts
+    year: 2016
+    category: asian
+    rate: 2.9
+    populationCount: 439473
+    homelessCount: 129
+-
+    state: Michigan
+    year: 2016
+    category: asian
+    rate: 1.1
+    populationCount: 295031
+    homelessCount: 31
+-
+    state: Minnesota
+    year: 2016
+    category: asian
+    rate: 3.1
+    populationCount: 263234
+    homelessCount: 82
+-
+    state: Mississippi
+    year: 2016
+    category: asian
+    rate: 2.3
+    populationCount: 31090
+    homelessCount: 7
+-
+    state: Missouri
+    year: 2016
+    category: asian
+    rate: 1.9
+    populationCount: 118607
+    homelessCount: 23
+-
+    state: Montana
+    year: 2016
+    category: asian
+    rate: 1.2
+    populationCount: 8123
+    homelessCount: 1
+-
+    state: Nebraska
+    year: 2016
+    category: asian
+    rate: 2.5
+    populationCount: 44684
+    homelessCount: 11
+-
+    state: Nevada
+    year: 2016
+    category: asian
+    rate: 7.7
+    populationCount: 243878
+    homelessCount: 189
+-
+    state: New Hampshire
+    year: 2016
+    category: asian
+    rate: 0.6
+    populationCount: 34856
+    homelessCount: 2
+-
+    state: New Jersey
+    year: 2016
+    category: asian
+    rate: 0.7
+    populationCount: 857707
+    homelessCount: 56
+-
+    state: New Mexico
+    year: 2016
+    category: asian
+    rate: 5.2
+    populationCount: 34794
+    homelessCount: 18
+-
+    state: New York
+    year: 2016
+    category: asian
+    rate: 5.5
+    populationCount: 1711163
+    homelessCount: 945
+-
+    state: North Carolina
+    year: 2016
+    category: asian
+    rate: 1.1
+    populationCount: 282098
+    homelessCount: 31
+-
+    state: North Dakota
+    year: 2016
+    category: asian
+    rate: 4.6
+    populationCount: 10791
+    homelessCount: 5
+-
+    state: Ohio
+    year: 2016
+    category: asian
+    rate: 1.6
+    populationCount: 244551
+    homelessCount: 38
+-
+    state: Oklahoma
+    year: 2016
+    category: asian
+    rate: 2.9
+    populationCount: 85227
+    homelessCount: 25
+-
+    state: Oregon
+    year: 2016
+    category: asian
+    rate: 4.9
+    populationCount: 174840
+    homelessCount: 85
+-
+    state: Pennsylvania
+    year: 2016
+    category: asian
+    rate: 1.5
+    populationCount: 429932
+    homelessCount: 63
+-
+    state: Rhode Island
+    year: 2016
+    category: asian
+    rate: 4.1
+    populationCount: 36862
+    homelessCount: 15
+-
+    state: South Carolina
+    year: 2016
+    category: asian
+    rate: 2.8
+    populationCount: 76222
+    homelessCount: 21
+-
+    state: South Dakota
+    year: 2016
+    category: asian
+    rate: 1.7
+    populationCount: 11995
+    homelessCount: 2
+-
+    state: Tennessee
+    year: 2016
+    category: asian
+    rate: 2.0
+    populationCount: 115966
+    homelessCount: 23
+-
+    state: Texas
+    year: 2016
+    category: asian
+    rate: 1.8
+    populationCount: 1288856
+    homelessCount: 233
+-
+    state: Utah
+    year: 2016
+    category: asian
+    rate: 4.0
+    populationCount: 72956
+    homelessCount: 29
+-
+    state: Vermont
+    year: 2016
+    category: asian
+    rate: 5.7
+    populationCount: 10458
+    homelessCount: 6
+-
+    state: Virginia
+    year: 2016
+    category: asian
+    rate: 1.6
+    populationCount: 538752
+    homelessCount: 84
+-
+    state: Washington
+    year: 2016
+    category: asian
+    rate: 7.9
+    populationCount: 597875
+    homelessCount: 470
+-
+    state: West Virginia
+    year: 2016
+    category: asian
+    rate: 0.7
+    populationCount: 14948
+    homelessCount: 1
+-
+    state: Wisconsin
+    year: 2016
+    category: asian
+    rate: 2.8
+    populationCount: 158092
+    homelessCount: 45
+-
+    state: Wyoming
+    year: 2016
+    category: asian
+    rate: 3.5
+    populationCount: 5694
+    homelessCount: 2
+-
+    state: Puerto Rico
+    year: 2016
+    category: asian
+    rate: 5.5
+    populationCount: 7264
+    homelessCount: 4
+-
+    state: Alabama
+    year: 2016
+    category: nativeAmerican
+    rate: 14.6
+    populationCount: 33573
+    homelessCount: 49
+-
+    state: Alaska
+    year: 2016
+    category: nativeAmerican
+    rate: 70.3
+    populationCount: 111819
+    homelessCount: 786
+-
+    state: Arizona
+    year: 2016
+    category: nativeAmerican
+    rate: 22.2
+    populationCount: 364388
+    homelessCount: 809
+-
+    state: Arkansas
+    year: 2016
+    category: nativeAmerican
+    rate: 7.4
+    populationCount: 28410
+    homelessCount: 21
+-
+    state: California
+    year: 2016
+    category: nativeAmerican
+    rate: 65.1
+    populationCount: 642335
+    homelessCount: 4179
+-
+    state: Colorado
+    year: 2016
+    category: nativeAmerican
+    rate: 61.3
+    populationCount: 85927
+    homelessCount: 527
+-
+    state: Connecticut
+    year: 2016
+    category: nativeAmerican
+    rate: 28.5
+    populationCount: 18952
+    homelessCount: 54
+-
+    state: Delaware
+    year: 2016
+    category: nativeAmerican
+    rate: 1.7
+    populationCount: 6057
+    homelessCount: 1
+-
+    state: District of Columbia
+    year: 2016
+    category: nativeAmerican
+    rate: 95.0
+    populationCount: 4002
+    homelessCount: 38
+-
+    state: Florida
+    year: 2016
+    category: nativeAmerican
+    rate: 29.5
+    populationCount: 99648
+    homelessCount: 294
+-
+    state: Georgia
+    year: 2016
+    category: nativeAmerican
+    rate: 12.5
+    populationCount: 51228
+    homelessCount: 64
+-
+    state: Hawaii
+    year: 2016
+    category: nativeAmerican
+    rate: 199.6
+    populationCount: 5711
+    homelessCount: 114
+-
+    state: Idaho
+    year: 2016
+    category: nativeAmerican
+    rate: 46.1
+    populationCount: 28867
+    homelessCount: 133
+-
+    state: Illinois
+    year: 2016
+    category: nativeAmerican
+    rate: 7.2
+    populationCount: 74861
+    homelessCount: 54
+-
+    state: Indiana
+    year: 2016
+    category: nativeAmerican
+    rate: 15.6
+    populationCount: 26354
+    homelessCount: 41
+-
+    state: Iowa
+    year: 2016
+    category: nativeAmerican
+    rate: 46.6
+    populationCount: 15675
+    homelessCount: 73
+-
+    state: Kansas
+    year: 2016
+    category: nativeAmerican
+    rate: 18.9
+    populationCount: 34358
+    homelessCount: 65
+-
+    state: Kentucky
+    year: 2016
+    category: nativeAmerican
+    rate: 23.1
+    populationCount: 12961
+    homelessCount: 30
+-
+    state: Louisiana
+    year: 2016
+    category: nativeAmerican
+    rate: 8.4
+    populationCount: 35715
+    homelessCount: 30
+-
+    state: Maine
+    year: 2016
+    category: nativeAmerican
+    rate: 45.7
+    populationCount: 9190
+    homelessCount: 42
+-
+    state: Maryland
+    year: 2016
+    category: nativeAmerican
+    rate: 16.2
+    populationCount: 33921
+    homelessCount: 55
+-
+    state: Massachusetts
+    year: 2016
+    category: nativeAmerican
+    rate: 24.6
+    populationCount: 32458
+    homelessCount: 80
+-
+    state: Michigan
+    year: 2016
+    category: nativeAmerican
+    rate: 12.5
+    populationCount: 71403
+    homelessCount: 89
+-
+    state: Minnesota
+    year: 2016
+    category: nativeAmerican
+    rate: 96.5
+    populationCount: 73473
+    homelessCount: 709
+-
+    state: Mississippi
+    year: 2016
+    category: nativeAmerican
+    rate: 12.3
+    populationCount: 17847
+    homelessCount: 22
+-
+    state: Missouri
+    year: 2016
+    category: nativeAmerican
+    rate: 32.4
+    populationCount: 33339
+    homelessCount: 108
+-
+    state: Montana
+    year: 2016
+    category: nativeAmerican
+    rate: 53.4
+    populationCount: 68488
+    homelessCount: 366
+-
+    state: Nebraska
+    year: 2016
+    category: nativeAmerican
+    rate: 24.9
+    populationCount: 26907
+    homelessCount: 67
+-
+    state: Nevada
+    year: 2016
+    category: nativeAmerican
+    rate: 35.4
+    populationCount: 47202
+    homelessCount: 167
+-
+    state: New Hampshire
+    year: 2016
+    category: nativeAmerican
+    rate: 7.9
+    populationCount: 3814
+    homelessCount: 3
+-
+    state: New Jersey
+    year: 2016
+    category: nativeAmerican
+    rate: 14.9
+    populationCount: 53136
+    homelessCount: 79
+-
+    state: New Mexico
+    year: 2016
+    category: nativeAmerican
+    rate: 26.0
+    populationCount: 221783
+    homelessCount: 576
+-
+    state: New York
+    year: 2016
+    category: nativeAmerican
+    rate: 34.6
+    populationCount: 190228
+    homelessCount: 659
+-
+    state: North Carolina
+    year: 2016
+    category: nativeAmerican
+    rate: 9.2
+    populationCount: 156966
+    homelessCount: 145
+-
+    state: North Dakota
+    year: 2016
+    category: nativeAmerican
+    rate: 52.6
+    populationCount: 41409
+    homelessCount: 218
+-
+    state: Ohio
+    year: 2016
+    category: nativeAmerican
+    rate: 15.7
+    populationCount: 31942
+    homelessCount: 50
+-
+    state: Oklahoma
+    year: 2016
+    category: nativeAmerican
+    rate: 15.0
+    populationCount: 358606
+    homelessCount: 539
+-
+    state: Oregon
+    year: 2016
+    category: nativeAmerican
+    rate: 77.7
+    populationCount: 71949
+    homelessCount: 559
+-
+    state: Pennsylvania
+    year: 2016
+    category: nativeAmerican
+    rate: 13.3
+    populationCount: 45735
+    homelessCount: 61
+-
+    state: Rhode Island
+    year: 2016
+    category: nativeAmerican
+    rate: 16.3
+    populationCount: 10460
+    homelessCount: 17
+-
+    state: South Carolina
+    year: 2016
+    category: nativeAmerican
+    rate: 10.6
+    populationCount: 26409
+    homelessCount: 28
+-
+    state: South Dakota
+    year: 2016
+    category: nativeAmerican
+    rate: 80.6
+    populationCount: 77390
+    homelessCount: 624
+-
+    state: Tennessee
+    year: 2016
+    category: nativeAmerican
+    rate: 16.1
+    populationCount: 29206
+    homelessCount: 47
+-
+    state: Texas
+    year: 2016
+    category: nativeAmerican
+    rate: 30.4
+    populationCount: 277049
+    homelessCount: 843
+-
+    state: Utah
+    year: 2016
+    category: nativeAmerican
+    rate: 32.0
+    populationCount: 45881
+    homelessCount: 147
+-
+    state: Vermont
+    year: 2016
+    category: nativeAmerican
+    rate: 50.3
+    populationCount: 2387
+    homelessCount: 12
+-
+    state: Virginia
+    year: 2016
+    category: nativeAmerican
+    rate: 8.3
+    populationCount: 44413
+    homelessCount: 37
+-
+    state: Washington
+    year: 2016
+    category: nativeAmerican
+    rate: 82.2
+    populationCount: 136629
+    homelessCount: 1123
+-
+    state: West Virginia
+    year: 2016
+    category: nativeAmerican
+    rate: 13.5
+    populationCount: 4453
+    homelessCount: 6
+-
+    state: Wisconsin
+    year: 2016
+    category: nativeAmerican
+    rate: 31.4
+    populationCount: 64904
+    homelessCount: 204
+-
+    state: Wyoming
+    year: 2016
+    category: nativeAmerican
+    rate: 80.9
+    populationCount: 15827
+    homelessCount: 128
+-
+    state: Puerto Rico
+    year: 2016
+    category: nativeAmerican
+    rate: 46.4
+    populationCount: 10984
+    homelessCount: 51
+-
+    state: Alabama
+    year: 2016
+    category: nhpi
+    rate: 16.1
+    populationCount: 4978
+    homelessCount: 8
+-
+    state: Alaska
+    year: 2016
+    category: nhpi
+    rate: 55.8
+    populationCount: 9500
+    homelessCount: 53
+-
+    state: Arizona
+    year: 2016
+    category: nhpi
+    rate: 37.4
+    populationCount: 17914
+    homelessCount: 67
+-
+    state: Arkansas
+    year: 2016
+    category: nhpi
+    rate: 9.2
+    populationCount: 8724
+    homelessCount: 8
+-
+    state: California
+    year: 2016
+    category: nhpi
+    rate: 65.9
+    populationCount: 194806
+    homelessCount: 1284
+-
+    state: Colorado
+    year: 2016
+    category: nhpi
+    rate: 59.5
+    populationCount: 10250
+    homelessCount: 61
+-
+    state: Connecticut
+    year: 2016
+    category: nhpi
+    rate: 191.8
+    populationCount: 3807
+    homelessCount: 73
+-
+    state: Delaware
+    year: 2016
+    category: nhpi
+    rate: 34.1
+    populationCount: 881
+    homelessCount: 3
+-
+    state: District of Columbia
+    year: 2016
+    category: nhpi
+    rate: 154.7
+    populationCount: 1034
+    homelessCount: 16
+-
+    state: Florida
+    year: 2016
+    category: nhpi
+    rate: 32.7
+    populationCount: 22337
+    homelessCount: 73
+-
+    state: Georgia
+    year: 2016
+    category: nhpi
+    rate: 43.5
+    populationCount: 11720
+    homelessCount: 51
+-
+    state: Hawaii
+    year: 2016
+    category: nhpi
+    rate: 231.6
+    populationCount: 145664
+    homelessCount: 3374
+-
+    state: Idaho
+    year: 2016
+    category: nhpi
+    rate: 68.6
+    populationCount: 3353
+    homelessCount: 23
+-
+    state: Illinois
+    year: 2016
+    category: nhpi
+    rate: 22.0
+    populationCount: 8171
+    homelessCount: 18
+-
+    state: Indiana
+    year: 2016
+    category: nhpi
+    rate: 42.0
+    populationCount: 4048
+    homelessCount: 17
+-
+    state: Iowa
+    year: 2016
+    category: nhpi
+    rate: 14.9
+    populationCount: 3349
+    homelessCount: 5
+-
+    state: Kansas
+    year: 2016
+    category: nhpi
+    rate: 6.3
+    populationCount: 3167
+    homelessCount: 2
+-
+    state: Kentucky
+    year: 2016
+    category: nhpi
+    rate: 49.5
+    populationCount: 3636
+    homelessCount: 18
+-
+    state: Louisiana
+    year: 2016
+    category: nhpi
+    rate: 32.7
+    populationCount: 3058
+    homelessCount: 10
+-
+    state: Maine
+    year: 2016
+    category: nhpi
+    rate: 104.4
+    populationCount: 479
+    homelessCount: 5
+-
+    state: Maryland
+    year: 2016
+    category: nhpi
+    rate: 29.9
+    populationCount: 6360
+    homelessCount: 19
+-
+    state: Massachusetts
+    year: 2016
+    category: nhpi
+    rate: 121.1
+    populationCount: 6854
+    homelessCount: 83
+-
+    state: Michigan
+    year: 2016
+    category: nhpi
+    rate: 86.0
+    populationCount: 3838
+    homelessCount: 33
+-
+    state: Minnesota
+    year: 2016
+    category: nhpi
+    rate: 199.9
+    populationCount: 3602
+    homelessCount: 72
+-
+    state: Mississippi
+    year: 2016
+    category: nhpi
+    rate: 16.9
+    populationCount: 1773
+    homelessCount: 3
+-
+    state: Missouri
+    year: 2016
+    category: nhpi
+    rate: 20.6
+    populationCount: 8728
+    homelessCount: 18
+-
+    state: Montana
+    year: 2016
+    category: nhpi
+    rate: 67.6
+    populationCount: 888
+    homelessCount: 6
+-
+    state: Nebraska
+    year: 2016
+    category: nhpi
+    rate: 25.9
+    populationCount: 2320
+    homelessCount: 6
+-
+    state: Nevada
+    year: 2016
+    category: nhpi
+    rate: 60.9
+    populationCount: 21668
+    homelessCount: 132
+-
+    state: New Hampshire
+    year: 2016
+    category: nhpi
+    rate: 31.5
+    populationCount: 635
+    homelessCount: 2
+-
+    state: New Jersey
+    year: 2016
+    category: nhpi
+    rate: 58.9
+    populationCount: 8995
+    homelessCount: 53
+-
+    state: New Mexico
+    year: 2016
+    category: nhpi
+    rate: 49.0
+    populationCount: 3267
+    homelessCount: 16
+-
+    state: New York
+    year: 2016
+    category: nhpi
+    rate: 460.4
+    populationCount: 26236
+    homelessCount: 1208
+-
+    state: North Carolina
+    year: 2016
+    category: nhpi
+    rate: 12.3
+    populationCount: 12240
+    homelessCount: 15
+-
+    state: North Dakota
+    year: 2016
+    category: nhpi
+    rate: 18.7
+    populationCount: 536
+    homelessCount: 1
+-
+    state: Ohio
+    year: 2016
+    category: nhpi
+    rate: 14.1
+    populationCount: 6373
+    homelessCount: 9
+-
+    state: Oklahoma
+    year: 2016
+    category: nhpi
+    rate: 10.0
+    populationCount: 6981
+    homelessCount: 7
+-
+    state: Oregon
+    year: 2016
+    category: nhpi
+    rate: 83.5
+    populationCount: 17483
+    homelessCount: 146
+-
+    state: Pennsylvania
+    year: 2016
+    category: nhpi
+    rate: 29.9
+    populationCount: 9038
+    homelessCount: 27
+-
+    state: Rhode Island
+    year: 2016
+    category: nhpi
+    rate: 15.6
+    populationCount: 1929
+    homelessCount: 3
+-
+    state: South Carolina
+    year: 2016
+    category: nhpi
+    rate: 37.3
+    populationCount: 4555
+    homelessCount: 17
+-
+    state: South Dakota
+    year: 2016
+    category: nhpi
+    rate: 82.2
+    populationCount: 608
+    homelessCount: 5
+-
+    state: Tennessee
+    year: 2016
+    category: nhpi
+    rate: 24.1
+    populationCount: 6220
+    homelessCount: 15
+-
+    state: Texas
+    year: 2016
+    category: nhpi
+    rate: 21.0
+    populationCount: 37588
+    homelessCount: 79
+-
+    state: Utah
+    year: 2016
+    category: nhpi
+    rate: 10.6
+    populationCount: 30265
+    homelessCount: 32
+-
+    state: Vermont
+    year: 2016
+    category: nhpi
+    rate: 0.0
+    populationCount: 242
+    homelessCount: 0
+-
+    state: Virginia
+    year: 2016
+    category: nhpi
+    rate: 11.9
+    populationCount: 9209
+    homelessCount: 11
+-
+    state: Washington
+    year: 2016
+    category: nhpi
+    rate: 92.7
+    populationCount: 52307
+    homelessCount: 485
+-
+    state: West Virginia
+    year: 2016
+    category: nhpi
+    rate: 17.7
+    populationCount: 564
+    homelessCount: 1
+-
+    state: Wisconsin
+    year: 2016
+    category: nhpi
+    rate: 43.7
+    populationCount: 2972
+    homelessCount: 13
+-
+    state: Wyoming
+    year: 2016
+    category: nhpi
+    rate: 0.0
+    populationCount: 663
+    homelessCount: 0
+-
+    state: Puerto Rico
+    year: 2016
+    category: nhpi
+    rate: 0.0
+    populationCount: 0
+    homelessCount: 14
+-
+    state: Alabama
+    year: 2016
+    category: multipleRaces
+    rate: 11.0
+    populationCount: 77427
+    homelessCount: 85
+-
+    state: Alaska
+    year: 2016
+    category: multipleRaces
+    rate: 32.3
+    populationCount: 53016
+    homelessCount: 171
+-
+    state: Arizona
+    year: 2016
+    category: multipleRaces
+    rate: 23.0
+    populationCount: 184647
+    homelessCount: 424
+-
+    state: Arkansas
+    year: 2016
+    category: multipleRaces
+    rate: 13.4
+    populationCount: 58845
+    homelessCount: 79
+-
+    state: California
+    year: 2016
+    category: multipleRaces
+    rate: 73.2
+    populationCount: 1467911
+    homelessCount: 10740
+-
+    state: Colorado
+    year: 2016
+    category: multipleRaces
+    rate: 47.8
+    populationCount: 159690
+    homelessCount: 763
+-
+    state: Connecticut
+    year: 2016
+    category: multipleRaces
+    rate: 14.0
+    populationCount: 80780
+    homelessCount: 113
+-
+    state: Delaware
+    year: 2016
+    category: multipleRaces
+    rate: 17.6
+    populationCount: 23807
+    homelessCount: 42
+-
+    state: District of Columbia
+    year: 2016
+    category: multipleRaces
+    rate: 73.7
+    populationCount: 18043
+    homelessCount: 133
+-
+    state: Florida
+    year: 2016
+    category: multipleRaces
+    rate: 26.9
+    populationCount: 413418
+    homelessCount: 1113
+-
+    state: Georgia
+    year: 2016
+    category: multipleRaces
+    rate: 16.9
+    populationCount: 205161
+    homelessCount: 347
+-
+    state: Hawaii
+    year: 2016
+    category: multipleRaces
+    rate: 58.1
+    populationCount: 335107
+    homelessCount: 1948
+-
+    state: Idaho
+    year: 2016
+    category: multipleRaces
+    rate: 20.5
+    populationCount: 38058
+    homelessCount: 78
+-
+    state: Illinois
+    year: 2016
+    category: multipleRaces
+    rate: 13.4
+    populationCount: 241317
+    homelessCount: 323
+-
+    state: Indiana
+    year: 2016
+    category: multipleRaces
+    rate: 17.0
+    populationCount: 128443
+    homelessCount: 218
+-
+    state: Iowa
+    year: 2016
+    category: multipleRaces
+    rate: 36.5
+    populationCount: 55077
+    homelessCount: 201
+-
+    state: Kansas
+    year: 2016
+    category: multipleRaces
+    rate: 18.4
+    populationCount: 82626
+    homelessCount: 152
+-
+    state: Kentucky
+    year: 2016
+    category: multipleRaces
+    rate: 23.4
+    populationCount: 80203
+    homelessCount: 188
+-
+    state: Louisiana
+    year: 2016
+    category: multipleRaces
+    rate: 18.9
+    populationCount: 74628
+    homelessCount: 141
+-
+    state: Maine
+    year: 2016
+    category: multipleRaces
+    rate: 34.1
+    populationCount: 22267
+    homelessCount: 76
+-
+    state: Maryland
+    year: 2016
+    category: multipleRaces
+    rate: 16.8
+    populationCount: 162830
+    homelessCount: 273
+-
+    state: Massachusetts
+    year: 2016
+    category: multipleRaces
+    rate: 138.3
+    populationCount: 154251
+    homelessCount: 2133
+-
+    state: Michigan
+    year: 2016
+    category: multipleRaces
+    rate: 18.0
+    populationCount: 229992
+    homelessCount: 414
+-
+    state: Minnesota
+    year: 2016
+    category: multipleRaces
+    rate: 30.1
+    populationCount: 130374
+    homelessCount: 392
+-
+    state: Mississippi
+    year: 2016
+    category: multipleRaces
+    rate: 1.4
+    populationCount: 35985
+    homelessCount: 5
+-
+    state: Missouri
+    year: 2016
+    category: multipleRaces
+    rate: 20.9
+    populationCount: 131831
+    homelessCount: 276
+-
+    state: Montana
+    year: 2016
+    category: multipleRaces
+    rate: 52.9
+    populationCount: 27055
+    homelessCount: 143
+-
+    state: Nebraska
+    year: 2016
+    category: multipleRaces
+    rate: 61.9
+    populationCount: 39109
+    homelessCount: 242
+-
+    state: Nevada
+    year: 2016
+    category: multipleRaces
+    rate: 32.5
+    populationCount: 118435
+    homelessCount: 385
+-
+    state: New Hampshire
+    year: 2016
+    category: multipleRaces
+    rate: 38.1
+    populationCount: 21523
+    homelessCount: 82
+-
+    state: New Jersey
+    year: 2016
+    category: multipleRaces
+    rate: 10.1
+    populationCount: 188586
+    homelessCount: 190
+-
+    state: New Mexico
+    year: 2016
+    category: multipleRaces
+    rate: 39.0
+    populationCount: 51030
+    homelessCount: 199
+-
+    state: New York
+    year: 2016
+    category: multipleRaces
+    rate: 174.9
+    populationCount: 480181
+    homelessCount: 8396
+-
+    state: North Carolina
+    year: 2016
+    category: multipleRaces
+    rate: 15.1
+    populationCount: 212776
+    homelessCount: 322
+-
+    state: North Dakota
+    year: 2016
+    category: multipleRaces
+    rate: 39.3
+    populationCount: 15254
+    homelessCount: 60
+-
+    state: Ohio
+    year: 2016
+    category: multipleRaces
+    rate: 20.0
+    populationCount: 249172
+    homelessCount: 499
+-
+    state: Oklahoma
+    year: 2016
+    category: multipleRaces
+    rate: 6.6
+    populationCount: 231411
+    homelessCount: 152
+-
+    state: Oregon
+    year: 2016
+    category: multipleRaces
+    rate: 59.4
+    populationCount: 147406
+    homelessCount: 876
+-
+    state: Pennsylvania
+    year: 2016
+    category: multipleRaces
+    rate: 26.5
+    populationCount: 242420
+    homelessCount: 642
+-
+    state: Rhode Island
+    year: 2016
+    category: multipleRaces
+    rate: 23.9
+    populationCount: 28020
+    homelessCount: 67
+-
+    state: South Carolina
+    year: 2016
+    category: multipleRaces
+    rate: 23.0
+    populationCount: 86772
+    homelessCount: 200
+-
+    state: South Dakota
+    year: 2016
+    category: multipleRaces
+    rate: 24.6
+    populationCount: 19107
+    homelessCount: 47
+-
+    state: Tennessee
+    year: 2016
+    category: multipleRaces
+    rate: 16.0
+    populationCount: 119180
+    homelessCount: 191
+-
+    state: Texas
+    year: 2016
+    category: multipleRaces
+    rate: 19.9
+    populationCount: 517055
+    homelessCount: 1029
+-
+    state: Utah
+    year: 2016
+    category: multipleRaces
+    rate: 16.5
+    populationCount: 71516
+    homelessCount: 118
+-
+    state: Vermont
+    year: 2016
+    category: multipleRaces
+    rate: 37.4
+    populationCount: 11501
+    homelessCount: 43
+-
+    state: Virginia
+    year: 2016
+    category: multipleRaces
+    rate: 10.7
+    populationCount: 238428
+    homelessCount: 254
+-
+    state: Washington
+    year: 2016
+    category: multipleRaces
+    rate: 73.4
+    populationCount: 324633
+    homelessCount: 2382
+-
+    state: West Virginia
+    year: 2016
+    category: multipleRaces
+    rate: 16.9
+    populationCount: 30245
+    homelessCount: 51
+-
+    state: Wisconsin
+    year: 2016
+    category: multipleRaces
+    rate: 33.6
+    populationCount: 104761
+    homelessCount: 352
+-
+    state: Wyoming
+    year: 2016
+    category: multipleRaces
+    rate: 23.7
+    populationCount: 11818
+    homelessCount: 28
+-
+    state: Puerto Rico
+    year: 2016
+    category: multipleRaces
+    rate: 101.9
+    populationCount: 166946
+    homelessCount: 1702
+-
+    state: Alabama
+    year: 2016
+    category: hispanic
+    rate: 4.2
+    populationCount: 199446
+    homelessCount: 84
+-
+    state: Alaska
+    year: 2016
+    category: hispanic
+    rate: 28.3
+    populationCount: 50554
+    homelessCount: 143
+-
+    state: Arizona
+    year: 2016
+    category: hispanic
+    rate: 11.3
+    populationCount: 2096301
+    homelessCount: 2365
+-
+    state: Arkansas
+    year: 2016
+    category: hispanic
+    rate: 4.0
+    populationCount: 212869
+    homelessCount: 86
+-
+    state: California
+    year: 2016
+    category: hispanic
+    rate: 21.7
+    populationCount: 15104575
+    homelessCount: 32705
+-
+    state: Colorado
+    year: 2016
+    category: hispanic
+    rate: 25.5
+    populationCount: 1156239
+    homelessCount: 2947
+-
+    state: Connecticut
+    year: 2016
+    category: hispanic
+    rate: 20.1
+    populationCount: 549936
+    homelessCount: 1106
+-
+    state: Delaware
+    year: 2016
+    category: hispanic
+    rate: 7.0
+    populationCount: 84825
+    homelessCount: 59
+-
+    state: District of Columbia
+    year: 2016
+    category: hispanic
+    rate: 60.3
+    populationCount: 71967
+    homelessCount: 434
+-
+    state: Florida
+    year: 2016
+    category: hispanic
+    rate: 9.5
+    populationCount: 4959837
+    homelessCount: 4704
+-
+    state: Georgia
+    year: 2016
+    category: hispanic
+    rate: 6.8
+    populationCount: 947043
+    homelessCount: 643
+-
+    state: Hawaii
+    year: 2016
+    category: hispanic
+    rate: 63.8
+    populationCount: 146036
+    homelessCount: 932
+-
+    state: Idaho
+    year: 2016
+    category: hispanic
+    rate: 13.5
+    populationCount: 201143
+    homelessCount: 271
+-
+    state: Illinois
+    year: 2016
+    category: hispanic
+    rate: 5.8
+    populationCount: 2159445
+    homelessCount: 1249
+-
+    state: Indiana
+    year: 2016
+    category: hispanic
+    rate: 5.0
+    populationCount: 439087
+    homelessCount: 221
+-
+    state: Iowa
+    year: 2016
+    category: hispanic
+    rate: 16.8
+    populationCount: 177754
+    homelessCount: 298
+-
+    state: Kansas
+    year: 2016
+    category: hispanic
+    rate: 7.1
+    populationCount: 334017
+    homelessCount: 236
+-
+    state: Kentucky
+    year: 2016
+    category: hispanic
+    rate: 11.2
+    populationCount: 151413
+    homelessCount: 169
+-
+    state: Louisiana
+    year: 2016
+    category: hispanic
+    rate: 7.9
+    populationCount: 230524
+    homelessCount: 181
+-
+    state: Maine
+    year: 2016
+    category: hispanic
+    rate: 34.3
+    populationCount: 20434
+    homelessCount: 70
+-
+    state: Maryland
+    year: 2016
+    category: hispanic
+    rate: 12.6
+    populationCount: 569192
+    homelessCount: 719
+-
+    state: Massachusetts
+    year: 2016
+    category: hispanic
+    rate: 91.8
+    populationCount: 757074
+    homelessCount: 6948
+-
+    state: Michigan
+    year: 2016
+    category: hispanic
+    rate: 10.8
+    populationCount: 483062
+    homelessCount: 524
+-
+    state: Minnesota
+    year: 2016
+    category: hispanic
+    rate: 24.0
+    populationCount: 282279
+    homelessCount: 678
+-
+    state: Mississippi
+    year: 2016
+    category: hispanic
+    rate: 2.2
+    populationCount: 89644
+    homelessCount: 20
+-
+    state: Missouri
+    year: 2016
+    category: hispanic
+    rate: 10.8
+    populationCount: 243661
+    homelessCount: 262
+-
+    state: Montana
+    year: 2016
+    category: hispanic
+    rate: 30.6
+    populationCount: 36626
+    homelessCount: 112
+-
+    state: Nebraska
+    year: 2016
+    category: hispanic
+    rate: 18.3
+    populationCount: 197284
+    homelessCount: 362
+-
+    state: Nevada
+    year: 2016
+    category: hispanic
+    rate: 11.7
+    populationCount: 811810
+    homelessCount: 950
+-
+    state: New Hampshire
+    year: 2016
+    category: hispanic
+    rate: 26.4
+    populationCount: 45143
+    homelessCount: 119
+-
+    state: New Jersey
+    year: 2016
+    category: hispanic
+    rate: 10.2
+    populationCount: 1754657
+    homelessCount: 1796
+-
+    state: New Mexico
+    year: 2016
+    category: hispanic
+    rate: 8.8
+    populationCount: 1002067
+    homelessCount: 877
+-
+    state: New York
+    year: 2016
+    category: hispanic
+    rate: 105.4
+    populationCount: 3712408
+    homelessCount: 39128
+-
+    state: North Carolina
+    year: 2016
+    category: hispanic
+    rate: 4.8
+    populationCount: 905785
+    homelessCount: 432
+-
+    state: North Dakota
+    year: 2016
+    category: hispanic
+    rate: 29.6
+    populationCount: 26705
+    homelessCount: 79
+-
+    state: Ohio
+    year: 2016
+    category: hispanic
+    rate: 8.1
+    populationCount: 412992
+    homelessCount: 333
+-
+    state: Oklahoma
+    year: 2016
+    category: hispanic
+    rate: 5.4
+    populationCount: 394149
+    homelessCount: 214
+-
+    state: Oregon
+    year: 2016
+    category: hispanic
+    rate: 28.0
+    populationCount: 506735
+    homelessCount: 1418
+-
+    state: Pennsylvania
+    year: 2016
+    category: hispanic
+    rate: 19.2
+    populationCount: 871380
+    homelessCount: 1677
+-
+    state: Rhode Island
+    year: 2016
+    category: hispanic
+    rate: 15.4
+    populationCount: 152757
+    homelessCount: 236
+-
+    state: South Carolina
+    year: 2016
+    category: hispanic
+    rate: 4.8
+    populationCount: 265949
+    homelessCount: 127
+-
+    state: South Dakota
+    year: 2016
+    category: hispanic
+    rate: 14.8
+    populationCount: 31136
+    homelessCount: 46
+-
+    state: Tennessee
+    year: 2016
+    category: hispanic
+    rate: 7.1
+    populationCount: 337256
+    homelessCount: 238
+-
+    state: Texas
+    year: 2016
+    category: hispanic
+    rate: 5.6
+    populationCount: 10648068
+    homelessCount: 5942
+-
+    state: Utah
+    year: 2016
+    category: hispanic
+    rate: 14.3
+    populationCount: 407498
+    homelessCount: 584
+-
+    state: Vermont
+    year: 2016
+    category: hispanic
+    rate: 68.3
+    populationCount: 11266
+    homelessCount: 77
+-
+    state: Virginia
+    year: 2016
+    category: hispanic
+    rate: 7.5
+    populationCount: 747000
+    homelessCount: 561
+-
+    state: Washington
+    year: 2016
+    category: hispanic
+    rate: 33.8
+    populationCount: 877095
+    homelessCount: 2963
+-
+    state: West Virginia
+    year: 2016
+    category: hispanic
+    rate: 6.6
+    populationCount: 27417
+    homelessCount: 18
+-
+    state: Wisconsin
+    year: 2016
+    category: hispanic
+    rate: 12.5
+    populationCount: 379199
+    homelessCount: 474
+-
+    state: Wyoming
+    year: 2016
+    category: hispanic
+    rate: 20.9
+    populationCount: 57782
+    homelessCount: 121
+-
+    state: Puerto Rico
+    year: 2016
+    category: hispanic
+    rate: 12.5
+    populationCount: 3437388
+    homelessCount: 4300
+-
+    state: Alabama
+    year: 2016
+    category: nonHispanic
+    rate: 8.7
+    populationCount: 4654429
+    homelessCount: 4027
+-
+    state: Alaska
+    year: 2016
+    category: nonHispanic
+    rate: 26.2
+    populationCount: 687155
+    homelessCount: 1797
+-
+    state: Arizona
+    year: 2016
+    category: nonHispanic
+    rate: 15.6
+    populationCount: 4721264
+    homelessCount: 7342
+-
+    state: Arkansas
+    year: 2016
+    category: nonHispanic
+    rate: 8.6
+    populationCount: 2764984
+    homelessCount: 2377
+-
+    state: California
+    year: 2016
+    category: nonHispanic
+    rate: 35.8
+    populationCount: 23889365
+    homelessCount: 85437
+-
+    state: Colorado
+    year: 2016
+    category: nonHispanic
+    rate: 17.7
+    populationCount: 4292580
+    homelessCount: 7603
+-
+    state: Connecticut
+    year: 2016
+    category: nonHispanic
+    rate: 9.2
+    populationCount: 3034794
+    homelessCount: 2796
+-
+    state: Delaware
+    year: 2016
+    category: nonHispanic
+    rate: 11.8
+    populationCount: 859251
+    homelessCount: 1011
+-
+    state: District of Columbia
+    year: 2016
+    category: nonHispanic
+    rate: 132.3
+    populationCount: 598410
+    homelessCount: 7916
+-
+    state: Florida
+    year: 2016
+    category: nonHispanic
+    rate: 18.9
+    populationCount: 15285077
+    homelessCount: 28855
+-
+    state: Georgia
+    year: 2016
+    category: nonHispanic
+    rate: 13.3
+    populationCount: 9252355
+    homelessCount: 12266
+-
+    state: Hawaii
+    year: 2016
+    category: nonHispanic
+    rate: 54.6
+    populationCount: 1279121
+    homelessCount: 6989
+-
+    state: Idaho
+    year: 2016
+    category: nonHispanic
+    rate: 13.6
+    populationCount: 1451685
+    homelessCount: 1976
+-
+    state: Illinois
+    year: 2016
+    category: nonHispanic
+    rate: 9.7
+    populationCount: 10679602
+    homelessCount: 10341
+-
+    state: Indiana
+    year: 2016
+    category: nonHispanic
+    rate: 9.0
+    populationCount: 6173681
+    homelessCount: 5577
+-
+    state: Iowa
+    year: 2016
+    category: nonHispanic
+    rate: 9.4
+    populationCount: 2944243
+    homelessCount: 2766
+-
+    state: Kansas
+    year: 2016
+    category: nonHispanic
+    rate: 7.8
+    populationCount: 2572704
+    homelessCount: 2019
+-
+    state: Kentucky
+    year: 2016
+    category: nonHispanic
+    rate: 9.5
+    populationCount: 4273198
+    homelessCount: 4068
+-
+    state: Louisiana
+    year: 2016
+    category: nonHispanic
+    rate: 8.6
+    populationCount: 4438436
+    homelessCount: 3813
+-
+    state: Maine
+    year: 2016
+    category: nonHispanic
+    rate: 16.6
+    populationCount: 1309019
+    homelessCount: 2171
+-
+    state: Maryland
+    year: 2016
+    category: nonHispanic
+    rate: 12.8
+    populationCount: 5425791
+    homelessCount: 6970
+-
+    state: Massachusetts
+    year: 2016
+    category: nonHispanic
+    rate: 21.0
+    populationCount: 6027166
+    homelessCount: 12660
+-
+    state: Michigan
+    year: 2016
+    category: nonHispanic
+    rate: 9.3
+    populationCount: 9434653
+    homelessCount: 8792
+-
+    state: Minnesota
+    year: 2016
+    category: nonHispanic
+    rate: 12.8
+    populationCount: 5200156
+    homelessCount: 6663
+-
+    state: Mississippi
+    year: 2016
+    category: nonHispanic
+    rate: 5.9
+    populationCount: 2899746
+    homelessCount: 1718
+-
+    state: Missouri
+    year: 2016
+    category: nonHispanic
+    rate: 10.2
+    populationCount: 5832543
+    homelessCount: 5932
+-
+    state: Montana
+    year: 2016
+    category: nonHispanic
+    rate: 13.1
+    populationCount: 995447
+    homelessCount: 1306
+-
+    state: Nebraska
+    year: 2016
+    category: nonHispanic
+    rate: 14.1
+    populationCount: 1696481
+    homelessCount: 2392
+-
+    state: Nevada
+    year: 2016
+    category: nonHispanic
+    rate: 31.1
+    populationCount: 2071948
+    homelessCount: 6448
+-
+    state: New Hampshire
+    year: 2016
+    category: nonHispanic
+    rate: 9.7
+    populationCount: 1284968
+    homelessCount: 1247
+-
+    state: New Jersey
+    year: 2016
+    category: nonHispanic
+    rate: 9.9
+    populationCount: 7180764
+    homelessCount: 7099
+-
+    state: New Mexico
+    year: 2016
+    category: nonHispanic
+    rate: 12.9
+    populationCount: 1078261
+    homelessCount: 1386
+-
+    state: New York
+    year: 2016
+    category: nonHispanic
+    rate: 29.5
+    populationCount: 16034775
+    homelessCount: 47224
+-
+    state: North Carolina
+    year: 2016
+    category: nonHispanic
+    rate: 10.0
+    populationCount: 9129401
+    homelessCount: 9127
+-
+    state: North Dakota
+    year: 2016
+    category: nonHispanic
+    rate: 11.6
+    populationCount: 730130
+    homelessCount: 844
+-
+    state: Ohio
+    year: 2016
+    category: nonHispanic
+    rate: 9.0
+    populationCount: 11192098
+    homelessCount: 10071
+-
+    state: Oklahoma
+    year: 2016
+    category: nonHispanic
+    rate: 11.1
+    populationCount: 3513265
+    homelessCount: 3893
+-
+    state: Oregon
+    year: 2016
+    category: nonHispanic
+    rate: 33.6
+    populationCount: 3517899
+    homelessCount: 11820
+-
+    state: Pennsylvania
+    year: 2016
+    category: nonHispanic
+    rate: 11.5
+    populationCount: 11920524
+    homelessCount: 13662
+-
+    state: Rhode Island
+    year: 2016
+    category: nonHispanic
+    rate: 10.2
+    populationCount: 902850
+    homelessCount: 924
+-
+    state: South Carolina
+    year: 2016
+    category: nonHispanic
+    rate: 10.6
+    populationCount: 4628885
+    homelessCount: 4924
+-
+    state: South Dakota
+    year: 2016
+    category: nonHispanic
+    rate: 12.4
+    populationCount: 826783
+    homelessCount: 1026
+-
+    state: Tennessee
+    year: 2016
+    category: nonHispanic
+    rate: 13.6
+    populationCount: 6257800
+    homelessCount: 8541
+-
+    state: Texas
+    year: 2016
+    category: nonHispanic
+    rate: 10.2
+    populationCount: 16781571
+    homelessCount: 17180
+-
+    state: Utah
+    year: 2016
+    category: nonHispanic
+    rate: 8.6
+    populationCount: 2583134
+    homelessCount: 2223
+-
+    state: Vermont
+    year: 2016
+    category: nonHispanic
+    rate: 16.9
+    populationCount: 614822
+    homelessCount: 1040
+-
+    state: Virginia
+    year: 2016
+    category: nonHispanic
+    rate: 7.5
+    populationCount: 7620587
+    homelessCount: 5707
+-
+    state: Washington
+    year: 2016
+    category: nonHispanic
+    rate: 28.4
+    populationCount: 6283195
+    homelessCount: 17864
+-
+    state: West Virginia
+    year: 2016
+    category: nonHispanic
+    rate: 7.5
+    populationCount: 1813636
+    homelessCount: 1369
+-
+    state: Wisconsin
+    year: 2016
+    category: nonHispanic
+    rate: 9.7
+    populationCount: 5388692
+    homelessCount: 5211
+-
+    state: Wyoming
+    year: 2016
+    category: nonHispanic
+    rate: 13.9
+    populationCount: 528773
+    homelessCount: 736
+-
+    state: Puerto Rico
+    year: 2016
+    category: nonHispanic
+    rate: 32.1
+    populationCount: 36794
+    homelessCount: 118
+-
+    state: Alabama
+    year: 2015
+    category: black
+    rate: 16.2
+    populationCount: 1290614
+    homelessCount: 2090
+-
+    state: Alaska
+    year: 2015
+    category: black
+    rate: 52.7
+    populationCount: 27334
+    homelessCount: 144
+-
+    state: Arizona
+    year: 2015
+    category: black
+    rate: 55.9
+    populationCount: 315107
+    homelessCount: 1761
+-
+    state: Arkansas
+    year: 2015
+    category: black
+    rate: 19.5
+    populationCount: 463661
+    homelessCount: 903
+-
+    state: California
+    year: 2015
+    category: black
+    rate: 127.7
+    populationCount: 2525890
+    homelessCount: 32262
+-
+    state: Colorado
+    year: 2015
+    category: black
+    rate: 82.3
+    populationCount: 236754
+    homelessCount: 1948
+-
+    state: Connecticut
+    year: 2015
+    category: black
+    rate: 38.1
+    populationCount: 411681
+    homelessCount: 1570
+-
+    state: Delaware
+    year: 2015
+    category: black
+    rate: 24.6
+    populationCount: 208526
+    homelessCount: 513
+-
+    state: District of Columbia
+    year: 2015
+    category: black
+    rate: 204.0
+    populationCount: 323219
+    homelessCount: 6595
+-
+    state: Florida
+    year: 2015
+    category: black
+    rate: 39.4
+    populationCount: 3344995
+    homelessCount: 13165
+-
+    state: Georgia
+    year: 2015
+    category: black
+    rate: 28.1
+    populationCount: 3191681
+    homelessCount: 8955
+-
+    state: Hawaii
+    year: 2015
+    category: black
+    rate: 91.5
+    populationCount: 28753
+    homelessCount: 263
+-
+    state: Idaho
+    year: 2015
+    category: black
+    rate: 52.8
+    populationCount: 13077
+    homelessCount: 69
+-
+    state: Illinois
+    year: 2015
+    category: black
+    rate: 41.2
+    populationCount: 1893054
+    homelessCount: 7798
+-
+    state: Indiana
+    year: 2015
+    category: black
+    rate: 33.1
+    populationCount: 630097
+    homelessCount: 2085
+-
+    state: Iowa
+    year: 2015
+    category: black
+    rate: 75.2
+    populationCount: 106717
+    homelessCount: 803
+-
+    state: Kansas
+    year: 2015
+    category: black
+    rate: 35.7
+    populationCount: 179053
+    homelessCount: 639
+-
+    state: Kentucky
+    year: 2015
+    category: black
+    rate: 33.0
+    populationCount: 361093
+    homelessCount: 1193
+-
+    state: Louisiana
+    year: 2015
+    category: black
+    rate: 15.8
+    populationCount: 1511270
+    homelessCount: 2395
+-
+    state: Maine
+    year: 2015
+    category: black
+    rate: 112.2
+    populationCount: 18981
+    homelessCount: 213
+-
+    state: Maryland
+    year: 2015
+    category: black
+    rate: 27.1
+    populationCount: 1813640
+    homelessCount: 4920
+-
+    state: Massachusetts
+    year: 2015
+    category: black
+    rate: 127.4
+    populationCount: 563016
+    homelessCount: 7175
+-
+    state: Michigan
+    year: 2015
+    category: black
+    rate: 37.9
+    populationCount: 1410512
+    homelessCount: 5343
+-
+    state: Minnesota
+    year: 2015
+    category: black
+    rate: 107.4
+    populationCount: 322572
+    homelessCount: 3466
+-
+    state: Mississippi
+    year: 2015
+    category: black
+    rate: 12.2
+    populationCount: 1123391
+    homelessCount: 1372
+-
+    state: Missouri
+    year: 2015
+    category: black
+    rate: 35.9
+    populationCount: 714773
+    homelessCount: 2565
+-
+    state: Montana
+    year: 2015
+    category: black
+    rate: 68.1
+    populationCount: 5579
+    homelessCount: 38
+-
+    state: Nebraska
+    year: 2015
+    category: black
+    rate: 63.6
+    populationCount: 92110
+    homelessCount: 586
+-
+    state: Nevada
+    year: 2015
+    category: black
+    rate: 124.1
+    populationCount: 258863
+    homelessCount: 3213
+-
+    state: New Hampshire
+    year: 2015
+    category: black
+    rate: 33.6
+    populationCount: 19067
+    homelessCount: 64
+-
+    state: New Jersey
+    year: 2015
+    category: black
+    rate: 42.0
+    populationCount: 1322989
+    homelessCount: 5562
+-
+    state: New Mexico
+    year: 2015
+    category: black
+    rate: 41.7
+    populationCount: 51119
+    homelessCount: 213
+-
+    state: New York
+    year: 2015
+    category: black
+    rate: 173.4
+    populationCount: 3466637
+    homelessCount: 60103
+-
+    state: North Carolina
+    year: 2015
+    category: black
+    rate: 25.9
+    populationCount: 2201679
+    homelessCount: 5711
+-
+    state: North Dakota
+    year: 2015
+    category: black
+    rate: 145.7
+    populationCount: 15918
+    homelessCount: 232
+-
+    state: Ohio
+    year: 2015
+    category: black
+    rate: 34.7
+    populationCount: 1467063
+    homelessCount: 5084
+-
+    state: Oklahoma
+    year: 2015
+    category: black
+    rate: 24.5
+    populationCount: 298403
+    homelessCount: 732
+-
+    state: Oregon
+    year: 2015
+    category: black
+    rate: 104.4
+    populationCount: 81160
+    homelessCount: 847
+-
+    state: Pennsylvania
+    year: 2015
+    category: black
+    rate: 55.1
+    populationCount: 1489327
+    homelessCount: 8202
+-
+    state: Rhode Island
+    year: 2015
+    category: black
+    rate: 35.0
+    populationCount: 81897
+    homelessCount: 287
+-
+    state: South Carolina
+    year: 2015
+    category: black
+    rate: 21.8
+    populationCount: 1341379
+    homelessCount: 2926
+-
+    state: South Dakota
+    year: 2015
+    category: black
+    rate: 54.9
+    populationCount: 15861
+    homelessCount: 87
+-
+    state: Tennessee
+    year: 2015
+    category: black
+    rate: 31.2
+    populationCount: 1117920
+    homelessCount: 3488
+-
+    state: Texas
+    year: 2015
+    category: black
+    rate: 25.7
+    populationCount: 3353921
+    homelessCount: 8603
+-
+    state: Utah
+    year: 2015
+    category: black
+    rate: 80.8
+    populationCount: 38499
+    homelessCount: 311
+-
+    state: Vermont
+    year: 2015
+    category: black
+    rate: 174.9
+    populationCount: 7661
+    homelessCount: 134
+-
+    state: Virginia
+    year: 2015
+    category: black
+    rate: 23.0
+    populationCount: 1637361
+    homelessCount: 3761
+-
+    state: Washington
+    year: 2015
+    category: black
+    rate: 144.0
+    populationCount: 284319
+    homelessCount: 4095
+-
+    state: West Virginia
+    year: 2015
+    category: black
+    rate: 44.0
+    populationCount: 65658
+    homelessCount: 289
+-
+    state: Wisconsin
+    year: 2015
+    category: black
+    rate: 56.8
+    populationCount: 379201
+    homelessCount: 2153
+-
+    state: Wyoming
+    year: 2015
+    category: black
+    rate: 35.9
+    populationCount: 8355
+    homelessCount: 30
+-
+    state: Puerto Rico
+    year: 2015
+    category: black
+    rate: 23.9
+    populationCount: 299398
+    homelessCount: 717
+-
+    state: Alabama
+    year: 2015
+    category: white
+    rate: 5.4
+    populationCount: 3375305
+    homelessCount: 1813
+-
+    state: Alaska
+    year: 2015
+    category: white
+    rate: 15.1
+    populationCount: 492034
+    homelessCount: 745
+-
+    state: Arizona
+    year: 2015
+    category: white
+    rate: 11.9
+    populationCount: 5630927
+    homelessCount: 6697
+-
+    state: Arkansas
+    year: 2015
+    category: white
+    rate: 6.5
+    populationCount: 2365898
+    homelessCount: 1543
+-
+    state: California
+    year: 2015
+    category: white
+    rate: 22.7
+    populationCount: 28346864
+    homelessCount: 64340
+-
+    state: Colorado
+    year: 2015
+    category: white
+    rate: 14.1
+    populationCount: 4699129
+    homelessCount: 6638
+-
+    state: Connecticut
+    year: 2015
+    category: white
+    rate: 7.4
+    populationCount: 2918747
+    homelessCount: 2164
+-
+    state: Delaware
+    year: 2015
+    category: white
+    rate: 5.6
+    populationCount: 661084
+    homelessCount: 369
+-
+    state: District of Columbia
+    year: 2015
+    category: white
+    rate: 15.4
+    populationCount: 287733
+    homelessCount: 443
+-
+    state: Florida
+    year: 2015
+    category: white
+    rate: 13.5
+    populationCount: 15484330
+    homelessCount: 20921
+-
+    state: Georgia
+    year: 2015
+    category: white
+    rate: 6.9
+    populationCount: 6250234
+    homelessCount: 4307
+-
+    state: Hawaii
+    year: 2015
+    category: white
+    rate: 50.3
+    populationCount: 368078
+    homelessCount: 1852
+-
+    state: Idaho
+    year: 2015
+    category: white
+    rate: 11.3
+    populationCount: 1529697
+    homelessCount: 1733
+-
+    state: Illinois
+    year: 2015
+    category: white
+    rate: 4.7
+    populationCount: 9977250
+    homelessCount: 4690
+-
+    state: Indiana
+    year: 2015
+    category: white
+    rate: 6.2
+    populationCount: 5676302
+    homelessCount: 3496
+-
+    state: Iowa
+    year: 2015
+    category: white
+    rate: 6.9
+    populationCount: 2858442
+    homelessCount: 1972
+-
+    state: Kansas
+    year: 2015
+    category: white
+    rate: 6.6
+    populationCount: 2521279
+    homelessCount: 1664
+-
+    state: Kentucky
+    year: 2015
+    category: white
+    rate: 7.9
+    populationCount: 3897068
+    homelessCount: 3088
+-
+    state: Louisiana
+    year: 2015
+    category: white
+    rate: 5.2
+    populationCount: 2945272
+    homelessCount: 1536
+-
+    state: Maine
+    year: 2015
+    category: white
+    rate: 16.1
+    populationCount: 1264881
+    homelessCount: 2036
+-
+    state: Maryland
+    year: 2015
+    category: white
+    rate: 8.4
+    populationCount: 3581336
+    homelessCount: 3016
+-
+    state: Massachusetts
+    year: 2015
+    category: white
+    rate: 21.4
+    populationCount: 5575350
+    homelessCount: 11922
+-
+    state: Michigan
+    year: 2015
+    category: white
+    rate: 5.8
+    populationCount: 7921921
+    homelessCount: 4612
+-
+    state: Minnesota
+    year: 2015
+    category: white
+    rate: 5.7
+    populationCount: 4672894
+    homelessCount: 2641
+-
+    state: Mississippi
+    year: 2015
+    category: white
+    rate: 3.2
+    populationCount: 1784199
+    homelessCount: 577
+-
+    state: Missouri
+    year: 2015
+    category: white
+    rate: 7.0
+    populationCount: 5061702
+    homelessCount: 3550
+-
+    state: Montana
+    year: 2015
+    category: white
+    rate: 14.0
+    populationCount: 914552
+    homelessCount: 1281
+-
+    state: Nebraska
+    year: 2015
+    category: white
+    rate: 10.9
+    populationCount: 1680545
+    homelessCount: 1831
+-
+    state: Nevada
+    year: 2015
+    category: white
+    rate: 21.3
+    populationCount: 2159656
+    homelessCount: 4605
+-
+    state: New Hampshire
+    year: 2015
+    category: white
+    rate: 10.5
+    populationCount: 1250596
+    homelessCount: 1312
+-
+    state: New Jersey
+    year: 2015
+    category: white
+    rate: 6.7
+    populationCount: 6518671
+    homelessCount: 4336
+-
+    state: New Mexico
+    year: 2015
+    category: white
+    rate: 10.0
+    populationCount: 1723524
+    homelessCount: 1728
+-
+    state: New York
+    year: 2015
+    category: white
+    rate: 15.6
+    populationCount: 13902880
+    homelessCount: 21705
+-
+    state: North Carolina
+    year: 2015
+    category: white
+    rate: 6.3
+    populationCount: 7091469
+    homelessCount: 4494
+-
+    state: North Dakota
+    year: 2015
+    category: white
+    rate: 11.8
+    populationCount: 658522
+    homelessCount: 774
+-
+    state: Ohio
+    year: 2015
+    category: white
+    rate: 5.8
+    populationCount: 9613358
+    homelessCount: 5532
+-
+    state: Oklahoma
+    year: 2015
+    category: white
+    rate: 8.4
+    populationCount: 2910190
+    homelessCount: 2458
+-
+    state: Oregon
+    year: 2015
+    category: white
+    rate: 30.7
+    populationCount: 3489969
+    homelessCount: 10704
+-
+    state: Pennsylvania
+    year: 2015
+    category: white
+    rate: 6.1
+    populationCount: 10596100
+    homelessCount: 6486
+-
+    state: Rhode Island
+    year: 2015
+    category: white
+    rate: 8.5
+    populationCount: 897217
+    homelessCount: 765
+-
+    state: South Carolina
+    year: 2015
+    category: white
+    rate: 6.8
+    populationCount: 3300848
+    homelessCount: 2253
+-
+    state: South Dakota
+    year: 2015
+    category: white
+    rate: 5.5
+    populationCount: 729472
+    homelessCount: 403
+-
+    state: Tennessee
+    year: 2015
+    category: white
+    rate: 10.4
+    populationCount: 5165295
+    homelessCount: 5370
+-
+    state: Texas
+    year: 2015
+    category: white
+    rate: 6.4
+    populationCount: 21568637
+    homelessCount: 13713
+-
+    state: Utah
+    year: 2015
+    category: white
+    rate: 8.8
+    populationCount: 2691543
+    homelessCount: 2359
+-
+    state: Vermont
+    year: 2015
+    category: white
+    rate: 22.9
+    populationCount: 595436
+    homelessCount: 1363
+-
+    state: Virginia
+    year: 2015
+    category: white
+    rate: 4.6
+    populationCount: 5874507
+    homelessCount: 2703
+-
+    state: Washington
+    year: 2015
+    category: white
+    rate: 20.8
+    populationCount: 5697815
+    homelessCount: 11860
+-
+    state: West Virginia
+    year: 2015
+    category: white
+    rate: 8.6
+    populationCount: 1733819
+    homelessCount: 1495
+-
+    state: Wisconsin
+    year: 2015
+    category: white
+    rate: 6.5
+    populationCount: 5057386
+    homelessCount: 3276
+-
+    state: Wyoming
+    year: 2015
+    category: white
+    rate: 11.6
+    populationCount: 541960
+    homelessCount: 628
+-
+    state: Puerto Rico
+    year: 2015
+    category: white
+    rate: 7.5
+    populationCount: 2520447
+    homelessCount: 1894
+-
+    state: Alabama
+    year: 2015
+    category: asian
+    rate: 0.8
+    populationCount: 64146
+    homelessCount: 5
+-
+    state: Alaska
+    year: 2015
+    category: asian
+    rate: 4.0
+    populationCount: 44568
+    homelessCount: 18
+-
+    state: Arizona
+    year: 2015
+    category: asian
+    rate: 2.6
+    populationCount: 218585
+    homelessCount: 57
+-
+    state: Arkansas
+    year: 2015
+    category: asian
+    rate: 1.6
+    populationCount: 44037
+    homelessCount: 7
+-
+    state: California
+    year: 2015
+    category: asian
+    rate: 3.9
+    populationCount: 5545712
+    homelessCount: 2146
+-
+    state: Colorado
+    year: 2015
+    category: asian
+    rate: 5.4
+    populationCount: 166732
+    homelessCount: 90
+-
+    state: Connecticut
+    year: 2015
+    category: asian
+    rate: 2.4
+    populationCount: 159989
+    homelessCount: 38
+-
+    state: Delaware
+    year: 2015
+    category: asian
+    rate: 0.8
+    populationCount: 35340
+    homelessCount: 3
+-
+    state: District of Columbia
+    year: 2015
+    category: asian
+    rate: 24.2
+    populationCount: 25638
+    homelessCount: 62
+-
+    state: Florida
+    year: 2015
+    category: asian
+    rate: 2.2
+    populationCount: 545271
+    homelessCount: 122
+-
+    state: Georgia
+    year: 2015
+    category: asian
+    rate: 1.0
+    populationCount: 385905
+    homelessCount: 40
+-
+    state: Hawaii
+    year: 2015
+    category: asian
+    rate: 8.9
+    populationCount: 536759
+    homelessCount: 477
+-
+    state: Idaho
+    year: 2015
+    category: asian
+    rate: 4.9
+    populationCount: 22613
+    homelessCount: 11
+-
+    state: Illinois
+    year: 2015
+    category: asian
+    rate: 1.5
+    populationCount: 678811
+    homelessCount: 100
+-
+    state: Indiana
+    year: 2015
+    category: asian
+    rate: 1.3
+    populationCount: 134226
+    homelessCount: 17
+-
+    state: Iowa
+    year: 2015
+    category: asian
+    rate: 2.2
+    populationCount: 71126
+    homelessCount: 16
+-
+    state: Kansas
+    year: 2015
+    category: asian
+    rate: 1.5
+    populationCount: 80931
+    homelessCount: 12
+-
+    state: Kentucky
+    year: 2015
+    category: asian
+    rate: 1.2
+    populationCount: 60554
+    homelessCount: 7
+-
+    state: Louisiana
+    year: 2015
+    category: asian
+    rate: 2.6
+    populationCount: 81025
+    homelessCount: 21
+-
+    state: Maine
+    year: 2015
+    category: asian
+    rate: 3.9
+    populationCount: 15567
+    homelessCount: 6
+-
+    state: Maryland
+    year: 2015
+    category: asian
+    rate: 1.5
+    populationCount: 374394
+    homelessCount: 58
+-
+    state: Massachusetts
+    year: 2015
+    category: asian
+    rate: 4.9
+    populationCount: 424232
+    homelessCount: 206
+-
+    state: Michigan
+    year: 2015
+    category: asian
+    rate: 1.0
+    populationCount: 284191
+    homelessCount: 29
+-
+    state: Minnesota
+    year: 2015
+    category: asian
+    rate: 4.6
+    populationCount: 254774
+    homelessCount: 117
+-
+    state: Mississippi
+    year: 2015
+    category: asian
+    rate: 0.7
+    populationCount: 30293
+    homelessCount: 2
+-
+    state: Missouri
+    year: 2015
+    category: asian
+    rate: 1.8
+    populationCount: 115095
+    homelessCount: 21
+-
+    state: Montana
+    year: 2015
+    category: asian
+    rate: 0.0
+    populationCount: 7771
+    homelessCount: 0
+-
+    state: Nebraska
+    year: 2015
+    category: asian
+    rate: 5.9
+    populationCount: 42035
+    homelessCount: 25
+-
+    state: Nevada
+    year: 2015
+    category: asian
+    rate: 10.0
+    populationCount: 234086
+    homelessCount: 235
+-
+    state: New Hampshire
+    year: 2015
+    category: asian
+    rate: 1.8
+    populationCount: 33688
+    homelessCount: 6
+-
+    state: New Jersey
+    year: 2015
+    category: asian
+    rate: 1.2
+    populationCount: 838539
+    homelessCount: 97
+-
+    state: New Mexico
+    year: 2015
+    category: asian
+    rate: 3.5
+    populationCount: 34176
+    homelessCount: 12
+-
+    state: New York
+    year: 2015
+    category: asian
+    rate: 5.3
+    populationCount: 1665714
+    homelessCount: 879
+-
+    state: North Carolina
+    year: 2015
+    category: asian
+    rate: 2.1
+    populationCount: 268813
+    homelessCount: 57
+-
+    state: North Dakota
+    year: 2015
+    category: asian
+    rate: 16.1
+    populationCount: 9926
+    homelessCount: 16
+-
+    state: Ohio
+    year: 2015
+    category: asian
+    rate: 1.5
+    populationCount: 234306
+    homelessCount: 35
+-
+    state: Oklahoma
+    year: 2015
+    category: asian
+    rate: 0.9
+    populationCount: 81284
+    homelessCount: 7
+-
+    state: Oregon
+    year: 2015
+    category: asian
+    rate: 7.9
+    populationCount: 167841
+    homelessCount: 133
+-
+    state: Pennsylvania
+    year: 2015
+    category: asian
+    rate: 1.8
+    populationCount: 416734
+    homelessCount: 77
+-
+    state: Rhode Island
+    year: 2015
+    category: asian
+    rate: 1.1
+    populationCount: 35888
+    homelessCount: 4
+-
+    state: South Carolina
+    year: 2015
+    category: asian
+    rate: 1.5
+    populationCount: 73037
+    homelessCount: 11
+-
+    state: South Dakota
+    year: 2015
+    category: asian
+    rate: 2.7
+    populationCount: 11238
+    homelessCount: 3
+-
+    state: Tennessee
+    year: 2015
+    category: asian
+    rate: 2.0
+    populationCount: 111699
+    homelessCount: 22
+-
+    state: Texas
+    year: 2015
+    category: asian
+    rate: 1.2
+    populationCount: 1222646
+    homelessCount: 145
+-
+    state: Utah
+    year: 2015
+    category: asian
+    rate: 5.1
+    populationCount: 69271
+    homelessCount: 35
+-
+    state: Vermont
+    year: 2015
+    category: asian
+    rate: 3.0
+    populationCount: 9950
+    homelessCount: 3
+-
+    state: Virginia
+    year: 2015
+    category: asian
+    rate: 2.1
+    populationCount: 521695
+    homelessCount: 110
+-
+    state: Washington
+    year: 2015
+    category: asian
+    rate: 6.4
+    populationCount: 573294
+    homelessCount: 369
+-
+    state: West Virginia
+    year: 2015
+    category: asian
+    rate: 0.7
+    populationCount: 14737
+    homelessCount: 1
+-
+    state: Wisconsin
+    year: 2015
+    category: asian
+    rate: 3.6
+    populationCount: 152984
+    homelessCount: 55
+-
+    state: Wyoming
+    year: 2015
+    category: asian
+    rate: 0.0
+    populationCount: 5642
+    homelessCount: 0
+-
+    state: Puerto Rico
+    year: 2015
+    category: asian
+    rate: 1.1
+    populationCount: 8810
+    homelessCount: 1
+-
+    state: Alabama
+    year: 2015
+    category: nativeAmerican
+    rate: 5.7
+    populationCount: 33122
+    homelessCount: 19
+-
+    state: Alaska
+    year: 2015
+    category: nativeAmerican
+    rate: 79.4
+    populationCount: 111203
+    homelessCount: 883
+-
+    state: Arizona
+    year: 2015
+    category: nativeAmerican
+    rate: 23.6
+    populationCount: 359612
+    homelessCount: 849
+-
+    state: Arkansas
+    year: 2015
+    category: nativeAmerican
+    rate: 11.4
+    populationCount: 27963
+    homelessCount: 32
+-
+    state: California
+    year: 2015
+    category: nativeAmerican
+    rate: 74.8
+    populationCount: 636519
+    homelessCount: 4762
+-
+    state: Colorado
+    year: 2015
+    category: nativeAmerican
+    rate: 56.8
+    populationCount: 83949
+    homelessCount: 477
+-
+    state: Connecticut
+    year: 2015
+    category: nativeAmerican
+    rate: 26.9
+    populationCount: 18618
+    homelessCount: 50
+-
+    state: Delaware
+    year: 2015
+    category: nativeAmerican
+    rate: 18.4
+    populationCount: 5994
+    homelessCount: 11
+-
+    state: District of Columbia
+    year: 2015
+    category: nativeAmerican
+    rate: 71.0
+    populationCount: 3946
+    homelessCount: 28
+-
+    state: Florida
+    year: 2015
+    category: nativeAmerican
+    rate: 38.8
+    populationCount: 96816
+    homelessCount: 376
+-
+    state: Georgia
+    year: 2015
+    category: nativeAmerican
+    rate: 5.9
+    populationCount: 50630
+    homelessCount: 30
+-
+    state: Hawaii
+    year: 2015
+    category: nativeAmerican
+    rate: 168.9
+    populationCount: 5626
+    homelessCount: 95
+-
+    state: Idaho
+    year: 2015
+    category: nativeAmerican
+    rate: 38.7
+    populationCount: 28172
+    homelessCount: 109
+-
+    state: Illinois
+    year: 2015
+    category: nativeAmerican
+    rate: 7.1
+    populationCount: 74312
+    homelessCount: 53
+-
+    state: Indiana
+    year: 2015
+    category: nativeAmerican
+    rate: 16.9
+    populationCount: 25972
+    homelessCount: 44
+-
+    state: Iowa
+    year: 2015
+    category: nativeAmerican
+    rate: 44.1
+    populationCount: 15411
+    homelessCount: 68
+-
+    state: Kansas
+    year: 2015
+    category: nativeAmerican
+    rate: 31.6
+    populationCount: 34178
+    homelessCount: 108
+-
+    state: Kentucky
+    year: 2015
+    category: nativeAmerican
+    rate: 29.5
+    populationCount: 12882
+    homelessCount: 38
+-
+    state: Louisiana
+    year: 2015
+    category: nativeAmerican
+    rate: 14.1
+    populationCount: 35380
+    homelessCount: 50
+-
+    state: Maine
+    year: 2015
+    category: nativeAmerican
+    rate: 27.4
+    populationCount: 9112
+    homelessCount: 25
+-
+    state: Maryland
+    year: 2015
+    category: nativeAmerican
+    rate: 16.0
+    populationCount: 33088
+    homelessCount: 53
+-
+    state: Massachusetts
+    year: 2015
+    category: nativeAmerican
+    rate: 31.4
+    populationCount: 31872
+    homelessCount: 100
+-
+    state: Michigan
+    year: 2015
+    category: nativeAmerican
+    rate: 11.1
+    populationCount: 70885
+    homelessCount: 79
+-
+    state: Minnesota
+    year: 2015
+    category: nativeAmerican
+    rate: 91.2
+    populationCount: 72718
+    homelessCount: 663
+-
+    state: Mississippi
+    year: 2015
+    category: nativeAmerican
+    rate: 5.7
+    populationCount: 17673
+    homelessCount: 10
+-
+    state: Missouri
+    year: 2015
+    category: nativeAmerican
+    rate: 12.5
+    populationCount: 32922
+    homelessCount: 41
+-
+    state: Montana
+    year: 2015
+    category: nativeAmerican
+    rate: 47.3
+    populationCount: 67915
+    homelessCount: 321
+-
+    state: Nebraska
+    year: 2015
+    category: nativeAmerican
+    rate: 45.1
+    populationCount: 26407
+    homelessCount: 119
+-
+    state: Nevada
+    year: 2015
+    category: nativeAmerican
+    rate: 40.5
+    populationCount: 46203
+    homelessCount: 187
+-
+    state: New Hampshire
+    year: 2015
+    category: nativeAmerican
+    rate: 5.3
+    populationCount: 3792
+    homelessCount: 2
+-
+    state: New Jersey
+    year: 2015
+    category: nativeAmerican
+    rate: 4.4
+    populationCount: 52282
+    homelessCount: 23
+-
+    state: New Mexico
+    year: 2015
+    category: nativeAmerican
+    rate: 26.6
+    populationCount: 220661
+    homelessCount: 587
+-
+    state: New York
+    year: 2015
+    category: nativeAmerican
+    rate: 43.5
+    populationCount: 189075
+    homelessCount: 822
+-
+    state: North Carolina
+    year: 2015
+    category: nativeAmerican
+    rate: 11.1
+    populationCount: 155296
+    homelessCount: 173
+-
+    state: North Dakota
+    year: 2015
+    category: nativeAmerican
+    rate: 45.1
+    populationCount: 40754
+    homelessCount: 184
+-
+    state: Ohio
+    year: 2015
+    category: nativeAmerican
+    rate: 18.7
+    populationCount: 31574
+    homelessCount: 59
+-
+    state: Oklahoma
+    year: 2015
+    category: nativeAmerican
+    rate: 11.6
+    populationCount: 355434
+    homelessCount: 411
+-
+    state: Oregon
+    year: 2015
+    category: nativeAmerican
+    rate: 84.7
+    populationCount: 70737
+    homelessCount: 599
+-
+    state: Pennsylvania
+    year: 2015
+    category: nativeAmerican
+    rate: 17.2
+    populationCount: 44676
+    homelessCount: 77
+-
+    state: Rhode Island
+    year: 2015
+    category: nativeAmerican
+    rate: 6.8
+    populationCount: 10223
+    homelessCount: 7
+-
+    state: South Carolina
+    year: 2015
+    category: nativeAmerican
+    rate: 16.6
+    populationCount: 25846
+    homelessCount: 43
+-
+    state: South Dakota
+    year: 2015
+    category: nativeAmerican
+    rate: 68.0
+    populationCount: 77042
+    homelessCount: 524
+-
+    state: Tennessee
+    year: 2015
+    category: nativeAmerican
+    rate: 23.0
+    populationCount: 28719
+    homelessCount: 66
+-
+    state: Texas
+    year: 2015
+    category: nativeAmerican
+    rate: 15.7
+    populationCount: 270236
+    homelessCount: 424
+-
+    state: Utah
+    year: 2015
+    category: nativeAmerican
+    rate: 28.6
+    populationCount: 44793
+    homelessCount: 128
+-
+    state: Vermont
+    year: 2015
+    category: nativeAmerican
+    rate: 21.1
+    populationCount: 2366
+    homelessCount: 5
+-
+    state: Virginia
+    year: 2015
+    category: nativeAmerican
+    rate: 14.2
+    populationCount: 43632
+    homelessCount: 62
+-
+    state: Washington
+    year: 2015
+    category: nativeAmerican
+    rate: 64.6
+    populationCount: 134841
+    homelessCount: 871
+-
+    state: West Virginia
+    year: 2015
+    category: nativeAmerican
+    rate: 20.6
+    populationCount: 4376
+    homelessCount: 9
+-
+    state: Wisconsin
+    year: 2015
+    category: nativeAmerican
+    rate: 34.9
+    populationCount: 64210
+    homelessCount: 224
+-
+    state: Wyoming
+    year: 2015
+    category: nativeAmerican
+    rate: 61.5
+    populationCount: 15766
+    homelessCount: 97
+-
+    state: Puerto Rico
+    year: 2015
+    category: nativeAmerican
+    rate: 46.7
+    populationCount: 10710
+    homelessCount: 50
+-
+    state: Alabama
+    year: 2015
+    category: nhpi
+    rate: 2.0
+    populationCount: 4898
+    homelessCount: 1
+-
+    state: Alaska
+    year: 2015
+    category: nhpi
+    rate: 67.2
+    populationCount: 9227
+    homelessCount: 62
+-
+    state: Arizona
+    year: 2015
+    category: nhpi
+    rate: 32.5
+    populationCount: 17526
+    homelessCount: 57
+-
+    state: Arkansas
+    year: 2015
+    category: nhpi
+    rate: 34.6
+    populationCount: 8380
+    homelessCount: 29
+-
+    state: California
+    year: 2015
+    category: nhpi
+    rate: 63.7
+    populationCount: 192339
+    homelessCount: 1225
+-
+    state: Colorado
+    year: 2015
+    category: nhpi
+    rate: 34.5
+    populationCount: 9844
+    homelessCount: 34
+-
+    state: Connecticut
+    year: 2015
+    category: nhpi
+    rate: 332.3
+    populationCount: 3732
+    homelessCount: 124
+-
+    state: Delaware
+    year: 2015
+    category: nhpi
+    rate: 35.2
+    populationCount: 853
+    homelessCount: 3
+-
+    state: District of Columbia
+    year: 2015
+    category: nhpi
+    rate: 119.0
+    populationCount: 1008
+    homelessCount: 12
+-
+    state: Florida
+    year: 2015
+    category: nhpi
+    rate: 52.0
+    populationCount: 21539
+    homelessCount: 112
+-
+    state: Georgia
+    year: 2015
+    category: nhpi
+    rate: 44.5
+    populationCount: 11452
+    homelessCount: 51
+-
+    state: Hawaii
+    year: 2015
+    category: nhpi
+    rate: 205.2
+    populationCount: 145124
+    homelessCount: 2978
+-
+    state: Idaho
+    year: 2015
+    category: nhpi
+    rate: 48.9
+    populationCount: 3270
+    homelessCount: 16
+-
+    state: Illinois
+    year: 2015
+    category: nhpi
+    rate: 24.7
+    populationCount: 8086
+    homelessCount: 20
+-
+    state: Indiana
+    year: 2015
+    category: nhpi
+    rate: 40.4
+    populationCount: 3963
+    homelessCount: 16
+-
+    state: Iowa
+    year: 2015
+    category: nhpi
+    rate: 54.3
+    populationCount: 3130
+    homelessCount: 17
+-
+    state: Kansas
+    year: 2015
+    category: nhpi
+    rate: 25.7
+    populationCount: 3113
+    homelessCount: 8
+-
+    state: Kentucky
+    year: 2015
+    category: nhpi
+    rate: 41.8
+    populationCount: 3591
+    homelessCount: 15
+-
+    state: Louisiana
+    year: 2015
+    category: nhpi
+    rate: 48.4
+    populationCount: 2892
+    homelessCount: 14
+-
+    state: Maine
+    year: 2015
+    category: nhpi
+    rate: 177.0
+    populationCount: 452
+    homelessCount: 8
+-
+    state: Maryland
+    year: 2015
+    category: nhpi
+    rate: 58.0
+    populationCount: 6211
+    homelessCount: 36
+-
+    state: Massachusetts
+    year: 2015
+    category: nhpi
+    rate: 215.3
+    populationCount: 6689
+    homelessCount: 144
+-
+    state: Michigan
+    year: 2015
+    category: nhpi
+    rate: 58.3
+    populationCount: 3775
+    homelessCount: 22
+-
+    state: Minnesota
+    year: 2015
+    category: nhpi
+    rate: 84.6
+    populationCount: 3428
+    homelessCount: 29
+-
+    state: Mississippi
+    year: 2015
+    category: nhpi
+    rate: 80.0
+    populationCount: 1751
+    homelessCount: 14
+-
+    state: Missouri
+    year: 2015
+    category: nhpi
+    rate: 30.6
+    populationCount: 8483
+    homelessCount: 26
+-
+    state: Montana
+    year: 2015
+    category: nhpi
+    rate: 58.5
+    populationCount: 854
+    homelessCount: 5
+-
+    state: Nebraska
+    year: 2015
+    category: nhpi
+    rate: 69.9
+    populationCount: 2288
+    homelessCount: 16
+-
+    state: Nevada
+    year: 2015
+    category: nhpi
+    rate: 34.7
+    populationCount: 21016
+    homelessCount: 73
+-
+    state: New Hampshire
+    year: 2015
+    category: nhpi
+    rate: 16.5
+    populationCount: 607
+    homelessCount: 1
+-
+    state: New Jersey
+    year: 2015
+    category: nhpi
+    rate: 38.6
+    populationCount: 8804
+    homelessCount: 34
+-
+    state: New Mexico
+    year: 2015
+    category: nhpi
+    rate: 52.3
+    populationCount: 3251
+    homelessCount: 17
+-
+    state: New York
+    year: 2015
+    category: nhpi
+    rate: 526.9
+    populationCount: 25964
+    homelessCount: 1368
+-
+    state: North Carolina
+    year: 2015
+    category: nhpi
+    rate: 14.2
+    populationCount: 11935
+    homelessCount: 17
+-
+    state: North Dakota
+    year: 2015
+    category: nhpi
+    rate: 106.8
+    populationCount: 468
+    homelessCount: 5
+-
+    state: Ohio
+    year: 2015
+    category: nhpi
+    rate: 29.7
+    populationCount: 6052
+    homelessCount: 18
+-
+    state: Oklahoma
+    year: 2015
+    category: nhpi
+    rate: 16.6
+    populationCount: 6620
+    homelessCount: 11
+-
+    state: Oregon
+    year: 2015
+    category: nhpi
+    rate: 98.4
+    populationCount: 16669
+    homelessCount: 164
+-
+    state: Pennsylvania
+    year: 2015
+    category: nhpi
+    rate: 36.9
+    populationCount: 8680
+    homelessCount: 32
+-
+    state: Rhode Island
+    year: 2015
+    category: nhpi
+    rate: 10.5
+    populationCount: 1897
+    homelessCount: 2
+-
+    state: South Carolina
+    year: 2015
+    category: nhpi
+    rate: 43.2
+    populationCount: 4396
+    homelessCount: 19
+-
+    state: South Dakota
+    year: 2015
+    category: nhpi
+    rate: 50.7
+    populationCount: 592
+    homelessCount: 3
+-
+    state: Tennessee
+    year: 2015
+    category: nhpi
+    rate: 39.4
+    populationCount: 6091
+    homelessCount: 24
+-
+    state: Texas
+    year: 2015
+    category: nhpi
+    rate: 28.9
+    populationCount: 36010
+    homelessCount: 104
+-
+    state: Utah
+    year: 2015
+    category: nhpi
+    rate: 25.4
+    populationCount: 29099
+    homelessCount: 74
+-
+    state: Vermont
+    year: 2015
+    category: nhpi
+    rate: 130.4
+    populationCount: 230
+    homelessCount: 3
+-
+    state: Virginia
+    year: 2015
+    category: nhpi
+    rate: 18.8
+    populationCount: 9057
+    homelessCount: 17
+-
+    state: Washington
+    year: 2015
+    category: nhpi
+    rate: 97.9
+    populationCount: 50157
+    homelessCount: 491
+-
+    state: West Virginia
+    year: 2015
+    category: nhpi
+    rate: 53.8
+    populationCount: 558
+    homelessCount: 3
+-
+    state: Wisconsin
+    year: 2015
+    category: nhpi
+    rate: 151.4
+    populationCount: 2907
+    homelessCount: 44
+-
+    state: Wyoming
+    year: 2015
+    category: nhpi
+    rate: 16.2
+    populationCount: 618
+    homelessCount: 1
+-
+    state: Puerto Rico
+    year: 2015
+    category: nhpi
+    rate: 343.4
+    populationCount: 495
+    homelessCount: 17
+-
+    state: Alabama
+    year: 2015
+    category: multipleRaces
+    rate: 5.6
+    populationCount: 75129
+    homelessCount: 42
+-
+    state: Alaska
+    year: 2015
+    category: multipleRaces
+    rate: 19.9
+    populationCount: 52339
+    homelessCount: 104
+-
+    state: Arizona
+    year: 2015
+    category: multipleRaces
+    rate: 26.7
+    populationCount: 178236
+    homelessCount: 475
+-
+    state: Arkansas
+    year: 2015
+    category: multipleRaces
+    rate: 8.1
+    populationCount: 56973
+    homelessCount: 46
+-
+    state: California
+    year: 2015
+    category: multipleRaces
+    rate: 76.8
+    populationCount: 1433486
+    homelessCount: 11003
+-
+    state: Colorado
+    year: 2015
+    category: multipleRaces
+    rate: 50.0
+    populationCount: 153240
+    homelessCount: 766
+-
+    state: Connecticut
+    year: 2015
+    category: multipleRaces
+    rate: 12.8
+    populationCount: 79106
+    homelessCount: 101
+-
+    state: Delaware
+    year: 2015
+    category: multipleRaces
+    rate: 23.3
+    populationCount: 23151
+    homelessCount: 54
+-
+    state: District of Columbia
+    year: 2015
+    category: multipleRaces
+    rate: 90.5
+    populationCount: 17461
+    homelessCount: 158
+-
+    state: Florida
+    year: 2015
+    category: multipleRaces
+    rate: 30.4
+    populationCount: 395790
+    homelessCount: 1204
+-
+    state: Georgia
+    year: 2015
+    category: multipleRaces
+    rate: 20.6
+    populationCount: 197329
+    homelessCount: 407
+-
+    state: Hawaii
+    year: 2015
+    category: multipleRaces
+    rate: 58.9
+    populationCount: 332009
+    homelessCount: 1955
+-
+    state: Idaho
+    year: 2015
+    category: multipleRaces
+    rate: 7.6
+    populationCount: 36703
+    homelessCount: 28
+-
+    state: Illinois
+    year: 2015
+    category: multipleRaces
+    rate: 21.9
+    populationCount: 236031
+    homelessCount: 516
+-
+    state: Indiana
+    year: 2015
+    category: multipleRaces
+    rate: 16.4
+    populationCount: 124673
+    homelessCount: 205
+-
+    state: Iowa
+    year: 2015
+    category: multipleRaces
+    rate: 38.5
+    populationCount: 53204
+    homelessCount: 205
+-
+    state: Kansas
+    year: 2015
+    category: multipleRaces
+    rate: 19.4
+    populationCount: 80806
+    homelessCount: 157
+-
+    state: Kentucky
+    year: 2015
+    category: multipleRaces
+    rate: 25.3
+    populationCount: 77869
+    homelessCount: 197
+-
+    state: Louisiana
+    year: 2015
+    category: multipleRaces
+    rate: 9.0
+    populationCount: 72041
+    homelessCount: 65
+-
+    state: Maine
+    year: 2015
+    category: multipleRaces
+    rate: 38.7
+    populationCount: 21726
+    homelessCount: 84
+-
+    state: Maryland
+    year: 2015
+    category: multipleRaces
+    rate: 19.4
+    populationCount: 158626
+    homelessCount: 307
+-
+    state: Massachusetts
+    year: 2015
+    category: multipleRaces
+    rate: 106.8
+    populationCount: 148752
+    homelessCount: 1588
+-
+    state: Michigan
+    year: 2015
+    category: multipleRaces
+    rate: 19.2
+    populationCount: 224483
+    homelessCount: 431
+-
+    state: Minnesota
+    year: 2015
+    category: multipleRaces
+    rate: 49.7
+    populationCount: 126723
+    homelessCount: 630
+-
+    state: Mississippi
+    year: 2015
+    category: multipleRaces
+    rate: 2.3
+    populationCount: 35093
+    homelessCount: 8
+-
+    state: Missouri
+    year: 2015
+    category: multipleRaces
+    rate: 21.8
+    populationCount: 127955
+    homelessCount: 279
+-
+    state: Montana
+    year: 2015
+    category: multipleRaces
+    rate: 24.4
+    populationCount: 26196
+    homelessCount: 64
+-
+    state: Nebraska
+    year: 2015
+    category: multipleRaces
+    rate: 44.2
+    populationCount: 37760
+    homelessCount: 167
+-
+    state: Nevada
+    year: 2015
+    category: multipleRaces
+    rate: 38.0
+    populationCount: 113189
+    homelessCount: 430
+-
+    state: New Hampshire
+    year: 2015
+    category: multipleRaces
+    rate: 28.6
+    populationCount: 20993
+    homelessCount: 60
+-
+    state: New Jersey
+    year: 2015
+    category: multipleRaces
+    rate: 2.5
+    populationCount: 183716
+    homelessCount: 46
+-
+    state: New Mexico
+    year: 2015
+    category: multipleRaces
+    rate: 14.3
+    populationCount: 50293
+    homelessCount: 72
+-
+    state: New York
+    year: 2015
+    category: multipleRaces
+    rate: 72.0
+    populationCount: 468245
+    homelessCount: 3373
+-
+    state: North Carolina
+    year: 2015
+    category: multipleRaces
+    rate: 11.4
+    populationCount: 205207
+    homelessCount: 233
+-
+    state: North Dakota
+    year: 2015
+    category: multipleRaces
+    rate: 65.7
+    populationCount: 14316
+    homelessCount: 94
+-
+    state: Ohio
+    year: 2015
+    category: multipleRaces
+    rate: 18.8
+    populationCount: 242055
+    homelessCount: 454
+-
+    state: Oklahoma
+    year: 2015
+    category: multipleRaces
+    rate: 7.0
+    populationCount: 225568
+    homelessCount: 158
+-
+    state: Oregon
+    year: 2015
+    category: multipleRaces
+    rate: 54.9
+    populationCount: 141995
+    homelessCount: 779
+-
+    state: Pennsylvania
+    year: 2015
+    category: multipleRaces
+    rate: 23.3
+    populationCount: 235048
+    homelessCount: 547
+-
+    state: Rhode Island
+    year: 2015
+    category: multipleRaces
+    rate: 16.8
+    populationCount: 27358
+    homelessCount: 46
+-
+    state: South Carolina
+    year: 2015
+    category: multipleRaces
+    rate: 12.3
+    populationCount: 82924
+    homelessCount: 102
+-
+    state: South Dakota
+    year: 2015
+    category: multipleRaces
+    rate: 8.7
+    populationCount: 18356
+    homelessCount: 16
+-
+    state: Tennessee
+    year: 2015
+    category: multipleRaces
+    rate: 13.3
+    populationCount: 114939
+    homelessCount: 153
+-
+    state: Texas
+    year: 2015
+    category: multipleRaces
+    rate: 14.0
+    populationCount: 493301
+    homelessCount: 689
+-
+    state: Utah
+    year: 2015
+    category: multipleRaces
+    rate: 17.2
+    populationCount: 68631
+    homelessCount: 118
+-
+    state: Vermont
+    year: 2015
+    category: multipleRaces
+    rate: 13.2
+    populationCount: 11341
+    homelessCount: 15
+-
+    state: Virginia
+    year: 2015
+    category: multipleRaces
+    rate: 15.1
+    populationCount: 231120
+    homelessCount: 348
+-
+    state: Washington
+    year: 2015
+    category: multipleRaces
+    rate: 55.2
+    populationCount: 313770
+    homelessCount: 1733
+-
+    state: West Virginia
+    year: 2015
+    category: multipleRaces
+    rate: 12.9
+    populationCount: 29366
+    homelessCount: 38
+-
+    state: Wisconsin
+    year: 2015
+    category: multipleRaces
+    rate: 30.0
+    populationCount: 101689
+    homelessCount: 305
+-
+    state: Wyoming
+    year: 2015
+    category: multipleRaces
+    rate: 37.2
+    populationCount: 11301
+    homelessCount: 42
+-
+    state: Puerto Rico
+    year: 2015
+    category: multipleRaces
+    rate: 81.1
+    populationCount: 226813
+    homelessCount: 1839
+-
+    state: Alabama
+    year: 2015
+    category: hispanic
+    rate: 3.5
+    populationCount: 195385
+    homelessCount: 69
+-
+    state: Alaska
+    year: 2015
+    category: hispanic
+    rate: 19.0
+    populationCount: 49487
+    homelessCount: 94
+-
+    state: Arizona
+    year: 2015
+    category: hispanic
+    rate: 11.6
+    populationCount: 2052925
+    homelessCount: 2380
+-
+    state: Arkansas
+    year: 2015
+    category: hispanic
+    rate: 20.1
+    populationCount: 207682
+    homelessCount: 417
+-
+    state: California
+    year: 2015
+    category: hispanic
+    rate: 21.2
+    populationCount: 14912338
+    homelessCount: 31555
+-
+    state: Colorado
+    year: 2015
+    category: hispanic
+    rate: 26.1
+    populationCount: 1129712
+    homelessCount: 2947
+-
+    state: Connecticut
+    year: 2015
+    category: hispanic
+    rate: 20.9
+    populationCount: 538170
+    homelessCount: 1124
+-
+    state: Delaware
+    year: 2015
+    category: hispanic
+    rate: 6.5
+    populationCount: 82556
+    homelessCount: 54
+-
+    state: District of Columbia
+    year: 2015
+    category: hispanic
+    rate: 55.5
+    populationCount: 69189
+    homelessCount: 384
+-
+    state: Florida
+    year: 2015
+    category: hispanic
+    rate: 10.4
+    populationCount: 4796160
+    homelessCount: 4988
+-
+    state: Georgia
+    year: 2015
+    category: hispanic
+    rate: 7.6
+    populationCount: 923999
+    homelessCount: 701
+-
+    state: Hawaii
+    year: 2015
+    category: hispanic
+    rate: 65.8
+    populationCount: 142932
+    homelessCount: 941
+-
+    state: Idaho
+    year: 2015
+    category: hispanic
+    rate: 12.1
+    populationCount: 195474
+    homelessCount: 237
+-
+    state: Illinois
+    year: 2015
+    category: hispanic
+    rate: 8.4
+    populationCount: 2137624
+    homelessCount: 1799
+-
+    state: Indiana
+    year: 2015
+    category: hispanic
+    rate: 5.0
+    populationCount: 429228
+    homelessCount: 216
+-
+    state: Iowa
+    year: 2015
+    category: hispanic
+    rate: 14.4
+    populationCount: 172759
+    homelessCount: 248
+-
+    state: Kansas
+    year: 2015
+    category: hispanic
+    rate: 8.2
+    populationCount: 328069
+    homelessCount: 268
+-
+    state: Kentucky
+    year: 2015
+    category: hispanic
+    rate: 9.1
+    populationCount: 148210
+    homelessCount: 135
+-
+    state: Louisiana
+    year: 2015
+    category: hispanic
+    rate: 4.4
+    populationCount: 223121
+    homelessCount: 99
+-
+    state: Maine
+    year: 2015
+    category: hispanic
+    rate: 37.8
+    populationCount: 19864
+    homelessCount: 75
+-
+    state: Maryland
+    year: 2015
+    category: hispanic
+    rate: 9.1
+    populationCount: 552046
+    homelessCount: 503
+-
+    state: Massachusetts
+    year: 2015
+    category: hispanic
+    rate: 101.3
+    populationCount: 732154
+    homelessCount: 7415
+-
+    state: Michigan
+    year: 2015
+    category: hispanic
+    rate: 11.2
+    populationCount: 474471
+    homelessCount: 530
+-
+    state: Minnesota
+    year: 2015
+    category: hispanic
+    rate: 22.1
+    populationCount: 276046
+    homelessCount: 609
+-
+    state: Mississippi
+    year: 2015
+    category: hispanic
+    rate: 2.4
+    populationCount: 88158
+    homelessCount: 21
+-
+    state: Missouri
+    year: 2015
+    category: hispanic
+    rate: 10.7
+    populationCount: 237469
+    homelessCount: 253
+-
+    state: Montana
+    year: 2015
+    category: hispanic
+    rate: 36.8
+    populationCount: 35293
+    homelessCount: 130
+-
+    state: Nebraska
+    year: 2015
+    category: hispanic
+    rate: 20.7
+    populationCount: 191795
+    homelessCount: 397
+-
+    state: Nevada
+    year: 2015
+    category: hispanic
+    rate: 17.9
+    populationCount: 787897
+    homelessCount: 1414
+-
+    state: New Hampshire
+    year: 2015
+    category: hispanic
+    rate: 27.7
+    populationCount: 43304
+    homelessCount: 120
+-
+    state: New Jersey
+    year: 2015
+    category: hispanic
+    rate: 10.6
+    populationCount: 1722688
+    homelessCount: 1819
+-
+    state: New Mexico
+    year: 2015
+    category: hispanic
+    rate: 11.2
+    populationCount: 996117
+    homelessCount: 1112
+-
+    state: New York
+    year: 2015
+    category: hispanic
+    rate: 76.4
+    populationCount: 3666421
+    homelessCount: 28023
+-
+    state: North Carolina
+    year: 2015
+    category: hispanic
+    rate: 6.1
+    populationCount: 882051
+    homelessCount: 538
+-
+    state: North Dakota
+    year: 2015
+    category: hispanic
+    rate: 38.0
+    populationCount: 23712
+    homelessCount: 90
+-
+    state: Ohio
+    year: 2015
+    category: hispanic
+    rate: 9.5
+    populationCount: 401590
+    homelessCount: 383
+-
+    state: Oklahoma
+    year: 2015
+    category: hispanic
+    rate: 6.5
+    populationCount: 382177
+    homelessCount: 249
+-
+    state: Oregon
+    year: 2015
+    category: hispanic
+    rate: 31.4
+    populationCount: 492633
+    homelessCount: 1545
+-
+    state: Pennsylvania
+    year: 2015
+    category: hispanic
+    rate: 25.2
+    populationCount: 842176
+    homelessCount: 2120
+-
+    state: Rhode Island
+    year: 2015
+    category: hispanic
+    rate: 18.9
+    populationCount: 148222
+    homelessCount: 280
+-
+    state: South Carolina
+    year: 2015
+    category: hispanic
+    rate: 5.4
+    populationCount: 257380
+    homelessCount: 138
+-
+    state: South Dakota
+    year: 2015
+    category: hispanic
+    rate: 5.3
+    populationCount: 30465
+    homelessCount: 16
+-
+    state: Tennessee
+    year: 2015
+    category: hispanic
+    rate: 5.9
+    populationCount: 326753
+    homelessCount: 192
+-
+    state: Texas
+    year: 2015
+    category: hispanic
+    rate: 6.7
+    populationCount: 10403134
+    homelessCount: 6928
+-
+    state: Utah
+    year: 2015
+    category: hispanic
+    rate: 16.7
+    populationCount: 396041
+    homelessCount: 660
+-
+    state: Vermont
+    year: 2015
+    category: hispanic
+    rate: 43.0
+    populationCount: 10941
+    homelessCount: 47
+-
+    state: Virginia
+    year: 2015
+    category: hispanic
+    rate: 6.7
+    populationCount: 727316
+    homelessCount: 484
+-
+    state: Washington
+    year: 2015
+    category: hispanic
+    rate: 32.1
+    populationCount: 852124
+    homelessCount: 2738
+-
+    state: West Virginia
+    year: 2015
+    category: hispanic
+    rate: 14.7
+    populationCount: 26555
+    homelessCount: 39
+-
+    state: Wisconsin
+    year: 2015
+    category: hispanic
+    rate: 13.8
+    populationCount: 371114
+    homelessCount: 513
+-
+    state: Wyoming
+    year: 2015
+    category: hispanic
+    rate: 22.7
+    populationCount: 56835
+    homelessCount: 129
+-
+    state: Puerto Rico
+    year: 2015
+    category: hispanic
+    rate: 12.4
+    populationCount: 3514279
+    homelessCount: 4367
+-
+    state: Alabama
+    year: 2015
+    category: nonHispanic
+    rate: 8.4
+    populationCount: 4647829
+    homelessCount: 3901
+-
+    state: Alaska
+    year: 2015
+    category: nonHispanic
+    rate: 27.1
+    populationCount: 687218
+    homelessCount: 1862
+-
+    state: Arizona
+    year: 2015
+    category: nonHispanic
+    rate: 16.1
+    populationCount: 4667068
+    homelessCount: 7516
+-
+    state: Arkansas
+    year: 2015
+    category: nonHispanic
+    rate: 7.8
+    populationCount: 2759230
+    homelessCount: 2143
+-
+    state: California
+    year: 2015
+    category: nonHispanic
+    rate: 35.4
+    populationCount: 23768472
+    homelessCount: 84183
+-
+    state: Colorado
+    year: 2015
+    category: nonHispanic
+    rate: 16.6
+    populationCount: 4219936
+    homelessCount: 7006
+-
+    state: Connecticut
+    year: 2015
+    category: nonHispanic
+    rate: 9.6
+    populationCount: 3053703
+    homelessCount: 2923
+-
+    state: Delaware
+    year: 2015
+    category: nonHispanic
+    rate: 10.5
+    populationCount: 852392
+    homelessCount: 899
+-
+    state: District of Columbia
+    year: 2015
+    category: nonHispanic
+    rate: 117.2
+    populationCount: 589816
+    homelessCount: 6914
+-
+    state: Florida
+    year: 2015
+    category: nonHispanic
+    rate: 20.5
+    populationCount: 15092581
+    homelessCount: 30912
+-
+    state: Georgia
+    year: 2015
+    category: nonHispanic
+    rate: 14.3
+    populationCount: 9163232
+    homelessCount: 13089
+-
+    state: Hawaii
+    year: 2015
+    category: nonHispanic
+    rate: 52.4
+    populationCount: 1273417
+    homelessCount: 6679
+-
+    state: Idaho
+    year: 2015
+    category: nonHispanic
+    rate: 12.0
+    populationCount: 1438058
+    homelessCount: 1729
+-
+    state: Illinois
+    year: 2015
+    category: nonHispanic
+    rate: 10.6
+    populationCount: 10729920
+    homelessCount: 11378
+-
+    state: Indiana
+    year: 2015
+    category: nonHispanic
+    rate: 9.2
+    populationCount: 6166005
+    homelessCount: 5647
+-
+    state: Iowa
+    year: 2015
+    category: nonHispanic
+    rate: 9.7
+    populationCount: 2935271
+    homelessCount: 2833
+-
+    state: Kansas
+    year: 2015
+    category: nonHispanic
+    rate: 9.0
+    populationCount: 2571291
+    homelessCount: 2320
+-
+    state: Kentucky
+    year: 2015
+    category: nonHispanic
+    rate: 10.3
+    populationCount: 4264847
+    homelessCount: 4403
+-
+    state: Louisiana
+    year: 2015
+    category: nonHispanic
+    rate: 9.0
+    populationCount: 4424759
+    homelessCount: 3982
+-
+    state: Maine
+    year: 2015
+    category: nonHispanic
+    rate: 17.5
+    populationCount: 1310855
+    homelessCount: 2297
+-
+    state: Maryland
+    year: 2015
+    category: nonHispanic
+    rate: 14.6
+    populationCount: 5415249
+    homelessCount: 7887
+-
+    state: Massachusetts
+    year: 2015
+    category: nonHispanic
+    rate: 22.8
+    populationCount: 6017757
+    homelessCount: 13720
+-
+    state: Michigan
+    year: 2015
+    category: nonHispanic
+    rate: 10.6
+    populationCount: 9441296
+    homelessCount: 9986
+-
+    state: Minnesota
+    year: 2015
+    category: nonHispanic
+    rate: 13.4
+    populationCount: 5177063
+    homelessCount: 6937
+-
+    state: Mississippi
+    year: 2015
+    category: nonHispanic
+    rate: 6.8
+    populationCount: 2904242
+    homelessCount: 1962
+-
+    state: Missouri
+    year: 2015
+    category: nonHispanic
+    rate: 10.7
+    populationCount: 5823461
+    homelessCount: 6229
+-
+    state: Montana
+    year: 2015
+    category: nonHispanic
+    rate: 16.0
+    populationCount: 987574
+    homelessCount: 1579
+-
+    state: Nebraska
+    year: 2015
+    category: nonHispanic
+    rate: 13.9
+    populationCount: 1689350
+    homelessCount: 2347
+-
+    state: Nevada
+    year: 2015
+    category: nonHispanic
+    rate: 35.8
+    populationCount: 2045116
+    homelessCount: 7329
+-
+    state: New Hampshire
+    year: 2015
+    category: nonHispanic
+    rate: 10.3
+    populationCount: 1285439
+    homelessCount: 1325
+-
+    state: New Jersey
+    year: 2015
+    category: nonHispanic
+    rate: 11.5
+    populationCount: 7202313
+    homelessCount: 8279
+-
+    state: New Mexico
+    year: 2015
+    category: nonHispanic
+    rate: 14.0
+    populationCount: 1086907
+    homelessCount: 1517
+-
+    state: New York
+    year: 2015
+    category: nonHispanic
+    rate: 37.5
+    populationCount: 16052094
+    homelessCount: 60227
+-
+    state: North Carolina
+    year: 2015
+    category: nonHispanic
+    rate: 11.2
+    populationCount: 9052348
+    homelessCount: 10147
+-
+    state: North Dakota
+    year: 2015
+    category: nonHispanic
+    rate: 17.0
+    populationCount: 716192
+    homelessCount: 1215
+-
+    state: Ohio
+    year: 2015
+    category: nonHispanic
+    rate: 9.6
+    populationCount: 11192818
+    homelessCount: 10799
+-
+    state: Oklahoma
+    year: 2015
+    category: nonHispanic
+    rate: 10.1
+    populationCount: 3495322
+    homelessCount: 3528
+-
+    state: Oregon
+    year: 2015
+    category: nonHispanic
+    rate: 33.6
+    populationCount: 3475738
+    homelessCount: 11681
+-
+    state: Pennsylvania
+    year: 2015
+    category: nonHispanic
+    rate: 11.1
+    populationCount: 11948389
+    homelessCount: 13301
+-
+    state: Rhode Island
+    year: 2015
+    category: nonHispanic
+    rate: 9.2
+    populationCount: 906258
+    homelessCount: 831
+-
+    state: South Carolina
+    year: 2015
+    category: nonHispanic
+    rate: 11.4
+    populationCount: 4571050
+    homelessCount: 5216
+-
+    state: South Dakota
+    year: 2015
+    category: nonHispanic
+    rate: 12.4
+    populationCount: 822096
+    homelessCount: 1020
+-
+    state: Tennessee
+    year: 2015
+    category: nonHispanic
+    rate: 14.4
+    populationCount: 6217910
+    homelessCount: 8931
+-
+    state: Texas
+    year: 2015
+    category: nonHispanic
+    rate: 10.1
+    populationCount: 16541617
+    homelessCount: 16750
+-
+    state: Utah
+    year: 2015
+    category: nonHispanic
+    rate: 9.3
+    populationCount: 2545795
+    homelessCount: 2365
+-
+    state: Vermont
+    year: 2015
+    category: nonHispanic
+    rate: 24.0
+    populationCount: 616043
+    homelessCount: 1476
+-
+    state: Virginia
+    year: 2015
+    category: nonHispanic
+    rate: 8.6
+    populationCount: 7590056
+    homelessCount: 6517
+-
+    state: Washington
+    year: 2015
+    category: nonHispanic
+    rate: 26.9
+    populationCount: 6202072
+    homelessCount: 16681
+-
+    state: West Virginia
+    year: 2015
+    category: nonHispanic
+    rate: 9.9
+    populationCount: 1821959
+    homelessCount: 1796
+-
+    state: Wisconsin
+    year: 2015
+    category: nonHispanic
+    rate: 10.3
+    populationCount: 5387263
+    homelessCount: 5544
+-
+    state: Wyoming
+    year: 2015
+    category: nonHispanic
+    rate: 12.7
+    populationCount: 526807
+    homelessCount: 669
+-
+    state: Puerto Rico
+    year: 2015
+    category: nonHispanic
+    rate: 44.3
+    populationCount: 34118
+    homelessCount: 151

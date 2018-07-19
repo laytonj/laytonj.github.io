@@ -1,0 +1,903 @@
+#mainPageTitle {
+  font-family: "Arial", sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+  /*color: #003154; #002b49; rgb(44,112,157); rgb(181,38,37); rgb(183,146,87);*/
+  z-index:2;
+  position: relative;
+  line-height: 1;
+  margin-bottom: 20px;
+}
+
+.majorText {
+  font-size: 20px;  
+  /*color: #003154;*/
+  line-height: 1.2;
+ }
+.minorText {
+  font-size: 16px;
+}
+select, option{
+   font-family:'Quicksand', sans-serif;
+   font-size: 14px!important;
+}
+
+.TOC {
+  background-color: white;
+  width: 100%;
+  font-size: 16px;
+  margin-top: 20px;
+  margin-bottom: -80px;
+}
+.TOCColorBar {
+  background-color: #64c7c3;/*#9cdbd9;*/
+  height: 10px;
+}
+.TOCTitle {
+  font-weight: bold;
+  padding: 15px;
+}
+.TOC1stCol {
+  padding-left: 20px;
+  text-transform: uppercase;
+  text-decoration: underline;
+  color: #64c7c3;/*#9cdbd9;*/
+  width: 100px;
+  vertical-align: top;
+}
+.TOC2ndCol {
+  padding-bottom: 20px;
+}
+.TOC2ndColLower {
+  width: 100px;
+  padding-bottom: 20px;
+}
+.TOC3rdCol {
+  padding-bottom: 20px;
+}
+.TOCHeader {
+  font-weight: bold;
+}
+.TOCJump {
+  font-size: 12px;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #64c7c3;
+}
+.TOC1stCol a {
+  color: #64c7c3;  
+}
+.TOCJump a {
+  color: #64c7c3;  
+}
+.chevron {
+  font-size: 10px;
+  vertical-align: middle;
+}
+
+
+/*
+
+#titleLine2 {
+  font-size: 46px;
+  color: rgb(44,112,157);
+}
+#bigFirstLetter {
+  font-size: 30px;
+  font-family: "Quicksand", sans-serif;
+  font-style: italic;
+}
+*/
+
+
+
+.partHeaderGroup {
+  margin-top:60px;
+  margin-bottom: 0px;
+}
+.partHeader {
+	font-size: 20px;
+  text-transform: uppercase;
+/*   text-align: center; */
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.partHeaderSpan {
+  color: #ff5d56;;
+  text-transform: uppercase;
+}
+.lineDivider {
+  height: 3px;
+  width: 30px;
+  background-color: #ff5d56;;
+  margin: auto;
+}
+.lineDividerFat {
+  height: 6px;
+  width: 50px;
+  background-color: rgb(0, 43, 73);
+  margin: auto;
+  margin-bottom: 50px;
+}  
+.sectionTitle {
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 15px;
+  /*color: #003154;*/
+  line-height: 1.2;
+}
+.sectionText {
+	font-size: 16px;
+  margin-bottom: 20px;
+}
+.accentBar {
+  width: 80px;
+  height: 5px;
+  background-color: #003154;
+  margin-bottom: 10px;
+}
+
+
+
+.fullSectionSpacing { /* !!replaced by scroll cue div gaps */
+   margin-bottom: 950px; /*space before the next text section scrolls into view. Full = for between different charts.*/
+}
+.briefSectionSpacing {
+   margin-bottom: 30px; /*space before the next text section scrolls into view. Small = for a small sentence following the main title, for example.*/
+}
+.modestSectionSpacing { /* !!replaced by scroll cue div gaps */
+   margin-bottom: 800px; /*space before the next text section scrolls into view. Modest = for the regular narrative within one chart.*/
+}
+
+.scrollCuesCont {
+  pointer-events: none;
+}
+
+.scrollCues {
+  background-color: #aaaaaa;
+  height: 5px;
+  width: 5px;
+  z-index: 2;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 100%;
+  float:right;
+}
+
+.scrollCueGap {
+  height: 130px;
+}
+
+.scrollCueGapFull {
+  height: 155px;
+}
+
+.cue1 {
+  opacity: .2;
+}
+.cue2 {
+  opacity: .4;
+}
+.cue3 {
+  opacity: .6;
+}
+.cue4 {
+  opacity: .8;
+}
+.cue5 {
+  opacity: 1;
+}
+
+.textSectionText {
+   pointer-events:auto; /*no tooltips through the text box */
+   padding: 20px 15px 20px 15px;
+   background-color: #fff;
+   border: 1px solid #d2d2d2;
+   /*PRIOR background-color: rgb(234, 234, 234); */ /*fallback for rgba*/
+   /*PRIOR background-color: rgba(234, 234, 234, 0.92); */ 
+   -webkit-border-radius: 2px;
+   -moz-border-radius: 2px;
+   border-radius: 2px;
+   -webkit-box-shadow: 5px 16px 27px rgba(0, 0, 0, 0.4);
+   -moz-box-shadow: 5px 16px 27px rgba(0, 0, 0, 0.4);
+   box-shadow: 5px 16px 27px rgba(0, 0, 0, 0.4);
+}
+
+.backgroundFill { /*later fix to fill in transparent spaces between text boxes */
+  background-color: #fff;
+  pointer-events:auto; /*no tooltips through the text box */
+
+}
+
+.finalSectionText {
+  pointer-events:auto; /*no tooltips through the text box */
+  padding: 0px;
+  background-color: #fff;
+}
+
+.textSectionIntro { /*The first intro section of the document (no shadows effects or padding)*/
+   pointer-events:auto; /*no tooltips through the text box*/
+   background-color: rgb(243, 243, 243);
+}
+
+.chartIntroTitles { /*The main title box that introduces a new chart*/
+   text-align: center;
+   font-weight: bold;
+   color: rgb(181,38,37); /*rgb(44,112,157);*/
+   font-size: 25px;
+   font-family: 'Montserrat', sans-serif;
+   padding: 25px;
+   line-height: 1.7;
+   border: 1px solid #d2d2d2;
+   -webkit-border-radius: 2px;
+   -moz-border-radius: 2px;
+   border-radius: 2px;
+   -webkit-box-shadow: 5px 16px 27px rgba(0, 0, 0, 0.4);
+   -moz-box-shadow: 5px 16px 27px rgba(0, 0, 0, 0.4);
+   box-shadow: 5px 16px 27px rgba(0, 0, 0, 0.4);
+   background-color: rgb(243, 243, 243);
+}
+
+.chartIntroTitleProp {
+  color: rgb(44,112,157);
+}
+
+.chartIntroTitleRate {
+  color: rgb(181,38,37);  
+}
+
+.chartIntroTitleShel {
+  color: rgb(183,146,87); 
+}
+
+#sourcesList li {
+  margin: 10px 0;
+}
+
+#sourcesList {
+  padding-left: 30px;
+}
+
+#partsList li {
+  margin: 10px 0;
+}
+
+#partsList {
+  padding-left: 30px;
+}
+
+#scroll {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.sourcesHeader {
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+}
+
+/*Accordian dropdowns for data source details in intro*/
+.accordion {
+    background-color: #eaeaea;
+    cursor: pointer;
+    padding: 15px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;  
+    font-size: 0.9em
+}
+
+.active, .accordion:hover {
+    background-color: #ccc;
+}
+
+.accordionPanel {
+    padding: 0 18px;
+    background-color: #fff;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    font-size: 0.9em;
+}
+
+.accordion:after {
+    content: '\271A'; /* Unicode character for "plus" sign (+) */
+    font-size: 18px;
+    color: rgb(181,38,37);
+    float: right;
+    margin-left: 0px;
+}
+
+.active:after {
+    content: "\2716"; /* Unicode character for "X" sign */
+    color: black;
+}
+
+.jumpLink {
+  color: #696969;
+}
+
+
+.subChartHeader {  /*replace with page fonts*/
+  font-weight: bold;
+  color: #3b3a3d;
+  text-transform: uppercase;
+  font-size: 1.25em;
+}
+
+#chartInfo {
+  margin-top: 5px;
+  max-width: 900px;
+}
+
+
+.htmlProportionColor {
+  font-weight: bold;
+  color: rgb(44,112,157);
+  font-family: 'Montserrat', sans-serif;
+}
+
+.htmlRateColor {
+  font-weight: bold;
+  color: rgb(181,38,37);  
+  font-family: 'Montserrat', sans-serif;
+}
+
+.htmlShelColor {
+  font-weight: bold;
+  color: rgb(183,146,87);  
+  font-family: 'Montserrat', sans-serif;
+}
+
+.conclusionHeader {
+  font-weight: bold;
+  color: rgb(0, 43, 73);  
+  font-family: 'Montserrat', sans-serif;
+}
+
+.sectionHeaderDiv {
+  text-align: center;
+  padding: 40px 0 150px 0;
+  background-color: rgb(243, 243, 243);
+  position:relative;
+  z-index:2;
+}
+
+.sectionHeaderDivFinal {
+  text-align: center;
+  padding: 40px 0 70px 0;
+  background-color: rgb(243, 243, 243);
+  position:relative;
+  z-index:2;
+}
+
+.sectionHeaderFinal {
+  text-align: center;
+  padding: 40px 0 20px 0;
+  background-color: rgb(243, 243, 243);
+  position:relative;
+  z-index:2;
+}
+
+.vizSwitchNote {
+  text-align: center;
+  padding: 30px 0 25px 0;
+  background-color: rgb(243, 243, 243);
+  position:relative;
+  z-index:2;
+  letter-spacing: 5px;
+}
+
+.sectionHeader1 {
+  text-align: center;
+  font-size: 25px; 
+}
+.sectionHeader2 {
+  font-size: 35px;
+}
+
+.vizSwitchHeader {
+  text-align: center;
+  font-size: 20px;
+}
+
+.hrStyle {
+  position:relative;
+  z-index:2;
+  border: 0; 
+  height: 1px; 
+  background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -moz-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -ms-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -o-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0); 
+}
+
+.hrShort {
+  position:relative;
+  z-index:2;
+  border: 0; 
+  height: 2px; 
+  margin: 30px 30% 30px 30%;
+  background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -moz-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -ms-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -o-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0); 
+}
+
+.hrShort2 {
+  position:relative;
+  z-index:2;
+  border: 0; 
+  height: 1px; 
+  margin: 15px 35% 15px 35%;
+  background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -moz-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -ms-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -o-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0); 
+}
+
+.sourceNum {
+  font-weight: bold;
+}
+
+
+/*-------GENERAL VIZ ELEMENTS--------*/
+
+.chartDiv {
+  width:100%;
+  height:600px;
+  /*min-height: 350px;*/
+  max-width: 900px;
+  min-width: 320px;
+  position: relative;
+  z-index: 1;
+}
+
+
+.svg {
+  background-color: white;
+}
+
+.categoryLabels {
+  /*font-size: 15px;*/
+  font-family: 'Aclonica', sans-serif;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.pageNumbersG {
+  font-size: 15px;
+  font-family: 'Encode Sans Semi Expanded', sans-serif;
+  font-weight: normal;
+  display: none;
+  cursor: pointer;
+}
+
+
+.chartTitleBody {
+  position: absolute;
+  top: 48px;
+  left: 7px;
+  font-family: 'Encode Sans Semi Expanded', sans-serif;
+  text-align: left;
+  /*font-style: italic;*/
+  font-weight: bold;
+  min-width: 310px;
+  font-size: 15px;
+  pointer-events:none;
+}
+
+/*.chartScope {
+  fill: gray;
+  font-family: sans-serif;
+  font-weight: bold;
+}*/
+
+
+.overlay {
+  opacity: 0;
+  cursor: pointer;
+}
+
+#chartSources {
+  font-weight: lighter;
+}
+
+.textEmphasis {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.dropdownHeader {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 16px;
+}
+
+.axisLabels {
+  fill:black;
+  font-size: 14px;
+  font-family: 'Quicksand', sans-serif;
+
+}
+
+.heavyChartHeader {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: bold;
+  text-anchor: middle;
+  font-size:16px;
+}
+
+.homelessChartHeader {
+  font-style: italic;
+  font-family: 'Quicksand', sans-serif;
+  text-anchor: middle;
+  font-size: 14px;
+}
+
+.legendLabel {
+  fill:black;
+  font-size: 12px;
+  font-family: 'Quicksand', sans-serif;  
+}
+
+.menuHints {
+  font-family: 'Quicksand', sans-serif;
+  text-anchor: end;
+  font-size: 14px;
+}
+
+
+/*-------TOOLTIPS--------*/
+.hrTooltip {
+  border: 0; 
+  height: 1px; 
+  background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -moz-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -ms-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -o-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0); 
+}
+
+
+.tooltipHeader {
+  font-weight: bold;
+  text-align: center; /*not working??? */
+  text-transform: uppercase;
+}
+
+.tooltipBold {
+  font-weight: bold;
+}
+.tooltipItalic {
+  font-style: italic;
+}
+.tipSpanOff {
+  display: none;
+}
+
+.raceTooltip {
+  position: absolute;
+  padding: 5px 5px 5px 10px;
+  color: white;
+  background-color: rgba(29,28,28,0.95);
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 2px;
+  -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+  pointer-events: none;
+  z-index: 5000;
+}
+
+#tooltip.hidden {
+  display: none;
+}
+
+#tooltip p {
+  margin: 0;
+  font-family: sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.lineTooltip {
+  color: black;
+  line-height: 0px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgba(29,28,28,0.5);
+  background-color: rgba(243,243,243,0.9);
+  text-align: right;
+}
+
+.tooltipLineY {
+  stroke: #bdbdbd;
+  stroke-width: 2px;
+}
+
+.lineDot {
+  stroke-width: 2px;
+  fill: #fff;
+}
+
+
+#pageTip {
+  position: absolute;
+  padding: 10px 10px 10px 10px;
+  color: black;
+  background-color: rgba(243,243,243,0.95);
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 2px;
+  -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+  z-index: 50;
+  max-width: 300px;
+  display: none;
+  font-family: 'Quicksand', sans-serif;
+}
+
+
+/*-------NATIONAL PROPORTIONS VIZ--------*/
+
+#ntnlPropLinesDropdown {
+  position: absolute;
+  display:none;
+}
+
+#ntnlProportionOptions {
+  position: absolute;
+  display: none;
+}
+/*-------NATIONAL PROPORTION LINES VIZ--------*/
+
+.lines {
+  fill: none; /*with a fill, it would color in and look like mountains*/
+  stroke-width: 2.5px;
+}
+
+.applyLinesClip {
+  clip-path: url(#linesClip);
+}
+
+
+/*-------STATES MAP VIZ--------*/
+
+.states {
+  fill: gray;
+  stroke: #fff;
+  stroke-width: .7px;  
+  vector-effect: non-scaling-stroke; /*keeps stroke same on zoom, as in: https://bl.ocks.org/mbostock/eec4a6cda2f573574a11*/
+
+}
+
+.dropdown {
+  position: absolute;
+}
+
+.smallInstruction, .smallInstruction2 {
+  font-size: 13px;
+  text-anchor: start;
+  fill: gray;
+  font-style: italic;
+}
+
+.resetText {
+  fill: red;
+  font-size: 14px;
+  text-anchor: end;
+  font-style: italic;
+  cursor: pointer;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.subPageIcons{
+  position: absolute;
+  opacity: 1;
+  color: gray;
+  font-size: 30px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.subPageDotIcons{
+  position: absolute;
+  opacity: 1;
+  color: gray;
+  font-size: 12px;
+  pointer-events: none;
+  text-align: center;
+}
+
+.selectedIcon {
+  text-shadow: 5px 5px 10px black;
+
+}
+
+#dotsIconRect{
+
+}
+
+.mapZoomRect{
+  cursor: move;
+}
+
+
+.applyMapClip {
+  clip-path: url(#mapClip);
+}
+
+.smallDeviceText {
+  font-family: 'Quicksand', sans-serif;
+  text-anchor: middle;
+}
+
+
+/*-------CLIP PATHS . THESE ARE EXPLICITLY INCLUDED HERE. CAUTION IF RE-ORDERING OR ADDING MORE VIZZES !!! --------*/
+
+/*
+.applyBarsClip {
+  clip-path: url(#barsClip);
+}
+*/
+
+/* .chartDiv4ApplyClip {
+  clip-path: url(#chartDiv4BarClip)
+}
+.chartDiv6ApplyClip {
+  clip-path: url(#chartDiv6BarClip)
+}
+.chartDiv7ApplyClip {
+  clip-path: url(#chartDiv7BarClip)
+} */
+
+.applyScatterClip {
+  clip-path: url(#scatterClip);
+}
+
+/* .chartDiv4ApplySctrClip {
+  clip-path: url(#chartDiv4SctrClip)
+}
+.chartDiv6ApplySctrClip {
+  clip-path: url(#chartDiv6SctrClip)
+}
+.chartDiv7ApplySctrClip {
+  clip-path: url(#chartDiv7SctrClip)
+} */
+
+/* for portfolio version */
+.chartDiv1ApplyClip {
+  clip-path: url(#chartDiv1BarClip)
+}
+.chartDiv1ApplySctrClip {
+  clip-path: url(#chartDiv1SctrClip)
+}
+
+/* ============== HELP AND SOURCE BOXES ================== */
+.helpAndSource {
+  visibility: hidden;
+
+}
+
+.helpAndSourceBox {  /* similar to chartDiv */
+  display: none;
+  background-color: white;
+  width:100%;
+  height:600px;
+  max-width: 900px;
+  min-width: 320px;
+  position: relative;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 2;
+  visibility: hidden;
+  margin-top: -600px;
+}
+
+.helpAndSourceHeader {
+  /*width and height set in JS*/
+  display: none;
+  position: relative;
+  background-color: white;
+  z-index: 3;
+  margin-top: -570px;
+}
+
+.helpAndSourceName {
+  float: left;
+  text-transform: uppercase;
+}
+
+.helpAndSourceClose {
+  float: right;
+  cursor: pointer;
+}
+
+.closeX {
+  font-family: 'Arial Unicode MS';
+  font-size: 18px;
+  color: rgb(181,38,37);
+}
+
+.helpAndSourceContent {
+  /*width and height set in JS*/
+  display: none;
+  background-color: white;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  overflow-y: auto;
+  position: relative;
+  z-index: 3;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 15px;
+  margin-bottom: 125px;
+  margin-top: -570px;
+}
+
+.helpAndSourceX {
+  z-index: 4;
+}
+
+.helpSourceRect {
+  cursor: pointer;
+  opacity: 0;
+}
+
+.helpSourceText {
+  font-size: 15px;
+  text-anchor: middle;
+  text-transform: uppercase;
+  font-family: 'Quicksand', sans-serif;
+  pointer-events: none;
+  opacity: 0;
+}
+
+
+
+
+
+
+
+
+.barsChartZoomPanel {
+  cursor: move;
+}
+
+#barsSort {
+  position: absolute;
+  display:none;
+}
+
+.dragLabel{
+  fill: rgb(0, 85, 188);
+  font-weight: bold;
+  font-style: italic;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 16px;
+  pointer-events: none;
+}
+
+
+/*---------SCATTER---------*/
+.noDiffLine {
+  vector-effect: non-scaling-stroke;
+  stroke: gray;
+  stroke-width: 2;
+}
+
+.circle {
+  vector-effect: non-scaling-stroke;
+}
+
+
+.scatterZoomPanel {
+  cursor: move;
+}
+
+
+
+
+

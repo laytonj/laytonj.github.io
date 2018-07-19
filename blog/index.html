@@ -2,9 +2,10 @@
 layout: default
 title: Blog
 ---
-	<h1 class="mainTitle">{{ page.title }}</h1>
-	<ul class="posts">
-
+	<h1 class="mainTitle">
+    <span class="letter1">B</span><span class="letter2">l</span><span class="letter3">o</span><span class="letter1">g</span>
+  </h1>	
+  <ul class="posts">
 	  {% for post in site.posts %}
 	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><span style="font-size: 12px;">{{ post.excerpt }}</span></li>
 	  {% endfor %}

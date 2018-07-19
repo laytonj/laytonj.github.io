@@ -1,0 +1,8 @@
+---
+layout: none
+---
+city,metro,latitude,longitude,population,total,rate,veteranshel,veteranunshel,chronicshel,chronicunshel,indivshel,indivunshel,familyshel,familyunshel,youthshel,youthunshel
+{% for i in site.data.d3.MSAmap %}
+  {{- i.city -}},"{{- i.metro -}}",{{- i.latitude -}},{{- i.longitude -}},{{- i.population -}},{{- i.total -}},{{- i.rate -}},{{- i.veteranshel -}},{{- i.veteranunshel -}},{{- i.chronicshel -}},{{- i.chronicunshel -}},{{- i.indivshel -}},{{- i.indivunshel -}},{{- i.familyshel -}},{{- i.familyunshel -}},{{- i.youthshel -}},{{- i.youthunshel -}}
+  {% if forloop.last == false %},{% endif %}
+{% endfor %}

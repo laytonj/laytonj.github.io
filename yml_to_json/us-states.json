@@ -1,0 +1,8 @@
+---
+layout: none
+---
+{"type":"FeatureCollection", "features":[
+{% for i in site.data.d3.us-states %}
+	{"type": {{ i.type | remove: "'" }}
+	{% if forloop.last == false %},{% endif %}
+{% endfor %}]}

@@ -1,0 +1,8 @@
+---
+layout: none
+---
+type,year,category,black,white,asian,nativeAmerican,nhpi,multipleRaces,nonHispanic,hispanic,nonHispWhite,hispWhite
+{% for i in site.data.d3.raceVizNationalLocations %}
+  {{- i.type -}},{{- i.year -}},{{- i.category -}},{{- i.black -}},{{- i.white -}},{{- i.asian -}},{{- i.nativeAmerican -}},{{- i.nhpi -}},{{- i.multipleRaces -}},{{- i.nonHispanic -}},{{- i.hispanic -}},{{- i.nonHispWhite -}},{{- i.hispWhite -}}
+  {% if forloop.last == false %},{% endif %}
+{% endfor %}

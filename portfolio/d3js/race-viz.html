@@ -1,0 +1,214 @@
+---
+layout: portfolio_item
+category: D3.js
+title: Exploring Racial Inequality in Homelessness
+---
+<script type="text/javascript" src="../../../js/d3.v4.min.js" charset="utf-8"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link href="https://fonts.googleapis.com/css?family=Encode+Sans+Semi+Expanded" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Aclonica" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Montserrat:600" rel="stylesheet">
+
+<div class="row">
+  <div class="col-lg-1"></div>
+  <div class="col-lg-10">
+    These graphs were created as part of a project exploring the significant racial disparities that exist among people experiencing homelessness. For a bit more focus on D3, I've removed similar graphs and the rest of the project's paraphraphs, headers, subheaders, and navigation elements.
+    <br/>
+    <br/>
+    Some of the overall strategies implemented in this project include:
+    <br/><br/>
+    <ul>
+      <li> 
+        <span class="font-weight-bold text-uppercase">Responsiveness. </span>Due to the amount of text, scaling a fixed aspect ratio was not ideal. Instead, the graphics have a fixed height that works for most phone browsers, and then the width is set depending on browser width. The SVG elements as well as text, dropdowns, etc. are placed so that they fit together at either any width (with some media queries involved as well). Resizing the window triggers a reload (try it!).
+      </li>
+      <br/>
+      <li>
+        <span class="font-weight-bold text-uppercase">Scroll-based loading. </span>For the sake of pretty entry animations, most visual aspects of each graphic are only loaded when the graphic comes into view, calculated based on the scrolling position of the element.
+      </li>
+      <br/>
+      <li>
+        <span class="font-weight-bold text-uppercase">Subdued details. </span> The "Explain This" and "Sources" pop-ups allow for the elimination of lengthy captions while allowing interested readers access to deeper information.
+      </li>
+    </ul>
+  </div>
+<!--   <div class="col-lg-5">
+    <figure class="figure">
+      <img src="{{ site.baseurl }}/assets/images/race_viz_formatted.PNG" class="figure-img img-fluid rounded" width="400" style="float:right"/>
+      <figcaption class="figure-caption text-right">With headers and subheaders</figcaption>
+    </figure>
+  </div> -->
+  <div class="col-lg-1"></div>
+</div>
+<div class="row">
+  <div class="col-lg-1"></div>
+  <div class="col-lg-10">
+    <div id='graphic'>
+      <div id='sections'>
+        <div class="partHeaderGroup">
+          <div class="partHeader">
+            <span class="partHeaderSpan">Switchable map, scatter, and bars</span>
+          </div>
+        </div>
+        This chart allows you to view the same data in map, bar, or scatter plot form, each of which gives different insights into the data. Here's some of what's involved:
+        <ul>
+          <li>Clip paths on each</li>
+          <li>Zooming, panning, and re-setting</li>
+          <li>Various transitions</li>
+          <li>Icons and bezier curve</li>
+          <li>Selection retention between charts</li>
+          <li>The usual responsive axes, color scales, etc.</li>
+        </ul>
+        <section id="section1" class="vizSection">
+          <div id="chartDiv1" class="chartDiv">
+          </div>
+          <div id="chartDiv1PopUpBkgd" class="helpAndSourceBox"></div>
+          <div id="chartDiv1PopUp" class="helpAndSource">
+            <div class="helpAndSourceHeader">
+              <span class="helpAndSourceName">Explanation</span>
+              <span class="helpAndSourceClose">Close&nbsp;&nbsp;<span id="closeX">&#10006;</span></span>
+            </div>
+            <div class="helpAndSourceContent">
+            </div>
+          </div>
+        </section>
+        <div class="partHeaderGroup">
+          <div class="partHeader">
+            <span class="partHeaderSpan">Stacked and side-by-side bars</span>
+          </div>
+        </div>
+        <section id="section2" class="vizSection">
+          <div id="chartDiv2" class="chartDiv"></div>
+          <div id="chartDiv2PopUpBkgd" class="helpAndSourceBox"></div>
+          <div id="chartDiv2PopUp" class="helpAndSource">
+            <div class="helpAndSourceHeader">
+              <span class="helpAndSourceName">Explanation</span>
+              <span class="helpAndSourceClose">Close&nbsp;&nbsp;<span id="closeX">&#10006;</span></span>
+            </div>
+            <div class="helpAndSourceContent">
+            </div>
+          </div>
+        </section>
+        <div class="partHeaderGroup">
+          <div class="partHeader">
+            <span class="partHeaderSpan">Line chart with various options</span>
+          </div>
+        </div>
+        <section id="section3" class="vizSection">
+          <div id="chartDiv3" class="chartDiv"></div>
+          <div id="chartDiv3PopUpBkgd" class="helpAndSourceBox"></div>
+          <div id="chartDiv3PopUp" class="helpAndSource">
+            <div class="helpAndSourceHeader">
+              <span class="helpAndSourceName">Explanation</span>
+              <span class="helpAndSourceClose">Close&nbsp;&nbsp;<span id="closeX">&#10006;</span></span>
+            </div>
+            <div class="helpAndSourceContent">
+            </div>
+          </div>
+        </section>
+        <div class="partHeaderGroup">
+          <div class="partHeader">
+            <span class="partHeaderSpan">Some pie charts</span>
+          </div>
+        </div>
+        <section id="section4" class="vizSection">
+          <div id="chartDiv4" class="chartDiv"></div>
+          <div id="chartDiv4PopUpBkgd" class="helpAndSourceBox"></div>
+          <div id="chartDiv4PopUp" class="helpAndSource">
+            <div class="helpAndSourceHeader">
+              <span class="helpAndSourceName">Explanation</span>
+              <span class="helpAndSourceClose">Close&nbsp;&nbsp;<span id="closeX">&#10006;</span></span>
+            </div>
+            <div class="helpAndSourceContent">
+            </div>
+          </div>
+        </section>
+        <div class="partHeaderGroup">
+          <div class="partHeader">
+            <span class="partHeaderSpan">Some other bar charts</span>
+          </div>
+        </div>
+        <section id="section5" class="vizSection">
+          <div id="chartDiv5" class="chartDiv"></div>
+          <div id="chartDiv5PopUpBkgd" class="helpAndSourceBox"></div>
+          <div id="chartDiv5PopUp" class="helpAndSource">
+            <div class="helpAndSourceHeader">
+              <span class="helpAndSourceName">Explanation</span>
+              <span class="helpAndSourceClose">Close&nbsp;&nbsp;<span id="closeX">&#10006;</span></span>
+            </div>
+            <div class="helpAndSourceContent">
+            </div>
+          </div>
+        </section>
+        <div class="lineDividerFat"></div>
+        <section id="section6" class="vizSection">
+          <div id="chartDiv6" class="chartDiv"></div>
+          <div id="chartDiv6PopUpBkgd" class="helpAndSourceBox"></div>
+          <div id="chartDiv6PopUp" class="helpAndSource">
+            <div class="helpAndSourceHeader">
+              <span class="helpAndSourceName">Explanation</span>
+              <span class="helpAndSourceClose">Close&nbsp;&nbsp;<span id="closeX">&#10006;</span></span>
+            </div>
+            <div class="helpAndSourceContent">
+            </div>
+          </div>
+        </section>
+        <div class="lineDividerFat"></div>
+        <section id="section7" class="vizSection">
+          <div id="chartDiv7" class="chartDiv"></div>
+          <div id="chartDiv7PopUpBkgd" class="helpAndSourceBox"></div>
+          <div id="chartDiv7PopUp" class="helpAndSource">
+            <div class="helpAndSourceHeader">
+              <span class="helpAndSourceName">Explanation</span>
+              <span class="helpAndSourceClose">Close&nbsp;&nbsp;<span id="closeX">&#10006;</span></span>
+            </div>
+            <div class="helpAndSourceContent">
+            </div>
+          </div>
+        </section>
+        <div class="lineDividerFat"></div>
+      </div>
+    </div>
+  </div>
+  <div class="col-lg-1"></div>
+</div>
+<div id="tooltip" class="raceTooltip hidden">
+  <p>
+    <span id='header' class='tipSpan tooltipHeader tipSpanOff'></span>
+  </p>
+  <hr>
+  <p>
+    <span id='p1span1' class='tipSpan tipSpanOff'></span>
+    <span id="p1span2" class='tipSpan tipSpanOff'></span>
+  </p>
+  <br>
+  <p>
+    <span id='p2span1' class='tipSpan tipSpanOff'></span>
+    <span id="p2span2" class='tipSpan tipSpanOff'></span>
+  </p>
+  <p>
+    <span id='p3span1' class='tipSpan tipSpanOff'></span>
+    <span id="p3span2" class='tipSpan tipSpanOff'></span>
+  </p>
+  <p>
+    <span id='p4span1' class='tipSpan tipSpanOff'></span>
+    <span id="p4span2" class='tipSpan tipSpanOff'></span>
+  </p>
+  <p>
+    <span id='p5span1' class='tipSpan tipSpanOff'></span>
+    <span id="p5span2" class='tipSpan tipSpanOff'></span>
+  </p>
+  <p>
+    <span id='p6span1' class='tipSpan tipSpanOff'></span>
+    <span id="p6span2" class='tipSpan tipSpanOff'></span>
+  </p>
+</div>
+
+
+
+
+<!-- This jquery is also set to load in the footer of the default layout but needs to load here before the D3 script -->
+<link rel="stylesheet" type="text/css" href="../../../css/raceD3.css">
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="{{ site.baseurl }}/js/raceD3.js"></script>
+

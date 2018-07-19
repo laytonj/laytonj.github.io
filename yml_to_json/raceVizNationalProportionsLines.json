@@ -1,0 +1,14 @@
+---
+layout: none
+---
+[{% for i in site.data.d3.raceVizNationalProportionsLines %}
+  {
+    "group": "{{ i.group }}",
+    "scope": "{{ i.scope }}",
+    "groupLongName": "{{ i.groupLongName }}",
+    "year": "{{ i.year }}",
+    "differencePopShel": "{{ i.differencePopShel }}",
+    "pctPopulation": "{{ i.pctPopulation }}",
+    "pctSheltered": "{{ i.pctSheltered }}"
+  }{% if forloop.last == false %},{% endif %}
+{% endfor %}]

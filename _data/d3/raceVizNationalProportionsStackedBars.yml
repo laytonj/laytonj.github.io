@@ -1,0 +1,109 @@
+---
+-
+    dataReleaseYear: 2017
+    dataYear: 2016
+    category: pctPop
+    black: 0.133
+    asian: 0.057
+    nativeAmerican: 0.013
+    multipleRaces: 0.026
+    nhpi: 0.002
+    white: 0.769
+    hispanic: 0.178
+    nonHispanic: 0.822
+-
+    dataReleaseYear: 2017
+    dataYear: 2017
+    category: pctPit
+    black: 0.409
+    asian: 0.012
+    nativeAmerican: 0.031
+    multipleRaces: 0.063
+    nhpi: 0.013
+    white: 0.473
+    hispanic: 0.211
+    nonHispanic: 0.789
+-
+    dataReleaseYear: 2017
+    dataYear: 2016
+    category: pctShel
+    black: 0.426
+    asian: 0.008
+    nativeAmerican: 0.025
+    multipleRaces: 0.046
+    nhpi: 0.010
+    white: 0.486
+    hispanic: 0.169
+    nonHispanic: 0.831
+-
+    dataReleaseYear: 2016
+    dataYear: 2015
+    category: pctPop
+    black: 0.133
+    asian: 0.055
+    nativeAmerican: 0.012
+    multipleRaces: 0.026
+    nhpi: 0.002
+    white: 0.771
+    hispanic: 0.176
+    nonHispanic: 0.824
+-
+    dataReleaseYear: 2016
+    dataYear: 2016
+    category: pctPit
+    black: 0.394
+    asian: 0.010
+    nativeAmerican: 0.028
+    multipleRaces: 0.069
+    nhpi: 0.014
+    white: 0.485
+    hispanic: 0.215
+    nonHispanic: 0.785
+-
+    dataReleaseYear: 2016
+    dataYear: 2015
+    category: pctShel
+    black: 0.414
+    asian: 0.008
+    nativeAmerican: 0.028
+    multipleRaces: 0.045
+    nhpi: 0.011
+    white: 0.494
+    hispanic: 0.173
+    nonHispanic: 0.827
+-
+    dataReleaseYear: 2015
+    dataYear: 2014
+    category: pctPop
+    black: 0.132
+    asian: 0.054
+    nativeAmerican: 0.012
+    multipleRaces: 0.025
+    nhpi: 0.002
+    white: 0.774
+    hispanic: 0.173
+    nonHispanic: 0.827
+-
+    dataReleaseYear: 2015
+    dataYear: 2015
+    category: pctPit
+    black: 0.406
+    asian: 0.011
+    nativeAmerican: 0.027
+    multipleRaces: 0.056
+    nhpi: 0.014
+    white: 0.487
+    hispanic: 0.194
+    nonHispanic: 0.806
+-
+    dataReleaseYear: 2015
+    dataYear: 2014
+    category: pctShel
+    black: 0.406
+    asian: 0.008
+    nativeAmerican: 0.028
+    multipleRaces: 0.048
+    nhpi: 0.008
+    white: 0.502
+    hispanic: 0.158
+    nonHispanic: 0.842

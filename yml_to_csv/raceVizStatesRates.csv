@@ -1,0 +1,8 @@
+---
+layout: none
+---
+state,year,category,rate,populationCount,homelessCount
+{% for i in site.data.d3.raceVizStatesRates %}
+  {{- i.state -}},{{- i.year -}},{{- i.category -}},{{- i.rate -}},{{- i.populationCount -}},{{- i.homelessCount -}}
+  {% if forloop.last == false %},{% endif %}
+{% endfor %}

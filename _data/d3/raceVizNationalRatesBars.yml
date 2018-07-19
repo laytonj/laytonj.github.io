@@ -1,0 +1,505 @@
+---
+-
+    yearDataReleased: 2017
+    dataYear: 2016
+    measure: shelteredAnnual
+    category: white
+    usPopWithPR: 250809230
+    count50StDcPr: 669778
+    ratePer10k: 26.7
+-
+    yearDataReleased: 2017
+    dataYear: 2016
+    measure: shelteredAnnual
+    category: black
+    usPopWithPR: 43478208
+    count50StDcPr: 586787
+    ratePer10k: 135.0
+-
+    yearDataReleased: 2017
+    dataYear: 2016
+    measure: shelteredAnnual
+    category: asian
+    usPopWithPR: 18377051
+    count50StDcPr: 10719
+    ratePer10k: 5.8
+-
+    yearDataReleased: 2017
+    dataYear: 2016
+    measure: shelteredAnnual
+    category: nativeAmerican
+    usPopWithPR: 4063165
+    count50StDcPr: 34135
+    ratePer10k: 84.0
+-
+    yearDataReleased: 2017
+    dataYear: 2016
+    measure: shelteredAnnual
+    category: nhpi
+    usPopWithPR: 850266
+    count50StDcPr: 14412
+    ratePer10k: 169.5
+-
+    yearDataReleased: 2017
+    dataYear: 2016
+    measure: shelteredAnnual
+    category: multipleRaces
+    usPopWithPR: 8644631
+    count50StDcPr: 62725
+    ratePer10k: 72.6
+-
+    yearDataReleased: 2017
+    dataYear: 2016
+    measure: shelteredAnnual
+    category: hispanic
+    usPopWithPR: 60855833
+    count50StDcPr: 235868
+    ratePer10k: 38.8
+-
+    yearDataReleased: 2017
+    dataYear: 2017
+    measure: homelessOneNight
+    category: white
+    usPopWithPR: 248502532
+    count50StDcPr: 259298
+    ratePer10k: 10.4
+-
+    yearDataReleased: 2017
+    dataYear: 2017
+    measure: homelessOneNight
+    category: black
+    usPopWithPR: 43000691
+    count50StDcPr: 223990
+    ratePer10k: 52.1
+-
+    yearDataReleased: 2017
+    dataYear: 2017
+    measure: homelessOneNight
+    category: asian
+    usPopWithPR: 18318522
+    count50StDcPr: 6559
+    ratePer10k: 3.6
+-
+    yearDataReleased: 2017
+    dataYear: 2017
+    measure: homelessOneNight
+    category: nativeAmerican
+    usPopWithPR: 4054649
+    count50StDcPr: 16774
+    ratePer10k: 41.4
+-
+    yearDataReleased: 2017
+    dataYear: 2017
+    measure: homelessOneNight
+    category: nhpi
+    usPopWithPR: 771475
+    count50StDcPr: 7236
+    ratePer10k: 93.8
+-
+    yearDataReleased: 2017
+    dataYear: 2017
+    measure: homelessOneNight
+    category: multipleRaces
+    usPopWithPR: 8479644
+    count50StDcPr: 34455
+    ratePer10k: 40.6
+-
+    yearDataReleased: 2017
+    dataYear: 2017
+    measure: homelessOneNight
+    category: hispanic
+    usPopWithPR: 57470287
+    count50StDcPr: 115882
+    ratePer10k: 20.2
+-
+    yearDataReleased: 2017
+    dataYear: 2017
+    measure: unshelteredOneNight
+    category: white
+    usPopWithPR: 248502532
+    count50StDcPr: 105304
+    ratePer10k: 4.2
+-
+    yearDataReleased: 2017
+    dataYear: 2017
+    measure: unshelteredOneNight
+    category: black
+    usPopWithPR: 43000691
+    count50StDcPr: 56692
+    ratePer10k: 13.2
+-
+    yearDataReleased: 2017
+    dataYear: 2017
+    measure: unshelteredOneNight
+    category: asian
+    usPopWithPR: 18318522
+    count50StDcPr: 2879
+    ratePer10k: 1.6
+-
+    yearDataReleased: 2017
+    dataYear: 2017
+    measure: unshelteredOneNight
+    category: nativeAmerican
+    usPopWithPR: 4054649
+    count50StDcPr: 8065
+    ratePer10k: 19.9
+-
+    yearDataReleased: 2017
+    dataYear: 2017
+    measure: unshelteredOneNight
+    category: nhpi
+    usPopWithPR: 771475
+    count50StDcPr: 2831
+    ratePer10k: 36.7
+-
+    yearDataReleased: 2017
+    dataYear: 2017
+    measure: unshelteredOneNight
+    category: multipleRaces
+    usPopWithPR: 8479644
+    count50StDcPr: 12872
+    ratePer10k: 15.2
+-
+    yearDataReleased: 2017
+    dataYear: 2017
+    measure: unshelteredOneNight
+    category: hispanic
+    usPopWithPR: 57470287
+    count50StDcPr: 41876
+    ratePer10k: 7.3
+-
+    yearDataReleased: 2016
+    dataYear: 2015
+    measure: shelteredAnnual
+    category: white
+    usPopWithPR: 249926138
+    count50StDcPr: 709746
+    ratePer10k: 28.4
+-
+    yearDataReleased: 2016
+    dataYear: 2015
+    measure: shelteredAnnual
+    category: black
+    usPopWithPR: 42998636
+    count50StDcPr: 594226
+    ratePer10k: 138.2
+-
+    yearDataReleased: 2016
+    dataYear: 2015
+    measure: shelteredAnnual
+    category: asian
+    usPopWithPR: 17844649
+    count50StDcPr: 11251
+    ratePer10k: 6.3
+-
+    yearDataReleased: 2016
+    dataYear: 2015
+    measure: shelteredAnnual
+    category: nativeAmerican
+    usPopWithPR: 4017063
+    count50StDcPr: 40038
+    ratePer10k: 99.7
+-
+    yearDataReleased: 2016
+    dataYear: 2015
+    measure: shelteredAnnual
+    category: nhpi
+    usPopWithPR: 834411
+    count50StDcPr: 15279
+    ratePer10k: 183.1
+-
+    yearDataReleased: 2016
+    dataYear: 2015
+    measure: shelteredAnnual
+    category: multipleRaces
+    usPopWithPR: 8417206
+    count50StDcPr: 65246
+    ratePer10k: 77.5
+-
+    yearDataReleased: 2016
+    dataYear: 2015
+    measure: shelteredAnnual
+    category: hispanic
+    usPopWithPR: 59795614
+    count50StDcPr: 252349
+    ratePer10k: 42.2
+-
+    yearDataReleased: 2016
+    dataYear: 2016
+    measure: homelessOneNight
+    category: white
+    usPopWithPR: 247543007
+    count50StDcPr: 263689
+    ratePer10k: 10.7
+-
+    yearDataReleased: 2016
+    dataYear: 2016
+    measure: homelessOneNight
+    category: black
+    usPopWithPR: 42574478
+    count50StDcPr: 214178
+    ratePer10k: 50.3
+-
+    yearDataReleased: 2016
+    dataYear: 2016
+    measure: homelessOneNight
+    category: asian
+    usPopWithPR: 17784547
+    count50StDcPr: 5581
+    ratePer10k: 3.1
+-
+    yearDataReleased: 2016
+    dataYear: 2016
+    measure: homelessOneNight
+    category: nativeAmerican
+    usPopWithPR: 4005645
+    count50StDcPr: 15172
+    ratePer10k: 37.9
+-
+    yearDataReleased: 2016
+    dataYear: 2016
+    measure: homelessOneNight
+    category: nhpi
+    usPopWithPR: 755813
+    count50StDcPr: 7686
+    ratePer10k: 101.7
+-
+    yearDataReleased: 2016
+    dataYear: 2016
+    measure: homelessOneNight
+    category: multipleRaces
+    usPopWithPR: 8233128
+    count50StDcPr: 37778
+    ratePer10k: 45.9
+-
+    yearDataReleased: 2016
+    dataYear: 2016
+    measure: homelessOneNight
+    category: hispanic
+    usPopWithPR: 56338521
+    count50StDcPr: 116938
+    ratePer10k: 20.8
+-
+    yearDataReleased: 2016
+    dataYear: 2016
+    measure: unshelteredOneNight
+    category: white
+    usPopWithPR: 247543007
+    count50StDcPr: 100436
+    ratePer10k: 4.1
+-
+    yearDataReleased: 2016
+    dataYear: 2016
+    measure: unshelteredOneNight
+    category: black
+    usPopWithPR: 42574478
+    count50StDcPr: 45817
+    ratePer10k: 10.8
+-
+    yearDataReleased: 2016
+    dataYear: 2016
+    measure: unshelteredOneNight
+    category: asian
+    usPopWithPR: 17784547
+    count50StDcPr: 2111
+    ratePer10k: 1.2
+-
+    yearDataReleased: 2016
+    dataYear: 2016
+    measure: unshelteredOneNight
+    category: nativeAmerican
+    usPopWithPR: 4005645
+    count50StDcPr: 7310
+    ratePer10k: 18.2
+-
+    yearDataReleased: 2016
+    dataYear: 2016
+    measure: unshelteredOneNight
+    category: nhpi
+    usPopWithPR: 755813
+    count50StDcPr: 3288
+    ratePer10k: 43.5
+-
+    yearDataReleased: 2016
+    dataYear: 2016
+    measure: unshelteredOneNight
+    category: multipleRaces
+    usPopWithPR: 8233128
+    count50StDcPr: 13073
+    ratePer10k: 15.9
+-
+    yearDataReleased: 2016
+    dataYear: 2016
+    measure: unshelteredOneNight
+    category: hispanic
+    usPopWithPR: 56338521
+    count50StDcPr: 31106
+    ratePer10k: 5.5
+-
+    yearDataReleased: 2015
+    dataYear: 2014
+    measure: shelteredAnnual
+    category: white
+    usPopWithPR: 249060337
+    count50StDcPr: 722802
+    ratePer10k: 29.0
+-
+    yearDataReleased: 2015
+    dataYear: 2014
+    measure: shelteredAnnual
+    category: black
+    usPopWithPR: 42513253
+    count50StDcPr: 583527
+    ratePer10k: 137.3
+-
+    yearDataReleased: 2015
+    dataYear: 2014
+    measure: shelteredAnnual
+    category: asian
+    usPopWithPR: 17299156
+    count50StDcPr: 10882
+    ratePer10k: 6.3
+-
+    yearDataReleased: 2015
+    dataYear: 2014
+    measure: shelteredAnnual
+    category: nativeAmerican
+    usPopWithPR: 3966575
+    count50StDcPr: 39823
+    ratePer10k: 100.4
+-
+    yearDataReleased: 2015
+    dataYear: 2014
+    measure: shelteredAnnual
+    category: nhpi
+    usPopWithPR: 818669
+    count50StDcPr: 12067
+    ratePer10k: 147.4
+-
+    yearDataReleased: 2015
+    dataYear: 2014
+    measure: shelteredAnnual
+    category: multipleRaces
+    usPopWithPR: 8231556
+    count50StDcPr: 69700
+    ratePer10k: 84.7
+-
+    yearDataReleased: 2015
+    dataYear: 2014
+    measure: shelteredAnnual
+    category: hispanic
+    usPopWithPR: 58723946
+    count50StDcPr: 232114
+    ratePer10k: 39.5
+-
+    yearDataReleased: 2015
+    dataYear: 2015
+    measure: homelessOneNight
+    category: white
+    usPopWithPR: 246511923
+    count50StDcPr: 271799
+    ratePer10k: 11.0
+-
+    yearDataReleased: 2015
+    dataYear: 2015
+    measure: homelessOneNight
+    category: black
+    usPopWithPR: 42131407
+    count50StDcPr: 226956
+    ratePer10k: 53.9
+-
+    yearDataReleased: 2015
+    dataYear: 2015
+    measure: homelessOneNight
+    category: asian
+    usPopWithPR: 17237508
+    count50StDcPr: 6025
+    ratePer10k: 3.5
+-
+    yearDataReleased: 2015
+    dataYear: 2015
+    measure: homelessOneNight
+    category: nativeAmerican
+    usPopWithPR: 3955431
+    count50StDcPr: 15077
+    ratePer10k: 38.1
+-
+    yearDataReleased: 2015
+    dataYear: 2015
+    measure: homelessOneNight
+    category: nhpi
+    usPopWithPR: 739576
+    count50StDcPr: 7619
+    ratePer10k: 103.0
+-
+    yearDataReleased: 2015
+    dataYear: 2015
+    measure: homelessOneNight
+    category: multipleRaces
+    usPopWithPR: 7987611
+    count50StDcPr: 31097
+    ratePer10k: 38.9
+-
+    yearDataReleased: 2015
+    dataYear: 2015
+    measure: homelessOneNight
+    category: hispanic
+    usPopWithPR: 55189962
+    count50StDcPr: 108166
+    ratePer10k: 19.6
+-
+    yearDataReleased: 2015
+    dataYear: 2015
+    measure: unshelteredOneNight
+    category: white
+    usPopWithPR: 246511923
+    count50StDcPr: 97098
+    ratePer10k: 3.9
+-
+    yearDataReleased: 2015
+    dataYear: 2015
+    measure: unshelteredOneNight
+    category: black
+    usPopWithPR: 42131407
+    count50StDcPr: 47451
+    ratePer10k: 11.3
+-
+    yearDataReleased: 2015
+    dataYear: 2015
+    measure: unshelteredOneNight
+    category: asian
+    usPopWithPR: 17237508
+    count50StDcPr: 2334
+    ratePer10k: 1.4
+-
+    yearDataReleased: 2015
+    dataYear: 2015
+    measure: unshelteredOneNight
+    category: nativeAmerican
+    usPopWithPR: 3955431
+    count50StDcPr: 6664
+    ratePer10k: 16.8
+-
+    yearDataReleased: 2015
+    dataYear: 2015
+    measure: unshelteredOneNight
+    category: nhpi
+    usPopWithPR: 739576
+    count50StDcPr: 2664
+    ratePer10k: 36.0
+-
+    yearDataReleased: 2015
+    dataYear: 2015
+    measure: unshelteredOneNight
+    category: multipleRaces
+    usPopWithPR: 7987611
+    count50StDcPr: 12515
+    ratePer10k: 15.7
+-
+    yearDataReleased: 2015
+    dataYear: 2015
+    measure: unshelteredOneNight
+    category: hispanic
+    usPopWithPR: 55189962
+    count50StDcPr: 31706
+    ratePer10k: 5.7

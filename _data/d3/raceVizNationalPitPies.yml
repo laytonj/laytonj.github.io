@@ -1,0 +1,100 @@
+---
+-
+    year: 2017
+    category: pctPit
+    black: 0.406
+    asian: 0.012
+    nativeAmerican: 0.030
+    multipleRaces: 0.065
+    nhpi: 0.015
+    white: 0.471
+    hispanic: 0.216
+    nonHispanic: 0.784
+-
+    year: 2017
+    category: pctShel
+    black: 0.464
+    asian: 0.010
+    nativeAmerican: 0.024
+    multipleRaces: 0.061
+    nhpi: 0.012
+    white: 0.428
+    hispanic: 0.208
+    nonHispanic: 0.792
+-
+    year: 2017
+    category: pctUnsh
+    black: 0.298
+    asian: 0.016
+    nativeAmerican: 0.042
+    multipleRaces: 0.071
+    nhpi: 0.021
+    white: 0.552
+    hispanic: 0.230
+    nonHispanic: 0.770
+-
+    year: 2016
+    category: pctPit
+    black: 0.391
+    asian: 0.010
+    nativeAmerican: 0.028
+    multipleRaces: 0.072
+    nhpi: 0.016
+    white: 0.483
+    hispanic: 0.221
+    nonHispanic: 0.779
+-
+    year: 2016
+    category: pctShel
+    black: 0.451
+    asian: 0.009
+    nativeAmerican: 0.021
+    multipleRaces: 0.067
+    nhpi: 0.012
+    white: 0.439
+    hispanic: 0.233
+    nonHispanic: 0.767
+-
+    year: 2016
+    category: pctUnsh
+    black: 0.264
+    asian: 0.012
+    nativeAmerican: 0.042
+    multipleRaces: 0.081
+    nhpi: 0.024
+    white: 0.577
+    hispanic: 0.194
+    nonHispanic: 0.806
+-
+    year: 2015
+    category: pctPit
+    black: 0.404
+    asian: 0.011
+    nativeAmerican: 0.027
+    multipleRaces: 0.058
+    nhpi: 0.016
+    white: 0.485
+    hispanic: 0.199
+    nonHispanic: 0.801
+-
+    year: 2015
+    category: pctShel
+    black: 0.459
+    asian: 0.009
+    nativeAmerican: 0.022
+    multipleRaces: 0.049
+    nhpi: 0.013
+    white: 0.448
+    hispanic: 0.199
+    nonHispanic: 0.801
+-
+    year: 2015
+    category: pctUnsh
+    black: 0.278
+    asian: 0.014
+    nativeAmerican: 0.039
+    multipleRaces: 0.079
+    nhpi: 0.022
+    white: 0.568
+    hispanic: 0.201
+    nonHispanic: 0.799

@@ -1,0 +1,673 @@
+---
+-
+    type: es
+    year: 2016
+    category: all
+    black: 0.43
+    white: 0.483
+    asian: 0.008
+    nativeAmerican: 0.025
+    nhpi: 0.01
+    multipleRaces: 0.044
+    nonHispanic: 0.829
+    hispanic: 0.171
+    nonHispWhite: 0.373
+    hispWhite: 0.11
+-
+    type: es
+    year: 2015
+    category: all
+    black: 0.416
+    white: 0.493
+    asian: 0.008
+    nativeAmerican: 0.029
+    nhpi: 0.01
+    multipleRaces: 0.043
+    nonHispanic: 0.823
+    hispanic: 0.177
+    nonHispWhite: 0.379
+    hispWhite: 0.114
+-
+    type: es
+    year: 2014
+    category: all
+    black: 0.408
+    white: 0.5
+    asian: 0.008
+    nativeAmerican: 0.029
+    nhpi: 0.008
+    multipleRaces: 0.048
+    nonHispanic: 0.843
+    hispanic: 0.157
+    nonHispWhite: 0.403
+    hispWhite: 0.096
+-
+    type: es
+    year: 2013
+    category: all
+    black: 0.417
+    white: 0.476
+    asian: 0.007
+    nativeAmerican: 0.025
+    nhpi: 0.008
+    multipleRaces: 0.066
+    nonHispanic: 0.833
+    hispanic: 0.167
+    nonHispWhite: 0.376
+    hispWhite: 0.1
+-
+    type: th
+    year: 2016
+    category: all
+    black: 0.406
+    white: 0.494
+    asian: 0.008
+    nativeAmerican: 0.021
+    nhpi: 0.016
+    multipleRaces: 0.056
+    nonHispanic: 0.846
+    hispanic: 0.154
+    nonHispWhite: 0.382
+    hispWhite: 0.111
+-
+    type: th
+    year: 2015
+    category: all
+    black: 0.397
+    white: 0.503
+    asian: 0.008
+    nativeAmerican: 0.021
+    nhpi: 0.014
+    multipleRaces: 0.057
+    nonHispanic: 0.849
+    hispanic: 0.151
+    nonHispWhite: 0.392
+    hispWhite: 0.111
+-
+    type: th
+    year: 2014
+    category: all
+    black: 0.4
+    white: 0.508
+    asian: 0.008
+    nativeAmerican: 0.02
+    nhpi: 0.012
+    multipleRaces: 0.052
+    nonHispanic: 0.837
+    hispanic: 0.163
+    nonHispWhite: 0.385
+    hispWhite: 0.123
+-
+    type: th
+    year: 2013
+    category: all
+    black: 0.416
+    white: 0.483
+    asian: 0.008
+    nativeAmerican: 0.019
+    nhpi: 0.013
+    multipleRaces: 0.06
+    nonHispanic: 0.837
+    hispanic: 0.163
+    nonHispWhite: 0.368
+    hispWhite: 0.115
+-
+    type: psh
+    year: 2016
+    category: all
+    black: 0.466
+    white: 0.458
+    asian: 0.009
+    nativeAmerican: 0.019
+    nhpi: 0.006
+    multipleRaces: 0.042
+    nonHispanic: 0.88
+    hispanic: 0.12
+    nonHispWhite: 0.371
+    hispWhite: 0.087
+-
+    type: psh
+    year: 2015
+    category: all
+    black: 0.463
+    white: 0.465
+    asian: 0.009
+    nativeAmerican: 0.018
+    nhpi: 0.005
+    multipleRaces: 0.04
+    nonHispanic: 0.885
+    hispanic: 0.115
+    nonHispWhite: 0.379
+    hispWhite: 0.086
+-
+    type: psh
+    year: 2014
+    category: all
+    black: 0.446
+    white: 0.477
+    asian: 0.01
+    nativeAmerican: 0.018
+    nhpi: 0.005
+    multipleRaces: 0.043
+    nonHispanic: 0.88
+    hispanic: 0.12
+    nonHispWhite: 0.388
+    hispWhite: 0.088
+-
+    type: psh
+    year: 2013
+    category: all
+    black: 0.442
+    white: 0.477
+    asian: 0.012
+    nativeAmerican: 0.021
+    nhpi: 0.006
+    multipleRaces: 0.043
+    nonHispanic: 0.865
+    hispanic: 0.135
+    nonHispWhite: 0.384
+    hispWhite: 0.093
+-
+    type: ssvf
+    year: 2016
+    category: all
+    black: 0.433
+    white: 0.516
+    asian: 0.006
+    nativeAmerican: 0.017
+    nhpi: 0.007
+    multipleRaces: 0.022
+    nonHispanic: 
+    hispanic: 
+    nonHispWhite: 0.45
+    hispWhite: 0.066
+-
+    type: ssvf
+    year: 2015
+    category: all
+    black: 0.446
+    white: 0.502
+    asian: 0.005
+    nativeAmerican: 0.016
+    nhpi: 0.007
+    multipleRaces: 0.021
+    nonHispanic: 
+    hispanic: 
+    nonHispWhite: 0.441
+    hispWhite: 0.061
+-
+    type: ssvf
+    year: 2014
+    category: all
+    black: 0.457
+    white: 0.494
+    asian: 0.005
+    nativeAmerican: 0.017
+    nhpi: 0.006
+    multipleRaces: 0.021
+    nonHispanic: 0.912
+    hispanic: 0.088
+    nonHispWhite: 
+    hispWhite: 
+-
+    type: ssvf
+    year: 2013
+    category: all
+    black: 0.461
+    white: 0.481
+    asian: 0.004
+    nativeAmerican: 0.02
+    nhpi: 0.005
+    multipleRaces: 0.019
+    nonHispanic: 0.906
+    hispanic: 0.09
+    nonHispWhite: 
+    hispWhite: 
+-
+    type: es
+    year: 2016
+    category: indiv
+    black: 0.382
+    white: 0.536
+    asian: 0.009
+    nativeAmerican: 0.029
+    nhpi: 0.007
+    multipleRaces: 0.038
+    nonHispanic: 0.871
+    hispanic: 0.129
+    nonHispWhite: 0.449
+    hispWhite: 0.086
+-
+    type: es
+    year: 2015
+    category: indiv
+    black: 0.373
+    white: 0.545
+    asian: 0.008
+    nativeAmerican: 0.031
+    nhpi: 0.008
+    multipleRaces: 0.034
+    nonHispanic: 0.869
+    hispanic: 0.131
+    nonHispWhite: 0.458
+    hispWhite: 0.088
+-
+    type: es
+    year: 2014
+    category: indiv
+    black: 0.367
+    white: 0.549
+    asian: 0.009
+    nativeAmerican: 0.033
+    nhpi: 0.006
+    multipleRaces: 0.036
+    nonHispanic: 0.882
+    hispanic: 0.118
+    nonHispWhite: 0.476
+    hispWhite: 0.074
+-
+    type: es
+    year: 2013
+    category: indiv
+    black: 0.384
+    white: 0.534
+    asian: 0.008
+    nativeAmerican: 0.022
+    nhpi: 0.006
+    multipleRaces: 0.046
+    nonHispanic: 0.859
+    hispanic: 0.141
+    nonHispWhite: 0.441
+    hispWhite: 0.093
+-
+    type: th
+    year: 2016
+    category: indiv
+    black: 0.378
+    white: 0.553
+    asian: 0.008
+    nativeAmerican: 0.016
+    nhpi: 0.007
+    multipleRaces: 0.038
+    nonHispanic: 0.897
+    hispanic: 0.103
+    nonHispWhite: 0.479
+    hispWhite: 0.074
+-
+    type: th
+    year: 2015
+    category: indiv
+    black: 0.365
+    white: 0.57
+    asian: 0.008
+    nativeAmerican: 0.015
+    nhpi: 0.006
+    multipleRaces: 0.036
+    nonHispanic: 0.895
+    hispanic: 0.105
+    nonHispWhite: 0.493
+    hispWhite: 0.076
+-
+    type: th
+    year: 2014
+    category: indiv
+    black: 0.368
+    white: 0.569
+    asian: 0.008
+    nativeAmerican: 0.015
+    nhpi: 0.006
+    multipleRaces: 0.034
+    nonHispanic: 0.882
+    hispanic: 0.118
+    nonHispWhite: 0.48
+    hispWhite: 0.089
+-
+    type: th
+    year: 2013
+    category: indiv
+    black: 0.388
+    white: 0.54
+    asian: 0.008
+    nativeAmerican: 0.015
+    nhpi: 0.006
+    multipleRaces: 0.042
+    nonHispanic: 0.879
+    hispanic: 0.121
+    nonHispWhite: 0.457
+    hispWhite: 0.084
+-
+    type: psh
+    year: 2016
+    category: indiv
+    black: 0.448
+    white: 0.489
+    asian: 0.011
+    nativeAmerican: 0.016
+    nhpi: 0.005
+    multipleRaces: 0.031
+    nonHispanic: 0.903
+    hispanic: 0.097
+    nonHispWhite: 0.419
+    hispWhite: 0.07
+-
+    type: psh
+    year: 2015
+    category: indiv
+    black: 0.44
+    white: 0.501
+    asian: 0.01
+    nativeAmerican: 0.016
+    nhpi: 0.005
+    multipleRaces: 0.028
+    nonHispanic: 0.909
+    hispanic: 0.091
+    nonHispWhite: 0.434
+    hispWhite: 0.068
+-
+    type: psh
+    year: 2014
+    category: indiv
+    black: 0.428
+    white: 0.509
+    asian: 0.011
+    nativeAmerican: 0.015
+    nhpi: 0.005
+    multipleRaces: 0.032
+    nonHispanic: 0.907
+    hispanic: 0.093
+    nonHispWhite: 0.442
+    hispWhite: 0.067
+-
+    type: psh
+    year: 2013
+    category: indiv
+    black: 0.42
+    white: 0.517
+    asian: 0.011
+    nativeAmerican: 0.017
+    nhpi: 0.005
+    multipleRaces: 0.03
+    nonHispanic: 0.885
+    hispanic: 0.115
+    nonHispWhite: 0.44
+    hispWhite: 0.077
+-
+    type: ssvf
+    year: 2016
+    category: indiv
+    black: 
+    white: 
+    asian: 
+    nativeAmerican: 
+    nhpi: 
+    multipleRaces: 
+    nonHispanic: 
+    hispanic: 
+    nonHispWhite: 
+    hispWhite: 
+-
+    type: ssvf
+    year: 2015
+    category: indiv
+    black: 
+    white: 
+    asian: 
+    nativeAmerican: 
+    nhpi: 
+    multipleRaces: 
+    nonHispanic: 
+    hispanic: 
+    nonHispWhite: 
+    hispWhite: 
+-
+    type: ssvf
+    year: 2014
+    category: indiv
+    black: 
+    white: 
+    asian: 
+    nativeAmerican: 
+    nhpi: 
+    multipleRaces: 
+    nonHispanic: 
+    hispanic: 
+    nonHispWhite: 
+    hispWhite: 
+-
+    type: ssvf
+    year: 2013
+    category: indiv
+    black: 
+    white: 
+    asian: 
+    nativeAmerican: 
+    nhpi: 
+    multipleRaces: 
+    nonHispanic: 
+    hispanic: 
+    nonHispWhite: 
+    hispWhite: 
+-
+    type: es
+    year: 2016
+    category: inFam
+    black: 0.535
+    white: 0.37
+    asian: 0.006
+    nativeAmerican: 0.018
+    nhpi: 0.015
+    multipleRaces: 0.056
+    nonHispanic: 0.739
+    hispanic: 0.261
+    nonHispWhite: 0.208
+    hispWhite: 0.162
+-
+    type: es
+    year: 2015
+    category: inFam
+    black: 0.508
+    white: 0.383
+    asian: 0.006
+    nativeAmerican: 0.026
+    nhpi: 0.015
+    multipleRaces: 0.062
+    nonHispanic: 0.73
+    hispanic: 0.27
+    nonHispWhite: 0.213
+    hispWhite: 0.17
+-
+    type: es
+    year: 2014
+    category: inFam
+    black: 0.495
+    white: 0.394
+    asian: 0.005
+    nativeAmerican: 0.021
+    nhpi: 0.011
+    multipleRaces: 0.073
+    nonHispanic: 0.761
+    hispanic: 0.239
+    nonHispWhite: 0.249
+    hispWhite: 0.145
+-
+    type: es
+    year: 2013
+    category: inFam
+    black: 0.478
+    white: 0.365
+    asian: 0.005
+    nativeAmerican: 0.032
+    nhpi: 0.011
+    multipleRaces: 0.109
+    nonHispanic: 0.757
+    hispanic: 0.243
+    nonHispWhite: 0.23
+    hispWhite: 0.135
+-
+    type: th
+    year: 2016
+    category: inFam
+    black: 0.447
+    white: 0.411
+    asian: 0.008
+    nativeAmerican: 0.027
+    nhpi: 0.027
+    multipleRaces: 0.08
+    nonHispanic: 0.776
+    hispanic: 0.224
+    nonHispWhite: 0.247
+    hispWhite: 0.164
+-
+    type: th
+    year: 2015
+    category: inFam
+    black: 0.442
+    white: 0.412
+    asian: 0.009
+    nativeAmerican: 0.029
+    nhpi: 0.024
+    multipleRaces: 0.084
+    nonHispanic: 0.785
+    hispanic: 0.215
+    nonHispWhite: 0.253
+    hispWhite: 0.159
+-
+    type: th
+    year: 2014
+    category: inFam
+    black: 0.441
+    white: 0.429
+    asian: 0.007
+    nativeAmerican: 0.027
+    nhpi: 0.02
+    multipleRaces: 0.076
+    nonHispanic: 0.778
+    hispanic: 0.222
+    nonHispWhite: 0.261
+    hispWhite: 0.168
+-
+    type: th
+    year: 2013
+    category: inFam
+    black: 0.451
+    white: 0.412
+    asian: 0.009
+    nativeAmerican: 0.024
+    nhpi: 0.022
+    multipleRaces: 0.082
+    nonHispanic: 0.787
+    hispanic: 0.213
+    nonHispWhite: 0.259
+    hispWhite: 0.153
+-
+    type: psh
+    year: 2016
+    category: inFam
+    black: 0.503
+    white: 0.397
+    asian: 0.007
+    nativeAmerican: 0.024
+    nhpi: 0.007
+    multipleRaces: 0.062
+    nonHispanic: 0.835
+    hispanic: 0.165
+    nonHispWhite: 0.275
+    hispWhite: 0.122
+-
+    type: psh
+    year: 2015
+    category: inFam
+    black: 0.505
+    white: 0.399
+    asian: 0.008
+    nativeAmerican: 0.022
+    nhpi: 0.006
+    multipleRaces: 0.06
+    nonHispanic: 0.84
+    hispanic: 0.16
+    nonHispWhite: 0.28
+    hispWhite: 0.119
+-
+    type: psh
+    year: 2014
+    category: inFam
+    black: 0.478
+    white: 0.419
+    asian: 0.009
+    nativeAmerican: 0.024
+    nhpi: 0.006
+    multipleRaces: 0.063
+    nonHispanic: 0.83
+    hispanic: 0.17
+    nonHispWhite: 0.294
+    hispWhite: 0.125
+-
+    type: psh
+    year: 2013
+    category: inFam
+    black: 0.481
+    white: 0.408
+    asian: 0.012
+    nativeAmerican: 0.028
+    nhpi: 0.007
+    multipleRaces: 0.064
+    nonHispanic: 0.83
+    hispanic: 0.17
+    nonHispWhite: 0.288
+    hispWhite: 0.119
+-
+    type: ssvf
+    year: 2016
+    category: inFam
+    black: 
+    white: 
+    asian: 
+    nativeAmerican: 
+    nhpi: 
+    multipleRaces: 
+    nonHispanic: 
+    hispanic: 
+    nonHispWhite: 
+    hispWhite: 
+-
+    type: ssvf
+    year: 2015
+    category: inFam
+    black: 
+    white: 
+    asian: 
+    nativeAmerican: 
+    nhpi: 
+    multipleRaces: 
+    nonHispanic: 
+    hispanic: 
+    nonHispWhite: 
+    hispWhite: 
+-
+    type: ssvf
+    year: 2014
+    category: inFam
+    black: 
+    white: 
+    asian: 
+    nativeAmerican: 
+    nhpi: 
+    multipleRaces: 
+    nonHispanic: 
+    hispanic: 
+    nonHispWhite: 
+    hispWhite: 
+-
+    type: ssvf
+    year: 2013
+    category: inFam
+    black: 
+    white: 
+    asian: 
+    nativeAmerican: 
+    nhpi: 
+    multipleRaces: 
+    nonHispanic: 
+    hispanic: 
+    nonHispWhite: 
+    hispWhite: 

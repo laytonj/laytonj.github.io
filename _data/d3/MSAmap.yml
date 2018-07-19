@@ -1,0 +1,451 @@
+---
+-
+    city: New York City
+    metro: New York-Newark-Jersey City, NY-NJ-PA
+    latitude: 40.730599
+    longitude: -73
+    population: 20182305
+    total: 86038
+    rate: 43
+    veteranshel: 1058
+    veteranunshel: 94
+    chronicshel: 2993
+    chronicunshel: 2213
+    indivshel: 30737
+    indivunshel: 4025
+    familyshel: 51213
+    familyunshel: 64
+    youthshel: 2337
+    youthunshel: 212
+-
+    city: Los Angeles
+    metro: Los Angeles-Long Beach-Anaheim, CA
+    latitude: 34.054394
+    longitude: -118.243941
+    population: 13340068
+    total: 51193
+    rate: 38
+    veteranshel: 1552
+    veteranunshel: 1974
+    chronicshel: 1145
+    chronicunshel: 14193
+    indivshel: 8393
+    indivunshel: 34898
+    familyshel: 5898
+    familyunshel: 2004
+    youthshel: 882
+    youthunshel: 2462
+-
+    city: Chicago
+    metro: Chicago-Naperville-Elgin, IL-IN-WI
+    latitude: 41.875555
+    longitude: -87.624421
+    population: 9551031
+    total: 9200
+    rate: 10
+    veteranshel: 599
+    veteranunshel: 220
+    chronicshel: 384
+    chronicunshel: 311
+    indivshel: 4076
+    indivunshel: 1527
+    familyshel: 3574
+    familyunshel: 21
+    youthshel: 444
+    youthunshel: 47
+-
+    city: Dallas
+    metro: Dallas-Fort Worth-Arlington, TX
+    latitude: 32.776272
+    longitude: -96.796856
+    population: 7102796
+    total: 6543
+    rate: 9
+    veteranshel: 433
+    veteranunshel: 86
+    chronicshel: 623
+    chronicunshel: 276
+    indivshel: 3123
+    indivunshel: 1407
+    familyshel: 1958
+    familyunshel: 52
+    youthshel: 202
+    youthunshel: 85
+-
+    city: Houston
+    metro: Houston-The Woodlands-Sugar Land, TX
+    latitude: 29.758938
+    longitude: -95.367697
+    population: 6656947
+    total: 4517
+    rate: 7
+    veteranshel: 377
+    veteranunshel: 149
+    chronicshel: 159
+    chronicunshel: 424
+    indivshel: 2003
+    indivunshel: 1362
+    familyshel: 1125
+    familyunshel: 24
+    youthshel: 178
+    youthunshel: 98
+-
+    city: Washington D.C.
+    metro: Washington-Arlington-Alexandria, DC-VA-MD-WV
+    latitude: 39.4
+    longitude: -77.6
+    population: 6097684
+    total: 12832
+    rate: 21
+    veteranshel: 437
+    veteranunshel: 82
+    chronicshel: 1766
+    chronicunshel: 528
+    indivshel: 5178
+    indivunshel: 992
+    familyshel: 6580
+    familyunshel: 86
+    youthshel: 317
+    youthunshel: 80
+-
+    city: Philadelphia
+    metro: Philadelphia-Camden-Wilmington, PA-NJ-DE-MD
+    latitude: 40.3
+    longitude: -76
+    population: 6069875
+    total: 10541
+    rate: 17
+    veteranshel: 744
+    veteranunshel: 43
+    chronicshel: 696
+    chronicunshel: 491
+    indivshel: 4957
+    indivunshel: 1040
+    familyshel: 4512
+    familyunshel: 31
+    youthshel: 423
+    youthunshel: 49
+-
+    city: Miami
+    metro: Miami-Fort Lauderdale-West Palm Beach, FL
+    latitude: 25.774266
+    longitude: -80.193659
+    population: 6012331
+    total: 7869
+    rate: 13
+    veteranshel: 284
+    veteranunshel: 198
+    chronicshel: 316
+    chronicunshel: 1045
+    indivshel: 3523
+    indivunshel: 2511
+    familyshel: 1757
+    familyunshel: 78
+    youthshel: 289
+    youthunshel: 95
+-
+    city: Atlanta
+    metro: Atlanta-Sandy Springs-Roswell, GA
+    latitude: 33.749099
+    longitude: -84.390185
+    population: 5710795
+    total: 8023
+    rate: 14
+    veteranshel: 474
+    veteranunshel: 222
+    chronicshel: 349
+    chronicunshel: 715
+    indivshel: 3578
+    indivunshel: 2333
+    familyshel: 1658
+    familyunshel: 455
+    youthshel: 408
+    youthunshel: 124
+-
+    city: Boston
+    metro: Boston-Cambridge-Newton, MA-NH
+    latitude: 42.360482
+    longitude: -70.5
+    population: 4774321
+    total: 13816
+    rate: 29
+    veteranshel: 402
+    veteranunshel: 13
+    chronicshel: 1753
+    chronicunshel: 153
+    indivshel: 4087
+    indivunshel: 494
+    familyshel: 9222
+    familyunshel: 16
+    youthshel: 212
+    youthunshel: 27
+-
+    city: San Francisco
+    metro: San Francisco-Oakland-Hayward, CA
+    latitude: 37.779277
+    longitude: -122.41927
+    population: 4656132
+    total: 15490
+    rate: 33
+    veteranshel: 532
+    veteranunshel: 799
+    chronicshel: 1125
+    chronicunshel: 2439
+    indivshel: 3859
+    indivunshel: 8945
+    familyshel: 2156
+    familyunshel: 530
+    youthshel: 395
+    youthunshel: 1862
+-
+    city: Phoenix
+    metro: Phoenix-Mesa-Scottsdale, AZ
+    latitude: 33.446768
+    longitude: -112.075672
+    population: 4574531
+    total: 6254
+    rate: 14
+    veteranshel: 347
+    veteranunshel: 179
+    chronicshel: 343
+    chronicunshel: 510
+    indivshel: 2142
+    indivunshel: 1905
+    familyshel: 2166
+    familyunshel: 41
+    youthshel: 276
+    youthunshel: 118
+-
+    city: Riverside
+    metro: Riverside-San Bernardino-Ontario, CA
+    latitude: 34
+    longitude: -116
+    population: 4489159
+    total: 4052
+    rate: 9
+    veteranshel: 140
+    veteranunshel: 193
+    chronicshel: 97
+    chronicunshel: 686
+    indivshel: 876
+    indivunshel: 2446
+    familyshel: 634
+    familyunshel: 96
+    youthshel: 121
+    youthunshel: 205
+-
+    city: Detroit
+    metro: Detroit-Warren-Dearborn, MI
+    latitude: 42.348664
+    longitude: -83.056737
+    population: 4302043
+    total: 3684
+    rate: 9
+    veteranshel: 420
+    veteranunshel: 23
+    chronicshel: 281
+    chronicunshel: 114
+    indivshel: 2195
+    indivunshel: 344
+    familyshel: 1134
+    familyunshel: 10
+    youthshel: 237
+    youthunshel: 25
+-
+    city: Seattle
+    metro: Seattle-Tacoma-Bellevue, WA
+    latitude: 47.603832
+    longitude: -122.330062
+    population: 3733580
+    total: 13452
+    rate: 36
+    veteranshel: 658
+    veteranunshel: 246
+    chronicshel: 681
+    chronicunshel: 775
+    indivshel: 4202
+    indivunshel: 5310
+    familyshel: 3780
+    familyunshel: 160
+    youthshel: 491
+    youthunshel: 403
+-
+    city: Minneapolis
+    metro: Minneapolis-St. Paul-Bloomington, MN-WI
+    latitude: 44.9773
+    longitude: -93.265469
+    population: 3524583
+    total: 5453
+    rate: 15
+    veteranshel: 205
+    veteranunshel: 15
+    chronicshel: 573
+    chronicunshel: 100
+    indivshel: 2261
+    indivunshel: 509
+    familyshel: 2602
+    familyunshel: 82
+    youthshel: 412
+    youthunshel: 85
+-
+    city: San Diego
+    metro: San Diego-Carlsbad, CA
+    latitude: 32.717421
+    longitude: -117.162771
+    population: 3299521
+    total: 8669
+    rate: 26
+    veteranshel: 584
+    veteranunshel: 572
+    chronicshel: 309
+    chronicunshel: 1108
+    indivshel: 2297
+    indivunshel: 4658
+    familyshel: 1432
+    familyunshel: 282
+    youthshel: 257
+    youthunshel: 573
+-
+    city: Tampa
+    metro: Tampa-St. Petersburg-Clearwater, FL
+    latitude: 27.94776
+    longitude: -82.458444
+    population: 2975225
+    total: 5788
+    rate: 19
+    veteranshel: 418
+    veteranunshel: 254
+    chronicshel: 217
+    chronicunshel: 1055
+    indivshel: 1990
+    indivunshel: 2567
+    familyshel: 962
+    familyunshel: 269
+    youthshel: 125
+    youthunshel: 251
+-
+    city: Denver
+    metro: Denver-Aurora-Lakewood, CO
+    latitude: 39.739154
+    longitude: -104.984703
+    population: 2814330
+    total: 5250
+    rate: 19
+    veteranshel: 586
+    veteranunshel: 72
+    chronicshel: 479
+    chronicunshel: 207
+    indivshel: 2595
+    indivunshel: 682
+    familyshel: 1881
+    familyunshel: 94
+    youthshel: 222
+    youthunshel: 100
+-
+    city: St. Louis
+    metro: St. Louis, MO-IL
+    latitude: 38.627273
+    longitude: -90.197889
+    population: 2811588
+    total: 3001
+    rate: 11
+    veteranshel: 236
+    veteranunshel: 21
+    chronicshel: 187
+    chronicunshel: 123
+    indivshel: 1244
+    indivunshel: 401
+    familyshel: 1225
+    familyunshel: 129
+    youthshel: 306
+    youthunshel: 44
+-
+    city: Baltimore
+    metro: Baltimore-Columbia-Towson, MD
+    latitude: 39.2
+    longitude: -75.9
+    population: 2797407
+    total: 4446
+    rate: 16
+    veteranshel: 293
+    veteranunshel: 66
+    chronicshel: 577
+    chronicunshel: 283
+    indivshel: 2361
+    indivunshel: 576
+    familyshel: 1355
+    familyunshel: 155
+    youthshel: 100
+    youthunshel: 39
+-
+    city: Charlotte
+    metro: Charlotte-Concord-Gastonia, NC-SC
+    latitude: 35.227087
+    longitude: -80.843127
+    population: 2426363
+    total: 2822
+    rate: 12
+    veteranshel: 191
+    veteranunshel: 45
+    chronicshel: 205
+    chronicunshel: 142
+    indivshel: 1485
+    indivunshel: 396
+    familyshel: 882
+    familyunshel: 60
+    youthshel: 116
+    youthunshel: 25
+-
+    city: Portland
+    metro: Portland-Vancouver-Hillsboro, OR-WA
+    latitude: 45.520247
+    longitude: -122.674195
+    population: 2389228
+    total: 6247
+    rate: 26
+    veteranshel: 321
+    veteranunshel: 291
+    chronicshel: 244
+    chronicunshel: 1340
+    indivshel: 1923
+    indivunshel: 2654
+    familyshel: 1117
+    familyunshel: 553
+    youthshel: 204
+    youthunshel: 236
+-
+    city: Orlando
+    metro: Orlando-Kissimmee-Sanford, FL
+    latitude: 28.542118
+    longitude: -81.379046
+    population: 2387138
+    total: 1924
+    rate: 8
+    veteranshel: 238
+    veteranunshel: 14
+    chronicshel: 86
+    chronicunshel: 34
+    indivshel: 1028
+    indivunshel: 243
+    familyshel: 639
+    familyunshel: 15
+    youthshel: 97
+    youthunshel: 10
+-
+    city: San Antonio
+    metro: San Antonio-New Braunfels, TX
+    latitude: 29.4246
+    longitude: -98.49514
+    population: 2384075
+    total: 3036
+    rate: 13
+    veteranshel: 164
+    veteranunshel: 99
+    chronicshel: 232
+    chronicunshel: 325
+    indivshel: 1020
+    indivunshel: 1191
+    familyshel: 779
+    familyunshel: 46
+    youthshel: 85
+    youthunshel: 101

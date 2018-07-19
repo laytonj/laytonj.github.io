@@ -9,9 +9,12 @@
       <!-- Google fonts -->
       <link href="https://fonts.googleapis.com/css?family=Marck+Script" rel="stylesheet">
       <link href="https://fonts.googleapis.com/css?family=Exo:900,900i" rel="stylesheet">
-
-			<!-- link to main stylesheet -->
+      <link href="https://fonts.googleapis.com/css?family=Lustria" rel="stylesheet">
+			<!-- link to main stylesheets -->
 			<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/main.css">
+      <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/syntax.css">
+      <!-- Magnific Popup core CSS file -->
+      <link rel="stylesheet" href="{{ site.baseurl }}/css/magnific-popup.css">
       <!-- the rest -->
       <title>{{ page.title }}</title>    
 		</head>
@@ -20,7 +23,8 @@
         <div class="row myNavMenu">
           <div class="col-1"></div>
           <div class="col-4">
-            <div class="row white navLeftSide justify-content-end">
+            <div class="row white navLeftSide justify-content-center">
+              <div class="col-xl-3"></div>
               <div class="col-md-4 col-xl-3">
                 <a href="/about">About</a>
               </div>
@@ -42,7 +46,8 @@
                 <a href="/photos">Photos</a>
               </div>
               <div class="col-md-4 col-xl-3">
-                <a href="/blog">Blog</a>
+                <span style="text-decoration:line-through; color:#408BA4; font-family: 'Lustria', 'Helvetica', sans-serif; font-size: 16px; text-transform: uppercase;"> Blog</span> 
+                <!-- <a href="/blog">Blog</a> -->
               </div>
             </div>
           </div>
@@ -57,6 +62,7 @@
           </div>
          </div>
       </div>
+      <div class="linesBelowHeader line1"></div>
       <div id="main" role="main" class="container">
         {{ content }}
       </div>
@@ -72,12 +78,23 @@
       </div>
       
       {% include analytics.html %}
-      
       <!-- other JS -->
-      
       <!-- JS requirements for Bootstrap -->
       <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
       <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+      <!-- Magnific Popup core JS file -->
+      <script src="{{ site.baseurl }}/js/jquery.magnific-popup.min.js"></script>
+      <script type="text/javascript">
+      $(document).ready(function() {
+        $('.photoGallery').magnificPopup({
+          delegate: 'a', // child items selector, by clicking on it popup will open
+          type: 'image',
+          gallery:{
+            enabled:true
+          }
+        });
+      });
+      </script>
 		</body>
 	</html>

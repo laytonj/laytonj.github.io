@@ -1,0 +1,8 @@
+---
+layout: none
+---
+yearDataReleased,dataYear,measure,category,usPopWithPR,count50StDcPr,ratePer10k
+{% for i in site.data.d3.raceVizNationalRatesBars %}
+  {{- i.yearDataReleased -}},{{- i.dataYear -}},{{- i.measure -}},{{- i.category -}},{{- i.usPopWithPR -}},{{- i.count50StDcPr -}},{{- i.ratePer10k -}}
+  {% if forloop.last == false %},{% endif %}
+{% endfor %}

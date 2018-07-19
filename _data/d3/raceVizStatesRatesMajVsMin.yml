@@ -1,0 +1,8425 @@
+---
+-
+    state: Alabama
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 3.4
+    rateMin: 15.8
+    rateMaj: 4.7
+-
+    state: Alaska
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 4
+    rateMin: 52.7
+    rateMaj: 13.1
+-
+    state: Arizona
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 4.5
+    rateMin: 47.5
+    rateMaj: 10.5
+-
+    state: Arkansas
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 3.1
+    rateMin: 19
+    rateMaj: 6.1
+-
+    state: California
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 7
+    rateMin: 170.9
+    rateMaj: 24.6
+-
+    state: Colorado
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 4.5
+    rateMin: 71.9
+    rateMaj: 16
+-
+    state: Connecticut
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 5.2
+    rateMin: 31.9
+    rateMaj: 6.1
+-
+    state: Delaware
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 4.2
+    rateMin: 25.3
+    rateMaj: 6
+-
+    state: District of Columbia
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 13
+    rateMin: 206.4
+    rateMaj: 15.8
+-
+    state: Florida
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 3
+    rateMin: 34.4
+    rateMaj: 11.6
+-
+    state: Georgia
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 4.7
+    rateMin: 20.9
+    rateMaj: 4.4
+-
+    state: Hawaii
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 1.9
+    rateMin: 82.1
+    rateMaj: 43.2
+-
+    state: Idaho
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 4.6
+    rateMin: 52.9
+    rateMaj: 11.4
+-
+    state: Illinois
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 8.6
+    rateMin: 33.9
+    rateMaj: 4
+-
+    state: Indiana
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 5.1
+    rateMin: 29.3
+    rateMaj: 5.8
+-
+    state: Iowa
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 12
+    rateMin: 69.2
+    rateMaj: 5.8
+-
+    state: Kansas
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 4
+    rateMin: 22.6
+    rateMaj: 5.7
+-
+    state: Kentucky
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 3.8
+    rateMin: 27.4
+    rateMaj: 7.2
+-
+    state: Louisiana
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 2.9
+    rateMin: 12.6
+    rateMaj: 4.3
+-
+    state: Maine
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 9.7
+    rateMin: 141.8
+    rateMaj: 14.7
+-
+    state: Maryland
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 3.4
+    rateMin: 23.5
+    rateMaj: 6.9
+-
+    state: Massachusetts
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 5.5
+    rateMin: 99.2
+    rateMaj: 18
+-
+    state: Michigan
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 6.9
+    rateMin: 33.4
+    rateMaj: 4.8
+-
+    state: Minnesota
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 16.7
+    rateMin: 95.7
+    rateMaj: 5.7
+-
+    state: Mississippi
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 2.1
+    rateMin: 7.2
+    rateMaj: 3.4
+-
+    state: Missouri
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 5.9
+    rateMin: 36.7
+    rateMaj: 6.2
+-
+    state: Montana
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 5.1
+    rateMin: 54.7
+    rateMaj: 10.7
+-
+    state: Nebraska
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 6.2
+    rateMin: 61.2
+    rateMaj: 9.8
+-
+    state: Nevada
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 4
+    rateMin: 82.7
+    rateMaj: 20.9
+-
+    state: New Hampshire
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 3.8
+    rateMin: 38
+    rateMaj: 10.1
+-
+    state: New Jersey
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 6.3
+    rateMin: 34.5
+    rateMaj: 5.4
+-
+    state: New Mexico
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 3.1
+    rateMin: 27.2
+    rateMaj: 8.8
+-
+    state: New York
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 12.2
+    rateMin: 176.2
+    rateMaj: 14.4
+-
+    state: North Carolina
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 3.9
+    rateMin: 20.2
+    rateMaj: 5.2
+-
+    state: North Dakota
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 10.3
+    rateMin: 56.8
+    rateMaj: 5.5
+-
+    state: Ohio
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 6
+    rateMin: 30.7
+    rateMaj: 5.2
+-
+    state: Oklahoma
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 2.8
+    rateMin: 25.2
+    rateMaj: 8.9
+-
+    state: Oregon
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 3
+    rateMin: 96.1
+    rateMaj: 31.7
+-
+    state: Pennsylvania
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 8.9
+    rateMin: 49.5
+    rateMaj: 5.6
+-
+    state: Rhode Island
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 4.2
+    rateMin: 36.2
+    rateMaj: 8.5
+-
+    state: South Carolina
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 3.6
+    rateMin: 16.2
+    rateMaj: 4.5
+-
+    state: South Dakota
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 6
+    rateMin: 25.4
+    rateMaj: 4.2
+-
+    state: Tennessee
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 3.1
+    rateMin: 28.2
+    rateMaj: 9.1
+-
+    state: Texas
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 4.3
+    rateMin: 25.4
+    rateMaj: 5.9
+-
+    state: Utah
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 8.6
+    rateMin: 68.1
+    rateMaj: 7.9
+-
+    state: Vermont
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 5.2
+    rateMin: 97
+    rateMaj: 18.5
+-
+    state: Virginia
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 4.7
+    rateMin: 19.5
+    rateMaj: 4.1
+-
+    state: Washington
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 6.5
+    rateMin: 138
+    rateMaj: 21.2
+-
+    state: West Virginia
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 5.2
+    rateMin: 32.5
+    rateMaj: 6.2
+-
+    state: Wisconsin
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 7.9
+    rateMin: 43
+    rateMaj: 5.4
+-
+    state: Wyoming
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 4.6
+    rateMin: 55.5
+    rateMaj: 12
+-
+    state: Puerto Rico
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: blackVsWhite
+    rateDiff: 2.3
+    rateMin: 16
+    rateMaj: 7.1
+-
+    state: Alabama
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.3
+    rateMin: 1.3
+    rateMaj: 4.7
+-
+    state: Alaska
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.3
+    rateMin: 4.3
+    rateMaj: 13.1
+-
+    state: Arizona
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 2.2
+    rateMaj: 10.5
+-
+    state: Arkansas
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.3
+    rateMin: 1.9
+    rateMaj: 6.1
+-
+    state: California
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 4.4
+    rateMaj: 24.6
+-
+    state: Colorado
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 2.8
+    rateMaj: 16
+-
+    state: Connecticut
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.3
+    rateMin: 2
+    rateMaj: 6.1
+-
+    state: Delaware
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 1.1
+    rateMaj: 6
+-
+    state: District of Columbia
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.9
+    rateMin: 14.2
+    rateMaj: 15.8
+-
+    state: Florida
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 2.1
+    rateMaj: 11.6
+-
+    state: Georgia
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 0.9
+    rateMaj: 4.4
+-
+    state: Hawaii
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.3
+    rateMin: 12.2
+    rateMaj: 43.2
+-
+    state: Idaho
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.6
+    rateMin: 6.9
+    rateMaj: 11.4
+-
+    state: Illinois
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.3
+    rateMin: 1.1
+    rateMaj: 4
+-
+    state: Indiana
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.3
+    rateMin: 2
+    rateMaj: 5.8
+-
+    state: Iowa
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.4
+    rateMin: 2.4
+    rateMaj: 5.8
+-
+    state: Kansas
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 1.2
+    rateMaj: 5.7
+-
+    state: Kentucky
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.4
+    rateMin: 2.7
+    rateMaj: 7.2
+-
+    state: Louisiana
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.3
+    rateMin: 1.4
+    rateMaj: 4.3
+-
+    state: Maine
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.5
+    rateMin: 6.7
+    rateMaj: 14.7
+-
+    state: Maryland
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.1
+    rateMin: 1
+    rateMaj: 6.9
+-
+    state: Massachusetts
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 3.8
+    rateMaj: 18
+-
+    state: Michigan
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.1
+    rateMin: 0.7
+    rateMaj: 4.8
+-
+    state: Minnesota
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.7
+    rateMin: 4
+    rateMaj: 5.7
+-
+    state: Mississippi
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.4
+    rateMin: 1.3
+    rateMaj: 3.4
+-
+    state: Missouri
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.3
+    rateMin: 1.9
+    rateMaj: 6.2
+-
+    state: Montana
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.4
+    rateMin: 4.7
+    rateMaj: 10.7
+-
+    state: Nebraska
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.4
+    rateMin: 4.2
+    rateMaj: 9.8
+-
+    state: Nevada
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.3
+    rateMin: 7.2
+    rateMaj: 20.9
+-
+    state: New Hampshire
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.3
+    rateMin: 3.1
+    rateMaj: 10.1
+-
+    state: New Jersey
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 0.9
+    rateMaj: 5.4
+-
+    state: New Mexico
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.3
+    rateMin: 2.8
+    rateMaj: 8.8
+-
+    state: New York
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.4
+    rateMin: 6
+    rateMaj: 14.4
+-
+    state: North Carolina
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 1.2
+    rateMaj: 5.2
+-
+    state: North Dakota
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.9
+    rateMin: 5.2
+    rateMaj: 5.5
+-
+    state: Ohio
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 1
+    rateMaj: 5.2
+-
+    state: Oklahoma
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.1
+    rateMin: 0.9
+    rateMaj: 8.9
+-
+    state: Oregon
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.1
+    rateMin: 4.3
+    rateMaj: 31.7
+-
+    state: Pennsylvania
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.3
+    rateMin: 1.7
+    rateMaj: 5.6
+-
+    state: Rhode Island
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 2.1
+    rateMaj: 8.5
+-
+    state: South Carolina
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 1
+    rateMaj: 4.5
+-
+    state: South Dakota
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.6
+    rateMin: 2.3
+    rateMaj: 4.2
+-
+    state: Tennessee
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.3
+    rateMin: 2.8
+    rateMaj: 9.1
+-
+    state: Texas
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.3
+    rateMin: 1.9
+    rateMaj: 5.9
+-
+    state: Utah
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.4
+    rateMin: 3.5
+    rateMaj: 7.9
+-
+    state: Vermont
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.3
+    rateMin: 6.3
+    rateMaj: 18.5
+-
+    state: Virginia
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.4
+    rateMin: 1.5
+    rateMaj: 4.1
+-
+    state: Washington
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 5.1
+    rateMaj: 21.2
+-
+    state: West Virginia
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 1.3
+    rateMaj: 6.2
+-
+    state: Wisconsin
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.8
+    rateMin: 4.2
+    rateMaj: 5.4
+-
+    state: Wyoming
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.3
+    rateMin: 3.4
+    rateMaj: 12
+-
+    state: Puerto Rico
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: asianVsWhite
+    rateDiff: 0.5
+    rateMin: 3.5
+    rateMaj: 7.1
+-
+    state: Alabama
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 1.3
+    rateMin: 6.2
+    rateMaj: 4.7
+-
+    state: Alaska
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 5.2
+    rateMin: 68.5
+    rateMaj: 13.1
+-
+    state: Arizona
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 1.8
+    rateMin: 18.9
+    rateMaj: 10.5
+-
+    state: Arkansas
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 1.4
+    rateMin: 8.3
+    rateMaj: 6.1
+-
+    state: California
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 3.6
+    rateMin: 88.2
+    rateMaj: 24.6
+-
+    state: Colorado
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 3.9
+    rateMin: 61.9
+    rateMaj: 16
+-
+    state: Connecticut
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 1.9
+    rateMin: 11.5
+    rateMaj: 6.1
+-
+    state: Delaware
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 0.3
+    rateMin: 1.6
+    rateMaj: 6
+-
+    state: District of Columbia
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 3.8
+    rateMin: 59.6
+    rateMaj: 15.8
+-
+    state: Florida
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 2.3
+    rateMin: 27.1
+    rateMaj: 11.6
+-
+    state: Georgia
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 3.1
+    rateMin: 13.9
+    rateMaj: 4.4
+-
+    state: Hawaii
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 4.3
+    rateMin: 186.1
+    rateMaj: 43.2
+-
+    state: Idaho
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 1.8
+    rateMin: 20.4
+    rateMaj: 11.4
+-
+    state: Illinois
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 2.3
+    rateMin: 9
+    rateMaj: 4
+-
+    state: Indiana
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 2.8
+    rateMin: 16.4
+    rateMaj: 5.8
+-
+    state: Iowa
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 8
+    rateMin: 46.5
+    rateMaj: 5.8
+-
+    state: Kansas
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 5
+    rateMin: 28.3
+    rateMaj: 5.7
+-
+    state: Kentucky
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 1.9
+    rateMin: 13.5
+    rateMaj: 7.2
+-
+    state: Louisiana
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 1.8
+    rateMin: 7.8
+    rateMaj: 4.3
+-
+    state: Maine
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 2.8
+    rateMin: 40.7
+    rateMaj: 14.7
+-
+    state: Maryland
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 2.3
+    rateMin: 15.7
+    rateMaj: 6.9
+-
+    state: Massachusetts
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 1.4
+    rateMin: 24.9
+    rateMaj: 18
+-
+    state: Michigan
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 3.2
+    rateMin: 15.5
+    rateMaj: 4.8
+-
+    state: Minnesota
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 24
+    rateMin: 137.6
+    rateMaj: 5.7
+-
+    state: Mississippi
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 4.7
+    rateMin: 16.1
+    rateMaj: 3.4
+-
+    state: Missouri
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 3.8
+    rateMin: 23.6
+    rateMaj: 6.2
+-
+    state: Montana
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 4.8
+    rateMin: 51.3
+    rateMaj: 10.7
+-
+    state: Nebraska
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 4.5
+    rateMin: 44.7
+    rateMaj: 9.8
+-
+    state: Nevada
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 2.2
+    rateMin: 46.6
+    rateMaj: 20.9
+-
+    state: New Hampshire
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 1.3
+    rateMin: 12.7
+    rateMaj: 10.1
+-
+    state: New Jersey
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 3.3
+    rateMin: 17.8
+    rateMaj: 5.4
+-
+    state: New Mexico
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 3.4
+    rateMin: 29.6
+    rateMaj: 8.8
+-
+    state: New York
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 2.6
+    rateMin: 38.1
+    rateMaj: 14.4
+-
+    state: North Carolina
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 2.3
+    rateMin: 12
+    rateMaj: 5.2
+-
+    state: North Dakota
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 9.9
+    rateMin: 54.3
+    rateMaj: 5.5
+-
+    state: Ohio
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 2.9
+    rateMin: 15.1
+    rateMaj: 5.2
+-
+    state: Oklahoma
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 1.8
+    rateMin: 16
+    rateMaj: 8.9
+-
+    state: Oregon
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 2.5
+    rateMin: 80.2
+    rateMaj: 31.7
+-
+    state: Pennsylvania
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 1.8
+    rateMin: 10
+    rateMaj: 5.6
+-
+    state: Rhode Island
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 1.8
+    rateMin: 15.1
+    rateMaj: 8.5
+-
+    state: South Carolina
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 2.6
+    rateMin: 11.9
+    rateMaj: 4.5
+-
+    state: South Dakota
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 17.2
+    rateMin: 72.4
+    rateMaj: 4.2
+-
+    state: Tennessee
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 2.2
+    rateMin: 20.4
+    rateMaj: 9.1
+-
+    state: Texas
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 1.9
+    rateMin: 11.5
+    rateMaj: 5.9
+-
+    state: Utah
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 4.2
+    rateMin: 33.5
+    rateMaj: 7.9
+-
+    state: Vermont
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 1.3
+    rateMin: 24.7
+    rateMaj: 18.5
+-
+    state: Virginia
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 1.7
+    rateMin: 7
+    rateMaj: 4.1
+-
+    state: Washington
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 4.4
+    rateMin: 92.8
+    rateMaj: 21.2
+-
+    state: West Virginia
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 1.8
+    rateMin: 11.1
+    rateMaj: 6.2
+-
+    state: Wisconsin
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 5.5
+    rateMin: 29.7
+    rateMaj: 5.4
+-
+    state: Wyoming
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 7.7
+    rateMin: 92
+    rateMaj: 12
+-
+    state: Puerto Rico
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nativeAmericanVsWhite
+    rateDiff: 3
+    rateMin: 21
+    rateMaj: 7.1
+-
+    state: Alabama
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 0.4
+    rateMin: 2
+    rateMaj: 4.7
+-
+    state: Alaska
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 5.3
+    rateMin: 69.9
+    rateMaj: 13.1
+-
+    state: Arizona
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 2.4
+    rateMin: 25
+    rateMaj: 10.5
+-
+    state: Arkansas
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 1.3
+    rateMin: 7.8
+    rateMaj: 6.1
+-
+    state: California
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 3
+    rateMin: 74.6
+    rateMaj: 24.6
+-
+    state: Colorado
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 2.6
+    rateMin: 42.4
+    rateMaj: 16
+-
+    state: Connecticut
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 18.5
+    rateMin: 112.7
+    rateMaj: 6.1
+-
+    state: Delaware
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 9.1
+    rateMin: 54.5
+    rateMaj: 6
+-
+    state: District of Columbia
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 12.7
+    rateMin: 201.7
+    rateMaj: 15.8
+-
+    state: Florida
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 4.1
+    rateMin: 47.2
+    rateMaj: 11.6
+-
+    state: Georgia
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 3.6
+    rateMin: 15.9
+    rateMaj: 4.4
+-
+    state: Hawaii
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 4.6
+    rateMin: 199.6
+    rateMaj: 43.2
+-
+    state: Idaho
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 3.7
+    rateMin: 42.7
+    rateMaj: 11.4
+-
+    state: Illinois
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 6.1
+    rateMin: 24.2
+    rateMaj: 4
+-
+    state: Indiana
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 8.2
+    rateMin: 47.5
+    rateMaj: 5.8
+-
+    state: Iowa
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 6.3
+    rateMin: 36.2
+    rateMaj: 5.8
+-
+    state: Kansas
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 6
+    rateMin: 34
+    rateMaj: 5.7
+-
+    state: Kentucky
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 0.8
+    rateMin: 5.4
+    rateMaj: 7.2
+-
+    state: Louisiana
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 8.3
+    rateMin: 35.7
+    rateMaj: 4.3
+-
+    state: Maine
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 13.6
+    rateMin: 200
+    rateMaj: 14.7
+-
+    state: Maryland
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 4.9
+    rateMin: 34.1
+    rateMaj: 6.9
+-
+    state: Massachusetts
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 6.4
+    rateMin: 114.7
+    rateMaj: 18
+-
+    state: Michigan
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 2.6
+    rateMin: 12.7
+    rateMaj: 4.8
+-
+    state: Minnesota
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 7.4
+    rateMin: 42.5
+    rateMaj: 5.7
+-
+    state: Mississippi
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 0
+    rateMin: 0
+    rateMaj: 3.4
+-
+    state: Missouri
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 1.9
+    rateMin: 12.1
+    rateMaj: 6.2
+-
+    state: Montana
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 9.1
+    rateMin: 96.7
+    rateMaj: 10.7
+-
+    state: Nebraska
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 1.7
+    rateMin: 16.5
+    rateMaj: 9.8
+-
+    state: Nevada
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 1.6
+    rateMin: 33.1
+    rateMaj: 20.9
+-
+    state: New Hampshire
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 0
+    rateMin: 0
+    rateMaj: 10.1
+-
+    state: New Jersey
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 7.5
+    rateMin: 40.9
+    rateMaj: 5.4
+-
+    state: New Mexico
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 3.1
+    rateMin: 27.3
+    rateMaj: 8.8
+-
+    state: New York
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 31.2
+    rateMin: 449.6
+    rateMaj: 14.4
+-
+    state: North Carolina
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 2.6
+    rateMin: 13.5
+    rateMaj: 5.2
+-
+    state: North Dakota
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 0
+    rateMin: 0
+    rateMaj: 5.5
+-
+    state: Ohio
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 6.7
+    rateMin: 34.6
+    rateMaj: 5.2
+-
+    state: Oklahoma
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 2.7
+    rateMin: 23.9
+    rateMaj: 8.9
+-
+    state: Oregon
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 3
+    rateMin: 95.9
+    rateMaj: 31.7
+-
+    state: Pennsylvania
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 7.6
+    rateMin: 42.1
+    rateMaj: 5.6
+-
+    state: Rhode Island
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 1.8
+    rateMin: 15.2
+    rateMaj: 8.5
+-
+    state: South Carolina
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 1.9
+    rateMin: 8.5
+    rateMaj: 4.5
+-
+    state: South Dakota
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 29
+    rateMin: 122
+    rateMaj: 4.2
+-
+    state: Tennessee
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 1
+    rateMin: 9.3
+    rateMaj: 9.1
+-
+    state: Texas
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 2.9
+    rateMin: 17.4
+    rateMaj: 5.9
+-
+    state: Utah
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 1.9
+    rateMin: 14.9
+    rateMaj: 7.9
+-
+    state: Vermont
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 4.2
+    rateMin: 76.9
+    rateMaj: 18.5
+-
+    state: Virginia
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 5.7
+    rateMin: 23.4
+    rateMaj: 4.1
+-
+    state: Washington
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 4.2
+    rateMin: 88.5
+    rateMaj: 21.2
+-
+    state: West Virginia
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 8.2
+    rateMin: 50.8
+    rateMaj: 6.2
+-
+    state: Wisconsin
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 7.8
+    rateMin: 42.6
+    rateMaj: 5.4
+-
+    state: Wyoming
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 9.9
+    rateMin: 118.9
+    rateMaj: 12
+-
+    state: Puerto Rico
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: nhpiVsWhite
+    rateDiff: 80.6
+    rateMin: 569.9
+    rateMaj: 7.1
+-
+    state: Alabama
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 3
+    rateMin: 14
+    rateMaj: 4.7
+-
+    state: Alaska
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 2.8
+    rateMin: 36.4
+    rateMaj: 13.1
+-
+    state: Arizona
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 2.2
+    rateMin: 23.4
+    rateMaj: 10.5
+-
+    state: Arkansas
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 2.4
+    rateMin: 14.5
+    rateMaj: 6.1
+-
+    state: California
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 3
+    rateMin: 72.8
+    rateMaj: 24.6
+-
+    state: Colorado
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 2.7
+    rateMin: 44.1
+    rateMaj: 16
+-
+    state: Connecticut
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 3.9
+    rateMin: 23.5
+    rateMaj: 6.1
+-
+    state: Delaware
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 2.9
+    rateMin: 17.2
+    rateMaj: 6
+-
+    state: District of Columbia
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 6.6
+    rateMin: 103.9
+    rateMaj: 15.8
+-
+    state: Florida
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 2.3
+    rateMin: 26.3
+    rateMaj: 11.6
+-
+    state: Georgia
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 3.6
+    rateMin: 15.9
+    rateMaj: 4.4
+-
+    state: Hawaii
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 1.2
+    rateMin: 50.5
+    rateMaj: 43.2
+-
+    state: Idaho
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 1.6
+    rateMin: 18.7
+    rateMaj: 11.4
+-
+    state: Illinois
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 3.5
+    rateMin: 13.9
+    rateMaj: 4
+-
+    state: Indiana
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 2.4
+    rateMin: 13.9
+    rateMaj: 5.8
+-
+    state: Iowa
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 6.1
+    rateMin: 35.5
+    rateMaj: 5.8
+-
+    state: Kansas
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 2.9
+    rateMin: 16.3
+    rateMaj: 5.7
+-
+    state: Kentucky
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 2.5
+    rateMin: 18
+    rateMaj: 7.2
+-
+    state: Louisiana
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 2
+    rateMin: 8.6
+    rateMaj: 4.3
+-
+    state: Maine
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 2.5
+    rateMin: 36.6
+    rateMaj: 14.7
+-
+    state: Maryland
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 2.7
+    rateMin: 18.7
+    rateMaj: 6.9
+-
+    state: Massachusetts
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 4.9
+    rateMin: 87.6
+    rateMaj: 18
+-
+    state: Michigan
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 3.4
+    rateMin: 16.6
+    rateMaj: 4.8
+-
+    state: Minnesota
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 7.1
+    rateMin: 40.4
+    rateMaj: 5.7
+-
+    state: Mississippi
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 1.3
+    rateMin: 4.6
+    rateMaj: 3.4
+-
+    state: Missouri
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 3.9
+    rateMin: 24
+    rateMaj: 6.2
+-
+    state: Montana
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 4.6
+    rateMin: 48.6
+    rateMaj: 10.7
+-
+    state: Nebraska
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 2.8
+    rateMin: 27.7
+    rateMaj: 9.8
+-
+    state: Nevada
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 1.6
+    rateMin: 33.4
+    rateMaj: 20.9
+-
+    state: New Hampshire
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 4.3
+    rateMin: 43.6
+    rateMaj: 10.1
+-
+    state: New Jersey
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 1.7
+    rateMin: 9.4
+    rateMaj: 5.4
+-
+    state: New Mexico
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 3.4
+    rateMin: 30.2
+    rateMaj: 8.8
+-
+    state: New York
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 7.3
+    rateMin: 105.3
+    rateMaj: 14.4
+-
+    state: North Carolina
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 3.7
+    rateMin: 19
+    rateMaj: 5.2
+-
+    state: North Dakota
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 41.4
+    rateMin: 228.4
+    rateMaj: 5.5
+-
+    state: Ohio
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 3.8
+    rateMin: 19.6
+    rateMaj: 5.2
+-
+    state: Oklahoma
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 1.1
+    rateMin: 9.9
+    rateMaj: 8.9
+-
+    state: Oregon
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 2
+    rateMin: 61.9
+    rateMaj: 31.7
+-
+    state: Pennsylvania
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 4.8
+    rateMin: 26.5
+    rateMaj: 5.6
+-
+    state: Rhode Island
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 3.3
+    rateMin: 28.4
+    rateMaj: 8.5
+-
+    state: South Carolina
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 3.3
+    rateMin: 15
+    rateMaj: 4.5
+-
+    state: South Dakota
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 1.8
+    rateMin: 7.5
+    rateMaj: 4.2
+-
+    state: Tennessee
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 2
+    rateMin: 18.5
+    rateMaj: 9.1
+-
+    state: Texas
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 2.8
+    rateMin: 16.7
+    rateMaj: 5.9
+-
+    state: Utah
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 2.3
+    rateMin: 17.9
+    rateMaj: 7.9
+-
+    state: Vermont
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 1.7
+    rateMin: 32.2
+    rateMaj: 18.5
+-
+    state: Virginia
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 2.7
+    rateMin: 11
+    rateMaj: 4.1
+-
+    state: Washington
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 3.5
+    rateMin: 74.5
+    rateMaj: 21.2
+-
+    state: West Virginia
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 1.2
+    rateMin: 7.4
+    rateMaj: 6.2
+-
+    state: Wisconsin
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 6
+    rateMin: 32.9
+    rateMaj: 5.4
+-
+    state: Wyoming
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 1.7
+    rateMin: 19.9
+    rateMaj: 12
+-
+    state: Puerto Rico
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: multipleRacesVsWhite
+    rateDiff: 12
+    rateMin: 84.5
+    rateMaj: 7.1
+-
+    state: Alabama
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 0.4
+    rateMin: 3.5
+    rateMaj: 8
+-
+    state: Alaska
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 0.8
+    rateMin: 19.8
+    rateMaj: 25.3
+-
+    state: Arizona
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 0.7
+    rateMin: 9.7
+    rateMaj: 14.4
+-
+    state: Arkansas
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 0.3
+    rateMin: 2.8
+    rateMaj: 8.7
+-
+    state: California
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 0.7
+    rateMin: 27.8
+    rateMaj: 38.3
+-
+    state: Colorado
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 1.3
+    rateMin: 23.7
+    rateMaj: 18.7
+-
+    state: Connecticut
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 2.2
+    rateMin: 17.3
+    rateMaj: 8
+-
+    state: Delaware
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 0.9
+    rateMin: 9.4
+    rateMaj: 10.5
+-
+    state: District of Columbia
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 0.6
+    rateMin: 66.4
+    rateMaj: 115
+-
+    state: Florida
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 0.5
+    rateMin: 9.3
+    rateMaj: 17.7
+-
+    state: Georgia
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 0.4
+    rateMin: 4.3
+    rateMaj: 10.4
+-
+    state: Hawaii
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 1.3
+    rateMin: 65.1
+    rateMaj: 48.9
+-
+    state: Idaho
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 1.1
+    rateMin: 12.9
+    rateMaj: 12
+-
+    state: Illinois
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 0.5
+    rateMin: 4.9
+    rateMaj: 9.2
+-
+    state: Indiana
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 0.6
+    rateMin: 5.2
+    rateMaj: 8.4
+-
+    state: Iowa
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 1.3
+    rateMin: 11.2
+    rateMaj: 8.6
+-
+    state: Kansas
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 1.3
+    rateMin: 9.3
+    rateMaj: 6.9
+-
+    state: Kentucky
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 0.8
+    rateMin: 6.9
+    rateMaj: 9.1
+-
+    state: Louisiana
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 0.6
+    rateMin: 4.3
+    rateMaj: 7.2
+-
+    state: Maine
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 2.5
+    rateMin: 41.8
+    rateMaj: 16.7
+-
+    state: Maryland
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 0.5
+    rateMin: 6.9
+    rateMaj: 12.6
+-
+    state: Massachusetts
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 4.6
+    rateMin: 83.7
+    rateMaj: 18.3
+-
+    state: Michigan
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 1.1
+    rateMin: 10.1
+    rateMaj: 9.1
+-
+    state: Minnesota
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 1.4
+    rateMin: 19.5
+    rateMaj: 13.6
+-
+    state: Mississippi
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 0.2
+    rateMin: 1.2
+    rateMaj: 5
+-
+    state: Missouri
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 1.2
+    rateMin: 12.4
+    rateMaj: 10.1
+-
+    state: Montana
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 2.3
+    rateMin: 32
+    rateMaj: 14
+-
+    state: Nebraska
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 1
+    rateMin: 13
+    rateMaj: 13.1
+-
+    state: Nevada
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 0.4
+    rateMin: 12.7
+    rateMaj: 32.2
+-
+    state: New Hampshire
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 2.8
+    rateMin: 28.9
+    rateMaj: 10.3
+-
+    state: New Jersey
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 1.1
+    rateMin: 10
+    rateMaj: 9.4
+-
+    state: New Mexico
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 0.8
+    rateMin: 10.3
+    rateMaj: 13.5
+-
+    state: New York
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 2.1
+    rateMin: 78.5
+    rateMaj: 37.6
+-
+    state: North Carolina
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 0.6
+    rateMin: 5.6
+    rateMaj: 9.2
+-
+    state: North Dakota
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 1.1
+    rateMin: 15.6
+    rateMaj: 14.3
+-
+    state: Ohio
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 1
+    rateMin: 8.8
+    rateMaj: 8.7
+-
+    state: Oklahoma
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 0.7
+    rateMin: 7.6
+    rateMaj: 11.1
+-
+    state: Oregon
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 0.8
+    rateMin: 28.9
+    rateMaj: 34.8
+-
+    state: Pennsylvania
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 1.5
+    rateMin: 16
+    rateMaj: 10.7
+-
+    state: Rhode Island
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 1.6
+    rateMin: 16.7
+    rateMaj: 10.2
+-
+    state: South Carolina
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 0.4
+    rateMin: 3.2
+    rateMaj: 8.2
+-
+    state: South Dakota
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 1.2
+    rateMin: 13.1
+    rateMaj: 10.8
+-
+    state: Tennessee
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 0.5
+    rateMin: 6.2
+    rateMaj: 12.8
+-
+    state: Texas
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 0.6
+    rateMin: 6.1
+    rateMaj: 10
+-
+    state: Utah
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 1.8
+    rateMin: 15.3
+    rateMaj: 8.4
+-
+    state: Vermont
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 2.7
+    rateMin: 51.5
+    rateMaj: 19
+-
+    state: Virginia
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 1
+    rateMin: 7.2
+    rateMaj: 7.2
+-
+    state: Washington
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 1.1
+    rateMin: 31.4
+    rateMaj: 28.6
+-
+    state: West Virginia
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 1
+    rateMin: 7.4
+    rateMaj: 7.1
+-
+    state: Wisconsin
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 1.2
+    rateMin: 10.1
+    rateMaj: 8.6
+-
+    state: Wyoming
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 1.2
+    rateMin: 18.1
+    rateMaj: 14.6
+-
+    state: Puerto Rico
+    year: 2017
+    pitYear: 2017
+    acsYear: 2016
+    category: hispanicVsNonHispanic
+    rateDiff: 0.6
+    rateMin: 10.2
+    rateMaj: 16.9
+-
+    state: Alabama
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 3.4
+    rateMin: 17.3
+    rateMaj: 5.1
+-
+    state: Alaska
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 3.6
+    rateMin: 53.7
+    rateMaj: 15.1
+-
+    state: Arizona
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 4.8
+    rateMin: 54.8
+    rateMaj: 11.5
+-
+    state: Arkansas
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 3.1
+    rateMin: 19.2
+    rateMaj: 6.1
+-
+    state: California
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 5.4
+    rateMin: 127.9
+    rateMaj: 23.8
+-
+    state: Colorado
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 5.1
+    rateMin: 77.4
+    rateMaj: 15.2
+-
+    state: Connecticut
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 5.1
+    rateMin: 36.9
+    rateMaj: 7.2
+-
+    state: Delaware
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 4.8
+    rateMin: 29.1
+    rateMaj: 6.1
+-
+    state: District of Columbia
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 16
+    rateMin: 236.8
+    rateMaj: 14.8
+-
+    state: Florida
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 3
+    rateMin: 37
+    rateMaj: 12.3
+-
+    state: Georgia
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 4.3
+    rateMin: 26.4
+    rateMaj: 6.1
+-
+    state: Hawaii
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 1.8
+    rateMin: 89.8
+    rateMaj: 49.1
+-
+    state: Idaho
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 4.5
+    rateMin: 56.1
+    rateMaj: 12.5
+-
+    state: Illinois
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 8.6
+    rateMin: 36.3
+    rateMaj: 4.2
+-
+    state: Indiana
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 4.8
+    rateMin: 30.1
+    rateMaj: 6.3
+-
+    state: Iowa
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 12.4
+    rateMin: 80.9
+    rateMaj: 6.5
+-
+    state: Kansas
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 4.8
+    rateMin: 28.5
+    rateMaj: 6
+-
+    state: Kentucky
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 4.1
+    rateMin: 30.3
+    rateMaj: 7.4
+-
+    state: Louisiana
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 3
+    rateMin: 15.3
+    rateMaj: 5
+-
+    state: Maine
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 8.2
+    rateMin: 121.6
+    rateMaj: 14.8
+-
+    state: Maryland
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 3.4
+    rateMin: 25.2
+    rateMaj: 7.5
+-
+    state: Massachusetts
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 5.4
+    rateMin: 106.9
+    rateMaj: 19.8
+-
+    state: Michigan
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 6.3
+    rateMin: 32.9
+    rateMaj: 5.2
+-
+    state: Minnesota
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 16.7
+    rateMin: 99.3
+    rateMaj: 5.9
+-
+    state: Mississippi
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 2.6
+    rateMin: 9.4
+    rateMaj: 3.6
+-
+    state: Missouri
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 4.7
+    rateMin: 32.2
+    rateMaj: 6.8
+-
+    state: Montana
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 4.5
+    rateMin: 43.1
+    rateMaj: 9.5
+-
+    state: Nebraska
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 5.5
+    rateMin: 61.1
+    rateMaj: 11
+-
+    state: Nevada
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 4.1
+    rateMin: 81.5
+    rateMaj: 19.8
+-
+    state: New Hampshire
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 5.1
+    rateMin: 48.2
+    rateMaj: 9.5
+-
+    state: New Jersey
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 6
+    rateMin: 35.2
+    rateMaj: 5.9
+-
+    state: New Mexico
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 4.7
+    rateMin: 35.1
+    rateMaj: 7.4
+-
+    state: New York
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 11.5
+    rateMin: 160.3
+    rateMaj: 14
+-
+    state: North Carolina
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 4.1
+    rateMin: 22.8
+    rateMaj: 5.6
+-
+    state: North Dakota
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 8.6
+    rateMin: 65.4
+    rateMaj: 7.6
+-
+    state: Ohio
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 5.8
+    rateMin: 31.3
+    rateMaj: 5.4
+-
+    state: Oklahoma
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 3.4
+    rateMin: 29.1
+    rateMaj: 8.6
+-
+    state: Oregon
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 3.3
+    rateMin: 100.3
+    rateMaj: 30.4
+-
+    state: Pennsylvania
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 8.4
+    rateMin: 52.7
+    rateMaj: 6.3
+-
+    state: Rhode Island
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 4.1
+    rateMin: 34.7
+    rateMaj: 8.6
+-
+    state: South Carolina
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 3
+    rateMin: 19.4
+    rateMaj: 6.4
+-
+    state: South Dakota
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 10.1
+    rateMin: 44.2
+    rateMaj: 4.4
+-
+    state: Tennessee
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 3
+    rateMin: 29.8
+    rateMaj: 9.9
+-
+    state: Texas
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 4.1
+    rateMin: 23.7
+    rateMaj: 5.8
+-
+    state: Utah
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 7.4
+    rateMin: 61.1
+    rateMaj: 8.2
+-
+    state: Vermont
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 6.8
+    rateMin: 111.1
+    rateMaj: 16.3
+-
+    state: Virginia
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 4.7
+    rateMin: 20.2
+    rateMaj: 4.3
+-
+    state: Washington
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 6.5
+    rateMin: 139.2
+    rateMaj: 21.4
+-
+    state: West Virginia
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 5.1
+    rateMin: 32.8
+    rateMaj: 6.4
+-
+    state: Wisconsin
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 8.9
+    rateMin: 53.6
+    rateMaj: 6
+-
+    state: Wyoming
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 4.1
+    rateMin: 50.2
+    rateMaj: 12.1
+-
+    state: Puerto Rico
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: blackVsWhite
+    rateDiff: 2.7
+    rateMin: 21.6
+    rateMaj: 8.1
+-
+    state: Alabama
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.1
+    rateMin: 0.6
+    rateMaj: 5.1
+-
+    state: Alaska
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.6
+    rateMin: 9.6
+    rateMaj: 15.1
+-
+    state: Arizona
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 2.3
+    rateMaj: 11.5
+-
+    state: Arkansas
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.4
+    rateMin: 2.2
+    rateMaj: 6.1
+-
+    state: California
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.1
+    rateMin: 3.2
+    rateMaj: 23.8
+-
+    state: Colorado
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.3
+    rateMin: 4.5
+    rateMaj: 15.2
+-
+    state: Connecticut
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.3
+    rateMin: 1.9
+    rateMaj: 7.2
+-
+    state: Delaware
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0
+    rateMin: 0.3
+    rateMaj: 6.1
+-
+    state: District of Columbia
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.9
+    rateMin: 13.1
+    rateMaj: 14.8
+-
+    state: Florida
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 2.1
+    rateMaj: 12.3
+-
+    state: Georgia
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 1.3
+    rateMaj: 6.1
+-
+    state: Hawaii
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.1
+    rateMin: 7.4
+    rateMaj: 49.1
+-
+    state: Idaho
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.3
+    rateMin: 3.8
+    rateMaj: 12.5
+-
+    state: Illinois
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.4
+    rateMin: 1.8
+    rateMaj: 4.2
+-
+    state: Indiana
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.3
+    rateMin: 1.7
+    rateMaj: 6.3
+-
+    state: Iowa
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.4
+    rateMin: 2.4
+    rateMaj: 6.5
+-
+    state: Kansas
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.4
+    rateMin: 2.1
+    rateMaj: 6
+-
+    state: Kentucky
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.1
+    rateMin: 0.5
+    rateMaj: 7.4
+-
+    state: Louisiana
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.3
+    rateMin: 1.4
+    rateMaj: 5
+-
+    state: Maine
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.4
+    rateMin: 5.6
+    rateMaj: 14.8
+-
+    state: Maryland
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.1
+    rateMin: 0.9
+    rateMaj: 7.5
+-
+    state: Massachusetts
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.1
+    rateMin: 2.9
+    rateMaj: 19.8
+-
+    state: Michigan
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 1.1
+    rateMaj: 5.2
+-
+    state: Minnesota
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.5
+    rateMin: 3.1
+    rateMaj: 5.9
+-
+    state: Mississippi
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.6
+    rateMin: 2.3
+    rateMaj: 3.6
+-
+    state: Missouri
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.3
+    rateMin: 1.9
+    rateMaj: 6.8
+-
+    state: Montana
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.1
+    rateMin: 1.2
+    rateMaj: 9.5
+-
+    state: Nebraska
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 2.5
+    rateMaj: 11
+-
+    state: Nevada
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.4
+    rateMin: 7.7
+    rateMaj: 19.8
+-
+    state: New Hampshire
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.1
+    rateMin: 0.6
+    rateMaj: 9.5
+-
+    state: New Jersey
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.1
+    rateMin: 0.7
+    rateMaj: 5.9
+-
+    state: New Mexico
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.7
+    rateMin: 5.2
+    rateMaj: 7.4
+-
+    state: New York
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.4
+    rateMin: 5.5
+    rateMaj: 14
+-
+    state: North Carolina
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 1.1
+    rateMaj: 5.6
+-
+    state: North Dakota
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.6
+    rateMin: 4.6
+    rateMaj: 7.6
+-
+    state: Ohio
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.3
+    rateMin: 1.6
+    rateMaj: 5.4
+-
+    state: Oklahoma
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.3
+    rateMin: 2.9
+    rateMaj: 8.6
+-
+    state: Oregon
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 4.9
+    rateMaj: 30.4
+-
+    state: Pennsylvania
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 1.5
+    rateMaj: 6.3
+-
+    state: Rhode Island
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.5
+    rateMin: 4.1
+    rateMaj: 8.6
+-
+    state: South Carolina
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.4
+    rateMin: 2.8
+    rateMaj: 6.4
+-
+    state: South Dakota
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.4
+    rateMin: 1.7
+    rateMaj: 4.4
+-
+    state: Tennessee
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 2
+    rateMaj: 9.9
+-
+    state: Texas
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.3
+    rateMin: 1.8
+    rateMaj: 5.8
+-
+    state: Utah
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.5
+    rateMin: 4
+    rateMaj: 8.2
+-
+    state: Vermont
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.4
+    rateMin: 5.7
+    rateMaj: 16.3
+-
+    state: Virginia
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.4
+    rateMin: 1.6
+    rateMaj: 4.3
+-
+    state: Washington
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.4
+    rateMin: 7.9
+    rateMaj: 21.4
+-
+    state: West Virginia
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.1
+    rateMin: 0.7
+    rateMaj: 6.4
+-
+    state: Wisconsin
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.5
+    rateMin: 2.8
+    rateMaj: 6
+-
+    state: Wyoming
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.3
+    rateMin: 3.5
+    rateMaj: 12.1
+-
+    state: Puerto Rico
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: asianVsWhite
+    rateDiff: 0.7
+    rateMin: 5.5
+    rateMaj: 8.1
+-
+    state: Alabama
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 2.9
+    rateMin: 14.6
+    rateMaj: 5.1
+-
+    state: Alaska
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 4.7
+    rateMin: 70.3
+    rateMaj: 15.1
+-
+    state: Arizona
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 1.9
+    rateMin: 22.2
+    rateMaj: 11.5
+-
+    state: Arkansas
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 1.2
+    rateMin: 7.4
+    rateMaj: 6.1
+-
+    state: California
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 2.7
+    rateMin: 65.1
+    rateMaj: 23.8
+-
+    state: Colorado
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 4
+    rateMin: 61.3
+    rateMaj: 15.2
+-
+    state: Connecticut
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 3.9
+    rateMin: 28.5
+    rateMaj: 7.2
+-
+    state: Delaware
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 0.3
+    rateMin: 1.7
+    rateMaj: 6.1
+-
+    state: District of Columbia
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 6.4
+    rateMin: 95
+    rateMaj: 14.8
+-
+    state: Florida
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 2.4
+    rateMin: 29.5
+    rateMaj: 12.3
+-
+    state: Georgia
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 2.1
+    rateMin: 12.5
+    rateMaj: 6.1
+-
+    state: Hawaii
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 4.1
+    rateMin: 199.6
+    rateMaj: 49.1
+-
+    state: Idaho
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 3.7
+    rateMin: 46.1
+    rateMaj: 12.5
+-
+    state: Illinois
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 1.7
+    rateMin: 7.2
+    rateMaj: 4.2
+-
+    state: Indiana
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 2.5
+    rateMin: 15.6
+    rateMaj: 6.3
+-
+    state: Iowa
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 7.1
+    rateMin: 46.6
+    rateMaj: 6.5
+-
+    state: Kansas
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 3.2
+    rateMin: 18.9
+    rateMaj: 6
+-
+    state: Kentucky
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 3.1
+    rateMin: 23.1
+    rateMaj: 7.4
+-
+    state: Louisiana
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 1.7
+    rateMin: 8.4
+    rateMaj: 5
+-
+    state: Maine
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 3.1
+    rateMin: 45.7
+    rateMaj: 14.8
+-
+    state: Maryland
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 2.2
+    rateMin: 16.2
+    rateMaj: 7.5
+-
+    state: Massachusetts
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 1.2
+    rateMin: 24.6
+    rateMaj: 19.8
+-
+    state: Michigan
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 2.4
+    rateMin: 12.5
+    rateMaj: 5.2
+-
+    state: Minnesota
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 16.2
+    rateMin: 96.5
+    rateMaj: 5.9
+-
+    state: Mississippi
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 3.4
+    rateMin: 12.3
+    rateMaj: 3.6
+-
+    state: Missouri
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 4.7
+    rateMin: 32.4
+    rateMaj: 6.8
+-
+    state: Montana
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 5.6
+    rateMin: 53.4
+    rateMaj: 9.5
+-
+    state: Nebraska
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 2.3
+    rateMin: 24.9
+    rateMaj: 11
+-
+    state: Nevada
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 1.8
+    rateMin: 35.4
+    rateMaj: 19.8
+-
+    state: New Hampshire
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 0.8
+    rateMin: 7.9
+    rateMaj: 9.5
+-
+    state: New Jersey
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 2.5
+    rateMin: 14.9
+    rateMaj: 5.9
+-
+    state: New Mexico
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 3.5
+    rateMin: 26
+    rateMaj: 7.4
+-
+    state: New York
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 2.5
+    rateMin: 34.6
+    rateMaj: 14
+-
+    state: North Carolina
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 1.7
+    rateMin: 9.2
+    rateMaj: 5.6
+-
+    state: North Dakota
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 6.9
+    rateMin: 52.6
+    rateMaj: 7.6
+-
+    state: Ohio
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 2.9
+    rateMin: 15.7
+    rateMaj: 5.4
+-
+    state: Oklahoma
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 1.8
+    rateMin: 15
+    rateMaj: 8.6
+-
+    state: Oregon
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 2.6
+    rateMin: 77.7
+    rateMaj: 30.4
+-
+    state: Pennsylvania
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 2.1
+    rateMin: 13.3
+    rateMaj: 6.3
+-
+    state: Rhode Island
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 1.9
+    rateMin: 16.3
+    rateMaj: 8.6
+-
+    state: South Carolina
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 1.6
+    rateMin: 10.6
+    rateMaj: 6.4
+-
+    state: South Dakota
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 18.3
+    rateMin: 80.6
+    rateMaj: 4.4
+-
+    state: Tennessee
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 1.6
+    rateMin: 16.1
+    rateMaj: 9.9
+-
+    state: Texas
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 5.2
+    rateMin: 30.4
+    rateMaj: 5.8
+-
+    state: Utah
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 3.9
+    rateMin: 32
+    rateMaj: 8.2
+-
+    state: Vermont
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 3.1
+    rateMin: 50.3
+    rateMaj: 16.3
+-
+    state: Virginia
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 1.9
+    rateMin: 8.3
+    rateMaj: 4.3
+-
+    state: Washington
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 3.8
+    rateMin: 82.2
+    rateMaj: 21.4
+-
+    state: West Virginia
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 2.1
+    rateMin: 13.5
+    rateMaj: 6.4
+-
+    state: Wisconsin
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 5.2
+    rateMin: 31.4
+    rateMaj: 6
+-
+    state: Wyoming
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 6.7
+    rateMin: 80.9
+    rateMaj: 12.1
+-
+    state: Puerto Rico
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nativeAmericanVsWhite
+    rateDiff: 5.7
+    rateMin: 46.4
+    rateMaj: 8.1
+-
+    state: Alabama
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 3.2
+    rateMin: 16.1
+    rateMaj: 5.1
+-
+    state: Alaska
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 3.7
+    rateMin: 55.8
+    rateMaj: 15.1
+-
+    state: Arizona
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 3.2
+    rateMin: 37.4
+    rateMaj: 11.5
+-
+    state: Arkansas
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 1.5
+    rateMin: 9.2
+    rateMaj: 6.1
+-
+    state: California
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 2.8
+    rateMin: 65.9
+    rateMaj: 23.8
+-
+    state: Colorado
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 3.9
+    rateMin: 59.5
+    rateMaj: 15.2
+-
+    state: Connecticut
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 26.5
+    rateMin: 191.8
+    rateMaj: 7.2
+-
+    state: Delaware
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 5.6
+    rateMin: 34.1
+    rateMaj: 6.1
+-
+    state: District of Columbia
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 10.4
+    rateMin: 154.7
+    rateMaj: 14.8
+-
+    state: Florida
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 2.7
+    rateMin: 32.7
+    rateMaj: 12.3
+-
+    state: Georgia
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 7.2
+    rateMin: 43.5
+    rateMaj: 6.1
+-
+    state: Hawaii
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 4.7
+    rateMin: 231.6
+    rateMaj: 49.1
+-
+    state: Idaho
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 5.5
+    rateMin: 68.6
+    rateMaj: 12.5
+-
+    state: Illinois
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 5.2
+    rateMin: 22
+    rateMaj: 4.2
+-
+    state: Indiana
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 6.6
+    rateMin: 42
+    rateMaj: 6.3
+-
+    state: Iowa
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 2.3
+    rateMin: 14.9
+    rateMaj: 6.5
+-
+    state: Kansas
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 1.1
+    rateMin: 6.3
+    rateMaj: 6
+-
+    state: Kentucky
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 6.7
+    rateMin: 49.5
+    rateMaj: 7.4
+-
+    state: Louisiana
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 6.5
+    rateMin: 32.7
+    rateMaj: 5
+-
+    state: Maine
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 7
+    rateMin: 104.4
+    rateMaj: 14.8
+-
+    state: Maryland
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 4
+    rateMin: 29.9
+    rateMaj: 7.5
+-
+    state: Massachusetts
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 6.1
+    rateMin: 121.1
+    rateMaj: 19.8
+-
+    state: Michigan
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 16.5
+    rateMin: 86
+    rateMaj: 5.2
+-
+    state: Minnesota
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 33.6
+    rateMin: 199.9
+    rateMaj: 5.9
+-
+    state: Mississippi
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 4.6
+    rateMin: 16.9
+    rateMaj: 3.6
+-
+    state: Missouri
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 3
+    rateMin: 20.6
+    rateMaj: 6.8
+-
+    state: Montana
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 7.1
+    rateMin: 67.6
+    rateMaj: 9.5
+-
+    state: Nebraska
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 2.3
+    rateMin: 25.9
+    rateMaj: 11
+-
+    state: Nevada
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 3.1
+    rateMin: 60.9
+    rateMaj: 19.8
+-
+    state: New Hampshire
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 3.3
+    rateMin: 31.5
+    rateMaj: 9.5
+-
+    state: New Jersey
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 10
+    rateMin: 58.9
+    rateMaj: 5.9
+-
+    state: New Mexico
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 6.6
+    rateMin: 49
+    rateMaj: 7.4
+-
+    state: New York
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 33
+    rateMin: 460.4
+    rateMaj: 14
+-
+    state: North Carolina
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 2.2
+    rateMin: 12.3
+    rateMaj: 5.6
+-
+    state: North Dakota
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 2.4
+    rateMin: 18.7
+    rateMaj: 7.6
+-
+    state: Ohio
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 2.6
+    rateMin: 14.1
+    rateMaj: 5.4
+-
+    state: Oklahoma
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 1.2
+    rateMin: 10
+    rateMaj: 8.6
+-
+    state: Oregon
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 2.7
+    rateMin: 83.5
+    rateMaj: 30.4
+-
+    state: Pennsylvania
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 4.7
+    rateMin: 29.9
+    rateMaj: 6.3
+-
+    state: Rhode Island
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 1.8
+    rateMin: 15.6
+    rateMaj: 8.6
+-
+    state: South Carolina
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 5.8
+    rateMin: 37.3
+    rateMaj: 6.4
+-
+    state: South Dakota
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 18.7
+    rateMin: 82.2
+    rateMaj: 4.4
+-
+    state: Tennessee
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 2.4
+    rateMin: 24.1
+    rateMaj: 9.9
+-
+    state: Texas
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 3.6
+    rateMin: 21
+    rateMaj: 5.8
+-
+    state: Utah
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 1.3
+    rateMin: 10.6
+    rateMaj: 8.2
+-
+    state: Vermont
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 0
+    rateMin: 0
+    rateMaj: 16.3
+-
+    state: Virginia
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 2.8
+    rateMin: 11.9
+    rateMaj: 4.3
+-
+    state: Washington
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 4.3
+    rateMin: 92.7
+    rateMaj: 21.4
+-
+    state: West Virginia
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 2.8
+    rateMin: 17.7
+    rateMaj: 6.4
+-
+    state: Wisconsin
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 7.3
+    rateMin: 43.7
+    rateMaj: 6
+-
+    state: Wyoming
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 0
+    rateMin: 0
+    rateMaj: 12.1
+-
+    state: Puerto Rico
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: nhpiVsWhite
+    rateDiff: 0
+    rateMin: 0
+    rateMaj: 8.1
+-
+    state: Alabama
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 2.2
+    rateMin: 11
+    rateMaj: 5.1
+-
+    state: Alaska
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 2.1
+    rateMin: 32.3
+    rateMaj: 15.1
+-
+    state: Arizona
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 2
+    rateMin: 23
+    rateMaj: 11.5
+-
+    state: Arkansas
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 2.2
+    rateMin: 13.4
+    rateMaj: 6.1
+-
+    state: California
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 3.1
+    rateMin: 73.2
+    rateMaj: 23.8
+-
+    state: Colorado
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 3.2
+    rateMin: 47.8
+    rateMaj: 15.2
+-
+    state: Connecticut
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 1.9
+    rateMin: 14
+    rateMaj: 7.2
+-
+    state: Delaware
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 2.9
+    rateMin: 17.6
+    rateMaj: 6.1
+-
+    state: District of Columbia
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 5
+    rateMin: 73.7
+    rateMaj: 14.8
+-
+    state: Florida
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 2.2
+    rateMin: 26.9
+    rateMaj: 12.3
+-
+    state: Georgia
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 2.8
+    rateMin: 16.9
+    rateMaj: 6.1
+-
+    state: Hawaii
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 1.2
+    rateMin: 58.1
+    rateMaj: 49.1
+-
+    state: Idaho
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 1.6
+    rateMin: 20.5
+    rateMaj: 12.5
+-
+    state: Illinois
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 3.2
+    rateMin: 13.4
+    rateMaj: 4.2
+-
+    state: Indiana
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 2.7
+    rateMin: 17
+    rateMaj: 6.3
+-
+    state: Iowa
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 5.6
+    rateMin: 36.5
+    rateMaj: 6.5
+-
+    state: Kansas
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 3.1
+    rateMin: 18.4
+    rateMaj: 6
+-
+    state: Kentucky
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 3.2
+    rateMin: 23.4
+    rateMaj: 7.4
+-
+    state: Louisiana
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 3.8
+    rateMin: 18.9
+    rateMaj: 5
+-
+    state: Maine
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 2.3
+    rateMin: 34.1
+    rateMaj: 14.8
+-
+    state: Maryland
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 2.2
+    rateMin: 16.8
+    rateMaj: 7.5
+-
+    state: Massachusetts
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 7
+    rateMin: 138.3
+    rateMaj: 19.8
+-
+    state: Michigan
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 3.5
+    rateMin: 18
+    rateMaj: 5.2
+-
+    state: Minnesota
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 5.1
+    rateMin: 30.1
+    rateMaj: 5.9
+-
+    state: Mississippi
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 0.4
+    rateMin: 1.4
+    rateMaj: 3.6
+-
+    state: Missouri
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 3.1
+    rateMin: 20.9
+    rateMaj: 6.8
+-
+    state: Montana
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 5.6
+    rateMin: 52.9
+    rateMaj: 9.5
+-
+    state: Nebraska
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 5.6
+    rateMin: 61.9
+    rateMaj: 11
+-
+    state: Nevada
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 1.6
+    rateMin: 32.5
+    rateMaj: 19.8
+-
+    state: New Hampshire
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 4
+    rateMin: 38.1
+    rateMaj: 9.5
+-
+    state: New Jersey
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 1.7
+    rateMin: 10.1
+    rateMaj: 5.9
+-
+    state: New Mexico
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 5.3
+    rateMin: 39
+    rateMaj: 7.4
+-
+    state: New York
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 12.5
+    rateMin: 174.9
+    rateMaj: 14
+-
+    state: North Carolina
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 2.7
+    rateMin: 15.1
+    rateMaj: 5.6
+-
+    state: North Dakota
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 5.2
+    rateMin: 39.3
+    rateMaj: 7.6
+-
+    state: Ohio
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 3.7
+    rateMin: 20
+    rateMaj: 5.4
+-
+    state: Oklahoma
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 0.8
+    rateMin: 6.6
+    rateMaj: 8.6
+-
+    state: Oregon
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 2
+    rateMin: 59.4
+    rateMaj: 30.4
+-
+    state: Pennsylvania
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 4.2
+    rateMin: 26.5
+    rateMaj: 6.3
+-
+    state: Rhode Island
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 2.8
+    rateMin: 23.9
+    rateMaj: 8.6
+-
+    state: South Carolina
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 3.6
+    rateMin: 23
+    rateMaj: 6.4
+-
+    state: South Dakota
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 5.6
+    rateMin: 24.6
+    rateMaj: 4.4
+-
+    state: Tennessee
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 1.6
+    rateMin: 16
+    rateMaj: 9.9
+-
+    state: Texas
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 3.4
+    rateMin: 19.9
+    rateMaj: 5.8
+-
+    state: Utah
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 2
+    rateMin: 16.5
+    rateMaj: 8.2
+-
+    state: Vermont
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 2.3
+    rateMin: 37.4
+    rateMaj: 16.3
+-
+    state: Virginia
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 2.5
+    rateMin: 10.7
+    rateMaj: 4.3
+-
+    state: Washington
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 3.4
+    rateMin: 73.4
+    rateMaj: 21.4
+-
+    state: West Virginia
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 2.6
+    rateMin: 16.9
+    rateMaj: 6.4
+-
+    state: Wisconsin
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 5.6
+    rateMin: 33.6
+    rateMaj: 6
+-
+    state: Wyoming
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 2
+    rateMin: 23.7
+    rateMaj: 12.1
+-
+    state: Puerto Rico
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: multipleRacesVsWhite
+    rateDiff: 12.6
+    rateMin: 101.9
+    rateMaj: 8.1
+-
+    state: Alabama
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 0.5
+    rateMin: 4.2
+    rateMaj: 8.7
+-
+    state: Alaska
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 1.1
+    rateMin: 28.3
+    rateMaj: 26.2
+-
+    state: Arizona
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 0.7
+    rateMin: 11.3
+    rateMaj: 15.6
+-
+    state: Arkansas
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 0.5
+    rateMin: 4
+    rateMaj: 8.6
+-
+    state: California
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 0.6
+    rateMin: 21.7
+    rateMaj: 35.8
+-
+    state: Colorado
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 1.4
+    rateMin: 25.5
+    rateMaj: 17.7
+-
+    state: Connecticut
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 2.2
+    rateMin: 20.1
+    rateMaj: 9.2
+-
+    state: Delaware
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 0.6
+    rateMin: 7
+    rateMaj: 11.8
+-
+    state: District of Columbia
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 0.5
+    rateMin: 60.3
+    rateMaj: 132.3
+-
+    state: Florida
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 0.5
+    rateMin: 9.5
+    rateMaj: 18.9
+-
+    state: Georgia
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 0.5
+    rateMin: 6.8
+    rateMaj: 13.3
+-
+    state: Hawaii
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 1.2
+    rateMin: 63.8
+    rateMaj: 54.6
+-
+    state: Idaho
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 1
+    rateMin: 13.5
+    rateMaj: 13.6
+-
+    state: Illinois
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 0.6
+    rateMin: 5.8
+    rateMaj: 9.7
+-
+    state: Indiana
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 0.6
+    rateMin: 5
+    rateMaj: 9
+-
+    state: Iowa
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 1.8
+    rateMin: 16.8
+    rateMaj: 9.4
+-
+    state: Kansas
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 0.9
+    rateMin: 7.1
+    rateMaj: 7.8
+-
+    state: Kentucky
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 1.2
+    rateMin: 11.2
+    rateMaj: 9.5
+-
+    state: Louisiana
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 0.9
+    rateMin: 7.9
+    rateMaj: 8.6
+-
+    state: Maine
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 2.1
+    rateMin: 34.3
+    rateMaj: 16.6
+-
+    state: Maryland
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 1
+    rateMin: 12.6
+    rateMaj: 12.8
+-
+    state: Massachusetts
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 4.4
+    rateMin: 91.8
+    rateMaj: 21
+-
+    state: Michigan
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 1.2
+    rateMin: 10.8
+    rateMaj: 9.3
+-
+    state: Minnesota
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 1.9
+    rateMin: 24
+    rateMaj: 12.8
+-
+    state: Mississippi
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 0.4
+    rateMin: 2.2
+    rateMaj: 5.9
+-
+    state: Missouri
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 1.1
+    rateMin: 10.8
+    rateMaj: 10.2
+-
+    state: Montana
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 2.3
+    rateMin: 30.6
+    rateMaj: 13.1
+-
+    state: Nebraska
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 1.3
+    rateMin: 18.3
+    rateMaj: 14.1
+-
+    state: Nevada
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 0.4
+    rateMin: 11.7
+    rateMaj: 31.1
+-
+    state: New Hampshire
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 2.7
+    rateMin: 26.4
+    rateMaj: 9.7
+-
+    state: New Jersey
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 1
+    rateMin: 10.2
+    rateMaj: 9.9
+-
+    state: New Mexico
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 0.7
+    rateMin: 8.8
+    rateMaj: 12.9
+-
+    state: New York
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 3.6
+    rateMin: 105.4
+    rateMaj: 29.5
+-
+    state: North Carolina
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 0.5
+    rateMin: 4.8
+    rateMaj: 10
+-
+    state: North Dakota
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 2.6
+    rateMin: 29.6
+    rateMaj: 11.6
+-
+    state: Ohio
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 0.9
+    rateMin: 8.1
+    rateMaj: 9
+-
+    state: Oklahoma
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 0.5
+    rateMin: 5.4
+    rateMaj: 11.1
+-
+    state: Oregon
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 0.8
+    rateMin: 28
+    rateMaj: 33.6
+-
+    state: Pennsylvania
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 1.7
+    rateMin: 19.2
+    rateMaj: 11.5
+-
+    state: Rhode Island
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 1.5
+    rateMin: 15.4
+    rateMaj: 10.2
+-
+    state: South Carolina
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 0.4
+    rateMin: 4.8
+    rateMaj: 10.6
+-
+    state: South Dakota
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 1.2
+    rateMin: 14.8
+    rateMaj: 12.4
+-
+    state: Tennessee
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 0.5
+    rateMin: 7.1
+    rateMaj: 13.6
+-
+    state: Texas
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 0.5
+    rateMin: 5.6
+    rateMaj: 10.2
+-
+    state: Utah
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 1.7
+    rateMin: 14.3
+    rateMaj: 8.6
+-
+    state: Vermont
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 4
+    rateMin: 68.3
+    rateMaj: 16.9
+-
+    state: Virginia
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 1
+    rateMin: 7.5
+    rateMaj: 7.5
+-
+    state: Washington
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 1.2
+    rateMin: 33.8
+    rateMaj: 28.4
+-
+    state: West Virginia
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 0.9
+    rateMin: 6.6
+    rateMaj: 7.5
+-
+    state: Wisconsin
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 1.3
+    rateMin: 12.5
+    rateMaj: 9.7
+-
+    state: Wyoming
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 1.5
+    rateMin: 20.9
+    rateMaj: 13.9
+-
+    state: Puerto Rico
+    year: 2016
+    pitYear: 2016
+    acsYear: 2015
+    category: hispanicVsNonHispanic
+    rateDiff: 0.4
+    rateMin: 12.5
+    rateMaj: 32.1
+-
+    state: Alabama
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 3
+    rateMin: 16.2
+    rateMaj: 5.4
+-
+    state: Alaska
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 3.5
+    rateMin: 52.7
+    rateMaj: 15.1
+-
+    state: Arizona
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 4.7
+    rateMin: 55.9
+    rateMaj: 11.9
+-
+    state: Arkansas
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 3
+    rateMin: 19.5
+    rateMaj: 6.5
+-
+    state: California
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 5.6
+    rateMin: 127.7
+    rateMaj: 22.7
+-
+    state: Colorado
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 5.8
+    rateMin: 82.3
+    rateMaj: 14.1
+-
+    state: Connecticut
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 5.1
+    rateMin: 38.1
+    rateMaj: 7.4
+-
+    state: Delaware
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 4.4
+    rateMin: 24.6
+    rateMaj: 5.6
+-
+    state: District of Columbia
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 13.3
+    rateMin: 204
+    rateMaj: 15.4
+-
+    state: Florida
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 2.9
+    rateMin: 39.4
+    rateMaj: 13.5
+-
+    state: Georgia
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 4.1
+    rateMin: 28.1
+    rateMaj: 6.9
+-
+    state: Hawaii
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 1.8
+    rateMin: 91.5
+    rateMaj: 50.3
+-
+    state: Idaho
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 4.7
+    rateMin: 52.8
+    rateMaj: 11.3
+-
+    state: Illinois
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 8.8
+    rateMin: 41.2
+    rateMaj: 4.7
+-
+    state: Indiana
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 5.4
+    rateMin: 33.1
+    rateMaj: 6.2
+-
+    state: Iowa
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 10.9
+    rateMin: 75.2
+    rateMaj: 6.9
+-
+    state: Kansas
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 5.4
+    rateMin: 35.7
+    rateMaj: 6.6
+-
+    state: Kentucky
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 4.2
+    rateMin: 33
+    rateMaj: 7.9
+-
+    state: Louisiana
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 3
+    rateMin: 15.8
+    rateMaj: 5.2
+-
+    state: Maine
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 7
+    rateMin: 112.2
+    rateMaj: 16.1
+-
+    state: Maryland
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 3.2
+    rateMin: 27.1
+    rateMaj: 8.4
+-
+    state: Massachusetts
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 6
+    rateMin: 127.4
+    rateMaj: 21.4
+-
+    state: Michigan
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 6.5
+    rateMin: 37.9
+    rateMaj: 5.8
+-
+    state: Minnesota
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 19
+    rateMin: 107.4
+    rateMaj: 5.7
+-
+    state: Mississippi
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 3.8
+    rateMin: 12.2
+    rateMaj: 3.2
+-
+    state: Missouri
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 5.1
+    rateMin: 35.9
+    rateMaj: 7
+-
+    state: Montana
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 4.9
+    rateMin: 68.1
+    rateMaj: 14
+-
+    state: Nebraska
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 5.8
+    rateMin: 63.6
+    rateMaj: 10.9
+-
+    state: Nevada
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 5.8
+    rateMin: 124.1
+    rateMaj: 21.3
+-
+    state: New Hampshire
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 3.2
+    rateMin: 33.6
+    rateMaj: 10.5
+-
+    state: New Jersey
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 6.3
+    rateMin: 42
+    rateMaj: 6.7
+-
+    state: New Mexico
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 4.2
+    rateMin: 41.7
+    rateMaj: 10
+-
+    state: New York
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 11.1
+    rateMin: 173.4
+    rateMaj: 15.6
+-
+    state: North Carolina
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 4.1
+    rateMin: 25.9
+    rateMaj: 6.3
+-
+    state: North Dakota
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 12.4
+    rateMin: 145.7
+    rateMaj: 11.8
+-
+    state: Ohio
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 6
+    rateMin: 34.7
+    rateMaj: 5.8
+-
+    state: Oklahoma
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 2.9
+    rateMin: 24.5
+    rateMaj: 8.4
+-
+    state: Oregon
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 3.4
+    rateMin: 104.4
+    rateMaj: 30.7
+-
+    state: Pennsylvania
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 9
+    rateMin: 55.1
+    rateMaj: 6.1
+-
+    state: Rhode Island
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 4.1
+    rateMin: 35
+    rateMaj: 8.5
+-
+    state: South Carolina
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 3.2
+    rateMin: 21.8
+    rateMaj: 6.8
+-
+    state: South Dakota
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 9.9
+    rateMin: 54.9
+    rateMaj: 5.5
+-
+    state: Tennessee
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 3
+    rateMin: 31.2
+    rateMaj: 10.4
+-
+    state: Texas
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 4
+    rateMin: 25.7
+    rateMaj: 6.4
+-
+    state: Utah
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 9.2
+    rateMin: 80.8
+    rateMaj: 8.8
+-
+    state: Vermont
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 7.6
+    rateMin: 174.9
+    rateMaj: 22.9
+-
+    state: Virginia
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 5
+    rateMin: 23
+    rateMaj: 4.6
+-
+    state: Washington
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 6.9
+    rateMin: 144
+    rateMaj: 20.8
+-
+    state: West Virginia
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 5.1
+    rateMin: 44
+    rateMaj: 8.6
+-
+    state: Wisconsin
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 8.8
+    rateMin: 56.8
+    rateMaj: 6.5
+-
+    state: Wyoming
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 3.1
+    rateMin: 35.9
+    rateMaj: 11.6
+-
+    state: Puerto Rico
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: blackVsWhite
+    rateDiff: 3.2
+    rateMin: 23.9
+    rateMaj: 7.5
+-
+    state: Alabama
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.1
+    rateMin: 0.8
+    rateMaj: 5.4
+-
+    state: Alaska
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.3
+    rateMin: 4
+    rateMaj: 15.1
+-
+    state: Arizona
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 2.6
+    rateMaj: 11.9
+-
+    state: Arkansas
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 1.6
+    rateMaj: 6.5
+-
+    state: California
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 3.9
+    rateMaj: 22.7
+-
+    state: Colorado
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.4
+    rateMin: 5.4
+    rateMaj: 14.1
+-
+    state: Connecticut
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.3
+    rateMin: 2.4
+    rateMaj: 7.4
+-
+    state: Delaware
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 0.8
+    rateMaj: 5.6
+-
+    state: District of Columbia
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 1.6
+    rateMin: 24.2
+    rateMaj: 15.4
+-
+    state: Florida
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 2.2
+    rateMaj: 13.5
+-
+    state: Georgia
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 1
+    rateMaj: 6.9
+-
+    state: Hawaii
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 8.9
+    rateMaj: 50.3
+-
+    state: Idaho
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.4
+    rateMin: 4.9
+    rateMaj: 11.3
+-
+    state: Illinois
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.3
+    rateMin: 1.5
+    rateMaj: 4.7
+-
+    state: Indiana
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 1.3
+    rateMaj: 6.2
+-
+    state: Iowa
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.3
+    rateMin: 2.2
+    rateMaj: 6.9
+-
+    state: Kansas
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 1.5
+    rateMaj: 6.6
+-
+    state: Kentucky
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.1
+    rateMin: 1.2
+    rateMaj: 7.9
+-
+    state: Louisiana
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.5
+    rateMin: 2.6
+    rateMaj: 5.2
+-
+    state: Maine
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 3.9
+    rateMaj: 16.1
+-
+    state: Maryland
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 1.5
+    rateMaj: 8.4
+-
+    state: Massachusetts
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 4.9
+    rateMaj: 21.4
+-
+    state: Michigan
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 1
+    rateMaj: 5.8
+-
+    state: Minnesota
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.8
+    rateMin: 4.6
+    rateMaj: 5.7
+-
+    state: Mississippi
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 0.7
+    rateMaj: 3.2
+-
+    state: Missouri
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.3
+    rateMin: 1.8
+    rateMaj: 7
+-
+    state: Montana
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0
+    rateMin: 0
+    rateMaj: 14
+-
+    state: Nebraska
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.5
+    rateMin: 5.9
+    rateMaj: 10.9
+-
+    state: Nevada
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.5
+    rateMin: 10
+    rateMaj: 21.3
+-
+    state: New Hampshire
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 1.8
+    rateMaj: 10.5
+-
+    state: New Jersey
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 1.2
+    rateMaj: 6.7
+-
+    state: New Mexico
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.4
+    rateMin: 3.5
+    rateMaj: 10
+-
+    state: New York
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.3
+    rateMin: 5.3
+    rateMaj: 15.6
+-
+    state: North Carolina
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.3
+    rateMin: 2.1
+    rateMaj: 6.3
+-
+    state: North Dakota
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 1.4
+    rateMin: 16.1
+    rateMaj: 11.8
+-
+    state: Ohio
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.3
+    rateMin: 1.5
+    rateMaj: 5.8
+-
+    state: Oklahoma
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.1
+    rateMin: 0.9
+    rateMaj: 8.4
+-
+    state: Oregon
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.3
+    rateMin: 7.9
+    rateMaj: 30.7
+-
+    state: Pennsylvania
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.3
+    rateMin: 1.8
+    rateMaj: 6.1
+-
+    state: Rhode Island
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.1
+    rateMin: 1.1
+    rateMaj: 8.5
+-
+    state: South Carolina
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 1.5
+    rateMaj: 6.8
+-
+    state: South Dakota
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.5
+    rateMin: 2.7
+    rateMaj: 5.5
+-
+    state: Tennessee
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 2
+    rateMaj: 10.4
+-
+    state: Texas
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 1.2
+    rateMaj: 6.4
+-
+    state: Utah
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.6
+    rateMin: 5.1
+    rateMaj: 8.8
+-
+    state: Vermont
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.1
+    rateMin: 3
+    rateMaj: 22.9
+-
+    state: Virginia
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.5
+    rateMin: 2.1
+    rateMaj: 4.6
+-
+    state: Washington
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.3
+    rateMin: 6.4
+    rateMaj: 20.8
+-
+    state: West Virginia
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.1
+    rateMin: 0.7
+    rateMaj: 8.6
+-
+    state: Wisconsin
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.6
+    rateMin: 3.6
+    rateMaj: 6.5
+-
+    state: Wyoming
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0
+    rateMin: 0
+    rateMaj: 11.6
+-
+    state: Puerto Rico
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: asianVsWhite
+    rateDiff: 0.2
+    rateMin: 1.1
+    rateMaj: 7.5
+-
+    state: Alabama
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 1.1
+    rateMin: 5.7
+    rateMaj: 5.4
+-
+    state: Alaska
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 5.2
+    rateMin: 79.4
+    rateMaj: 15.1
+-
+    state: Arizona
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 2
+    rateMin: 23.6
+    rateMaj: 11.9
+-
+    state: Arkansas
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 1.8
+    rateMin: 11.4
+    rateMaj: 6.5
+-
+    state: California
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 3.3
+    rateMin: 74.8
+    rateMaj: 22.7
+-
+    state: Colorado
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 4
+    rateMin: 56.8
+    rateMaj: 14.1
+-
+    state: Connecticut
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 3.6
+    rateMin: 26.9
+    rateMaj: 7.4
+-
+    state: Delaware
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 3.3
+    rateMin: 18.4
+    rateMaj: 5.6
+-
+    state: District of Columbia
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 4.6
+    rateMin: 71
+    rateMaj: 15.4
+-
+    state: Florida
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 2.9
+    rateMin: 38.8
+    rateMaj: 13.5
+-
+    state: Georgia
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 0.9
+    rateMin: 5.9
+    rateMaj: 6.9
+-
+    state: Hawaii
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 3.4
+    rateMin: 168.9
+    rateMaj: 50.3
+-
+    state: Idaho
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 3.4
+    rateMin: 38.7
+    rateMaj: 11.3
+-
+    state: Illinois
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 1.5
+    rateMin: 7.1
+    rateMaj: 4.7
+-
+    state: Indiana
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 2.8
+    rateMin: 16.9
+    rateMaj: 6.2
+-
+    state: Iowa
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 6.4
+    rateMin: 44.1
+    rateMaj: 6.9
+-
+    state: Kansas
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 4.8
+    rateMin: 31.6
+    rateMaj: 6.6
+-
+    state: Kentucky
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 3.7
+    rateMin: 29.5
+    rateMaj: 7.9
+-
+    state: Louisiana
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 2.7
+    rateMin: 14.1
+    rateMaj: 5.2
+-
+    state: Maine
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 1.7
+    rateMin: 27.4
+    rateMaj: 16.1
+-
+    state: Maryland
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 1.9
+    rateMin: 16
+    rateMaj: 8.4
+-
+    state: Massachusetts
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 1.5
+    rateMin: 31.4
+    rateMaj: 21.4
+-
+    state: Michigan
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 1.9
+    rateMin: 11.1
+    rateMaj: 5.8
+-
+    state: Minnesota
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 16.1
+    rateMin: 91.2
+    rateMaj: 5.7
+-
+    state: Mississippi
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 1.7
+    rateMin: 5.7
+    rateMaj: 3.2
+-
+    state: Missouri
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 1.8
+    rateMin: 12.5
+    rateMaj: 7
+-
+    state: Montana
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 3.4
+    rateMin: 47.3
+    rateMaj: 14
+-
+    state: Nebraska
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 4.1
+    rateMin: 45.1
+    rateMaj: 10.9
+-
+    state: Nevada
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 1.9
+    rateMin: 40.5
+    rateMaj: 21.3
+-
+    state: New Hampshire
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 0.5
+    rateMin: 5.3
+    rateMaj: 10.5
+-
+    state: New Jersey
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 0.7
+    rateMin: 4.4
+    rateMaj: 6.7
+-
+    state: New Mexico
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 2.7
+    rateMin: 26.6
+    rateMaj: 10
+-
+    state: New York
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 2.8
+    rateMin: 43.5
+    rateMaj: 15.6
+-
+    state: North Carolina
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 1.8
+    rateMin: 11.1
+    rateMaj: 6.3
+-
+    state: North Dakota
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 3.8
+    rateMin: 45.1
+    rateMaj: 11.8
+-
+    state: Ohio
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 3.2
+    rateMin: 18.7
+    rateMaj: 5.8
+-
+    state: Oklahoma
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 1.4
+    rateMin: 11.6
+    rateMaj: 8.4
+-
+    state: Oregon
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 2.8
+    rateMin: 84.7
+    rateMaj: 30.7
+-
+    state: Pennsylvania
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 2.8
+    rateMin: 17.2
+    rateMaj: 6.1
+-
+    state: Rhode Island
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 0.8
+    rateMin: 6.8
+    rateMaj: 8.5
+-
+    state: South Carolina
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 2.4
+    rateMin: 16.6
+    rateMaj: 6.8
+-
+    state: South Dakota
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 12.3
+    rateMin: 68
+    rateMaj: 5.5
+-
+    state: Tennessee
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 2.2
+    rateMin: 23
+    rateMaj: 10.4
+-
+    state: Texas
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 2.5
+    rateMin: 15.7
+    rateMaj: 6.4
+-
+    state: Utah
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 3.3
+    rateMin: 28.6
+    rateMaj: 8.8
+-
+    state: Vermont
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 0.9
+    rateMin: 21.1
+    rateMaj: 22.9
+-
+    state: Virginia
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 3.1
+    rateMin: 14.2
+    rateMaj: 4.6
+-
+    state: Washington
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 3.1
+    rateMin: 64.6
+    rateMaj: 20.8
+-
+    state: West Virginia
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 2.4
+    rateMin: 20.6
+    rateMaj: 8.6
+-
+    state: Wisconsin
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 5.4
+    rateMin: 34.9
+    rateMaj: 6.5
+-
+    state: Wyoming
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 5.3
+    rateMin: 61.5
+    rateMaj: 11.6
+-
+    state: Puerto Rico
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nativeAmericanVsWhite
+    rateDiff: 6.2
+    rateMin: 46.7
+    rateMaj: 7.5
+-
+    state: Alabama
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 0.4
+    rateMin: 2
+    rateMaj: 5.4
+-
+    state: Alaska
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 4.4
+    rateMin: 67.2
+    rateMaj: 15.1
+-
+    state: Arizona
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 2.7
+    rateMin: 32.5
+    rateMaj: 11.9
+-
+    state: Arkansas
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 5.3
+    rateMin: 34.6
+    rateMaj: 6.5
+-
+    state: California
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 2.8
+    rateMin: 63.7
+    rateMaj: 22.7
+-
+    state: Colorado
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 2.4
+    rateMin: 34.5
+    rateMaj: 14.1
+-
+    state: Connecticut
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 44.8
+    rateMin: 332.3
+    rateMaj: 7.4
+-
+    state: Delaware
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 6.3
+    rateMin: 35.2
+    rateMaj: 5.6
+-
+    state: District of Columbia
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 7.7
+    rateMin: 119
+    rateMaj: 15.4
+-
+    state: Florida
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 3.8
+    rateMin: 52
+    rateMaj: 13.5
+-
+    state: Georgia
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 6.5
+    rateMin: 44.5
+    rateMaj: 6.9
+-
+    state: Hawaii
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 4.1
+    rateMin: 205.2
+    rateMaj: 50.3
+-
+    state: Idaho
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 4.3
+    rateMin: 48.9
+    rateMaj: 11.3
+-
+    state: Illinois
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 5.3
+    rateMin: 24.7
+    rateMaj: 4.7
+-
+    state: Indiana
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 6.6
+    rateMin: 40.4
+    rateMaj: 6.2
+-
+    state: Iowa
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 7.9
+    rateMin: 54.3
+    rateMaj: 6.9
+-
+    state: Kansas
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 3.9
+    rateMin: 25.7
+    rateMaj: 6.6
+-
+    state: Kentucky
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 5.3
+    rateMin: 41.8
+    rateMaj: 7.9
+-
+    state: Louisiana
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 9.3
+    rateMin: 48.4
+    rateMaj: 5.2
+-
+    state: Maine
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 11
+    rateMin: 177
+    rateMaj: 16.1
+-
+    state: Maryland
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 6.9
+    rateMin: 58
+    rateMaj: 8.4
+-
+    state: Massachusetts
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 10.1
+    rateMin: 215.3
+    rateMaj: 21.4
+-
+    state: Michigan
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 10
+    rateMin: 58.3
+    rateMaj: 5.8
+-
+    state: Minnesota
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 15
+    rateMin: 84.6
+    rateMaj: 5.7
+-
+    state: Mississippi
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 24.7
+    rateMin: 80
+    rateMaj: 3.2
+-
+    state: Missouri
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 4.4
+    rateMin: 30.6
+    rateMaj: 7
+-
+    state: Montana
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 4.2
+    rateMin: 58.5
+    rateMaj: 14
+-
+    state: Nebraska
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 6.4
+    rateMin: 69.9
+    rateMaj: 10.9
+-
+    state: Nevada
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 1.6
+    rateMin: 34.7
+    rateMaj: 21.3
+-
+    state: New Hampshire
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 1.6
+    rateMin: 16.5
+    rateMaj: 10.5
+-
+    state: New Jersey
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 5.8
+    rateMin: 38.6
+    rateMaj: 6.7
+-
+    state: New Mexico
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 5.2
+    rateMin: 52.3
+    rateMaj: 10
+-
+    state: New York
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 33.7
+    rateMin: 526.9
+    rateMaj: 15.6
+-
+    state: North Carolina
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 2.2
+    rateMin: 14.2
+    rateMaj: 6.3
+-
+    state: North Dakota
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 9.1
+    rateMin: 106.8
+    rateMaj: 11.8
+-
+    state: Ohio
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 5.2
+    rateMin: 29.7
+    rateMaj: 5.8
+-
+    state: Oklahoma
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 2
+    rateMin: 16.6
+    rateMaj: 8.4
+-
+    state: Oregon
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 3.2
+    rateMin: 98.4
+    rateMaj: 30.7
+-
+    state: Pennsylvania
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 6
+    rateMin: 36.9
+    rateMaj: 6.1
+-
+    state: Rhode Island
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 1.2
+    rateMin: 10.5
+    rateMaj: 8.5
+-
+    state: South Carolina
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 6.3
+    rateMin: 43.2
+    rateMaj: 6.8
+-
+    state: South Dakota
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 9.2
+    rateMin: 50.7
+    rateMaj: 5.5
+-
+    state: Tennessee
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 3.8
+    rateMin: 39.4
+    rateMaj: 10.4
+-
+    state: Texas
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 4.5
+    rateMin: 28.9
+    rateMaj: 6.4
+-
+    state: Utah
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 2.9
+    rateMin: 25.4
+    rateMaj: 8.8
+-
+    state: Vermont
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 5.7
+    rateMin: 130.4
+    rateMaj: 22.9
+-
+    state: Virginia
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 4.1
+    rateMin: 18.8
+    rateMaj: 4.6
+-
+    state: Washington
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 4.7
+    rateMin: 97.9
+    rateMaj: 20.8
+-
+    state: West Virginia
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 6.2
+    rateMin: 53.8
+    rateMaj: 8.6
+-
+    state: Wisconsin
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 23.4
+    rateMin: 151.4
+    rateMaj: 6.5
+-
+    state: Wyoming
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 1.4
+    rateMin: 16.2
+    rateMaj: 11.6
+-
+    state: Puerto Rico
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: nhpiVsWhite
+    rateDiff: 45.7
+    rateMin: 343.4
+    rateMaj: 7.5
+-
+    state: Alabama
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 1
+    rateMin: 5.6
+    rateMaj: 5.4
+-
+    state: Alaska
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 1.3
+    rateMin: 19.9
+    rateMaj: 15.1
+-
+    state: Arizona
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 2.2
+    rateMin: 26.7
+    rateMaj: 11.9
+-
+    state: Arkansas
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 1.2
+    rateMin: 8.1
+    rateMaj: 6.5
+-
+    state: California
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 3.4
+    rateMin: 76.8
+    rateMaj: 22.7
+-
+    state: Colorado
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 3.5
+    rateMin: 50
+    rateMaj: 14.1
+-
+    state: Connecticut
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 1.7
+    rateMin: 12.8
+    rateMaj: 7.4
+-
+    state: Delaware
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 4.2
+    rateMin: 23.3
+    rateMaj: 5.6
+-
+    state: District of Columbia
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 5.9
+    rateMin: 90.5
+    rateMaj: 15.4
+-
+    state: Florida
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 2.3
+    rateMin: 30.4
+    rateMaj: 13.5
+-
+    state: Georgia
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 3
+    rateMin: 20.6
+    rateMaj: 6.9
+-
+    state: Hawaii
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 1.2
+    rateMin: 58.9
+    rateMaj: 50.3
+-
+    state: Idaho
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 0.7
+    rateMin: 7.6
+    rateMaj: 11.3
+-
+    state: Illinois
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 4.7
+    rateMin: 21.9
+    rateMaj: 4.7
+-
+    state: Indiana
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 2.7
+    rateMin: 16.4
+    rateMaj: 6.2
+-
+    state: Iowa
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 5.6
+    rateMin: 38.5
+    rateMaj: 6.9
+-
+    state: Kansas
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 2.9
+    rateMin: 19.4
+    rateMaj: 6.6
+-
+    state: Kentucky
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 3.2
+    rateMin: 25.3
+    rateMaj: 7.9
+-
+    state: Louisiana
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 1.7
+    rateMin: 9
+    rateMaj: 5.2
+-
+    state: Maine
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 2.4
+    rateMin: 38.7
+    rateMaj: 16.1
+-
+    state: Maryland
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 2.3
+    rateMin: 19.4
+    rateMaj: 8.4
+-
+    state: Massachusetts
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 5
+    rateMin: 106.8
+    rateMaj: 21.4
+-
+    state: Michigan
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 3.3
+    rateMin: 19.2
+    rateMaj: 5.8
+-
+    state: Minnesota
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 8.8
+    rateMin: 49.7
+    rateMaj: 5.7
+-
+    state: Mississippi
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 0.7
+    rateMin: 2.3
+    rateMaj: 3.2
+-
+    state: Missouri
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 3.1
+    rateMin: 21.8
+    rateMaj: 7
+-
+    state: Montana
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 1.7
+    rateMin: 24.4
+    rateMaj: 14
+-
+    state: Nebraska
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 4.1
+    rateMin: 44.2
+    rateMaj: 10.9
+-
+    state: Nevada
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 1.8
+    rateMin: 38
+    rateMaj: 21.3
+-
+    state: New Hampshire
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 2.7
+    rateMin: 28.6
+    rateMaj: 10.5
+-
+    state: New Jersey
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 0.4
+    rateMin: 2.5
+    rateMaj: 6.7
+-
+    state: New Mexico
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 1.4
+    rateMin: 14.3
+    rateMaj: 10
+-
+    state: New York
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 4.6
+    rateMin: 72
+    rateMaj: 15.6
+-
+    state: North Carolina
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 1.8
+    rateMin: 11.4
+    rateMaj: 6.3
+-
+    state: North Dakota
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 5.6
+    rateMin: 65.7
+    rateMaj: 11.8
+-
+    state: Ohio
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 3.3
+    rateMin: 18.8
+    rateMaj: 5.8
+-
+    state: Oklahoma
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 0.8
+    rateMin: 7
+    rateMaj: 8.4
+-
+    state: Oregon
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 1.8
+    rateMin: 54.9
+    rateMaj: 30.7
+-
+    state: Pennsylvania
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 3.8
+    rateMin: 23.3
+    rateMaj: 6.1
+-
+    state: Rhode Island
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 2
+    rateMin: 16.8
+    rateMaj: 8.5
+-
+    state: South Carolina
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 1.8
+    rateMin: 12.3
+    rateMaj: 6.8
+-
+    state: South Dakota
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 1.6
+    rateMin: 8.7
+    rateMaj: 5.5
+-
+    state: Tennessee
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 1.3
+    rateMin: 13.3
+    rateMaj: 10.4
+-
+    state: Texas
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 2.2
+    rateMin: 14
+    rateMaj: 6.4
+-
+    state: Utah
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 2
+    rateMin: 17.2
+    rateMaj: 8.8
+-
+    state: Vermont
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 0.6
+    rateMin: 13.2
+    rateMaj: 22.9
+-
+    state: Virginia
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 3.3
+    rateMin: 15.1
+    rateMaj: 4.6
+-
+    state: Washington
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 2.7
+    rateMin: 55.2
+    rateMaj: 20.8
+-
+    state: West Virginia
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 1.5
+    rateMin: 12.9
+    rateMaj: 8.6
+-
+    state: Wisconsin
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 4.6
+    rateMin: 30
+    rateMaj: 6.5
+-
+    state: Wyoming
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 3.2
+    rateMin: 37.2
+    rateMaj: 11.6
+-
+    state: Puerto Rico
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: multipleRacesVsWhite
+    rateDiff: 10.8
+    rateMin: 81.1
+    rateMaj: 7.5
+-
+    state: Alabama
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 0.4
+    rateMin: 3.5
+    rateMaj: 8.4
+-
+    state: Alaska
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 0.7
+    rateMin: 19
+    rateMaj: 27.1
+-
+    state: Arizona
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 0.7
+    rateMin: 11.6
+    rateMaj: 16.1
+-
+    state: Arkansas
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 2.6
+    rateMin: 20.1
+    rateMaj: 7.8
+-
+    state: California
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 0.6
+    rateMin: 21.2
+    rateMaj: 35.4
+-
+    state: Colorado
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 1.6
+    rateMin: 26.1
+    rateMaj: 16.6
+-
+    state: Connecticut
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 2.2
+    rateMin: 20.9
+    rateMaj: 9.6
+-
+    state: Delaware
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 0.6
+    rateMin: 6.5
+    rateMaj: 10.5
+-
+    state: District of Columbia
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 0.5
+    rateMin: 55.5
+    rateMaj: 117.2
+-
+    state: Florida
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 0.5
+    rateMin: 10.4
+    rateMaj: 20.5
+-
+    state: Georgia
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 0.5
+    rateMin: 7.6
+    rateMaj: 14.3
+-
+    state: Hawaii
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 1.3
+    rateMin: 65.8
+    rateMaj: 52.4
+-
+    state: Idaho
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 1
+    rateMin: 12.1
+    rateMaj: 12
+-
+    state: Illinois
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 0.8
+    rateMin: 8.4
+    rateMaj: 10.6
+-
+    state: Indiana
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 0.5
+    rateMin: 5
+    rateMaj: 9.2
+-
+    state: Iowa
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 1.5
+    rateMin: 14.4
+    rateMaj: 9.7
+-
+    state: Kansas
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 0.9
+    rateMin: 8.2
+    rateMaj: 9
+-
+    state: Kentucky
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 0.9
+    rateMin: 9.1
+    rateMaj: 10.3
+-
+    state: Louisiana
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 0.5
+    rateMin: 4.4
+    rateMaj: 9
+-
+    state: Maine
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 2.2
+    rateMin: 37.8
+    rateMaj: 17.5
+-
+    state: Maryland
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 0.6
+    rateMin: 9.1
+    rateMaj: 14.6
+-
+    state: Massachusetts
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 4.4
+    rateMin: 101.3
+    rateMaj: 22.8
+-
+    state: Michigan
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 1.1
+    rateMin: 11.2
+    rateMaj: 10.6
+-
+    state: Minnesota
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 1.6
+    rateMin: 22.1
+    rateMaj: 13.4
+-
+    state: Mississippi
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 0.4
+    rateMin: 2.4
+    rateMaj: 6.8
+-
+    state: Missouri
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 1
+    rateMin: 10.7
+    rateMaj: 10.7
+-
+    state: Montana
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 2.3
+    rateMin: 36.8
+    rateMaj: 16
+-
+    state: Nebraska
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 1.5
+    rateMin: 20.7
+    rateMaj: 13.9
+-
+    state: Nevada
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 0.5
+    rateMin: 17.9
+    rateMaj: 35.8
+-
+    state: New Hampshire
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 2.7
+    rateMin: 27.7
+    rateMaj: 10.3
+-
+    state: New Jersey
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 0.9
+    rateMin: 10.6
+    rateMaj: 11.5
+-
+    state: New Mexico
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 0.8
+    rateMin: 11.2
+    rateMaj: 14
+-
+    state: New York
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 2
+    rateMin: 76.4
+    rateMaj: 37.5
+-
+    state: North Carolina
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 0.5
+    rateMin: 6.1
+    rateMaj: 11.2
+-
+    state: North Dakota
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 2.2
+    rateMin: 38
+    rateMaj: 17
+-
+    state: Ohio
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 1
+    rateMin: 9.5
+    rateMaj: 9.6
+-
+    state: Oklahoma
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 0.6
+    rateMin: 6.5
+    rateMaj: 10.1
+-
+    state: Oregon
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 0.9
+    rateMin: 31.4
+    rateMaj: 33.6
+-
+    state: Pennsylvania
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 2.3
+    rateMin: 25.2
+    rateMaj: 11.1
+-
+    state: Rhode Island
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 2.1
+    rateMin: 18.9
+    rateMaj: 9.2
+-
+    state: South Carolina
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 0.5
+    rateMin: 5.4
+    rateMaj: 11.4
+-
+    state: South Dakota
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 0.4
+    rateMin: 5.3
+    rateMaj: 12.4
+-
+    state: Tennessee
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 0.4
+    rateMin: 5.9
+    rateMaj: 14.4
+-
+    state: Texas
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 0.7
+    rateMin: 6.7
+    rateMaj: 10.1
+-
+    state: Utah
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 1.8
+    rateMin: 16.7
+    rateMaj: 9.3
+-
+    state: Vermont
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 1.8
+    rateMin: 43
+    rateMaj: 24
+-
+    state: Virginia
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 0.8
+    rateMin: 6.7
+    rateMaj: 8.6
+-
+    state: Washington
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 1.2
+    rateMin: 32.1
+    rateMaj: 26.9
+-
+    state: West Virginia
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 1.5
+    rateMin: 14.7
+    rateMaj: 9.9
+-
+    state: Wisconsin
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 1.3
+    rateMin: 13.8
+    rateMaj: 10.3
+-
+    state: Wyoming
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 1.8
+    rateMin: 22.7
+    rateMaj: 12.7
+-
+    state: Puerto Rico
+    year: 2015
+    pitYear: 2015
+    acsYear: 2014
+    category: hispanicVsNonHispanic
+    rateDiff: 0.3
+    rateMin: 12.4
+    rateMaj: 44.3

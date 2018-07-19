@@ -1,0 +1,8 @@
+---
+layout: none
+---
+dataReleaseYear,dataYear,category,black,asian,nativeAmerican,multipleRaces,nhpi,white,hispanic,nonHispanic
+{% for i in site.data.d3.raceVizNationalProportionsStackedBars %}
+  {{- i.dataReleaseYear -}},{{- i.dataYear -}},{{- i.category -}},{{- i.black -}},{{- i.asian -}},{{- i.nativeAmerican -}},{{- i.multipleRaces -}},{{- i.nhpi -}},{{- i.white -}},{{- i.hispanic -}},{{- i.nonHispanic -}}
+  {% if forloop.last == false %},{% endif %}
+{% endfor %}
