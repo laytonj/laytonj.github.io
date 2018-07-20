@@ -18,12 +18,14 @@ title: Portfolio
       <a href="#python" class="nav-link" id="pills-python-tab" data-toggle="pill" role="tab" aria-controls="pills-python" aria-selected="false">Python</a>
     </li>
     <li class="nav-item option4">
-      <a href="#writing" class="nav-link" id="pills-writing-tab" data-toggle="pill" role="tab" aria-controls="pills-writing" aria-selected="false">Writing/Reports</a>
+      <a href="#writing" class="nav-link" id="pills-writing-tab" data-toggle="pill" role="tab" aria-controls="pills-writing" aria-selected="false">Briefs/Reports</a>
     </li>
   </ul>
 </div>
 <div class="tab-content" id="profileSelectContent">
   <div class="tab-pane fade show active" id="webDevD3" role="tabpanel" aria-labelledby="webDevD3-tab">
+    <div class="alsoThisWebsite">Also, <span class="font-italic">this website!</span> I built it from the ground up using Jekyll. <a href="https://github.com/laytonj/laytonj.github.io" target="_blank" rel="noopener">See all the code</a> on GitHub.
+    </div>
     <div class="d-flex flex-wrap justify-content-center">
       <div class="portfolioCard">
         <a href="{{ site.baseurl }}/portfolio/d3js/system-flow">
@@ -71,18 +73,42 @@ title: Portfolio
   </div>
   <div class="tab-pane fade" id="python" role="tabpanel" aria-labelledby="python-tab">
     <div class="d-flex flex-wrap justify-content-center">
+<!--       <div class="portfolioCard">
+        <a href="{{ site.baseurl }}/portfolio/python/federal-data">
+          <img src="{{ site.baseurl }}/assets/images/portfolio_python_teen-pregnancy.PNG"/>
+          <p class="portfolioTitle">Improving the useability of a federal dataset through serious data munging [pandas]</p>
+        </a>
+      </div> -->
       <div class="portfolioCard">
         <a href="{{ site.baseurl }}/portfolio/python/teen-pregnancy">
           <img src="{{ site.baseurl }}/assets/images/portfolio_python_teen-pregnancy.PNG"/>
-          <p class="portfolioTitle">An analysis of teen pregnancy against education outcomes and country income [pandas, matplotlib]</p>
+          <p class="portfolioTitle">Exploring teen pregnancy versus education outcomes [pandas, matplotlib]</p>
         </a>
-      </div>    
+      </div>
+      <div class="portfolioCard">
+        <a href="{{ site.baseurl }}/portfolio/python/website-ab-test">
+          <img src="{{ site.baseurl }}/assets/images/portfolio_python_ab-test.PNG"/>
+          <p class="portfolioTitle">Analyzing the impact of a website A/B test [pandas, statsmodels]</p>
+        </a>
+      </div>
+      <div class="portfolioCard">
+        <a href="{{ site.baseurl }}/portfolio/python/state-reports">
+          <img src="{{ site.baseurl }}/assets/images/portfolio_python_state-reports.PNG"/>
+          <p class="portfolioTitle">Streamlining a state-by-state report pipeline with python before a custom-font mail merge [pandas]</p>
+        </a>
+      </div>     
     </div>
     <div class="moreOnTheWay">More on the way!</div>
   </div>
   <div class="tab-pane fade" id="writing" role="tabpanel" aria-labelledby="writing-tab">
-    <div class="d-flex flex-wrap justify-content-center">
-
-    </div>
+<!--     <div class="d-flex flex-wrap justify-content-center">
+      <div class="portfolioCard">
+        <a href="{{ site.baseurl }}/portfolio/docs/doubled-up">
+          <img src="{{ site.baseurl }}/assets/images/portfolio_docs_doubled-up.PNG"/>
+          <p class="portfolioTitle">A brief on people living doubled up (American Community Survey)</p>
+        </a>
+      </div>    
+    </div> -->
+    <div class="moreOnTheWay">More on the way!</div>
   </div>
 </div>

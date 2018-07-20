@@ -1,0 +1,25 @@
+---
+layout: portfolio_item
+category: D3.js
+title: State reports creation pipeline
+---
+
+<div class="row">
+  <div class="col-lg-1"></div>
+  <div class="col-lg-10">
+    When working on federal policy and advocacy, profiling data by state is fairly common, but creating a report for each state can be tedious. We found that an excellent way to go about this is to combine python and InDesign.
+    <br/><br/>
+    With a report template in mind and an idea of which data and text elements may vary by state, use python (<span class="font-weight-bold">pandas</span>) to prepare these fields. They will be added from Excel via a mail merge. You can even test-run the report's text in python. But the best part is that with the font called <a href="https://www.fontshop.com/content/ff-chartwell-making-all-the-charts" target="_blank" rel="noopener">FF Chartwell</a> you can create high-quality charts from strings of numbers. Fortunately, those fields are easy to prepare in pandas as well.
+    <img src="{{ site.baseurl }}/assets/images/chartwell.png" width="200" style="float:right">
+    <br/><br/>
+    Actually, what's embedded below is our first go at this. It worked so smoothly we went back and added more graphics. I'll update soon.
+    <br/><br/>
+    For the interactive code, download the Jupyter notebook and associated data files from <a href="https://github.com/laytonj/state-reports" target="_blank" rel="noopener">GitHub</a>.
+  </div>
+  <div class="col-lg-1"></div>
+</div>
+<div class="jupyterEmbed">
+  <iframe src="https://nbviewer.jupyter.org/github/laytonj/state-reports/blob/master/state-advocacy-reports.ipynb"></iframe>
+</div>
+
+
