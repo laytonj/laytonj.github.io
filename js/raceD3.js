@@ -3,10 +3,11 @@
 /////////////// INTRO SECTION ELEMENTS /////////////
 ////////////////////////////////////////////////////
 
-// !!!!!!!!! EDITED FOR PORTFOLIO VERSION !!!!!!!! //
 
 ///Basic accordion functionality for intro section //////////
+//from https://www.w3schools.com/howto/howto_js_accordion.asp
 //Collapse and expand functionality for each accordion option
+//Plus will re-trigger the scroller position calculations because the height to the first graph will have changed
 //Plus will re-trigger the scroller position calculations because the height to the first graph will have changed
 var accordionOptions = document.getElementsByClassName("accordion");
 
@@ -171,6 +172,19 @@ d3.select('#chartDiv10').append('div')
   .html(ntnlLocationTitle);
 
 
+  
+  
+  
+  
+  
+  
+
+	
+	
+	
+	
+	
+
 /////////////////////////////////////////////
 ///////// DATA TO HTML CONVERSIONS //////////
 /////////////////////////////////////////////
@@ -210,8 +224,26 @@ var colors = {'black':'#00b2a9',
               'asianNhpiNativeAm':'#b7312c',
               'nonHispWhite':'#002b49'
               };
-             
+
+
+ /*
+
+var colors = {'black':'#0055bc', 
+              'asian':'#00b2a9', 
+              'nativeAmerican':'#b9975b',
+              'multipleRaces':'#b7312c',
+              'nhpi':'#9cdbd9',
+              'otherRace':'#d0d3d4',
+              'white':'#002b49',
+              'hispanic':'#5c6068',
+              'nonHispanic':'#b3b7b8',
+              'asianNhpiNativeAm':'#00b2a9',
+              'nonHispWhite':'#002b49'
+              };
+*/              
               
+              
+
 ////////// EXPLANATION AND SOURCE BUTTONS //////////
 var helpSourceBoxWidth = 125, 
     helpSourceBoxHeight = 25,
@@ -224,6 +256,12 @@ var helpColor = 'rgb(181, 38, 37)',
 
 var helpFadeDuration = 2000,
 	helpFadeDelay = 2000;
+
+
+
+
+
+
 
 
 
@@ -406,7 +444,12 @@ function raceVizzes(div, type) {
 	  .style('left', (width * 0.05) + 'px')
 	  .style('margin-top', -gapVizTopToPopUp + 'px');
 
-    
+
+	
+
+
+ 
+ 
     ///////////// RADIO BUTTONS /////////////
     var radioOuterR = 7;
     var radioInnerR = 4.5;
@@ -476,8 +519,9 @@ function raceVizzes(div, type) {
       .attr('class','dropdownHeader')
       .html('Grouped')
       .attr('transform','translate(' + 15 + ',' + (optionsPosFromTop + 24) + ')');
-
-      
+  
+  
+  
     //////////////////////////////
     var raceChart = vizSection.append('g').attr('class','vizToClear');
     var ethnChart = vizSection.append('g').attr('class','vizToClear');
@@ -529,6 +573,7 @@ function raceVizzes(div, type) {
         d.hispanic = +d.hispanic;
         d.nonHispanic = +d.nonHispanic;
       });
+  
   
   
       //create an array of keys for race and another for ethnicity to use for the 'stack' data format below
@@ -663,8 +708,11 @@ function raceVizzes(div, type) {
             }) 
           .on('mouseout', function(d) {
             d3.select("#tooltip").classed("hidden", true);
-          });
+          })
+        ;
       
+          
+          
     
       var seriesEthn = ethnChart.selectAll('.series')
         .data(stackEthn) //bind to the stack generator revised data format
@@ -695,7 +743,7 @@ function raceVizzes(div, type) {
             } else {
             d3.select("#tooltip")
               .style("top", (d3.event.pageY + tooltipYOffset)+"px")
-              .style("left", (d3.event.pageX + tooltipXOffset.left)+"px")            
+              .style("left", (d3.event.pageX + tooltipXOffset.left)+"px");            
             }
             
             //update the contents
@@ -717,7 +765,8 @@ function raceVizzes(div, type) {
             }) 
           .on('mouseout', function(d) {
             d3.select("#tooltip").classed("hidden", true);
-        });
+        })
+        ;
     
       //Effect of bars coming up from bottom
       rectsRace.transition()
@@ -731,7 +780,17 @@ function raceVizzes(div, type) {
         .duration(1100)
         .attr("y", function(d) { return yScale(d[1]); })
         .attr("height", function(d) { return yScale(d[0]) - yScale(d[1]); });
-
+  
+  
+      //Set up transition functionality between stacked and grouped
+      
+      //--- old version for html radio buttons ---//
+      //d3.selectAll(".ntnlProportionOptions")
+      //  .on("change", function(){
+      //    if (this.value === "grouped") transitionGrouped();
+      //    else transitionStacked();
+      //  }
+      //);
       
       sensorRadio1
         .on('click', function() {
@@ -802,6 +861,7 @@ function raceVizzes(div, type) {
           }
         })
         .attr('transform','translate(' + (xScaleRace('pctShel') - xScaleRace.bandwidth()/7) + ',' + -4 + ')')
+        //.attr('transform','translate(' + (leftMargin + (((width - leftMargin)/2) - rightMargin)/3) + ',' + -4 + ')')
         .text('homeless');
   
       var homelessHeader2 = vizSection.append('text')
@@ -817,9 +877,15 @@ function raceVizzes(div, type) {
           }
         })
         .attr('transform','translate(' + (xScaleEthn('pctShel') - xScaleEthn.bandwidth()/7) + ',' + -4 + ')')
+        //.attr('transform','translate(' + (xScaleEthn('pctShel') - rightMargin/2.45) + ',' + -4 + ')')
         .text('homeless');
         
       d3.select(uniqueSvgIdNum).selectAll('.homelessChartHeader').transition().duration(1500).style('opacity',1);
+  
+  
+  
+  
+  
   
       //////// LEGEND ///////
       var legendBoxSize = 15,
@@ -867,6 +933,9 @@ function raceVizzes(div, type) {
       d3.select('#nhpiBox')
         .attr('transform','translate(' + column2XPos + ',' + row2YPos + ')');
   
+      //d3.select('#otherRaceBox')
+      //  .attr('transform','translate(' + column2XPos + ',' + row3YPos + ')');
+  
       d3.select('#nativeAmericanBox')
         .attr('transform','translate(' + column2XPos + ',' + row3YPos + ')');
   
@@ -898,6 +967,9 @@ function raceVizzes(div, type) {
   
       d3.select('#nhpiLabel')
         .attr('transform','translate(' + column2XPosLabel + ',' + row2YPosLabel + ')');
+  
+      //d3.select('#otherRaceLabel')
+      //  .attr('transform','translate(' + column2XPosLabel + ',' + row3YPosLabel + ')');
   
       d3.select('#nativeAmericanLabel')
         .attr('transform','translate(' + column2XPosLabel + ',' + row3YPosLabel + ')');
@@ -1011,6 +1083,7 @@ function raceVizzes(div, type) {
         
         
           // UPDATE BARS
+          //--- old html radio button version--- if (d3.select('input[name="ntnlProportionOptions"]:checked').property("value") === 'stacked') {
           if (activeRadio === 1) {
             seriesRace
               .data(stackRace)
@@ -1033,6 +1106,7 @@ function raceVizzes(div, type) {
               .duration(1000)
               .attr("y", function(d) { return yScale(d[1]); }) 
               .attr("height", function(d) { return yScale(d[0]) - yScale(d[1]); });           
+          //--- old html radio button version--- } else if (d3.select('input[name="ntnlProportionOptions"]:checked').property("value") === 'grouped') {
           } else if (activeRadio === 2) {
             seriesRace
               .data(stackRace)
@@ -1219,6 +1293,11 @@ function raceVizzes(div, type) {
           .attr("height", height - vizOffsetFromTop - bottomToAxis)
           .attr('transform','translate(' + leftMargin + ',' + 0 + ')');
 
+
+      
+      
+      
+      
       
     ///////////// DROPDOWN(S) ///////////////
     //create dropdowns
@@ -1250,6 +1329,9 @@ function raceVizzes(div, type) {
         .text('Select population');
   
     var selectedGroup = document.getElementById('categories' + div.slice(1)).value;
+ 
+ 
+ 
  
  
  
@@ -1443,7 +1525,10 @@ function raceVizzes(div, type) {
       .duration(1000)
       .attr('r', radioOuterR);
     
- 
+  
+  
+
+    
     
     var years = [2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016],
         numYears = years.length;
@@ -2015,7 +2100,9 @@ function raceVizzes(div, type) {
 
     var vizOffsetFromTop = 230; //main area of visualization (below headers)
         
-
+        
+        
+  
     // CANVAS AND SECTIONS
     var uniqueSvgId = div.slice(1) + 'Svg',
         uniqueSvgIdNum = '#' + uniqueSvgId;
@@ -2680,6 +2767,23 @@ function raceVizzes(div, type) {
   } //end of drawNtnlLocation function
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
       
   //////////////////////////////////////////////
@@ -2696,7 +2800,9 @@ function raceVizzes(div, type) {
 
     var vizOffsetFromTop = 200; //main area of visualization (below headers)
         
-
+        
+        
+  
     // CANVAS AND SECTIONS
     var uniqueSvgId = div.slice(1) + 'Svg',
         uniqueSvgIdNum = '#' + uniqueSvgId;
@@ -2848,9 +2954,16 @@ function raceVizzes(div, type) {
     var selectedYear = +document.getElementById('years' + div.slice(1)).value;
 
 
+
+
+
+
+  
+  
     ///////// DEFINE DIMENSIONS ///////////////
     var rateBarsWidth = width - leftMargin - rightMargin,
         rateBarsHeight = height - vizOffsetFromTop - bottomToAxis;
+    
     
     
     ////////////// DEFINE AXES SCALES /////////////////
@@ -2902,6 +3015,18 @@ function raceVizzes(div, type) {
         }
       }
       
+      //to calculate based on only the selected year, use this instead...
+      //var dataByYear = d3.nest()
+      //  .key(function(d) { return d.yearDataReleased })
+      //  .object(data);
+      //
+      //var maxRate = 0;
+      //for (var i = 0; i < dataByYear[selectedYear].length; i++) {
+      //  if (dataByYear[selectedYear][i].ratePer10k > maxRate) {
+      //    maxRate = dataByYear[selectedYear][i].ratePer10k;
+      //  }
+      //}
+  
   
       /////////// UPDATE SCALE DOMAINS AND RANGES ///////////
       xScaleMeasures.domain(d3.keys(nestedData));
@@ -3230,6 +3355,13 @@ function raceVizzes(div, type) {
   
   
   
+  
+  
+  
+  
+  
+  
+  
       ///////////// TRANSITION BARS IN //////////////
       rateBars
         .transition()
@@ -3405,6 +3537,12 @@ function raceVizzes(div, type) {
 	  .style('margin-top', -gapVizTopToPopUp + 'px');
 
 
+
+ 
+
+
+
+
     ///////////// DROPDOWN(S) ///////////////
     //create dropdowns
     var yearsDropdown = chartDiv.append('select')
@@ -3436,6 +3574,12 @@ function raceVizzes(div, type) {
     var selectedYear = +document.getElementById('years' + div.slice(1)).value;
 
 
+
+
+
+
+  
+  
   
     ////////// DEFINITIONS //////////
     var piesGroupWidth = Math.min(600, width*0.90);
@@ -3805,7 +3949,10 @@ function raceVizzes(div, type) {
       d3.select(uniqueSvgIdNum).select('#nonHispanicLabel')
         .attr('transform','translate(' + column3XPosLabel + ',' + row2YPosLabel + ')');
   
-
+  
+  
+  
+  
   
       ///////////// UPDATE ON YEAR SELECT //////////////
       yearsDropdown
@@ -3829,7 +3976,10 @@ function raceVizzes(div, type) {
             .attrTween('d',arcTween)
             //.attr('d',arc);
             ;
-
+  
+  
+          
+          
         });
   
       function arcTween(d) {
@@ -3980,6 +4130,11 @@ function raceVizzes(div, type) {
       .style('width', (width * 0.9) + 'px')
 	  .style('left', (width * 0.05) + 'px')
 	  .style('margin-top', -gapVizTopToPopUp + 'px');
+
+
+
+
+
 
 
 
@@ -4380,7 +4535,22 @@ function raceVizzes(div, type) {
     var colorKeyColorDuration = 700,
         colorKeyLabelDuration = 710;
 
+    /////////////// ASSIGN ACTIVE VIZ ///////////////
+    
+    //if (activeCategory === 'proportion') {
+    //  activeViz = 'statePropMap';
+    //} else if (activeCategory === 'rate' && activePage === 2) {
+    //  activeViz = 'stateRateMap';
+    //} else if (activeCategory === 'rate' && activePage === 3) {
+    //  activeViz = 'stateMinVsMajMap';
+    //}
+    //else if (activeCategory === 'rate' && activePage === 3) {
+    //  activeViz = 'stateOtherCompsMap';
+    //}
+  
+    //activeSubPage = 'map';
 
+    
     //APPEND THE SVG 
     var uniqueSvgId = div.slice(1) + 'Svg',
         uniqueSvgIdNum = '#' + uniqueSvgId;
@@ -4593,6 +4763,65 @@ function raceVizzes(div, type) {
     d3.selectAll(thisVizzesIcons).style('display','inline');
   
 
+
+    //turn off currentMaxBottomplot icon for rates maps
+    //if (activeCategory !== 'proportion') {
+    //  d3.selectAll('.subPageDotIcons').style('display','none');
+    //  d3.select('#dotsIconRect').style('display','none');   /////////////// FIX THIS !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+    //}
+  
+  
+  
+  /*
+  OLD METHOD
+    //defs.append("clipPath") 
+    //    .attr("id", "mapClip")
+    //  .append("rect")
+    //    .attr("width", width)
+    //    .attr("height", height - 129 - 50)
+    //    .attr('transform','translate(' + 0 + ',' + 129 + ')');
+  
+     /////////////// ZOOM AND PAN FUNCTIONALITY //////////////////////
+    //see example at https://bl.ocks.org/mbostock/4e3925cdc804db257a86fdef3a032a45
+    //for more options, such as limiting extents of pan or zoom, see https://github.com/d3/d3-zoom/blob/master/README.md#zoom_scaleExtent
+    var zoomObject = d3.zoom();
+    
+    var zoomRect = svgChart.append("rect") //invisible rectangle that is the window for the zoom behavior to work
+        .attr("width", width)
+        .attr("height", height - bezierLineHeight - vizOffsetFromTop)
+        .attr('id','mapZoomRect')
+        .attr('class','vizToClear subPageChangeRemove')
+        .attr('transform','translate(' + 0 + ',' + vizOffsetFromTop + ')')
+        .style("fill", "none")
+        .style("pointer-events", "all") //see https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events
+        //.call(zoomObject
+          //.on("zoom", zoomed))
+          ;
+    
+    function zoomed() {
+      mapG.selectAll('path').attr("transform", d3.event.transform);
+    }
+    
+    function resetZoom() {
+      svgChart.transition().duration(750).call(zoomObject.transform, d3.zoomIdentity); //see https://github.com/d3/d3-zoom/issues/107
+    }
+    
+    svgChart.call(zoomObject
+      .on("zoom", zoomed)); 
+  
+  
+    //Reset to original position (in case of switching back from other subpage after having zoomed previously)
+    resetZoom();
+  
+  
+    //Clip path for map
+    d3.select("#mapClip").select("rect")
+        .attr("width", width)
+        .attr("height", height - 129 - 50)
+        .attr('transform','translate(' + 0 + ',' + 129 + ')');
+  
+  */
+  
   
     ///////////// ZOOM AND PAN BACKGROUND PANEL AND FUNCTIONALITY ///////////////
     //see example at https://bl.ocks.org/mbostock/4e3925cdc804db257a86fdef3a032a45
@@ -4775,7 +5004,15 @@ function raceVizzes(div, type) {
     
     var geoPath = d3.geoPath()
       .projection(projection);
- 
+  
+  
+  
+  
+  
+  
+  
+  
+   
    
   
     //////////////// READ THE DATA //////////////////
@@ -5228,7 +5465,16 @@ function raceVizzes(div, type) {
                 .transition()
                 .duration(1000)
                 .style('opacity',1);
-
+/*               
+              d3.selectAll('.mapToHide:not(.mapZoomRect):not(.statesThisViz)')
+                .style('opacity',1);
+              d3.select(uniqueSvgIdNum).selectAll('.mapToHide:not(.mapZoomRect):not(.statesThisViz)').style('opacity',1);
+              d3.select(uniqueSvgIdNum).selectAll('.statesThisViz')
+                .transition()
+                .duration(500)
+                .delay(function(d, i) { return i * 15 })
+                .style('opacity',1); 
+*/
 							d3.select(uniqueSvgIdNum).selectAll('.smallInstruction').text('Double-click to zoom, drag to pan');
 							d3.select(uniqueSvgIdNum).selectAll('.smallInstruction2').text('');
               catYearUpdate();
@@ -5635,6 +5881,91 @@ function raceVizzes(div, type) {
               .attr('x', function(d) { return xScaleBars(Math.min(0,d.value[selectedYear][selectedGroup].primaryDisplayVar)); })
               .attr('width', function(d) { return Math.abs(xScaleBars(d.value[selectedYear][selectedGroup].primaryDisplayVar) - xScaleBars(0)); });
     
+    
+    
+    
+      
+  
+            
+    
+            ////////// RADIO BUTTONS SORTING ///////////
+  
+          
+            /* --- old html radio buttons version ---
+            //https://bl.ocks.org/mbostock/3885705
+            //http://chimera.labs.oreilly.com/books/1230000000345/ch10.html#_click_to_sort
+          
+            //remove if already exists (to not repopulate when switching between subpage graphs)
+            d3.selectAll('#barsSort').remove();
+            
+            var barsForm = d3.select('#chartDiv').append('form')
+              .attr('id','barsSort')
+              .attr('class','vizToClear');
+              
+            barsForm.append('label')
+              .text('Value ')
+              .classed('dropdownHeader',true)
+              .insert('input')
+                .attr('type','radio')
+                .attr('name', 'barsSort')
+                .attr('value', 'byValue')
+                .attr('class', 'barsSort')
+                .attr('checked',true);
+            
+             barsForm.append('br');
+             barsForm.append('label')
+              .text(' State  ')
+              .classed('dropdownHeader',true)
+              .insert('input')
+                .attr('type','radio')
+                .attr('name', 'barsSort')
+                .attr('value', 'byAlpha')
+                .attr('class', 'barsSort');
+            
+            d3.select("#barsSort")
+              .style('display','block')
+              .style('left', 7 +'px')
+              .style('top', (110) +'px')
+              ;
+              
+            d3.selectAll(".barsSort")
+              .on("change", function(){
+                if (this.value === "byValue") {
+                  
+                  //update states order and domain per current selected category and year
+                  nestedDataKV.sort(function(a, b) {
+                     return d3.descending(a.value[selectedYear][selectedGroup].primaryDisplayVar,b.value[selectedYear][selectedGroup].primaryDisplayVar);
+                  });
+                } else {
+                  nestedDataKV.sort(function(a, b) {
+                     return d3.ascending(a.key,b.key);
+                  });
+                }
+                var sortedStates = [];
+                for (var i = 0; i < nestedDataKV.length; i ++) {
+                    sortedStates.push(nestedDataKV[i].key);
+                }
+               //console.log('current sort of states', sortedStates);
+     
+                yScaleBars.domain(sortedStates);
+    
+                bars.transition()
+                  .duration(600)
+                  .delay(function(d,i) { return i * 4 })
+                  .attr('y', function(d) { return yScaleBars(d.key); });
+                
+                //change axis text labels
+                d3.select('#yScaleBarsAxis').selectAll('text')
+                  .text(function(d,i) { return stateToSt[sortedStates[i]]; });
+    
+                //WHY NOT WORKING TO HAVE AXIS ST LABELS SHIFT TO NEW SPOT?
+                //d3.select('#yScaleBarsAxis').selectAll('text')
+                //  .transition()
+                //  .duration(1000)
+                //  .attr('y',function(d) { return yScaleBars(d); });          
+              });
+    
+            */
   
           
             var radioOuterR = 7;
@@ -5789,7 +6120,13 @@ function raceVizzes(div, type) {
               .html('State')
               .attr('transform','translate(' + 7 + ',' + (optionsPosFromTop + 24) + ')');
           
-
+  
+  
+      
+  
+  
+  
+  
   
             //////// DROPDOWN CHANGES ///////
             categoriesDropdown
@@ -5885,6 +6222,18 @@ function raceVizzes(div, type) {
           
           function updateBarsSortOnDrowpdown(){
             
+            /*--- old html radios version ---//
+            if (d3.select('input[name="barsSort"]:checked').property("value") === "byValue") {
+              //update states order and domain per current selected category and year
+              nestedDataKV.sort(function(a, b) {
+                 return d3.descending(a.value[selectedYear][selectedGroup].primaryDisplayVar,b.value[selectedYear][selectedGroup].primaryDisplayVar);
+              });
+            } else {
+              nestedDataKV.sort(function(a, b) {
+                 return d3.ascending(a.key,b.key);
+              });
+            }
+            */
             if (activeRadio === 1) {
               //update states order and domain per current selected category and year
               nestedDataKV.sort(function(a, b) {
@@ -5922,7 +6271,16 @@ function raceVizzes(div, type) {
               .delay(2100)
               .text(function(d,i) { return stateToSt[sortedStates[i]]; });
     
-
+            //WHY NOT WORKING TO HAVE AXIS ST LABELS SHIFT TO NEW SPOT?
+            //d3.select('#yScaleBarsAxis').selectAll('text')
+            //  .transition()
+            //  .duration(1000)
+            //  .attr('y',function(d) { return yScaleBars(d); });          
+            
+            
+            //remove 'drag to scroll' text
+            //d3.selectAll('.dragLabel').remove();
+            
             //new axis labels format update
             d3.select(uniqueSvgIdNum).selectAll(".tick line")
               .attr("stroke", "#BEBEBE")
@@ -6166,6 +6524,10 @@ function raceVizzes(div, type) {
               });
   
   
+            //indicate which sensor area should trigger the call
+            // !!!!!! scatterZoomPanel (the rect) that gives this shape did not work right...
+            // It zoomed in always to the wrong place. WHY?? scatterZoomPanelG works, however.
+            // Note that in the scatter update and reset functions this also had to be updated to the G rather than the rect.
             scatterZoomPanelG.call(scatterZoom)
               .on("touchstart.zoom", null)
               .on("touchmove.zoom", null)
@@ -6811,6 +7173,14 @@ function raceVizzes(div, type) {
       
       
       
+      
+      
+      
+      
+      
+      
+      
+      
   // Which of the above functions to draw ?
   switch (activeViz) {
     case 'ntnlProportions':
@@ -7182,6 +7552,24 @@ d3.selectAll('.jumpLoad3') //If jumping to part 3, load all in parts 1 and 2
   });
 
 
+
+
+
+
+
+/*
+function sectionChange(index) {
+  activeIndex = index;
+  var sign = (activeIndex - lastIndex) < 0 ? -1 : 1;
+  var scrolledSections = d3.range(lastIndex + sign, activeIndex + sign, sign); //range with indices of sections you scrolled through
+  //scrolledSections.forEach(function (i) {
+  //  activateFunctions[i]();
+  //});
+  lastIndex = activeIndex;
+};  
+*/
+
+
 function scroller() {
   var container = d3.select('#chartDiv1'); //viz container
 
@@ -7328,6 +7716,21 @@ function scroller() {
 
   return scroll;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

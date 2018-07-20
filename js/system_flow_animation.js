@@ -2,6 +2,12 @@
 
 var width = 800,
     height = 600
+
+    
+    
+    
+    
+    
     
 
 //////////////// CONTROL PANEL/OPTIONS SETUP ///////////////
@@ -332,6 +338,8 @@ function randomIntFromInterval(min,max)
 {
     return Math.floor(Math.random()*(max-min+1)+min);
 }
+//see below: randomIntFromInterval(1/numNodesToDisplay*750,1/numNodesToDisplay*900)
+//radius size gets a bit bigger if # displayed is low
 
 var minRadiusAdjustment = 850, //was 1200
     maxRadiusAdjustment = 900; //was 1500
@@ -354,6 +362,10 @@ var unshelX = width*0.35,
 var xCenters = [unshelX, esX, thX, rrhX, pshX, indHX];
 var yCenters = [unshelY, esY, thY, rrhY, pshY, indHY];
 
+//var colors = ['green','blue','orange','red','purple','grey'];
+//var colors = ['#b52625','#b79257','#d8dcdb','#2c708d','#032d3e','grey']; //Alliance website colors
+//var colors = ['#b7312c','#b9975b','#9cdbd9','#0076a8','#002b49','grey']; //Alliance branding colors
+//var colors = ['#ff5c56','#b94ce8','#6080ff','#4ce8dc','#87ff85','grey'];
 var colors = ['#886488','#CE7E81','#F3A57E','#D3CA93','#5E85A4','grey'];
 
 var classToNum = {'unsh':0, 'es':1, 'th':2, 'rrh':3,'psh':4,'indH':5};
@@ -364,6 +376,19 @@ var classToColor = {'unsh':colors[0], 'es':colors[1], 'th':colors[2], 'rrh':colo
 //homeless count counter
 var homelessCountG = svg.append('g')
   .attr('transform','translate(' + (width*0.39) +',' + (height*0.05) + ')');
+//  .attr('id','homelessCountLabel')
+//  .attr('class','homelessCountGroup')
+//  .attr('x',0)
+//  .attr('y',0)
+//  .text('Homeless');
+  
+/* var homelessCountNum = homelessCountG.append('text')
+  .attr('id','homelessCountNum')
+  .attr('class','homelessCountGroup')
+  .attr('x',width*.0002)
+  .attr('y',height*.05)
+  .text('0');  */
+
 
 //months elapsed timer
 var monthsElapsedG = svg.append('g')
@@ -377,6 +402,13 @@ var monthsElapsedNum = monthsElapsedG.append('text')
   .style('opacity', 0)
   .text('0'); 
   
+/* var monthsElapsedLabel = monthsElapsedG.append('text')
+  .attr('id','monthsElapsedLabel')
+  .attr('class','monthsElapsedGroup')
+  .attr('x', 0)
+  .attr('y', 20)
+  .text('month(s)'); */
+
 var elapsedLabel = svg.append('text')
   .html('months')
   .attr('class','elapsedLabel monthsElapsedGroup')
@@ -496,6 +528,31 @@ var indHLabel3 = indHLabelG.append('text')
   .attr('x',xOffsetIndH)
   .attr('y',yOffsetIndHLine3)
   .text('(community)');
+
+
+//HOMELESS COUNTS
+/* var unshNum = homelessCountG.append('text')
+  .attr('id','unshNum')
+  .attr('class','groupLabelNums')
+  .attr('x',-width*.07)
+  .attr('y',0)
+  .style('fill',colors[0])
+  .text(0);
+var esNum = homelessCountG.append('text')
+  .attr('id','esNum')
+  .attr('class','groupLabelNums')
+  .attr('x',0)
+  .attr('y',0)
+  .style('fill',colors[1])
+  .text(0);  
+var thNum = homelessCountG.append('text')
+  .attr('id','thNum')
+  .attr('class','groupLabelNums')
+  .attr('x',width*.07)
+  .attr('y',0)
+  .style('fill',colors[2])
+  .text(0); */   
+  
   
 //homeless and housed labels
 var homelessLabelG = svg.append('g')
@@ -545,6 +602,11 @@ housedLabelG.append("path")
             
 
 var rrhAvgStay, rrhSuccessRate, rrhRecidivismRate, percentsOutOfRrh, percentsToRrhFrom, pshMovingOnRate, pshRecidivismRate, percentsToPshFrom, thAvgStay, thSuccessRate, thRecidivismRate, percentsOutOfTh, percentsToThFrom, esAvgStay, esSelfResolve, esToUnshRate, percentsOutOfEs, percentsToEsFrom, unshSelfResolve, indHToUnsh;
+
+
+
+
+
 
 
 
@@ -605,6 +667,13 @@ function shiftPlayButton(){
   playB
     .text('RESTART');    
 }
+
+
+
+
+
+
+
 
 
 //VARIABLES TO BE DEFINED UPON PLAY
@@ -679,13 +748,15 @@ simulation.nodes(nodes);
 simulation.alpha(0.2).restart();
 
 
+
+
 function ticked(){
   dots
       .attr('cx', function (d) { return d.x; })
       .attr('cy', function (d) { return d.y; });
 }
 
-function dragstarted() {
+function dragstarted() {  //????????????????????????????????????????
   if (!d3.event.active) simulation.alphaTarget(0.1).restart();
   d3.event.subject.fx = d3.event.subject.x;
   d3.event.subject.fy = d3.event.subject.y;
@@ -701,6 +772,8 @@ function dragended() {
   d3.event.subject.fx = null;
   d3.event.subject.fy = null;
 }
+
+
 
 
 var dotSpeed = 0.05;
@@ -905,13 +978,13 @@ function startSimulation(){  //Get parameter values
   rrhSuccessRate = document.getElementById('rrhSuccess').value * 100;
   rrhRecidivismRate = 100 - rrhSuccessRate;
   percentsOutOfRrh = {'indH':rrhSuccessRate, 'unsh':rrhRecidivismRate};
-  percentsToRrhFrom = {'unsh':rrhLeftValue,'es':rrhMiddleValue,'th':rrhRightValue}; 
+  percentsToRrhFrom = {'unsh':rrhLeftValue,'es':rrhMiddleValue,'th':rrhRightValue};  //triggers these
 
 
   //PSH
   pshMovingOnRate = document.getElementById('pshMovingOn').value;
   pshRecidivismRate = document.getElementById('pshNegTurnover').value;
-  percentsToPshFrom = {'unsh':pshLeftValue,'es':pshMiddleValue,'th':pshRightValue}; 
+  percentsToPshFrom = {'unsh':pshLeftValue,'es':pshMiddleValue,'th':pshRightValue}; //triggers these. Default very few coming from TH
 
 
   //TH
@@ -919,7 +992,7 @@ function startSimulation(){  //Get parameter values
   thSuccessRate = document.getElementById('thSuccess').value * 100;
   thRecidivismRate = 100 - thSuccessRate;
   percentsOutOfTh = {'indH':thSuccessRate, 'unsh':thRecidivismRate};
-  percentsToThFrom = {'unsh':pctToThFromUnsh,'es':pctToThFromEs}; 
+  percentsToThFrom = {'unsh':pctToThFromUnsh,'es':pctToThFromEs};  //triggers these
   
   
   //ES
@@ -927,7 +1000,7 @@ function startSimulation(){  //Get parameter values
   esSelfResolve = document.getElementById('esSelfResolve').value * 100;
   esToUnshRate = 100 - esSelfResolve;
   percentsOutOfEs = {'indH':esSelfResolve, 'unsh':esToUnshRate};
-  percentsToEsFrom = {'unsh':pctToEsFromUnsh,'indH':pctToEsFromIndH}; 
+  percentsToEsFrom = {'unsh':pctToEsFromUnsh,'indH':pctToEsFromIndH}; //triggers these
   //currently not allowing from TH, PSH, or RRH---don't want to cause a pull out of those for a vacancy here.
   //forcing a pull from independent housing when ES has a vacancy is suggestive of the fact that not everyone comes from unsh into shelter, and that having more shelter may result in more people entering the system
   
@@ -939,6 +1012,17 @@ function startSimulation(){  //Get parameter values
   //INDEPENDENT HOUSING TO NEW UNSH (ESTIMATE)
   indHToUnsh = document.getElementById('indHToUnsh').value;
   
+  
+  
+  
+  
+  
+  //Independent housing to homelessness frequency --- PREVENTION => lowering this rate
+  //flowIndHToUnsh = 7000; //no trigger
+  /*flowIndHToEs;*/ //TRY LOGIC IF FULL ??? --> may trigger diversion depending on rate set
+  //dependents
+  //DIVERSION RATE -- when ES vacancy pulls from indH, have some proportion of those go back and then retrigger pulling from unsh instead? Or somehow have occasional from indH "try" to see if there's space? (or both)
+
 
 
   numUnshel = parseInt(d3.select('#numUnsh').property('value'));
@@ -959,6 +1043,11 @@ function startSimulation(){  //Get parameter values
   numRRHToDisplay = numRRH * dotsToDisplayProportion;
   numPSHToDisplay = numPSH * dotsToDisplayProportion;
   
+  //!!! The number of dots and the oneDotEquals aren't matching up quite right!!! "2" in PSH gives a dot; "20" in PSH doesn't!!
+  //console.log("allBeds:",numAllBeds,"indHsg:", numIndHousing,"allNodes:", numAllNodes,"nodesToDisplay:", numNodesToDisplay,"proportion:", dotsToDisplayProportion,"oneDotEquals:", oneDotEquals);
+  //console.log("numUnhselToDisplay",Math.round(numUnshelToDisplay))
+
+
 
   
   ////////////////// BAR CHART /////////////////////
@@ -1084,6 +1173,26 @@ function startSimulation(){  //Get parameter values
   unshOnePersonResolvesEvery = (12000 / monthsPerSecond) / (unshDotsOnScreen * unshSelfResolve);  
   indHOnePersonUnshEvery = (12000 / monthsPerSecond) / ((unshDotsOnScreen + esDotsOnScreen + thDotsOnScreen) * indHToUnsh);
 
+  /*
+  function refreshSimulation(){
+    simulation.force('x',d3.forceX().x(function(d){return xCenters[d.location];}).strength(forceStrength)); //refresh x and y locations
+    simulation.force('y',d3.forceY().y(function(d){return yCenters[d.location];}).strength(forceStrength));
+    simulation.alphaTarget(dotSpeed).restart();  
+  }
+  */
+ // AND/OR MAYBE LITTLE ARROWS POINTING TO OTHER CATEGORIES THAT CAN BE HOVERED TO SHOW WHAT'S HAPPENING and how to improve it (e.g.,'moving on' or 'recidivism')
+
+
+
+
+
+
+
+  /////////// COUNTS ON SCREEN OF THE DOTS ///////////
+ /*  d3.select('#unshNum').text(document.getElementsByClassName("unsh").length);
+  d3.select('#esNum').text(document.getElementsByClassName("es").length);
+  d3.select('#thNum').text(document.getElementsByClassName("th").length);
+  d3.select('#homelessCountNum').text(document.getElementsByClassName("unsh").length+document.getElementsByClassName("es").length+document.getElementsByClassName("th").length); */
 
   //NUMBER OF DOTS FOR CALCULATING % CHANGE FOR BAR 
   numHmlsDots = document.getElementsByClassName("unsh").length+document.getElementsByClassName("es").length+document.getElementsByClassName("th").length;
@@ -1092,6 +1201,11 @@ function startSimulation(){  //Get parameter values
   numThDots = document.getElementsByClassName("th").length;
   
 }; //END OF START SIMULATION FUNCTION
+
+
+
+
+
 
 
 
@@ -1132,6 +1246,24 @@ function startTimers(){
    
     //MONITOR CHANGES IN PARAMETERS besides counts (if slows down the simulation too much, turn this off to only update on 'RESTART')
     monthsPerSecond = speedVals[parseInt(sliderSpeed.noUiSlider.get())];
+//    rrhAvgStay = document.getElementById('rrhAvgStay').value * (1000 / monthsPerSecond);
+//    rrhSuccessRate = document.getElementById('rrhSuccess').value * 100;
+//    rrhRecidivismRate = 100 - rrhSuccessRate;
+//    percentsOutOfRrh = {'indH':rrhSuccessRate, 'unsh':rrhRecidivismRate};
+//    pshMovingOnRate = document.getElementById('pshMovingOn').value;
+//    pshRecidivismRate = document.getElementById('pshNegTurnover').value;
+//    thAvgStay = document.getElementById('thAvgStay').value * (1000/monthsPerSecond); //rate of exiting TH (successful or not)
+//    thSuccessRate = document.getElementById('thSuccess').value * 100;
+//    thRecidivismRate = 100 - thSuccessRate;
+//    percentsOutOfTh = {'indH':thSuccessRate, 'unsh':thRecidivismRate};
+//    esAvgStay = document.getElementById('esAvgStay').value * (1000 / monthsPerSecond); //rate of exiting ES to non-homeless srvs program
+//    esSelfResolve = document.getElementById('esSelfResolve').value * 100;
+//    esToUnshRate = 100 - esSelfResolve;
+//    percentsOutOfEs = {'indH':esSelfResolve, 'unsh':esToUnshRate};
+//    unshSelfResolve = document.getElementById('unshSelfResolve').value; //no trigger. This is SELF RESOLVE from homelessness
+//    indHToUnsh = document.getElementById('indHToUnsh').value;
+
+
    
    
    
@@ -1145,15 +1277,21 @@ function startTimers(){
       }
       rrhAvLengthRanCounter = rrhAvLengthRanCounter + rrhOnePersonLeavesEvery;
       rrhVacancyTrigger(); 
+      //rrhDotsOnScreen = Math.max(rrhDotsOnScreen - 1,0);
       rrhOnePersonLeavesEvery = rrhAvgStay / rrhDotsOnScreen; //recalculate rate for new number of dots (e.g., avg 6 months for 6 dots = one every second, but avg 6 months for 3 dots = one every two seconds)
-    } 
+      //console.log('numRRHdots:',rrhDotsOnScreen,'rrhAvgStay:',rrhAvgStay,'avgPP:',rrhOnePersonLeavesEvery);
+/*       d3.select('#homelessCountNum').text(document.getElementsByClassName("unsh").length+document.getElementsByClassName("es").length+document.getElementsByClassName("th").length);
+      d3.select('#unshNum').text(document.getElementsByClassName("unsh").length);*/
+      } 
     
     //PSH MOVING ON
      if(elapsed > (pshMoveOnRanCounter + pshOnePersonMovesOnEvery)){
       moveIt('psh','indH');
       pshMoveOnRanCounter = pshMoveOnRanCounter + pshOnePersonMovesOnEvery;
       pshVacancyTrigger(); 
+      //pshDotsOnScreen = Math.max(pshDotsOnScreen - 1,0); 
       pshOnePersonMovesOnEvery = (12000 / monthsPerSecond) / (pshDotsOnScreen * pshMovingOnRate); //recalculate rate for new number of dots
+      //console.log('numPSHdots:',pshDotsOnScreen,'moveOnPP:',pshOnePersonMovesOnEvery);
      }
     
     //PSH RECIDIVISM
@@ -1161,7 +1299,10 @@ function startTimers(){
       moveIt('psh','unsh');
       pshRecidivismRanCounter = pshRecidivismRanCounter + pshOnePersonReturnsEvery;
       pshVacancyTrigger(); 
-      pshOnePersonReturnsEvery = (12000 / monthsPerSecond) / (pshDotsOnScreen * pshRecidivismRate); //recalculate rate for new number of dots
+      //pshDotsOnScreen = Math.max(pshDotsOnScreen - 1,0);
+      pshOnePersonReturnsEvery = (12000 / monthsPerSecond) / (pshDotsOnScreen * pshRecidivismRate); //recalculate rate for new number of dots    
+      // d3.select('#unshNum').text(document.getElementsByClassName("unsh").length);
+      // d3.select('#homelessCountNum').text(document.getElementsByClassName("unsh").length+document.getElementsByClassName("es").length+document.getElementsByClassName("th").length);
     }
     
     //TH SUCCESS OR RECIDIVISM PER AVG LENGTH OF STAY
@@ -1174,7 +1315,13 @@ function startTimers(){
       }
       thAvLengthRanCounter = thAvLengthRanCounter + thOnePersonLeavesEvery;
       thVacancyTrigger(); 
+      //thDotsOnScreen = Math.max(thDotsOnScreen - 1,0);
       thOnePersonLeavesEvery = thAvgStay / thDotsOnScreen; //recalculate rate for new number of dots (e.g., avg 6 months for 6 dots = one every second, but avg 6 months for 3 dots = one every two seconds)
+      //console.log('numTHdots:',thDotsOnScreen,'thAvgStay:',thAvgStay,'avgPP:',thOnePersonLeavesEvery);
+/*       d3.select('#unshNum').text(document.getElementsByClassName("unsh").length);
+      d3.select('#thNum').text(document.getElementsByClassName("th").length);
+      d3.select('#homelessCountNum').text(document.getElementsByClassName("unsh").length+document.getElementsByClassName("es").length+document.getElementsByClassName("th").length);*/ 
+      }    
     
     //ES SELF RESOLVE OR RECIDIVISM PER AVG LENGTH OF STAY OF PEOPLE WHO EXIT BUT NOT TO HOMELESS PROGRAMS
     if(elapsed > (esAvLengthRanCounter + esOnePersonLeavesEvery)){
@@ -1186,7 +1333,12 @@ function startTimers(){
       }
       esAvLengthRanCounter = esAvLengthRanCounter + esOnePersonLeavesEvery;
       esVacancyTrigger(); 
+      //esDotsOnScreen = Math.max(esDotsOnScreen - 1,0);
       esOnePersonLeavesEvery = esAvgStay / esDotsOnScreen; //recalculate rate for new number of dots (e.g., avg 6 months for 6 dots = one every second, but avg 6 months for 3 dots = one every two seconds)
+      //console.log('numESdots:',esDotsOnScreen,'esAvgStay:',esAvgStay,'avgPP:',esOnePersonLeavesEvery);
+/*       d3.select('#unshNum').text(document.getElementsByClassName("unsh").length);
+      d3.select('#esNum').text(document.getElementsByClassName("es").length);
+      d3.select('#homelessCountNum').text(document.getElementsByClassName("unsh").length+document.getElementsByClassName("es").length+document.getElementsByClassName("th").length); */
     }    
  
     //UNSH SELF RESOLVE (ESTIMATE)
@@ -1204,7 +1356,8 @@ function startTimers(){
       indHToUnshRanCounter = indHToUnshRanCounter + indHOnePersonUnshEvery;
       //unshDotsOnScreen = Math.max(unshDotsOnScreen - 1,0); 
       indHOnePersonUnshEvery = (12000 / monthsPerSecond) / ((unshDotsOnScreen + esDotsOnScreen + thDotsOnScreen) * indHToUnsh); //recalculate rate for new number of dots
-
+      // d3.select('#unshNum').text(document.getElementsByClassName("unsh").length);
+      // d3.select('#homelessCountNum').text(document.getElementsByClassName("unsh").length+document.getElementsByClassName("es").length+document.getElementsByClassName("th").length);
      }
 
   //TRIGGERS
@@ -1212,14 +1365,23 @@ function startTimers(){
       var random2 = getRandomInt(0,100);
       if (random2 <= percentsToRrhFrom['unsh']){
         moveIt('unsh','rrh');
+        //place holder what to do if nobody in unsheltered
+ /*        d3.select('#unshNum').text(document.getElementsByClassName("unsh").length);
+        d3.select('#homelessCountNum').text(document.getElementsByClassName("unsh").length+document.getElementsByClassName("es").length+document.getElementsByClassName("th").length); */
       }
       else if (random2 <= percentsToRrhFrom['unsh'] + percentsToRrhFrom['es']){
         moveIt('es','rrh');    
+        //place holder what to do if nobody in es
         esVacancyTrigger();
+        // d3.select('#esNum').text(document.getElementsByClassName("es").length);
+        // d3.select('#homelessCountNum').text(document.getElementsByClassName("unsh").length+document.getElementsByClassName("es").length+document.getElementsByClassName("th").length);
       }
       else {
         moveIt('th','rrh');
         thVacancyTrigger();
+        // d3.select('#thNum').text(document.getElementsByClassName("th").length);
+        // d3.select('#homelessCountNum').text(document.getElementsByClassName("unsh").length+document.getElementsByClassName("es").length+document.getElementsByClassName("th").length);
+        //place holder what to do if nobody in th
       }
     }    
     
@@ -1227,10 +1389,18 @@ function startTimers(){
       var random2 = getRandomInt(0,100);
       if (random2 <= percentsToThFrom['unsh']){
         moveIt('unsh','th');
+        //place holder what to do if nobody in unsh
+  /*       d3.select('#unshNum').text(document.getElementsByClassName("unsh").length);
+        d3.select('#thNum').text(document.getElementsByClassName("th").length);
+        d3.select('#homelessCountNum').text(document.getElementsByClassName("unsh").length+document.getElementsByClassName("es").length+document.getElementsByClassName("th").length); */
       }
       else {
         moveIt('es','th');
         esVacancyTrigger();
+        //place holder what to do if nobody in es
+/*         d3.select('#esNum').text(document.getElementsByClassName("es").length);
+        d3.select('#thNum').text(document.getElementsByClassName("th").length);
+        d3.select('#homelessCountNum').text(document.getElementsByClassName("unsh").length+document.getElementsByClassName("es").length+document.getElementsByClassName("th").length); */
       }
     }    
     
@@ -1238,14 +1408,23 @@ function startTimers(){
       var random2 = getRandomInt(0,100);
       if (random2 <= percentsToPshFrom['unsh']){
         moveIt('unsh','psh');
+        //place holder what to do if nobody in unsh
+/*         d3.select('#unshNum').text(document.getElementsByClassName("unsh").length);
+        d3.select('#homelessCountNum').text(document.getElementsByClassName("unsh").length+document.getElementsByClassName("es").length+document.getElementsByClassName("th").length); */
       }
       else if (random2 <= percentsToPshFrom['unsh'] + percentsToPshFrom['es']){
         moveIt('es','psh');    
         esVacancyTrigger();
+        //place holder what to do if nobody in es
+/*         d3.select('#esNum').text(document.getElementsByClassName("es").length);
+        d3.select('#homelessCountNum').text(document.getElementsByClassName("unsh").length+document.getElementsByClassName("es").length+document.getElementsByClassName("th").length); */
       }
       else {
         moveIt('th','psh');
         thVacancyTrigger();
+        //place holder what to do if nobody in th
+/*         d3.select('#thNum').text(document.getElementsByClassName("th").length);
+        d3.select('#homelessCountNum').text(document.getElementsByClassName("unsh").length+document.getElementsByClassName("es").length+document.getElementsByClassName("th").length); */
       }
     }    
     
@@ -1253,9 +1432,14 @@ function startTimers(){
       var random2 = getRandomInt(0,100);
       if (random2 <= percentsToEsFrom['unsh']){
         moveIt('unsh','es');
+        //place holder what to do if nobody in unsh
+/*         d3.select('#unshNum').text(document.getElementsByClassName("unsh").length);
+        d3.select('#homelessCountNum').text(document.getElementsByClassName("unsh").length+document.getElementsByClassName("es").length+document.getElementsByClassName("th").length); */
       }
       else {
         moveIt('indH','es');
+/*         d3.select('#esNum').text(document.getElementsByClassName("es").length);
+        d3.select('#homelessCountNum').text(document.getElementsByClassName("unsh").length+document.getElementsByClassName("es").length+document.getElementsByClassName("th").length); */
       }
       updateBar();
     }    
@@ -1273,7 +1457,24 @@ function startTimers(){
       d3.select('#monthsElapsedNum').text(monthsElapsed);
       monthsCounter = monthsCounter + (1000/monthsPerSecond);
     }
-  }, initialDelay);
+}, initialDelay);
+
+
+
+
+  
+  //MONTHS COUNT
+//  var monthsTimer = d3.interval(function() {
+//    //console.log('comp:',compareToRestartCount,'restartC:',restartCount);
+//    if(compareToRestartCount != restartCount) { //if restart count went up by one then it won't match the compareTo- variable; reset the count and add one to compareTo- to then match
+//      monthsElapsed = 0;
+//      d3.select('#monthsElapsedNum').text(0);
+//      compareToRestartCount = compareToRestartCount+1;
+//    } else {
+//      monthsElapsed = monthsElapsed + 1;
+//      d3.select('#monthsElapsedNum').text(monthsElapsed);
+//    }
+//    }, (1000 / monthsPerSecond), initialDelay);
 
 }
 
@@ -1299,5 +1500,59 @@ window.addEventListener("resize", debounce(function(e){
   circleIcon.style('left', svgToContainerOffsetX + 50 + 'px');
 }));
 
+
+  // ??? ADD a line-width display to show where flow is strongest ???
+
+
+
+
+
+
+
+
+
+
+/*
+var t = d3.timer(function(elapsed) {
+  console.log(elapsed);
+  if (elapsed % 1000 == 0) {moveTest()};
+  if (elapsed > 10000) t.stop();
+}, 150);
+*/
+/*
+d3.timeout(function() {
+
+  simulation.force('x',d3.forceX().x(function(d){return xCenters[d.location];}).strength(forceStrength));
+  simulation.force('y',d3.forceY().y(function(d){return yCenters[d.location];}).strength(forceStrength));
+  simulation.alphaTarget(0.1).restart();
+  console.log('restarted')
+}, 5000);
+
+//timer: http://bl.ocks.org/cloudshapes/5662234
+// timer_ret_val: could be used to stop the timer, but not actually used in this code really. 
+var timer_ret_val = false;
+
+// Keeps a record of the elapsed time since the timer began.
+var timer_elapsed = 0;
+
+// Kick off the timer, and the action begins: 
+d3.timer(tickFn);
+*/
+
+
+
+
+
+
+//For force-layout:https://bl.ocks.org/shimizu/e6209de87cdddde38dadbb746feaf3a3
+//https://bl.ocks.org/HarryStevens/f636199a46fc4b210fbca3b1dc4ef372
+//https://bl.ocks.org/steveharoz/8c3e2524079a8c440df60c1ab72b5d03
+//http://d3indepth.com/force-layout/
+//https://gist.github.com/ducky427/5583054
+//http://vallandingham.me//bubble_charts_with_d3v4.html
+
+
+//For over-time animation: https://stackoverflow.com/questions/31605197/d3js-draw-over-time
+//or this one (doesn't work but see code): http://bl.ocks.org/benelsen/4969007
 
 

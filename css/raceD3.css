@@ -2,6 +2,7 @@
   font-family: "Arial", sans-serif;
   font-weight: bold;
   font-size: 30px;
+  /*color: #003154; #002b49; rgb(44,112,157); rgb(181,38,37); rgb(183,146,87);*/
   z-index:2;
   position: relative;
   line-height: 1;
@@ -29,7 +30,7 @@ select, option{
   margin-bottom: -80px;
 }
 .TOCColorBar {
-  background-color: #64c7c3;
+  background-color: #64c7c3;/*#9cdbd9;*/
   height: 10px;
 }
 .TOCTitle {
@@ -40,7 +41,7 @@ select, option{
   padding-left: 20px;
   text-transform: uppercase;
   text-decoration: underline;
-  color: #64c7c3;
+  color: #64c7c3;/*#9cdbd9;*/
   width: 100px;
   vertical-align: top;
 }
@@ -73,6 +74,23 @@ select, option{
   font-size: 10px;
   vertical-align: middle;
 }
+
+
+/*
+
+#titleLine2 {
+  font-size: 46px;
+  color: rgb(44,112,157);
+}
+#bigFirstLetter {
+  font-size: 30px;
+  font-family: "Quicksand", sans-serif;
+  font-style: italic;
+}
+*/
+
+
+
 .partHeaderGroup {
   margin-top:60px;
   margin-bottom: 0px;
@@ -80,6 +98,7 @@ select, option{
 .partHeader {
 	font-size: 20px;
   text-transform: uppercase;
+/*   text-align: center; */
   margin-top: 10px;
   margin-bottom: 10px;
 }
@@ -104,6 +123,7 @@ select, option{
   font-size: 22px;
   font-weight: bold;
   margin-bottom: 15px;
+  /*color: #003154;*/
   line-height: 1.2;
 }
 .sectionText {
@@ -116,6 +136,9 @@ select, option{
   background-color: #003154;
   margin-bottom: 10px;
 }
+
+
+
 .fullSectionSpacing { /* !!replaced by scroll cue div gaps */
    margin-bottom: 950px; /*space before the next text section scrolls into view. Full = for between different charts.*/
 }
@@ -125,9 +148,11 @@ select, option{
 .modestSectionSpacing { /* !!replaced by scroll cue div gaps */
    margin-bottom: 800px; /*space before the next text section scrolls into view. Modest = for the regular narrative within one chart.*/
 }
+
 .scrollCuesCont {
   pointer-events: none;
 }
+
 .scrollCues {
   background-color: #aaaaaa;
   height: 5px;
@@ -138,12 +163,15 @@ select, option{
   border-radius: 100%;
   float:right;
 }
+
 .scrollCueGap {
   height: 130px;
 }
+
 .scrollCueGapFull {
   height: 155px;
 }
+
 .cue1 {
   opacity: .2;
 }
@@ -159,11 +187,14 @@ select, option{
 .cue5 {
   opacity: 1;
 }
+
 .textSectionText {
    pointer-events:auto; /*no tooltips through the text box */
    padding: 20px 15px 20px 15px;
    background-color: #fff;
-   border: 1px solid #d2d2d2; 
+   border: 1px solid #d2d2d2;
+   /*PRIOR background-color: rgb(234, 234, 234); */ /*fallback for rgba*/
+   /*PRIOR background-color: rgba(234, 234, 234, 0.92); */ 
    -webkit-border-radius: 2px;
    -moz-border-radius: 2px;
    border-radius: 2px;
@@ -171,23 +202,28 @@ select, option{
    -moz-box-shadow: 5px 16px 27px rgba(0, 0, 0, 0.4);
    box-shadow: 5px 16px 27px rgba(0, 0, 0, 0.4);
 }
+
 .backgroundFill { /*later fix to fill in transparent spaces between text boxes */
   background-color: #fff;
   pointer-events:auto; /*no tooltips through the text box */
+
 }
+
 .finalSectionText {
   pointer-events:auto; /*no tooltips through the text box */
   padding: 0px;
   background-color: #fff;
 }
+
 .textSectionIntro { /*The first intro section of the document (no shadows effects or padding)*/
    pointer-events:auto; /*no tooltips through the text box*/
    background-color: rgb(243, 243, 243);
 }
+
 .chartIntroTitles { /*The main title box that introduces a new chart*/
    text-align: center;
    font-weight: bold;
-   color: rgb(181,38,37);
+   color: rgb(181,38,37); /*rgb(44,112,157);*/
    font-size: 25px;
    font-family: 'Montserrat', sans-serif;
    padding: 25px;
@@ -201,18 +237,23 @@ select, option{
    box-shadow: 5px 16px 27px rgba(0, 0, 0, 0.4);
    background-color: rgb(243, 243, 243);
 }
+
 .chartIntroTitleProp {
   color: rgb(44,112,157);
 }
+
 .chartIntroTitleRate {
   color: rgb(181,38,37);  
 }
+
 .chartIntroTitleShel {
   color: rgb(183,146,87); 
 }
+
 #sourcesList li {
   margin: 10px 0;
 }
+
 #sourcesList {
   padding-left: 30px;
 }
@@ -234,6 +275,7 @@ select, option{
   text-transform: uppercase;
 }
 
+/*Accordian dropdowns for data source details in intro*/
 .accordion {
     background-color: #eaeaea;
     cursor: pointer;
@@ -276,7 +318,8 @@ select, option{
   color: #696969;
 }
 
-.subChartHeader { 
+
+.subChartHeader {  /*replace with page fonts*/
   font-weight: bold;
   color: #3b3a3d;
   text-transform: uppercase;
@@ -694,10 +737,35 @@ select, option{
 
 /*-------CLIP PATHS . THESE ARE EXPLICITLY INCLUDED HERE. CAUTION IF RE-ORDERING OR ADDING MORE VIZZES !!! --------*/
 
+/*
+.applyBarsClip {
+  clip-path: url(#barsClip);
+}
+*/
+
+/* .chartDiv4ApplyClip {
+  clip-path: url(#chartDiv4BarClip)
+}
+.chartDiv6ApplyClip {
+  clip-path: url(#chartDiv6BarClip)
+}
+.chartDiv7ApplyClip {
+  clip-path: url(#chartDiv7BarClip)
+} */
+
 .applyScatterClip {
   clip-path: url(#scatterClip);
 }
 
+/* .chartDiv4ApplySctrClip {
+  clip-path: url(#chartDiv4SctrClip)
+}
+.chartDiv6ApplySctrClip {
+  clip-path: url(#chartDiv6SctrClip)
+}
+.chartDiv7ApplySctrClip {
+  clip-path: url(#chartDiv7SctrClip)
+} */
 
 /* for portfolio version */
 .chartDiv1ApplyClip {
@@ -786,6 +854,14 @@ select, option{
   pointer-events: none;
   opacity: 0;
 }
+
+
+
+
+
+
+
+
 .barsChartZoomPanel {
   cursor: move;
 }
@@ -803,15 +879,25 @@ select, option{
   font-size: 16px;
   pointer-events: none;
 }
+
+
 /*---------SCATTER---------*/
 .noDiffLine {
   vector-effect: non-scaling-stroke;
   stroke: gray;
   stroke-width: 2;
 }
+
 .circle {
   vector-effect: non-scaling-stroke;
 }
+
+
 .scatterZoomPanel {
   cursor: move;
 }
+
+
+
+
+
