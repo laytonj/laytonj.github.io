@@ -46,7 +46,7 @@ body {
   font-family: 'Impact', sans-serif;
   font-weight: normal;
   font-size: 47px;
-  color: #408BA4; /*#295969; #7FBFD4;*/
+  color: #408BA4; 
 }
 #logoInitials a {
   color: #408BA4; 
@@ -62,7 +62,6 @@ body {
   height: 4px;
   margin-top: -8px;
   background: linear-gradient(to right, #ffd65d , #ffd65d);
-  /* background-color: #ffc966; */
 }
 @media (min-width: 768px) {
   .linesBelowHeader.line1 {
@@ -95,13 +94,13 @@ body {
   transition: color 0.25s ease-in-out;
 }
 span.letter1:hover {
-  color: #ffdf81; /*#ffc966 /*#9fccaa; */
+  color: #ffdf81;
 }
 span.letter2:hover {
-  color: 	#66ABC2; /*#8dcadf;/*#408BA4;*/
+  color: 	#66ABC2; 
 }
 span.letter3:hover {
-  color: #ff8181; /*#ff7d66; /*#cc9fc1;*/
+  color: #ff8181; 
 }
 @media (min-width: 400px) {
   .mainTitle {
@@ -134,17 +133,16 @@ span.letter3:hover {
 }
 #wrapper-footer {
   background-image: url('{{ site.baseurl }}/assets/images/website_footer_test.png');
-  /*background-color: #A6D3E2;*/
   background-position: bottom center; 
   margin: 80px 0 0 0;
   width: 100%;
-  height: 55px; /*200px for full*/
+  height: 55px; 
 }
 .footerContact {
   background-color: #fff;
   position: relative;
   width: 205px;
-  top: 0px; /*35px original version*/
+  top: 0px; 
   margin: 0 auto;
   text-align: center;
   padding: 2px 0 5px 0;
@@ -156,13 +154,13 @@ span.letter3:hover {
 }
 .sectionHeader {
   font-size: 40px;
-  color: #ffd65d; /*#FFB05D; /*#ffc966; /*#9fccaa;*/
+  color: #ffd65d; 
   margin-bottom: 10px;
 }
 .sectionSubheader {
   font-size: 20px;
   text-transform: uppercase;
-  color: #ff5d56; /*#BE7BB4; /*#ff7d66;/*#cc9fc1;*/
+  color: #ff5d56;
   margin-bottom: 10px;  
 }
 .returnTo {

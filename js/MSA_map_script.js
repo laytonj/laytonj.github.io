@@ -1,14 +1,3 @@
-/*
-jQuery(document).ready(function($){
-  var newWidth = '';
-  var ww = $(window).width();
-  if(ww<=768) {
-    newWidth = ww-200;
-  } else {
-    newWidth = 700;
-  }
-  //console.log(newWidth);
-*/
 
 var width = 700;
 var height = 740;
@@ -542,7 +531,6 @@ var instruction = instructionG.append('text')
 
 /*-------------------------------------------------*/
 
-
 function drawMap(d) {
   "use strict";
 
@@ -556,8 +544,6 @@ function drawMap(d) {
   states
     .attr('class','states');
 }
-
-
 
 /*-------------------------------------------------*/
 
@@ -949,24 +935,6 @@ function toggleChange(d, toggleSelection){
   
 }
 
-
-
-/*-------------------------------------------------*/
-
-/*
-  var domain_ = document.domain;
-  d3.json("/wp-content/themes/facta/js/msa-map/us-states.json", function(geoData) {
-    drawMap(geoData);
-  });    
-
-
-  d3.csv("/wp-content/themes/facta/js/msa-map/MSAdata.csv", function(citiesData) {
-    drawCities(citiesData);
-  });
-
-  
-},jQuery());
-*/
 
 
 d3.json("../../../yml_to_json/us-states.json", function(error, geoData) {
