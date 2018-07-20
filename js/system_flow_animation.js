@@ -3,12 +3,6 @@
 var width = 800,
     height = 600
 
-    
-    
-    
-    
-    
-    
 
 //////////////// CONTROL PANEL/OPTIONS SETUP ///////////////
 d3.select('#missionControl').style('max-width', width);
@@ -1460,22 +1454,6 @@ function startTimers(){
 }, initialDelay);
 
 
-
-
-  
-  //MONTHS COUNT
-//  var monthsTimer = d3.interval(function() {
-//    //console.log('comp:',compareToRestartCount,'restartC:',restartCount);
-//    if(compareToRestartCount != restartCount) { //if restart count went up by one then it won't match the compareTo- variable; reset the count and add one to compareTo- to then match
-//      monthsElapsed = 0;
-//      d3.select('#monthsElapsedNum').text(0);
-//      compareToRestartCount = compareToRestartCount+1;
-//    } else {
-//      monthsElapsed = monthsElapsed + 1;
-//      d3.select('#monthsElapsedNum').text(monthsElapsed);
-//    }
-//    }, (1000 / monthsPerSecond), initialDelay);
-
 }
 
 
@@ -1499,60 +1477,5 @@ window.addEventListener("resize", debounce(function(e){
   personIcon2.style('left', svgToContainerOffsetX + peopleFromLeft + 26 + 'px');
   circleIcon.style('left', svgToContainerOffsetX + 50 + 'px');
 }));
-
-
-  // ??? ADD a line-width display to show where flow is strongest ???
-
-
-
-
-
-
-
-
-
-
-/*
-var t = d3.timer(function(elapsed) {
-  console.log(elapsed);
-  if (elapsed % 1000 == 0) {moveTest()};
-  if (elapsed > 10000) t.stop();
-}, 150);
-*/
-/*
-d3.timeout(function() {
-
-  simulation.force('x',d3.forceX().x(function(d){return xCenters[d.location];}).strength(forceStrength));
-  simulation.force('y',d3.forceY().y(function(d){return yCenters[d.location];}).strength(forceStrength));
-  simulation.alphaTarget(0.1).restart();
-  console.log('restarted')
-}, 5000);
-
-//timer: http://bl.ocks.org/cloudshapes/5662234
-// timer_ret_val: could be used to stop the timer, but not actually used in this code really. 
-var timer_ret_val = false;
-
-// Keeps a record of the elapsed time since the timer began.
-var timer_elapsed = 0;
-
-// Kick off the timer, and the action begins: 
-d3.timer(tickFn);
-*/
-
-
-
-
-
-
-//For force-layout:https://bl.ocks.org/shimizu/e6209de87cdddde38dadbb746feaf3a3
-//https://bl.ocks.org/HarryStevens/f636199a46fc4b210fbca3b1dc4ef372
-//https://bl.ocks.org/steveharoz/8c3e2524079a8c440df60c1ab72b5d03
-//http://d3indepth.com/force-layout/
-//https://gist.github.com/ducky427/5583054
-//http://vallandingham.me//bubble_charts_with_d3v4.html
-
-
-//For over-time animation: https://stackoverflow.com/questions/31605197/d3js-draw-over-time
-//or this one (doesn't work but see code): http://bl.ocks.org/benelsen/4969007
 
 

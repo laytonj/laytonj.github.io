@@ -1,3 +1,6 @@
+// !!!!!!!!! EDITED FOR PORTFOLIO VERSION !!!!!!!! //
+
+
 
 ////////////////////////////////////////////////////
 /////////////// INTRO SECTION ELEMENTS /////////////
@@ -5,10 +8,6 @@
 
 
 ///Basic accordion functionality for intro section //////////
-//from https://www.w3schools.com/howto/howto_js_accordion.asp
-//Collapse and expand functionality for each accordion option
-//Plus will re-trigger the scroller position calculations because the height to the first graph will have changed
-//Plus will re-trigger the scroller position calculations because the height to the first graph will have changed
 var accordionOptions = document.getElementsByClassName("accordion");
 
 for (var i = 0; i < accordionOptions.length; i++) {
@@ -28,8 +27,6 @@ for (var i = 0; i < accordionOptions.length; i++) {
 ///////////////////////////////////////////
 ////////////// HTML CONTENT ///////////////
 ///////////////////////////////////////////
-
-// !!!!!!!!! EDITED FOR PORTFOLIO VERSION !!!!!!!! //
 
 ////// Titles //////////
 var propStackTitle = 'Race/ethnicity of people experiencing homelessness compared with the general population',
